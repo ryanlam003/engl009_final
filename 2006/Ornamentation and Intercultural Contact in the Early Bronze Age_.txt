@@ -1,0 +1,2042 @@
+Anthropology Senior Theses
+
+University of Pennsylvania
+
+ScholarlyCommons
+Department of Anthropology
+
+Spring 2006
+
+Ornamentation and Intercultural Contact in the Early Bronze Age:
+A Priliminary Study of the Beads of Ras Al-Jinz, Oman
+Sarah Peterson
+University of Pennsylvania
+
+Follow this and additional works at: https://repository.upenn.edu/anthro_seniortheses
+
+Q
+
+Part of the Anthropology Commons
+
+Recommended Citation
+Peterson, Sarah, "Ornamentation and Intercultural Contact in the Early Bronze Age: A Priliminary Study of
+the Beads of Ras Al-Jinz, Oman" (2006). Anthropology Senior Theses. Paper 68.
+
+This paper is posted at ScholarlyCommons. https://repository.upenn.edu/anthro_seniortheses/68
+For more information, please contact repository@pobox.upenn.edu.
+
+Ornamentation and Intercultural Contact in the Early Bronze Age: A Priliminary
+Study of the Beads of Ras Al-Jinz, Oman
+Disciplines
+Anthropology
+
+This thesis or dissertation is available at ScholarlyCommons: https://repository.upenn.edu/anthro_seniortheses/68
+
+ORNAMENTATION AND INTERCULTURAL CONTACT IN THE EARLY BRONZE AGE:
+A PRILIMINARY STUDY OF THE BEADS OF RAS AL-JINZ, OMAN
+
+By
+Sarah Peterson
+AN UNDERGRADUATE THESIS
+In
+Anthropology
+Submitted to the
+Department of Anthropology
+University of Pennsylvania
+Thesis Advisor: Dr. Gregory L. Possehl
+
+2006
+
+CONTENTS
+I. Introduction ................................................................................................ 1
+II. Background Information ................................................................................. .3
+II. A. The Umm an-Nar ............................................................................. 3
+II. A. 1 Origins ............................................................................ .3
+II. A. 2. Development and Intercultural Contact ...................................... 6
+II. B Ras al-Jinz ....................................................................................... 10
+II. B. 1 Geography ........................................................................ 11
+II. B. 2 RJ-2 ................................................................................. 12
+II. B. 3. RJ-1 ................................................................................. 14
+II. C Beads .......................................................................................... 15
+II. C. 1 Definition .......................................................................... 15
+II. C. 2 Methods of Analysis ............................................................. .16
+II. C. 3. Potential Significance ........................................................... 18
+III. Procedure (Methodology) .............................................................................. 19
+IV. Results ................................................................................................... 20
+IV. A Carnelian .................................................................................... 20
+IV.Al Background ....................................................................... 20
+IV.A.2 General Assemblage ............................................................. 21
+IV.A.3 Cylinder-cone perforation ...................................................... 24
+IV.A.4 Fragmented Long Bicones ...................................................... 25
+IV. B Steatite ......................................................................................... 25
+IV .B. 1 Background information .......................................................... 25
+IV.B.2 Square Spacer. .................................................................... 26
+
+IV.B.3 Seed bead ......................................................................... 26
+IV. C Heated Steatite (Paste beads) ............................................................. 27
+IV. C.l Background Information ........................................................ 27
+IV. C.2 Assemblage ...................................................................... .27
+IV. D Faience ....................................................................................... 30
+IV.D. l Background Information ....................................................... 30
+IV.D.2 General Assemblage ............................................................ 31
+IV.D.3 Bicone Microbeads ............................................................... 31
+IV.D.4 Melon Bead ........................................................................ 33
+V Discussion ................................................................................................. 34
+V .A Intercultural contact ......................................................................... 34
+V.A.1 The Indus ........................................................................... 35
+V.A.2 Mesopotamia ...................................................................... 37
+V.A.3 Iran ................................................................................ .40
+V.B Interpretation ................................................................................ .41
+V.B.1 Economic Exchange .............................................................. 41
+V.B.l.aExtemal ................................................................. .43
+V.B. l.b Internal. .................................................................. .44
+V.B.2 Cultural Exchange ................................................................ .46
+V.B.2.a Cultural Import-Implications for the Umm an-Nar ............... .47
+V.B.2.b Cultural Export-Implications for Foreign Civilizations .......... .50
+VI. Conclusion ............................................................................................... 51
+V. Works Referenced ....................................................................................... 53
+
+1
+
+I. Introduction
+The study of beads can provide unique insight into many aspects of ancient cultures:
+chronological trends, aesthetic movements, supernatural beliefs, technological capacity, and
+external contacts to name a few. But despite their utility, beads have long been an underappreciated part of the archaeological record, especially in the Near- and Middle-East. Over
+11,000 beads have been recovered from two Early Bronze Age (EBA) sites on the eastern coast
+of Oman, RJ-1 and RJ-2, during the last 20 years of excavation. Yet, in all the literature
+documenting the sites at Ras al-Jinz, beads are barely mentioned. This preliminary study reveals
+that, in addition to confirming the existence of contact between the Umm an-Nar and foreign
+civilizations, the bead record of Ras al-Jinz gives insight into the cultural and economic
+relationships wrought by such contact.
+RJ-1 and RJ-2 are part of a cultural complex which
+stretched across the north-eastern end of the Arabian
+Peninsula called the Umm an-Nar. The product of
+approximately 500 years of economic exchange between
+overseas civilizations and the preceding 4th millennium
+rd
+
+Neolithic and early 3 millennium Hafit communities, the
+Umm an-Nar have long been recognized as engaged in
+
+Figure 1: Satellite image of the eastern end of
+the Arabian Peninsula and the surrounding
+region.
+
+foreign commerce. With a well documented precedent for
+external contact and a wealth of bead artifacts at Ras al-Jinz, this site was an optimal location for
+analyzing the significance of external contact through the bead record.
+The processes involved in analyzing beads differ from those used to examine other
+archaeological material. Though well-known techniques like typology and chemical analysis are
+
+2
+
+the bases of investigations, several complicating factors unique to beads necessitate multiple
+layers of investigation and analysis before one is able to fully understand a bead assemblage.
+Limited to basic, but fruitful, exploratory methods, this investigation is intended as a preliminary
+step for broader research.
+Examination and documentation of carnelian, heated steatite and faience beads, along
+with the stylistically or technologically exceptional beads of local materials, result in a broad
+range of external associations. The overall poor quality of the assemblage, a consistency in
+shape and size of paste cylinders, and indications of percussion perforation on carnelian discs are
+all significant patterns within the collection. Furthermore, some individual beads seem to be
+direct imports while others are fusions of both domestic and alien traditions. Considering these
+observations in the context of the EBA Middle Asian Interaction Sphere, one may draw some
+important inferences about foreign contacts and their implications.
+Such manufacture and design trends in the RJ-1/RJ-2 collection of beads serve to both
+solidify the cross-cultural interaction between the Umm an-Nar and other regional centers and
+broaden the scope of that interaction, as both an economic exchange and a cultural dialogue in
+aesthetic and symbolic terms. Certainly an understanding of the bead record is an important step
+in the ongoing process of discerning a detailed view of the Middle Asian Interaction Sphere and
+its influence in the development of regional cultures.
+
+3
+
+II. Background Information
+The goal of this research project is to determine what significance the beads ofRJ-1 and
+RJ-2 have with respect to the intercultural contacts of the Umm an-Nar people. However, before
+beginning, a common understanding must be reached regarding who the Umm an-Nar were,
+where they came from, and what the regional context was in which they existed. Following the
+contextualization of the larger culture, the beads themselves must be contextualized within the
+sites where they were recovered. Finally, in preparing to undertake an examination of a bead
+assemblage, it is useful to define the subject and review previous methods of analysis and
+interpretation.
+
+IL A. The Umm an-Nar
+
+Figure 2: Photograph ofRJ-1, an
+Umm an-Nar tomb, with walled
+chambers visible
+
+II. A. 1 Origins
+During the third millennium BC, a complex culture developed on the eastern end of the
+Arabian Peninsula [Figure l ]. Born from the loosely associated, Neolithic populations of the
+fomth millennium BC, a culturally cohesive community developed in response to increasing
+foreign commerce (Cleuziou and Tosi 1989: 17). While terminologies regarding these peoples
+have been debated, two major cultural periods have been identified using burial cairn types. The
+community that is identified by compartmented burial cairns in the mid- to late-third millennium
+BC is the primary subject of this investigation and will be called the Umm an-Nar cultme
+throughout the course of this thesis [Figures 2 and 7]. Preceding the Umm an-Nar was a culture
+characterized by single chamber tombs, referred to as Hafit.
+The Hafit cultural complex is identified with the origins of cairn burial just before 3000
+BC. There are over 100,000 of these single chambered tombs in Oman (Cleuziou, personal
+
+4
+
+communication 2006). They can reach up to seven meters in
+height and are characterized by varied block dimensions on the
+surface of the exterior walls [Figures 3, 4, 5, and 6]. This period
+lasted a few hundred years, until approximately 2700 BC
+(Cleuziou and Tosi 1989:Table 1), and experienced some, but
+limited, external contacts with Mesopotamia, in Iraq, and Elam, in
+Iran (Cleuziou and Tosi 1989:Table 2). The relatively isolated
+oasis, mountain, and coastal sites and the inconsistency of cultural
+modifications indicate a rather
+
+Figure 3: An unexcavated
+Hafit tomh at Bat. Oman.
+
+disassociated population.
+,
+
+:-=.-.
+
+)
+~~ ~
+
+·... .......·
+
+·::(·
+...,_,
+
+f ' ·:; ~~~
+
+.- • •~. (L,
+
+.~ ~:~·~:ti ~
+
+Figure 4: Hafit
+tomb (Image
+from OlNia
+2005)
+
+Figure 5: Row ofHaf)t
+tombs along a ridge
+(Image from Olivia
+2005)
+
+Figure 7: Close up of Umm an-Nar type tomb
+exterior swface ar Bar, Oman.
+Figure 6: Close up of l·lafit type romb
+exterior wall at Bat, Oman. These
+uneven blocks contrast the nicely
+squared blocks of Umm an-Nar tombs
+(see Figure 3).
+
+5
+
+The Umm an-Nar culture was first identified in the early 1960's on an island of the same
+name off the United Arab Emirates' coast (Tosi 1976). Since then, it has been identified
+throughout the UAE and Oman, from Jabal Emaleh in the north to Ras al-Jinz in the east and
+Wadi al-Batha in the south (Cleuziou my docs. Pg. 4; Cleuziou and Tosi 2000: Figures I and 2)
+[Figure 8], and, though its geographic range may be smaller than other coexisting civilizations,
+the diversity of environment that the Umm an-Nar inhabited was exceedingly large. The Umm
+an-Nar people were inhabitants of mountains, deserts, oases, and coasts, and, as such, they
+farmed, fished, and herded for subsistence.
+
+A1i..ABJAN GULF
+
+GULF
+
+UNITED ARAB EMIRATES
+
+SULTANATE
+
+OF
+OMAN
+
+Jr;)m
+
+In
+
+rnd,;ni ,:,ity
+
+Br,,nze Ag~
+
+,,i,t
+
+Figure 8: Map of Oman with EBA sites marked (Image.from Cleuziou and Tosi 2000)
+
+OF OMAN
+
+6
+
+As a response to the harsh environments of Eastern Arabia, with only seasonal maritime
+resonrces because of the summer monsoons (Cleuziou and Tosi 2000:41), the Umm an-Nar
+people are thought to have migrated between small coastal communities in the winter, when
+temperatnres were reasonable and fish were plentiful, and larger mountain settlements in the
+summer, where they herded and cultivated dates (Cleuziou and Tosi 2000:67). Adept at multiple
+occupations, individuals and subgroups of the Umm an-Nar participated in seasonal subsistence
+economies while producing commercial goods in environmentally exploitive cottage industries
+(Cleuziou and Tosi 2000:68). These habitation and economic patterns, as preserved in modem
+bedu communities, are conducive to a craft-generalized egalitarian socio-economic network (W.
+Lancaster and F. Lancaster 2002: 239, 251-252). Preserving open access to communal
+resonrces, ancient and modem Omanis distinguish themselves from highly organized and
+stratified state societies while maintaining mutually beneficial economic and cultnral exchange
+relationships.
+Since its first identification, the Umm an-Nar cultnre has been acknowledged as the
+product of a relationship between the earlier populations, both fourth millennium and Hafit, and
+the more structnred and technologically advanced civilizations of their day.
+
+II. A. 2. Development and Intercultural Contact
+The first stage of interpreting the origins and development of the Umm an-Nar culture
+was from a typically Mesopotamia-centric view. The most extreme manifestation of this bias was
+a short-lived hypothesis that the cultnre on the eastern end of Arabia was a Mesopotamian
+copper exporting colony (Cleuziou My docs: 4). This and other development theories based in a
+cultnral dependency on Mesopotamia were founded on cuneiform texts. Oman was identified as
+the land of Magan (a.k.a. Makkan or Majan) of"Dilmun, Magan, and Meluhha," the triad of
+
+7
+
+Mesopotamian trade as enumerated in several texts including one by Sargon of Akkad (Possehl
+1996: 133) [Figures 9 and 40]. Like Magan, Oman was a source of copper and olivine-gabbro,
+and it lies geographically between Bahrain and India which were identified as Dilmun and
+Meluhha, respectively (Possehl 1996:134).
+These claims of an Umm an-Nar development motivated by external, specifically
+Mesopotamian, investment were reinforced as ceramic finds at Hili and in the Jebel-Hafit cairns
+showed significant Mesopotamian content. Jemdet Nasr pottery was recovered from graves in
+the Omani Jebel (Cleuziou and Tosi 1989), and more Mesopotamian pottery, spouted vessels
+with cylindrical necks and pear jars, were discovered at Hili 8 (Cleuziou my docs:9?). At Hili,
+69% of the diagnostic sherds recovered were of Mesopotamian origin (Cleuziou my docs:4).
+This perception of the Umm an-Nar culture as a subsidiary of the Mesopotamian center
+conformed well to the intellectual trends of the time-focusing solely on Near Eastern
+development.
+',..__
+
+Mediteff8n
+Sea
+
+Betrut
+
+.@
+
+•~amas
+
+v,_""'"'~A!m•n
+
+Arabian Sea
+
+kUomoten
+
+'"
+
+■ modern
+
+•
+
+dty
+ancient city
+
+Figure 9: The Middle Asian Interaction Sphere stretched from the ancient Near East to the Indus. (Image from Possehl 2002:215)
+
+8
+However, as the archaeological community began to reorganize traditional models of
+power and trade in the Early Bronze Age, additional materials in Arabia demonstrated a
+connection with these newly recognized trade networks. Elam and the Indus were identified as
+significant contributors to the society developing in Eastern Arabia. At the site ofUmm an-Nar,
+B. de Cardi made associations between excavated ceramics from cairn I and material from her
+own test trenches at Bampur (Tosi 1976: 83). Tosi (1976) later added material from several
+other Umm an-Nar cairns and Wadi Samad to the list ofElamite ceramic associations and related
+them further to Shahr-i-Sokhta. He then used these associations to date the Umm an-Nar to the
+end of the third millennium BC.
+Two external factors contributed to the Iranian influence in Oman. First, pursuant to the
+Mesopotamian copper-export theory, Elamite copper miners and smiths would have been drawn
+to and needed in Oman as the copper industry shifted from Iran to Oman. This theory is
+supported by the fact that pyrotechnology and ceramic industry were the first substantial imports
+into the developing Arabian community (Cleuziou my docs:7). The second contextual factor
+which contributed to the Elamite influence in developing Oman was the relatively high degree of
+social and economic organization that was present in Elam at the time. It is no coincidence that
+the majority of Elamite influence occurred during the "highest peak of urban development in
+eastern Iran" (Tosi 1976: 91). That was the time when Elam had the internal organization to
+have regional influence.
+A dramatic shift in the Indus, during the second half of the third millennium BC,
+completely restructured the regional economy. As the once inland communities of the Early
+Harappan moved toward the sea between 2600 and 2500 BC, their trade contacts multiplied and
+cultural interaction flourished. Participating in what has been labeled 'The Middle Asian
+
+9
+
+Interaction Sphere," [Figure 9] the Mature Harappan civilization utilized revolutionary new
+seafaring technologies to reach other cultures and spread their own (Possehl 2002:215). This
+change is visible in the archaeological records of the Umm an-Nar.
+Indus economic involvement in Oman is manifest with the inclusion oflndus materials in
+several Omani excavations. Cleuziou reports a "high frequency of imported Indus pottery ...
+well over 40%" at Ras al-Jinz, period II (my docs pg 16-17). In fact, the find which instigated
+excavation at Ras al-Jinz was a potsherd with Indus script uncovered on December 25, 1981
+during a briefreconnaissance mission to the Ras al-Hadd seaboard (Tosi 1982:1). Since then,
+additional Indus ceramics have been recovered from site 2 of Ras al-Jinz (RJ-2). These and
+other recovered Indus materials suggest that overseas contacts were important factors in the
+increasing prominence of coastal settlements, like those at Ras al-Jinz and Ras al-Hadd, in the
+period leading up to the Wadi Suq, Middle Bronze Age.
+
+10
+
+II. B Ras al-Jinz (RJ-1 and RJ-2)
+
+RJ-20
+
+-,) RJ .....rn
+
+>
+
+R.J-12
+
+l{,f .. ..j
+
+ltJ-15
+
+hJBAL
+
+SAL Hf
+
+fU-1
+UJ-'.f;
+
+KHAM IS
+
+IU-10
+
+N
+J:-i.1Tll
+
+Figure JO: Map of/he Ras al-Jinz embayment with main sites labeled (lmagefrom Cleuziou
+and Tosi 2000:25)
+
+11
+
+RJ-2
+Figure 11: Aerial photograph ojlhe RI-! mesa with Rj-2 in the foreground. For more contextual
+imagery see Figures 11-14. (Image from C/euziou and Tosi 2000:P/ate 1)
+
+II. B. 1 Geography
+Ras al-Jinz, most geographically notable because it is the easternmost point on the
+Arabian Peninsula, is a "low tabular headland" (Cleuziou and Tosi 2000: 19) with an arid climate
+[See Figures 11 and 12]. Resting between the impressive Jabal Salim Khamis and the Indian
+Ocean [Figure 10], this community is well-situated to exploit both internal and external contacts.
+The limited ancient, and modem, populations were, and are, sustained by exploiting the abundant
+marine biomass and maintaining healthy contacts with the nearby port and agricultural
+communities of Ras al-Hadd and Wadi al-Batha, respectively (Cleuziou and Tosi 2000: 19). The
+15-30m high cliffs, which line the coast to the north and south, have been eroded at Ras al-Jins
+by runoff from the mountains, forming a wide, deep embayment on whose border RJ-2 sits. RJ1 rests atop the prominent mesa between RJ-2 and the sea.
+
+12
+
+RJ-1 Mesa withRJ-2
+
+Figure 12: Distance photograph ofthe Ras al-Jinz headland.
+
+II. B. 2 RJ-2
+Third millennium BC RJ-2 is composed of twelve mud-brick buildings, mostly divided
+into two compounds: northern and southern [Figure 13]. Preceded by a 4Ui millennium site, the
+first phase of habitation in the 3rd millennium, beginning with the construction of the Southern
+Compound, is labeled Period II and dates to 2500-2300BC. Period III is defined as starting with
+the construction of the Northern Compound. Radiocarbon dates place this around 2300BC, and
+the period lasts until the construction of Building IV around 2100BC. The site is abandoned
+before the Wadi Suq period begins at the tum of the 2
+
+nd
+
+millennium BC. (Cleuziou and Tosi
+
+2000:28)
+This site provides a wealth of material and information about coastal Umm an-Nar
+settlements. Rich in Indus materials~RJ-2 has been crucial in developing theories of trade and
+overseas contact. Bitumen remains in Buildings 1 and II (Cleuziou and Tosi 2000:63) have
+directed recent projects for overseas boat reconstruction (for more information see Vosmer 2000
+or Cleuziou and Tosi 1994). When they were not occupied with their main occupation, catching
+and processing fish, the people ofRJ-2 operated several smaller industries based on local
+
+13
+
+resources. They manufactured Pinctada rings; mined, crushed and packed pyrolusite (for eye
+make-up); and collected and cleaned Fascia/aria conch shells (Cleuziou and Tosi 2000:68).
+These material products provided the inhabitants of Ras al-Jinz additional goods with which to
+engage in trade. Lamps or spouted drinking cups made from the F asciolaria shells have been
+found in the Royal Graves of Ur (Cleuziou and Tosi 2000:68). Though it was a simple fishing
+village, the archaeological remains depict a population at RJ-2 which not only had access to
+developing regional networks but was exploiting those networks for its benefit.
+
++
+
++
+
++
+
+LP
+
+-fMP
+
+1.1
+
+LS
+
+-r
+'
+
+Northern Compound
+
++
+
++
+
+\~_
++
+
+LX
+
+'
+
+\-~-··~
+
+LY
+
++
+MU
+
+Southern Compound
+
+\ \. ~\'·. +
+
+Building VI+
+
+,,./'
+,:::---1/
+QA
+
+Poe
+
+ao
+
+QC
+
+-"'
+
+<'"~)
+
+I
+
+,.s
+
++
+
+::':'<A
+
+BuHding IV • ~
+
++
+
++
+
+OE
+
+Building V c:.:::;:::;-:::>
+
++
+
++
+
+=--
+
++
+
++-
+
+Building II
+
+OG
+
+OF
+
++
+
+-1-
+
++
+
++
+
++
+QN
+
+QM
+
++
+RK
+
+00
+
+-+-
+
++
+00
+
+OP
+
++
+
+-jQt_
+
+OK
+
+o,
+
+OH
+
+Building 111
+OR
+
++
+
++
+
+QT
+
+RP
+
+,~.'/
+//
+
++
+
++
+
++
+
+((+
+
++
+
+-+
+
+--------
+
+0 '
+
+Figure 13: Map of the mud-brick structures of RJ-2 (Image from Cleuziou and
+Tosi 2000:32)
+
++
+5
+
+10 r,
+
+14
+
+II. B. 3. RJ-1
+While the main settlement on RJ-1 was from the Wadi
+Suq period (2nd millennium BC), and a few Ha.fit tombs dot the
+
+/ ~ :~
+.· _v
+
+southern end of the mesa, the feature from which the RJ-1
+beads come is an Umm an-Nar tomb. Named Tomb 1, this
+
+'1
+
+lO.r JIJ,;·~1
+
+.-
+
+•
+
+3 .'Sf
+
+'
+
+-~ - ~
+
+8 • '
+
+burial cairn has 8 chambers and three associated bone pits
+~
+
+~
+
+[Figure 14]. The whole burial is provisionally dated to 26002400BC (Cleuziou, personal communication 2006), but the
+relative dates of the bone pits have yet to be determined. The
+more than 20,000 bone pieces recovered from the tomb and
+pits represent all demographic groups relatively equally: men
+and women, old and young. The only group nearly absent
+were infants, 0-5 years in age. This tomb was voluntarily
+
+Figurel4: Diagram ojTomb I and associated
+bone p its. (Tmage jrom Olivia 2005)
+
+destroyed and filled with yellow clay. When removed from the tomb, the bones were placed in
+unusual configurations in the nearby bone pits. 28 skulls were found stacked atop one another
+and long bones were arranged in polygonal shapes. The removal of the bones for burial in
+separate pits and the destruction of the tomb are both puzzling events which suggest complicated
+rituals surrounding death.
+
+15
+
+II. C Beads
+II. C. 1 Definition:
+A bead is any object perforated along an axis for threading or stringing, usually worn on
+clothing or as ornamentation. The earliest beads date to 38,000 B.C. from the site of La Quina in
+France (Durbin 1987:21); making beads the oldest form of aesthetic expression knowu to man.
+Beads represent the very origins of the uniquely human capacity for abstract thought (Kenoyer
+1986: 18). Non-functional (in terms of acquiring food), they operate, rather, as cultural markers
+and vessels. For forty thousand years they have been used by nearly every human culture for
+symbolic purposes including, but certainly not limited to, beautification (Durbin 1987:18). They
+have been expressions of wealth, mystical talismans, markers of membership in particular
+communities, markers of social status, and ritual objects. Because their functions vary widely
+between, and even within, cultures, studying, analyzing, and interpreting the archaeological
+record through beads requires specific and unique techniques.
+Before undertaking an analysis of a bead assemblage, one must recognize how
+completely different beads are from other parts of material culture. Unlike pottery, beads have
+extremely long periods of evolution. Chandra observes, "Beads ... do not record change of
+fashions too frequently ... Even today we find that the pearl necklaces of our grandmother's day
+are still in fashion" (1964:57).
+
+Perhaps their relative longevity is due to the large amount of
+
+time and skill required for production and, consequently, the proportionally higher amount of
+wealth they represent. A set of beads will be passed from generation to generation, being
+reworked into new beads when the old ones break, and a style of bead can remain in production
+and in use indefinitely (Dubin 1987:315).
+
+16
+Beads can be made from a plethora of different materials, from bone and shell to
+fiberglass and aluminum, with manufacture techniques that range from no effort at all, in
+naturally occurring beads, to the most complex Art Nouveau styles of modem times. New York
+jeweler Robert Ebendorf uses such a labor-intensive technique that he can only produce a single
+bead each day (Dubin 1987:320). Beads have been made with biological material (bone, teeth,
+shells), geological materials (stones, gems, fossils), and artificial materials (glass, faience,
+plastic, etc.). Often times, the same bead shape will be made with multiple different materials.
+After shaping a variety of different raw materials into a variety of different shapes, many beads
+received additional decorations including glazing, etching, painting, and inscription.
+
+II. C. 2 Methods of Analysis
+Recognizing the complexities involved in understanding beads and their assemblages,
+many conventional archaeological techniques are used in analyzing beads. Though determining
+typologies for beads is a bit more complicated than it might be for other archaeological finds,
+they can and do provide valuable insight and are an excellent starting place for bead analysis.
+One can type beads by any of many factors depending on what information one seeks. One of
+the most widely accepted bead typology guides, and the one used in this analysis, is the
+
+Classification and Nomenclature ofBeads and Pendants by Horace C. Beck (1973 [1928])
+(Dubin 342). Beck bases his very thorough typology guidelines on the claim that "To describe a
+bead fully it is necessary to state its form, perforation, colour, material, and decoration" (Beck
+1973: I [1928]).
+Additionally, experimental archaeology can be used to evaluate a variety of bead
+characteristics. Gorelick and Gwinnet used a series of archaeological experiments to determine
+the causes of various abnormalities in the perforations of several beads (1991). Vanzetti and
+
+17
+Vidale combined typology and experimentation to devise the process of bead manufacture for
+the Mehrgarh steatite discs (1994:772). Roux and Pelegrin (l 990) used ethnographic
+experimentation to determine relative quality and technicality of products in the modem bead
+industry in Khambat, India, interpretations of which have broad reaching archaeological
+implications. Most recently, Kenoyer (2005) reproduced a pot-firing sequence to confirm his
+interpretation of the Indus faience production system.
+The specific laboratory techniques utilized in bead analysis vary throughout the literature
+from naked eye observation to scanning electron microscopic (SEM) examination (Mayer et al.
+2004:496). Insoll and others used a UV-LA-ICP-MS, "ultraviolet-laser ablation inductively
+coupled plasma mass spectrometry," technique to chemically compare carnelian samples from
+Africa against those from India and determine a source (2004: 1166).
+Nevertheless, this sourcing of material is an excellent example of how, even with the
+most high-tech procedures, advanced interpretation of the archaeological bead record requires a
+multi-layered approach. Unlike ceramics, the source of a bead's material is frequently not the
+place of its manufacture. In fact, there may be many steps and stages of trade and movement in a
+beads life between raw material extraction and finished product utilization. For example, from
+2600 to 2400 B.C., there was a lapis lazuli trade route stretching from Badakhshan, Afghanistan,
+where the raw stone was mined, to Shahr-i Sokhta, Iran, where pure lapis was separated from
+waste and prepared for transport, and finally to Sumer, Iraq, where the precious products was
+manufactured and consumed (Dubin 1987:30). With lapis lazuli waste at Shahr-i Sokhta, it
+could easily be misinterpreted as a manufacture center, and sourcing the raw material to
+Afghanistan could easily obscure the important Iranian participation in the trade. Certainly, as
+
+18
+economic interactions between civilizations in the old world increases, so does the complexity of
+interpreting the material cultnre they left behind.
+
+II. C. 3. Potential Significance
+Beads are capable of providing many unique insights into the cultnres and civilizations
+which produced, traded and consumed them. For example, despite long periods of consistency
+in their evolution, beads can be useful for identifying relative and absolute dates. Not only can
+some beads be isolated to specific periods (Niharika 1993: vii), but the spread of bead styles
+across space can also be utilized to establish changes in time. Spreading beyond the boundaries
+of a single cultnre, beads have long possessed the potential to connect disparate cultures in
+economic and cultural exchange. As seen above, both beads themselves and the raw materials
+used to produce them have been exported from one culture to another, at times casually, on an
+occasional scale, and at other times, as part of a massive, well organized industry. In less
+tangible terms, bead technologies and, on occasion, the manufactnrers themselves were imported
+and exported on a regional scale.
+By tracking the changes in bead technologies of a particular culture over time, one is able
+to see changes in the overall technological capacity and thereby infer changing levels of social,
+political, and economic organization of that cultnre. Kenoyer observed that the "shapes of the
+Indus agate beads are more standardized than those of the Neolithic" (1986:20). This
+observation supports what would make reasonable sense, that "the technical sophistication of
+bead manufactnring often mirrors the general technological level of the society" (Dnrbin
+1987:18).
+A distinct part of any civilization's material cultnre, beads can also communicate specific
+cultural traits to the careful observer. For example, the burial of certain bead types and
+
+19
+assemblages rather than others in the Indus may signify that these beads functioned not as
+displays of wealth or social status, as they did in Ur, but rather were part of specific burial rituals
+or perhaps were "highly personalized and could not be transferred to living relatives" (Kenoyer
+1991 :95). In a ritual role, ornamentation styles can reveal facets of belief and value systems
+(Kenoyer 1991 :94); in an artistic role, the evolution of beads "is a clear expression of the
+evolved aesthetic sense of the (sic) humanity through successive millennia" (Niharika 1993:vii).
+Certainly, a thorough understanding of the Umm an-Nar beads, though a difficult task, is
+a worthwhile pursuit.
+
+III. Procedure (Methodology)
+Having never conducted field research before, the process of developing a procedure for
+examining the RJ-1 and RJ-2 beads was as much a learning process as analysis of the data. From
+the start, the objective was to survey the beads from Ras al-Jinz 1 and 2 and determine whether
+there were typological or industrial associations with the beads of foreign civilizations. The first
+step was to define the investigation's parameters within the projects limitations.
+With over 11,000 beads it was impractical to expect to be able to examine each artifact
+individually in the time available. Steatite, chlorite, and shell beads had previously been
+documented as part of the local bead industry, being found in Oman as early as the late 4th
+millennium, prior to external contact. Fortunately, the bulk of the RJ-1 and RJ-2 collections was
+composed of these local materials. Excluding these beads because they were outside the scope
+of the inquiry and focusing on the more likely imported materials: faience, carnelian and heated
+steatite, reduced the number of beads to be examined to a much more manageable amount. The
+final number, 1,223, was a combination of these materials and other exceptional beads which did
+not fit into the general Omani typology.
+
+20
+Limitations of the available tools also had a significant impact on procedure design. The
+incapacity for chemical analysis or experimental reproductions limited the depth of investigation
+to surface level survey, an appropriate level of investigation for the first examination of a
+collection. The highest magnification available on site was a low-power magnifying glass.
+Measurements were taken with a set of steel, metric vernier calipers: measured to the nearest
+millimeter and estimated to the nearest tenth of a millimeter.
+With parameters defined, data collection was achieved in a four part process. Having he
+beads had been grouped according to proximity to one another and stratigraphic unit, then
+assigned "DA" numbers before being inventoried and stored at the Ministry of Heritage and
+Culture in Muscat, Oman. The first step was to sort the beads of each DA according to material
+and form, and each sub-category was assigned a letter. Then, a sample bead from each letter was
+described, measured, and photographed. For each category, measurements and descriptive data,
+along with personal notes, were entered into a database along the beads' quantities, DA numbers,
+sites, years of excavation, and stratigraphic units. Descriptive notes included the bead's shape,
+color, hardness, perforation shape, and any other distinguishing characteristics. Measurements
+were taken of the diameter and length. When necessary, measurements of a second diameter or
+width were also recorded. The smallest diameter of the perforation was also measured.
+Perforation diameters unable to be measured by the calipers were measured by a series of rodtests. Rods of different known diameters were passed through the perforation to determine the
+largest passable rod. Rods included a paper-clip wire (diameter Imm) and various grades of
+mechanical-pencil lead. Once measured, each bead category (each letter from part one) was
+photographed at multiple angles by a Panasonic Lumix DMC-LZ2. Each frame included a fourcolored standardizing scale.
+
+21
+
+IV. Results
+Having determined which beads to examine and how to examine them, the effort to
+determine whether there are typological or technological associations between the Omani
+collection and external communities is efficiently and successfully accomplished. The 1,223
+carnelian, heated steatite, faience and exceptional raw steatite beads studied proved quite fertile
+ground for the discovery of foreign goods and influence. Some of the most telling characteristics
+were identifiable manufacture processes and errors. Though the collection as a whole is of a
+rather poor quality, relationships emerged both within the collection and between this collection
+and others.
+
+IV. A Carnelian
+IV.A.I Background
+Carnelian is a term applied to a subset of the agate/chalcedony group of stones. A
+microcrystalline quartz with red to orange hue, it can be naturally occurring (Whitehouse 1975:
+130) but is often the product of very precise heating procedures (Insoll et al. 2004: 1164). Not
+only is it an attractive stone, it is easily worked and it has been commonly used in the
+manufacture of beads in ancient and modern times. Though it has a hardness of7 (Beck
+1973:53 [1928]), it fractures conchoidally and is, therefore, easily !mapped (Chevalier et al.
+1982:56). At one time it was considered a typically Indus material, but now extraction and
+manufacture sites have been identified across the old world (Whitehouse 1975:129). It is true
+that Gujarat, especially in the district of Broach, had (and still has) an abundant supply, but
+sources have been identified in the Helmand basin in Siestan as well as on the Bushehr Peninsula
+
+22
+of Arabia (Whitehouse 1975:129). Naturally occurring carnelian has been noted as near to
+Oman as Yemen (Inizan et al. 1992:163-164).
+
+IV.A.2 General Assemblage
+l .:m' 0mm
+
+N
+
+0
+
+p
+
+Q
+
+R
+
+Figure 14: (DA 15552 n-r) These.five carnelian beads display the wide color variation in the Ras
+al-.Jinz bead collections,from shades oftranslucent orange and red to opaque white. You can also
+see hear two examples (o and r) ofoverheated beads with white coating.
+
+Though the collection of carnelian beads at Ras al-Jinz was not standardized, the vast
+majority of the specimens fall into one of several basic fom1s. Of the 258 beads examined, 219
+(84.88%) have lengths between 1/3 and 9/10 their diameter, falling into Beck' s
+"short" classification, and 229 (88.76%) fall into the broad shape categories: barrel
+(91 ), bicone (87) or truncated bicone (51 ). Every carnelian bead in the collection
+has a single perforation, and, while the perforations of only 219 of the beads were
+examined, there was remarkable constancy in this set. 97. 72% (214/219) have
+
+l~m lOmrn
+
+Figure 15: (DA/6354-a)
+A carnelian bead
+perforated with bidirectional drilling
+
+perforations of types I or II, double cones (or hourglass shaped) [Figures 14 n, o,
+q, and r ] or drilled from both directions [Figures 14 p and Figure 15]. Color
+ranges from opaque white with orange patterns to translucent red and yellow
+[Figure 14].
+The overall quality of the collection was rather poor with the majority of
+beads being rough, unpolished [Figure 16] and multiple beads displaying
+decidedly off-center perforations [Figure 17]. A third deformity that was prevalent
+
+Figure 16: (DA 11928) A
+carnelian barrel disc with a
+highly chipped and
+unpolished exterior
+
+in the carnelian collection was discoloration due to in1proper heating. Under-heating led to
+
+23
+
+irregular or incomplete transformation from the raw agate. For example, some beads had
+clarified cores with opaque exteriors [Figure 18]. Another subset display bum marks [Figure 19]
+from uneven heating. However, discoloration from over-heating, was by far the most common
+effect: the relatively consistent presence of a semi-translucent white coating on the exterior
+surfaces of an otherwise clarified and beautiful carnelian bead [Figure 20].
+While the majority of the carnelian is etiologically unidentifiable, several recurring
+abnormalities provide useful information regarding the manufacture techniques, and thereby the
+sources, of some of these beads.
+l cn1iumrn
+
+Figure 19: (DA] 5515) A short carnelian
+barrel that that was heated unevenly
+and burn! on one side
+
+Figure 17: (DAJ2871)
+A carnelian barrel disc with
+an off-center chipped
+hourglass pe,foration
+
+Figure / 8: (DA /6427-g)
+This bead appears to be
+under-healed, with a
+transparent center but an
+unclarified exterior
+remaininf?
+
+Figure 20: (DA / 6275-b) A standard
+carnelian barrel over-heated with a
+calcified white coat
+
+24
+
+IV.A.3 Cylinder-cone perforation
+A scarce, but sjgnificant, type of bead is identifiable by an unusual perforation. 25 beads
+display a drilled cylinder from one surface which terminates in a lip. The perforations on these
+beads are completed by a crater, usually irregular in shape, indenting from the opposite surface
+[Figures 21]. By no means a ubiquitous style, these beads comprise only 13.89% of the entire
+assemblage (25 of the 180 carnelian beads whose perforations were measured and described).
+All of these beads are 3 .1 mm or less in height and are classified as short or disc, bicones or
+barrels, and this entire set was found in various chambers of Tomb 1 at RJ-1. There are no real
+patterns in color with many shades from yellowish green to deep orange. It is possible that this
+deformation was the result of clumsy drilling where the back popped off the bead when drilled
+_J
+
+too deeply. However, there is precedence for this effect being the intentional result of a reliable
+manufacture system in Mesopotamia (Chevalier et al. 1982) [Figure 22]. Of these two
+competing possibilities, the frequency of this feature implies that it was not an error.
+
+A
+
+B
+
+lc111flt>n1m
+
+C
+
+Figure 2 / : (DA /2415) Three shots ofa carnelian bicone disc which may have been
+manufactured using the Mesopotamian drill percussion technique. A and B show the top side,
+clearly drilled. C shows the percussion cra ter on the bottom side.
+
+1
+
+2
+
+4
+
+5
+
+Figure 22: The extrapolated manufacture process.for carnelian beads at a 3"1
+Millennium BC Mesop ota mian site (larsa, Iraq) (Image.from Chevalier et a/_ /982)
+
+25
+
+IV.A.4 Fragmented Long Bicones
+The other potentially external carnelian type are three fragments of what may have been
+long bicones (16372-a, 8353, and 10121) [Figures 23, 41, and 42]. Unfortunately all of these
+pieces are only small fragments of their originals. Each a different size cylinder whose sides are
+not exactly parallel, reasonable interpolation could results in a lengthy bicone. While these
+artifacts cannot be conclusively identified with an external culture, these three specimens do
+seem to distinguish themselves from the rest of the carnelian assemblage in that they are all very
+accurately rounded and polished.
+
+IV. B Steatite
+
+Figure 23: (DA8353) This drawing
+displays the convergence qfthe outer
+edges of this and similar beads,
+suggesting a long biconicalformfor the
+original, urifragmented bead. For
+photographs see Figures 24 and 25.
+
+IV.B.1 Background information
+Steatite has been an important and popular material in the bead making industry from the
+beginning of stone beads. Registering on the Mohs scale at 1-1.5, it is one of the softest stones
+known. It is easily identified by a soapy feel because of its primary component, talc. Naturally
+occurring material in Egypt, the Indus Valley, Mesopotamia, Syria, Turkey, and throughout the
+Arabian Peninsula, it can appear black, white, or various shades of grey, green, or red. As noted
+above, there had been a long tradition of green and black steatite beads in Oman before the Umm
+an-Nar period. From the two sites studied, many thousands of steatite and chlorite micro beads
+were recovered. For this reason, raw steatite beads were not studied extensively in this project.
+However, two individual beads of unusual forms were included as possible contact indicators,
+with mixed results.
+
+26
+
+IV.B.2 Square Spacer
+This square tabular bead with double angle perforations (DA16277-b) was found in the
+fourth chamber ofthe RJ-1 tomb in 2003 [Figure 24]. Made of black steatite, it has two
+perforations which run parallel, each cutting from one side of the square to the side directly
+adjacent. It measures 5.5mm in length (the diagonal of the longitudinal section) and 3mm in
+diameter (the height of the transverse section). The perforations are plain cylinders, measuring
+.8nun in diameter. The double perforation indicates DA16277-b is a spacer-bead, designed for
+multi-strand ornamental wear. As will be discussed later, this bead stylistically matches an
+Iranian series.
+
+Figure 24:
+(DA16277-b) This
+rectangular s1ea1ite
+spacer has two
+diagonal
+pe,foralions, in a
+style similar to
+Iranian beadsfound
+elsewhere in Oman
+
+Figure 25:
+(DA8562) This
+irregularzy
+shaped s/ealite
+bead is one ofa
+kind, ils only
+potenlial parallel
+lies in the nut
+beads ofthe
+Indus
+
+I ~·tTr!Umm
+
+IV.B.3 Seed bead
+The second steatite bead of stylistic interest from these collections was an irregularly
+shaped black steatite bead (DA8562) [Figure 27]. With radiating marks from both ends, it
+appears very much like a seed. 14.6mm in length and 11.4mm in diameter, the seed bead was
+recovered near the southern compound ofRJ-2. The perforation is umemarkable: a plain
+cylinder measuring 2.5mm in diameter. As of yet, inconclusive, there are potential associations
+between this bead and the perforated areca-nut bead tradition in India (Francis 1981) or the lotus
+seed bead of Mesopotamia and Egypt (Eisen 1930).
+
+27
+
+IV. C Heated Steatite (Paste beads)
+IV. C.1 Background Information
+The first artificial materials used for bead
+production were transformations of the already
+popular substance, steatite. When heated to 850°
+
+•
+Centigrade, talcose steatite releases its water of
+crystallization and forms a mixture of cristobalite,
+
+Figure 26: (DA 15553) A selection ofa group
+of77 small heated stealile cylinder discs
+
+enstatite and alumina (Hegde 1983 :70). The advantage of this process is a hardening of the
+mineral from 1.5 to 6 or 7 on the Mohs scale. Experimental data indicates that at least a
+significant portion of the time, the steatite was ground down, combined with a flux (to aid its
+fusion), and prepared as a paste before heating (Mayer et al. 2004: 496, Hegde et al. 1982: 242).
+Bead hoards at Chanudaro and Zekhada have illustrated a system of extrusion of this steatite
+paste for the production of microbeads (Hegde et al. 1982:242). The white, opaque products of
+this process have been refened to as "white steatite," "burnt steatite," " reformed steatite,"
+"heated steatite," "enstatite," and "paste" (Vidale 1989:292, Mayer 2004:496, Niharika 1993: 1721). Various texts have each made their own distinctions between these forms, but none of
+these definitions have been applied consistently enough to gain authority. In this paper, all these
+products are grouped under the titles "heated steatite" or "paste" bead.
+
+IV. C.2 Assemblage
+There were 442 heated steatite beads recovered from RJ-1 and RJ-2. Their highly
+consistent shape, size, and color suggest production using the same extruded paste manufacture
+system identified at Chanudaro and Zekhada. For example, the Indus production process
+
+28
+produced long paste cylinders which were further divided into
+smaller cylinder discs and microbeads. In the Ras al-Jinz
+collections, over 90% of the heated steatite beads (405/442) are
+cylindrical in shape. Several of the outlier shapes have rhomboidal
+longitudinal sections (15424-c, 15519, 15509-b) [Figure 27], very
+much like distorted cylinders. This
+deformation indicates the raw material
+
+Figure 27: (DA 15519) A heated
+stealite lylinder which appears
+10 have been deformed during
+produc/ion, causing a
+rhomboidal cross-section
+
+was a soft, malleable paste rather than chipped or ground stone.
+Additional deformations which expose manufacture processes are the
+striations present both laterally, on the ends, and longitudinally, on
+the exterior surfaces, of a significant number of the beads [Figure 28].
+It was similar striations on Indus beads which resulted in the
+Figure 28: (DA J6354b) A paste disc
+wilh well delineated striations on the
+surface. Identical to Indus saw marks,
+these lines aided in the identification
+oflhese beads.
+
+identification of the extrusion manufacture system: the longitudinal
+striations being produced by irregularities in the copper mold
+
+perforations through which the paste was pressed, and the lateral striations being caused by the
+slicing of the longer cylinders as they emerged.
+Furthermore, the size standardization
+within the RJ-1 and RJ-2 heated steatite
+collection, especially in bead diameters, is
+indicative of mechanical production processes,
+like those of the Indus paste extrusion system
+
+I cm/ lOmm
+
+[Figure 29]. Qualitatively, examination reveals
+an incredible degree of accuracy in producing
+
+Figure 29: (DA 16356g) A group of 18 paste discs with diameters of 3.1
+which, demonstrating the diameter consistency ofthe paste cylinders.
+
+29
+perfectly round cylinders. Quantitatively, 75.06% (298/397) of the cylindrical beads examined
+(excluding bead fragments, and other un-measurable beads) have diameters of 2.1mm (62),
+2.6mm (117), 3.1mm (91), or 5.0mm (28) (±0.lmm). Perhaps the most striking consistency lies
+in a type of paste disc for which 28 beads were independently
+
+recovered (from separate locations) and independently measured all
+of which had the identical dimensions of 5.0mm in diameter and
+
+8
+8
+
+0
+
+1.0mm in height [Figures 28 and 30]. While standardization in
+
+]
+
+•
+
+diameter can be attributed to the technological features of production,
+the standardization in height reveals the highly organized and skilled
+
+Figure 30: (DA/6348) One of
+28 round heated stealile discs
+with the dimensions 5xlmm
+
+labor of the bead industry which produced this series.
+Finally, like the Chanudaro and Zekhada beads, almost all of these beads were purified to
+a clean, bright white, presumably by baking the steatite paste at high temperatures. Only 3.8%
+(17/442) were tinged aqua, yellow, or shades oflight grey.
+
+30
+
+IV. D Faience
+
+I
+
+rYl
+
+lcmflOmm
+
+•
+0
+
+Figure 31: (DA 16404m, n, and o) Various sizedfaience cylinders. Note the color varia tion.
+
+IV.D.1 Background Information
+
+Faience is a synthetic material made from steatite or quartz paste (Mayer 2004: 499, and
+Niharika 16) mixed with a flux of plant ash which is fired for 4 or more hours at temperatures in
+excess of 900°C (Kenoyer 2005). In the production of faience, like heated steatite, the heat that
+is applied to the raw materials drastically increases its hardness. But rather than dehydrating the
+mineral, the heat of faience production melts the exterior of the grains, binding individual
+particles together. This is why faience is often considered the forerunner to glass (Dubin
+1987:43).
+Faience beads come in an incredible variety because, made from a paste, faience can be
+molded into almost any desired shape. It can also be made into a variety of colors, including
+blue, green, yellow, black, white, chocolate, and red, by adding various coloring agents. The
+color can be either mixed in with the paste, or it can be applied after drying and before firing,
+leaving color only on the exterior surfaces of the bead (Niharika 1993: 16). With such
+
+31
+variability, this material was often used to manufacture cheaper imitation of precious stones like
+lapis lazuli and turquoise (Dubin 1987:43).
+!cm/ IOm
+
+IV.D.2 General Assemblage
+Within the collection of 474 faience beads from RJ-1 and
+RJ-2, one can observe both uniformity and variety. The
+
+Figure 32: (DA/4610) An example ofa
+longfaience cylinder
+
+dimensions of the beads are evenly distributed among
+short (182), standard (177) and long (113) classifications.
+(There is one disc bead and one bead whose
+measurements are excluded.) Typologically, cylinders
+make up the largest proportion with 392 specimens
+(82.70%). However, barrels (43) [Figure 33] and bicones
+(29) are both sizable and cohesive subgroups. In addition
+to these shapes, there are other miscellaneous spherical,
+
+Figure 33: (DA12849) A collection ojfaience barrels
+showing light green and yellow fri/ coloring
+
+biconvex, and irregularly shaped beads. The beads' colors,
+which include many shades of green, grey, yellow, and even
+red and brown, may be the most diverse aspect of this
+collection. [Figures 31 and 34]
+
+IV.D.3 Bicone Microbeads
+While the majority of the faience collection is made
+
+Figure 34: (DA J6370) Faience cylinders of a variety ofcolors
+
+up of inconsequential cylinders, the biconical microbead
+subgroup offers several unique insights into local faience production mechanisms. This
+classification refers to a set of 20 beads which display various shades of grey to white. Ranging
+
+32
+from 2.5 to 2.8mm in diameter and 1.5 to 2.7mm in
+height, this group is distinguishable by its miniature
+l cm/ 10
+
+size. Fairly consistently (specifically noted on 14 of
+the 20 specimens), these beads are marked with
+
+longitudinal striations radiating from the ends
+[Figure 36]. Since vertical striations are a feature
+
+Figure 35: (DA16379) A long
+faience bicone displaying similar
+brush marks as the bicone
+microbeads
+
+Figure 36:
+(DA 15341) Faience
+bicone microbead
+displaying small
+striations radiating
+from the ends.
+Possible frit brush strokes
+
+of other, larger faience bicones (16379) [Figure 35], perhaps this is an effect of the local
+manufacture processes. Reminiscent of brush strokes, these striations could be the patterns of
+brushed on frit or glaze.
+This set of micro-bicones also displays several deformations which put into question the
+competence and enthusiasm of the manufacturers. One bead has a
+double perforation (16290) [Figure 37]. Like it did in the heated
+
+1cm/1 0mm
+
+steatite, this inaccuracy clearly occuned before firing, while the bead
+was still soft. It is curious that rather than fixing the enor, the laborer
+simply proceeded to fire the blemished bead. Also, under close
+inspection (with the low power magnifying glass) horizontal (or
+lateral) lines are also visible. However, these lines do not exhibit the
+
+Figure 37: (DA16290)
+Faience bicone microbead
+displaying double-punch
+pe1forario11 error. Also
+no/ice the radial striations
+from end like Figure 38.
+
+regularity of intent; they are heat cracks, irregularly criss-crossing the
+beads' surfaces. Such malfom1ations would have been highly uncharacteristic for wellorganized and trained foreign bead makers.
+
+33
+
+IV.D.4 Melon Bead
+Perhaps the most significant faience bead in the entire collection is a large spherical
+melon bead recovered near the southern compound of RJ-2 [Figures 38, 39 and 45]. Light green
+in color, it has 12 twelve longitudinal depressions, or flutes, adorning its exterior. 11.5mm in
+length and diameter with clean edges and perfect symmetry, this bead a gives an impression of
+high quality and precision. The perfection of this bead sharply contrasts the flawed character of
+the faience microbicones examined above.
+
+Figure 39: (DA9980) Green
+Faience Melon bead
+Figure 38: (DA9980) Green Faience
+melon bead
+
+34
+
+V Discussion
+There is tremendous diversity within the collection of more than 11,000 beads of Ras alJinz. Yet within that diversity, there are patterns to be found: patterns of intercultural contact
+and patterns of economic and cultural exchange. Quality, style, and manufacture technique are
+all important factors in deciphering the beads to define and interpret foreign contact at Ras alJinz. In the end, the beads ofRJ-1 and RJ-2 reinforce previous knowledge ofregional interaction
+and broaden the understanding of cultural and economic exchange in EBA
+Oman.
+
+U.S.S.R.
+
+~
+
+•
+
+'·•
+
+N~rna1.1,1~ t<!f,i;,_. ,Gooks;,.,,
+• l·il~sa,
+
+·,
+
+-~'-J'"sfw,wJ", ..- .. )
+
+>-~_;.:,; ~-'
+
+,l .-, r· _r ;'Dash~
+
+r/
+
+1{, CHINA
+l
+
+- l
+
+\. • AIUn TeDc
+
+SAUDI ARABIA
+!NDIA
+
+•.
+.__. ..,)
+
+If!'
+
+• $,;<kO\,,da}
+
+Cl
+olhal
+Nartnad(l H.
+
+ARABIAN SEA
+Figure 40: The civilizations of the Early Bronze Age involved in the Middle Asian lnteration Sphere (image from Possehl 1996)
+
+V.A Intercu/tural contact
+The third millennium BC was an era of unprecedented travel and commerce among the
+flowering civilizations from Africa to Asia. People, goods, and ideas were being shipped and
+traded in increasingly regular patterns and relationships. The Middle Asian Interaction Sphere,
+
+35
+stretching from Mesopotamia to the Indus, was an especially active part of these evolving trade
+networks. [Figure 40] Ceramic finds and various other materials have long been know to
+associate Eastern Arabia, Ras al-Jinz in particular, with this regional traffic. Connections with
+Mesopotamia, Iran, and the Indus within the bead assemblage at RJ-1 and RJ-2, from the second
+half of the 3rd millennium BC, confirm both longstanding and newly developing foreign contacts.
+
+V.A.1 The Indus
+Of all the Early Bronze Age civilizations, the Indus Civilization has the best documented
+and most thoroughly understood bead manufacturing industry. Ornamental wear being
+prominent within the Indus culture and a significant export to various other cultures, bead
+manufacture and exchange systems were exceedingly well developed in 3 rd millennium BC India
+and Pakistan. Specializing in etched and long ban·el carnelian beads, their bead manufacturing
+technologies far surpassed those of their western contemporaries, and many of their bead types
+are easily and exclusively identifiable. With such a prominent component of Early Bronze Age
+bead history previously identified as a maritime contact of the Ras al-Jinz community, the Indus
+was an obvious place to start when seeking external influences on the RJ1 and RJ-2 bead assemblages.
+This being said, the representation of directly identifiable Indus
+bead types within the Ras al-Jinz collection is rather unexpected. The
+famed Indus carnelian is virtually absent from this Omani record. Only
+
+Figure 41: (DA8353) Carnelian
+fragmenl, p ossible long bicone
+
+three small and fragmentary pieces (DA16372-a, DA8353, and DA10121)
+may have been parts of longer carnelian bicones. [Figures 41 and 42] As
+discussed above, these three are distinguishable from the Oman tradition in
+Figw e 42: (DA l0121)
+Carnelian beadfragment,
+possible long bicone
+
+36
+their flawlessly smooth exterior and perfectly circular cross-sections. This leads me to believe
+they are imported product, but there is no conclusive evidence which places them within the
+Indus tradition.
+Rather, it is the heated steatite, or paste, beads which illustrate a decisive link between
+Oman and the Indus. Described by Vidale as "ubiquitous across the surface and the excavated
+contexts ofHarappan sites" (1989:293), paste beads have been recorded extensively at Harappa
+(Beck 1974: 392) and Chanu-daro (Mackay 1937: 12; 1976: 205), but their roots in the Indus
+reach back to the Early Harappan site ofMehrgarh-Nausharo (Vidale 1989: 291) [Figure 43]. In
+various site reports and inventories 'white steatite,' 'burnt steatite,' 'reformed steatite' and
+'paste' (Vidale 1989: 292) have all been used to identify the unglazed, off-white, opaque, heated
+talcose substance which forms these thin discs.
+
+r--,;;::;;.
+
+0
+
+p---t!
+&mm
+
+Figure 43: Paste discs from Nusharo-Merhgarh showing the saw marks, identical to the saw marks on the surface of the
+heated steafite discs from Iws al-Jinz (Image from Vidal 1989)
+
+The first indicator that the white discs, recovered primarily from RJ-1, were an external
+import was their remarkable uniformity in size, shape, and design. Compared with the variation
+in bead size of the larger bead assemblage, the size of these beads and their perforations were
+remarkably consistent. This consistency reflects the size standardization of the Mehrgarh paste
+
+37
+beads noted by Vidale (1989: 297). The stylistic associations extend also to the accuracy with
+which both the Indus and the Omani beads were produced. Like the Indus beads (Vidale 1989:
+297) and unlike associated Omani beads, most of the RJ-1 disc paste-beads are perfectly circular
+with sharp edges and well-centered perforations.
+Additionally, the heated steatite discs from Ras al-Jinz are consistent with the Indus
+tradition in material and manufacture style. The two traditions display the same multi-directional
+saw marks on their broad flat tops. [Figures 43 and 28] Vidale believes these to have been made
+by the transverse cutting of cylinder blanks and the adjustment of the position of the saw in the
+midst of cutting (1989:296). Finally, the production of the parent cylinder by a process of
+extrusion manifests itself in several ways in Indus beads: concentric rings on the flat surfaces of
+the beads and well-grouped diameters. The first indicator, concentric rings, was not observed on
+the Omani paste bead collection, but the diameters of the Ras al-Jinz beads were, indeed, well
+grouped. In the Mehrgarh assemblage, all of the straight cylindrical perforations fall into two
+sizes (1.3 and 1.5mm) (Vidale 1989: 297). In the Ras al-Jinz assemblage, all of the perforations
+are straight cylinders which are highly concentrated around 0.8mm.
+
+V.A.2 Mesopotamia
+Though the archaeological literature regarding bead styles and manufacture in
+Mesopotamia is much sparser than that documenting the Indus bead industry, there are two
+substantial linkages between what has been uncovered in Oman and what is known of
+Mesopotamia.
+The first clear connection between the Ras al-Jinz bead collections and the
+Mesopotamian tradition springs from the series of carnelian discs whose perforation terminates
+in a percussion crater [Figure 21]. The explanation for this particular morphological trait was
+
+38
+uncovered at th 6th millenium BC site ofKumartepe, where a carnelian workshop containing
+beads at various stages of manufacture was studied (Moorey 1999: 108). In his analysis of the
+manufacture system used, Grace reports that "Drilling would ... be used to perforate
+approximately halfway through the blank. The completion of the perforation seems to have been
+achieved by the removal of a conical flake ... a drill-bit is placed in the hole and struck,
+producing a conical fracture scar" (1989-90: 149). Chevalier and others described an identical
+technique being used at Larsa, Iraq, in the 3rd millennium BC (Moorey 1999:108) [Figure 44], at
+the same time boats are making regular trips to and from Eastern Arabia .
+
+0
+
+.
+Figure 44:
+
+FRAGMENTATION
+
+The percussion
+
+pe,foration ~ystem
+identified in use at Larsa
+in the 3 rd millennim BC.
+Beads with a similar
+pe,foration pattern were
+
+recovered at Ras al-Jinz.
+dilbitage
+
+percussion sur enc/ume
+
+0
+
+0
+
+0
+
+PIQUETAGE
+
+0
+
+POLISSAGE DES
+
+PERCUSSION
+
+FACES
+
+0
+
+FINITION
+DU TROU
+
+cl
+
+I
+.
+
+I
+
+0
+
+POLISSAGE
+DU FLANC
+
+PERLES ACHEVEES
+
+.
+
+.
+
+-
+
+39
+A second import from Mesopotamia was the lone melon bead found at RJ-2 (DA9980)
+[Figures 38, 39 and 45]. In the Mesopotamian record, the melon shape is well represented. A
+necklace with eight ribbed lapis lazuli beads was discovered in the Treasure Jar of Court XVII of
+the Pre-Sargonic Palace at Tell Hariri in Mari (De Backer 2005: 21 [catalog]). Golden ribbed
+beads are elements in a bracelet found in the same treasure jar (De Backer 2005: 26). Made from
+a variety of materials in many of the far-reaching regions of the Mesopotamian Empire, this bead
+shape can be culturally identified with the Mesopotamian people. Beyond merely matching a
+common Mesopotamian shape, the RJ-2 melon bead was made from a material and color also
+common in the Mesopotamian record. At Tell Brak, frit and faience are the most popular
+materials used for the melon beads, and several faience melon beads were glazed green (Oates et
+al. 2001) [Figure 46]. One can safely associate this bead with the Mesopotamian sequence given
+their substantial records that reflect the RJ-2 green faience melon bead's shape, material and
+color.
+
+Figure 45: (DA9980) Drmving offaience
+melon bead from RJ-2, compare with
+Mesopotamian melon beads.from Tel Brak
+below.
+
+23
+
+29
+
+25
+
+30
+
+26
+
+26
+
+31
+
+Figure 46: Mesopotamian melon beads from Tel Brak, all made from artificial materials like
+DA9980 of RJ-2 (above) (lmagefrom Oates et al. 2001)
+
+40
+
+□-G
+I
+
+1
+
+G
+
+s
+
+q
+[!I
+
+2
+
+u
+
+A
+
+'
+
+'
+QJ
+
+3
+
+V
+
+D
+
+[o
+
+,
+
+·[J 6
+
+I
+
+OJ
+
+4
+
+SUSA C
+
+HAFIT
+
+0
+
+1
+
+2
+
+3
+
+rt-I CM
+t I
+1
+Figure 47: Square spacer beads
+from Ha.fit and Iranian contexts, all
+made from anificia/ materials
+(image from Cleuziou and Tosi
+1989) Compare with steatite square
+spacer bead below [Figure 45]
+
+□/.
+✓
+
+7
+
+HISSAR II
+
+11.'m.l!lnrm
+
+Figure 48: (DA 16277)
+Steatite square spacer bead
+from Ras al-Jinz which is a
+stylistic match to earlier
+llafit and Iranian beads
+/Figure 44}
+
+V.A.3 Iran
+Iran is the area presently suspected to have had the earliest contact with Eastern Arabia, a
+circumstance which is reflected in the Ras al-Jinz bead representation of Iranian ornamentation.
+Uniting external Iranian styles with local materials, the small square spacer found in chamber 4
+of the RJ-1 tomb (DA16277) is the pinnacle of assimilation of foreign goods [Figme 48]. A
+square tabular bead with double angular perforations, it is a stylistic match to a series of beads
+
+41
+found in Iran during a period spanning from Jemdet Nasr to EDII across an area from Susa to
+Tepe Hissar (IIB) (Cleuziou and Tosi 1989: 30) [Figure 47]. This Iranian type was imported to
+Eastern Arabia early in its development with similar beads found in several Hafit cairns in the
+Jebel Hafit (Cleuziou and Tosi 1989: 27 fig.1). Identical to the Iranian tradition, all of these
+earlier Hafit-era spacers were fashioned from an artificial material (frit or heated steatite).
+However, the artifact recovered at Ras al-Jinz was made from steatite, the most common stone
+used in local bead production since the late 4th millennium (Coppa et al. 1985:Plate 3). This
+bead is a notable example of foreign styles being incorporated into local culture, blending with
+local manufacturing material use to form an entirely new product.
+
+V.B Interpretation
+The influence of Mesopotamian, Elamite, and Harappan bead industries on the Ras alJinz collections is no surprise. Knowledge of contact between these Early Bronze Age
+civilizations and the Umm an-Nar has been well documented in the past, primarily through
+ceramic analysis and textual records. However, the addition of this ornamental layer to the
+record of the 3rd millennium's intercultural contact does more thanjust solidify previously
+existing knowledge; it broadens our understanding of the economic and cultural exchanges and
+the overall influence of external relationships in developing EBA Oman.
+
+V.B.1 Economic Exchange
+Economic linkages of import and export, supply and demand, were engines that propelled
+ancient mariners, and the caravans before them, to contact other civilizations in distant lands.
+The interactions between Mesopotamia and the Indus were based on the trade of luxury goods
+(Possehl 2002: 218), and the copper market brought Mesopotamians to Oman at the turn of the
+
+42
+3rd century BC. Beads, as items with relatively high economic value, can supply useful
+information about economic relationships within a single culture or between separate cultures.
+Specifically, the poor quality of the relatively simple bead styles in the Ras al-Jinz collection
+leads to two separate, but equally viable, economic models (one internal and one external) for the
+developing cultural complex of which Ras al-Jinz was a part.
+The overall quality of the RJ-1 and RJ-2 bead collection is exceptionally poor when
+compared with coeval assemblages. Many of the carnelian beads are unpolished, displaying the
+rough, chipped surfaces of a knapped product. The coloration of the beads is highly irregular;
+burnt patches and calcified coating mar the surface of a majority of the carnelian beads. A
+variety of mistakes are visible in the beads' perforations, the most difficult step in bead
+manufacture and the most critical to the beads' economic value. Many carnelian perforations are
+visibly off-center, and several faience beads display a double-punched perforation, indicating
+erroneous first attempts.
+The poor quality is especially noteworthy when considering the low complexity of the
+bead assemblages. The carnelian beads of Ras al-Jinz avoid the most challenging types and
+knapping techniques identified by Roux and Pelegrin (1990:54). Relatively small bicones, they
+prefer 60° angles to 90° angles and short flakes to long. There are no cylindrical beads which rely
+on perfect balance nor are there any broad flat faces whose knapping is a matter of determining
+the best of many possible strategies. With the exception of one, undoubtedly imported bead, the
+beads of artificial materials, faience and paste, also avoid complex shapes or decoration.
+Not only do these beads sharply contrast with individual high quality foreign beads found
+at Ras al-Jinz, they contrast with the bead records from excavations in Mesopotamia, the Indus
+
+43
+and Iran. Certainly, quality standards for the Umm an-Nar were much lower than they were in
+Mesopotamian and Harappan markets.
+However, the fact that these beads qualitatively distinguish themselves from external
+bead traditions does not necessarily exclude them from foreign origins. As simple, easily
+produced, shapes, bicones, barrels and cylinders can be found all across the EBA world in
+carnelian, faience, or heated steatite beads (Mackay 1976:Plates LXXXI-LXXXIII; Oates et al.
+2001 :Figure 473.32, Figure 474.60-68; Schmidt 1937:Plate XXXII). Similarly, knapped
+hourglass and plain drilled perforations are non-diagnostic. It is, therefore, equally likely that the
+RJ-1 and RJ-2 carnelian, faience and heated steatite beads were produced in foreign lands as in
+Oman, and both possibilities must be considered.
+
+V.B.1.a External
+Assuming that the low quality beads were produced externally generates an interpretation
+of regional and domestic economies where foreign production centers were systematically
+exporting their lowest-quality beads to Oman. The most logical of several possibilities, this
+scenario flows from several facts. As discussed above, the majority of the bead assemblage at
+Ras al-Jinz is comprised oflow-quality, low-complexity beads, especially when compared to the
+high quality bead records of foreign civilizations. If these beads came to Oman individually
+through happenchance means: a sailor trading beads for fish, pirate raids on passing boats, a
+young boy finding a lost bead in the beach sands, or any number of other random ways for beads
+to travel, the record would most likely represent a random sampling of the external bead
+traditions. The range of qualities and styles of the Ras al-Jinz collection would be similar to
+those of the external traditions from which it came. On the other hand, the consistent paucity
+
+44
+and simplicity in the record which distinguishes it from external industries implies it was not
+random, but organized, not occasional, but part of a large-scale well planned endeavor.
+Accepting that Indus or Mesopotamian merchants consciously included low-quality local
+beads in their Oman-bound cargo, one can make further deductions about domestic and regional
+economies. For example, the relative price of the same beads in Omani and foreign markets can
+be inferred. In the Omani market, the price of these external beads in must have been, at least,
+the cost of production plus the cost of transportation. In the foreign markets, the value of these
+beads must have been less than their price in Omani markets for the merchants to have
+undertaken the export. The ensuing trade arrangement implies a level of sovereignty and
+empowerment for ancient Omanis. That they had assets, money, with which they could attract
+and compensate foreign exchange, confirms the recognition of their property rights, their
+ownership over the resources of their lands and communities. In other words, Mesopotamians
+were not stealing copper. Harappans were not poaching fish, and the Omanis were not victims
+of, but partners in, overseas trade.
+
+V.B.1.b Internal
+If, on the other hand, it is assumed that the substandard beads of Ras al-Jinz were
+produced locally, an entirely new set of economic conclusions should be drawn. A demonstrated
+proportionality of three inter-related traits: technicality in the bead products, training for the
+craftsmen and craft-specialization in the community, reveals the economic consequences of the
+paucity and simplicity of the RJ-1 and RJ-2 bead records. The resulting lack of specialization
+supports a description of the Umm an-Nar as occupationally mobile as well as geographically
+mobile. Nevertheless, this economic versatility does not necessarily interfere with their ability to
+participate in significant commercial relationships with more structured societies.
+
+45
+An ethnoarchaeological study of the modem bead making industry in Khambat, India,
+has direct relevance to the bead collections at Ras al-Jinz and provides the theoretical framework
+for this analysis. In "Knapping Technique and Craft Specialization" Roux and Pelegrin claim
+that "only certain socio-economic milieu enable long and difficult learning techniques to appear
+and to persist, at the cost of specialization by a sub-group" (1990:50). More specifically, they
+convincingly associate the degree of technicality in the production of various bead types to
+length and intensity of apprenticeship which, in turn, is proportional to the degree of craft
+specialization in the broader community.
+Applying this relational model to the archaeological bead evidence at Ras al-Jinz
+ultimately reveals it to be a craft-generalized community. The co-occurrence of low-complexity
+and low-quality beads suggests that the relatively simple bead shapes are pushing the boundaries
+of the technical capabilities of the bead-makers in Oman to the point that the quality of beads
+produced decreases. In short, the Omani bead-makers are having a hard time making the
+simplest beads. The work of Roux and Pelegrin (1990) dictates that the Omani bead-malcers
+must not have had the same length or rigorousness in training as the expert craftsmen of the
+Indus or Mesopotamia. Therefore, the RJ-1 and RJ-2 bead assemblage indicates craftgeneralization, as opposed to specialization.
+This economic inference supports the economic models ofW. Lancaster and F. Lancaster
+(2002) and Cleuziou and Tosi (2000) which describe unspecialized, highly mobile populations
+inhabiting the Ja'alan in both the past and the present. W. Lancaster and F. Lancaster (2002)
+argue that without the concept of restricted access to resources modem bedu have been able to
+circumvent the traditional systems of specialization and stratification while fully participating in
+a cohesive community which engages external groups and has the capacity for trade. Cleuziou
+
+46
+and Tosi transpose this fluid economic model to the EBA, proposing that Ras al-Jinz was
+inhabited by a migratory population which participated in multiple opportunistic cottage
+industries.
+Certainly, the economic implications of the Ras al-Jinz bead assemblage contribute
+substantially to the understanding of cornrnerce in the Early Bronze Age. The poor quality and
+low technicality beads ofRJ-1 and RJ-2, if imports from abroad, reveal a new facet of Omani
+participation in broader regional trade networks. If local products, they suggest an unskilled, or
+rather, variously but shallowly skilled labor force. These two lines of thought and analysis are
+not mutually exclusive; it is likely that the reality of the Early Bronze Age in Eastern Arabia was
+a combination of these two conditions.
+
+V.B.2 Cultural Exchange
+More expansive than economic implications, the cultural significance of beads broadens
+the image of EBA regional interaction to include exchange in all aspects of human civilization.
+Beads have a distinct relationship with culture and its transmission because they are specifically
+designed to contain and transmit abstract, cultural concepts. Therefore, the study of beads can
+unveil such supremely human qualities as beauty, identity and belief, particularly as they were
+shared between communities. The exchange of these cultural concepts At Ras al-Jinz, funerary
+rituals,
+With no innate utility, beads are socially defined by symbolic, artistic, or ritualistic
+features. A bead's value or meaning-commercial, social, political, spiritual, or otherwise-is
+an essentially arbitrary decision about its symbolic worth made by either the individual or the
+collective. In this way, beads carry and preserve such socially generated, and therefore
+communally characteristic, concepts as fashion, status, and faith. Thus, the exchange of beads
+
+47
+between the Unnn an-Nar and their neighbors carries particular significance, beyond that of
+identifying economic exchange relationships; it represents an exchange of ideas between two
+culturally distinct connnunities.
+
+V.B.2.a Cultural Import-Implications for the Umm an-Nar
+The flow of goods and ideas between separate communities is a gradual process. Various
+aspects of the bead assemblages ofRJ-1 and RJ-2 reveal a progression in the integration of
+foreign objects and associated concepts. External connnodities, both physical and intellectual,
+must first gain entrance into the community. Upon first acceptance, their exoticism is often a
+large part of their cultural significance, foreign origins a constant part of the items' identity
+which segregates it from domestic items. With the passing of time, assimilation increases; the
+dispersal and utilization of foreign beads more closely match those of their domestic
+counterparts. Finally, the external products are integrated to such an extent that demarcation
+between external and internal is blurred. The result is a new bead tradition which incorporates
+both internal and external sources.
+Since beads are defined by abstract attributes, the presence of imported beads at the EBA
+site of Ras al-Jinz necessitates an adoption of new cultural concepts or modification of traditional
+ideas. The beads of another culture would have had no significance, no worth, to the Umm anNar unless there was an accompanying change in one or more of their abstract perspectives.
+They would have had to extend their definition of beauty, adopt a new mystical belief, or apply
+symbolic or social value to an item outside their established system before incorporating that
+item into their own culture. Consequently, the presence of a Mesopotamian melon bead and
+Harappan paste discs in the RJ-1 and RJ-2 collections signifies more than just contact with the
+outside world; it represents the acceptance of new and foreign ideas.
+
+48
+In seeking a more concrete description of how these beads impacted the culture of the
+Umm an-Nar people, burial rituals are some of the most observable ofa culture's conceptual
+traits in archaeological remains. In previous studies, special cultural significance associated with
+burial has been transposed onto foreign ceramic finds as a means of interpreting the cultural
+significance of overseas contact. As Cleuziou states, "the deposit of Jamdat Nasr and ED
+Mesopotamian imported wares in cairn burials is considered as an indication of the importance
+which was granted by the forming EBA society of Oman to the connection with Mesopotamia"
+(my docs. pg.8). Cleuziou's referenced ceramic evidence exemplifies low-level integration,
+where external goods are accepted by Omani communities, but segregated from local material
+culture. The pursuit of similar manifestation of intercultural contact in burial contexts within the
+Ras al-Jinz bead collections reveals a higher level of cultural integration.
+The entire bead collection at Ras al-Jinz presents strong case for a ritual function of beads
+in death. The fact that 11,260 beads were recovered from the tomb and bone pits of RJ-1 as
+compared to a measly 493 from all the buildings ofRJ-2 (many of which were also from burial
+contexts) suggests a ritual function for beads in Umm an-Nar burials. This conjecture is further
+supported by the fact that a large percentage of the beads in RJ-1 were found in the three bone
+pits. The strange arrangement of bones within these three bone pits (a pile of28 skulls stacked
+on top of one another and long bones arranged in geometric patterns) indicates directed,
+symbolically significant, and most likely ritual reburial practices. Inclusion of the beads in these
+complex and, as of yet, un-deciphered rites suggests their participation in this ritual.
+However, while beads may have had ritual functions in the mortuary contexts at Ras alJinz, the specifically external beads cannot be determined as having any special funerary
+significance. Certainly, many of the beads with external associations were found in burials, but
+
+49
+because the two collections are so overwhelmingly disproportional, with over 95% of the beads
+coming from RJ-1, this does not carry the same significance that Cleuziou associates to the
+Jemdet Nasr pottery. Ironically, that the alien beads are not distinguishable from local beads in
+this way is, perhaps, the most significant conclusion one can draw from these circumstances.
+Unlike the aforementioned ceramics, these beads do not retain distinguishing significance as a
+symbol of external contact. Present in all contexts in which local beads are present (i.e. homes,
+workshops, graves) and worn often on the same strands as locally made beads, the alien beads
+appear to have shed their exotic allure to the point that they reach full inclusion into local
+traditions. This cultural appropriation of the external beads is one step towards dissolving the
+cultural barriers between civilizations.
+Finally, the square steatite spacer bead ofRJ-1 (DA16277-b) [Figure 48] which
+incorporates an Iranian style with local materials exemplifies the culmination of this gradual
+process of integration. The initial imports which would ultimately produce this bead type had
+been present in Oman for an extended period of time when Tomb 1 ofRJ-1 was constructed.
+The earliest square spacers appear during the Hafit period along with other Iranian goods. Made
+of the same artificial materials as the Iranian beads and only found in cairn burials, this early
+stage in the spacers' integration demonstrates both acceptance into the culture and segregation,
+like Jemdet Nasr pottery, to a hallowed position of exotic status. Over time, these beads became
+so assimilated into the ornamental culture of Oman that the style was appropriated for production
+using Omani materials. A seamless blend of external and internal traditions, the square steatite
+spacer bead and its development illuminate the evolving cultural incorporation of the Umm anNar as they develop relationships with foreign peoples.
+
+50
+V.B.2.b Cultural Export-Implications for Foreign Civilizations
+
+Considering the interaction from the other perspective, the bead donors in an exchange
+demonstrate an effort to share a significant cultural meaning. Excavations and texts in ancient
+Mesopotamia, Egypt and the Indus reveal widespread use oflocal beads as protectors, identifiers
+and preservers of"an individual's place in society and the natural environment" (Kenoyer 1991:
+82). At least two of the external bead types found at Ras al-Jinz have been identified as having
+similar specific cultural importance in their home countries. Vidale postulates that Indus paste
+discs are used as class or community identifiers (1989:299) and Eisen connects melon-beads
+with lotus-beads according to their "amuletic nature"(l 930:20). If these two interpretations hold
+true, then the presence of each of these bead types in the Omani collections represent an
+openness of the foreign peoples to share deeply cultural symbols of status and power with the
+developing Umm an-Nar community.
+The exchange of beads and bead technologies and styles indicate an exchange of culture
+in its most abstract forms. As the East Arabian people broadened their symbolic concepts, their
+partners were exposing their beliefs, sharing them with other peoples. In this way, the EBA
+trade throughout the Persian Gulf and Arabian Peninsula began to break down the barriers
+separating civilizations, even as those civilizations were forming.
+
+51
+
+VI. Conclusion
+Individual beads as well as over-arching patterns within the RJ-1 and RJ-2 bead
+assemblage illustrate several key elements of the systems of exchange and development
+occurring in Early Bronze Age Oman. Providing a new stage for observing contact between the
+Umm an-Nar and their overseas partners, the beads of Ras al-Jinz make important contributions
+to modern interpretations of cultural and economic exchange. Being fundamentally cultural
+items, the Ras al-Jinz beads had a unique capacity to present a continually growing cultural
+dialogue in the form of shared symbolic, artistic, or ritualistic values. On the other hand, the
+economic implications springing from divergent etiological theories illustrate intercultural
+exchange patters and domestic industrial organization.
+The disparate theories of economic contingency reveal the vast amounts of work yet to be
+done with these collections. A first survey of the intercultural implications of the RJ-1 and RJ-2
+bead collections, it might seem that twice as many questions were raised as answers were found
+during the course of this investigation. Chemical analysis of the bead materials might help
+determine the source. Experimental reproduction could confirm the manufacture processes for
+the Omani faience. A botanist or archaeobotanist might be able to determine the specific seed
+type on which DA8562 was modeled, and investigators trained in economics would certainly be
+better able to extract the economic implications of these exchange patterns. Finally, an
+understanding of the ritual functions of beads in burials may become decipherable as
+investigations reveal more information regarding the RJ-1 burials and reburials. Yet, the
+conclusions drawn in this paper and the uncertainties left behind are, and will continue to be,
+important topics of investigation as more information comes to light.
+
+52
+The interactions ofUmm an-Nar with external cultures is significant and worthy of study
+because Eastern Arabia was a significant factor in the Middle Asian Interaction Sphere. To gain
+a complete picture of regional trade patterns in the 3rd millennium BC, one must understand these
+relationships. Furthermore, these ancient trade patterns have real applications in modern life as
+the first predecessors of global markets and cultures. Certainly, cultural and economic
+relationships between the small, developing Oman and the cultural and economic giants of its
+day foreshadows present relations between nations of vastly different political, economic and
+social statuses-the "developed" and "developing" countries. Ultimately, the correspondence of
+cultural and political development in economically driven relations at the very beginning of
+organized large-scale intercultural contact has implications for a modern understanding of
+globalization in today's world.
+
+REFERENCES CITED
+Beck, H.C.
+1974 Report on Selected Beads from Harappa. in Excavations at Harappa: Being and
+account of archaeological excavations at Harappa carried out between 1920-21 and
+1933-34, edited by Madho Sarup Vats, p. 392-431. Bhartiya Publishing House, Varanasi.
+Beck, Horace C.
+1928 Classification and Nomenclature of Beads and Pendants. Archaeologia 77:1-76
+1973 [Reprint] Liberty Cap Books, York, Pennsylvania.
+Biagi P.
+1999 Excavations at the Shell-midden ofRH6 1986-1988 (Muscat, Sultanate of Oman).
+al-Rafindan XX Tokyo the Institute for Cultural Studies of Ancient Iraq 57-84
+Cleuziou S. and Tosi M.
+1989. The Southern Frontier of Ancient Near East. in K. Frifelt and P. Soerensen (eds),
+South Asian Archaeology 1985. London, pp. 15-48
+Cleuziou S. and Tosi M.
+2000. Ra's al-Jinz and the Prehistoric Coastal Cultures of the Ja'alan. The Journal of
+Oman Studies 11, pp. 19-73
+Chandra, Rai Govind
+1964 Studies in the Development of Ornaments and Jewellery in Proto-Historic India.
+The Chowkhamba Sanskrit Series Office, Varanasi.
+Chevalier, J., M.L. Inizan and J. Tixier
+1982 Une Technique de Perforation par Percussion de Perles en Cornaline (Larsa, Iraq).
+Paleorient 8(2):55-65.
+Coppa A., Macchiarelli R., Salvatori S. and Santini G.
+1985. The Prehistoric Graveyard of Ra's al-Hamra (RH5): A short preliminary report on
+the 1981-83 excavations. The Journal of Oman Studies 8, pp. 97-102
+De Backer, Fabrice
+2005 North Mesopotamian Jewellery during the Third Millennium B.C. Masters Thesis.
+Department of Eastern Mediterranean Archaeology. Katholieke Universiteit Leuven,
+Nederlands. Electronic Document.
+http://www.ethesis.net/jewellery/jewellery inhoud.htru, Accessed April 28, 2006.
+Dubin, Lois Sherr
+1987 The History of Beads from 30,000 B.C. to the Present. HarryN. Abrams, New
+York.
+Durante S. and Tosi M.
+
+1977. The Aceramic Shell Middens of Ra's al-Hamra: a Preliminary Note. The Journal of
+Oman Studies 3: 137-162
+Eisen, Gustavus A.
+1930 Lotus- and Melon-Beads. American Journal of Archaeology. 34(1):20-43.
+Francis, Peter Jr.
+1981 The Areca-Nut Object: Is it a bead? Puratattva 10:95-99.
+Gorelick, L. and A.I. Gwinnett
+1991 Technical "Mutations"in Drilling. Akkadica 74-7 5 :3 7-4 7.
+Guba, Ingeborg
+2001 Stone Treasures of Oman: A geological introduction and Do-It-Yourself
+inspirational handicrafts guide to Oman's rocky treasures. Al Roya, Muscat, Sultanate of
+Oman.
+Hegde, K.T.M., R.V. Karanth and S.P Sychanthavong
+1982 On the Composition and Technology ofHarappan Microbeads. in Harappan
+Civilization: A Contemporary Perspective, edited by Gregory L. Possehl, p.239-244.
+Hegde, Karunakara
+1983 The Art of the Harappan Microbead. Archaeology. May/June:68-72.
+Oxford & IBH Publishing, New Delhi.
+Inizan, Marie-Louise, Mohamed Jazim, and Franck Mermier
+1992 L'artizant de la Cornaline au Yemen: Premieres Donnees. Techniques et Culture
+20:155-174.
+Insoll, Timothy, David A Plya, Kuldeep Bhan, Duncan Irving, Kym Jarvis
+2004 Towards an understanding of the carnelian bead trade from Western India to subSaharan Africa: the application ofUV-LA-ICP-MS to carnelian from Gujarat, India and
+West Africa. Journal of Archaeological Science. 31: 1161-1173.
+Isetti E. and Biagi P.
+1989. The Polished Stone Earrings of Site RH5 and the Distribution and Chronology of
+the Prehistoric Earring of Coastal Oman. Rivista di Archeologia XIII, pp. 5-17
+Kenoyer, J.M.
+1991 Ornament Styles of the Indus Valley Tradition: Evidence from recent excavations at
+Harappa, Pakistan. Paleorient. 17(2):79-97.
+Kenoyer, Jonathan Mark
+1986 The Indus Bead Industry: Contributions to Bead Technology. Ornament. 10(1): 1823.
+
+Kenoyer, Jonathan Mark
+2005 Uncovering the keys to the Lost Indus Cities. Scientific American. 15 (1).
+Electronic document. EBSCO Megafile-Fu11 text. Accessed April 28, 2006.
+
+Lancaster W. and Lancaster F.
+2002 Trade and Stratified Society Information from Southeast Ja'alan Oman. in S.
+Cleuziou, M. Tosi & J. Zarins (eds), Essays of the Late Prehistory of the Arabian
+Peninsula. Serie Orientale Roma XCIII Rome IsIAO 237-253
+Mackay, Ernest
+1937 Bead Making in Ancient Sind. Journal of the American Oriental Society. 57 (1):115.
+Mackay, Ernest J.H.
+1976 Chanhu-Daro Excavations. Bharatiya Publishing House, Varanasi.
+Mayer, D.E. Bar-Yosef, N. Porat, Z. Gal, D. Shalem, and H. Smithline
+2004 Steatite beads a Pequi'in: long distance trade and pyro-technology during the
+Chalcolithic of the Levant. Journal of Archaeological Science. 31 :493-502.
+Moorey, P.R.S.
+1999 Ancient Mesopotamian Materials and Industries: The Archaeological Evidence.
+Eisenbrauns, Winona Lake, Indiana.
+Niharika
+l 993 A Study of Stone Beads in Ancient India. Bharatiya Kala Prakashan, Delhi.
+Oates, David, Joan Oates, and Helen McDonald
+2001 Excavations at Tell Brak Vol.2:Nagar in the third millennium BC. British School of
+Archaeology in Iraq, Cambridge, United Kindom.
+Possehl, Gregory L.
+1996 Meluhha. in The Indian Ocean in Antiquity. edited by Julian Reade, p.133-208.
+Kegan Paul International in Association with The British Museum, London.
+Possehl, Gregory L.
+2002 The Indus Civilization: A Contemporary Perspective. AltaMira Press, Walnut
+Creek, California.
+Roux, Valentine and Jacques Pelegrin
+1990 Knapping Technique and Craft Specialization: An Ethnoarchaeological
+Investigation in Gujarat. Puratattva. 19:50-59.
+Schmidt, Erich F.
+
+1937 Excavations at Tepe Hissar Damghan. University of Pennsylvania Press for the
+University Museum, Philadelphia.
+Tosi M.
+1976 The Dating of the Umm an-Nar Culture and a Proposed Sequence for Oman in the
+Third Millennium BC. The Journal of Oman Studies 2 Muscat 81-92
+TosiM.
+1982 A Possible Harappan Seaport in Eastern Arabia: Ra's al-Junayz in the Sultanate of
+Oman. paper delivered at the First International Conference on Pakistan Archaeology,
+Peshawar, March 1-4 1982
+Vanzetti, A. and M. Vidale
+1994 Formation Processes of Beads: Defining different levels of craft skill among the
+early beadmakers ofMehrgarh. Proceedings of the Tweljih International Conference of
+the European Association of South Asian Archaeologists held in Helsinki University 5-9
+July 1993. Vol. 2, 65:763-776. Helsinki.
+Vidale, Massimo
+1989 Early Harappan Steatite, Faience and Paste Beads in a Necklace from MehrgarhNausharo (Pakistan). East and West. 39:291-300.
+Vosmer T.
+2000 Model of a Third Millennium BC Reed Boat Based on Evidence from Ra's al-Jinz.
+The Journal of Oman Studies 11, pp. 149-151
+
+

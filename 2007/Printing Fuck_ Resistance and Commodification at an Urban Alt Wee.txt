@@ -1,0 +1,3159 @@
+Anthropology Senior Theses
+
+University of Pennsylvania
+
+ScholarlyCommons
+Department of Anthropology
+
+Spring 2007
+
+Printing Fuck: Resistance and Commodification at an Urban Alt
+Weekly
+Andrew L. Pederson
+University of Pennsylvania
+
+Follow this and additional works at: https://repository.upenn.edu/anthro_seniortheses
+
+Q
+
+Part of the Anthropology Commons
+
+Recommended Citation
+Pederson, Andrew L., "Printing Fuck: Resistance and Commodification at an Urban Alt Weekly" (2007).
+Anthropology Senior Theses. Paper 83.
+
+This paper is posted at ScholarlyCommons. https://repository.upenn.edu/anthro_seniortheses/83
+For more information, please contact repository@pobox.upenn.edu.
+
+Printing Fuck: Resistance and Commodification at an Urban Alt Weekly
+Disciplines
+Anthropology
+
+This thesis or dissertation is available at ScholarlyCommons: https://repository.upenn.edu/anthro_seniortheses/83
+
+PRINTING FUCK: RESISTANCE AND COMMODIFICATION AT AN URBAN ALT
+WEEKLY
+By
+Andrew L. Pederson
+In
+Anthropology
+Submitted to the
+Department of Anthropology
+University of Pennsylvania
+Thesis Advisor: Dr. John Jackson
+2007
+
+Abstract
+
+Interest in mass media is increasing as anthropologists not only begin to regard
+mass media as salient features in their communities of study, but also as researchers
+begin to examine forms of media themselves as social sites of meaning creation. While
+older theoretical models tend to view mass media as a 'top down' process which can be
+used to manipulate or mislead passive receivers, empirical data and newer observations
+illustrate that mass media are active components of a dynamic social and cultural
+landscape. Building on this perspective, this study examines the social site ofproduction
+of a large circulation urban alternative weekly publication. Using a broad based
+literature review as well as long term participant observation, this study examines the
+paper's institutional identity as 'alternative' as well its historical relations to
+underground newspapers and subsequent development into a freely distributed vehicle
+for advertising. This study ends with a discussion of the implications of the increasing
+commoditization of cultural production in contemporary society.
+
+2
+
+Table of Contents
+Introduction .......................................................................................................................... 4
+Literature Review ................................................................................................................. 8
+Genesis of 'Alt' .................................................................................................................. 14
+Alt Weeklies in Historical Perspective .............................................................................. 23
+Ethnographic Perspectives at the Weekly ......................................................................... .31
+Political. ................................................................................................................. 32
+People and Hierarchy ................................................................................. 32
+Readership in the Minds of the Editors ...................................................... 35
+Binary Antagonisms .................................................................................. .38
+Aesthetic ................................................................................................................ 41
+Quantitative ........................................................................................................... .44
+Discussion .......................................................................................................................... 46
+Conclusion ......................................................................................................................... 54
+References .......................................................................................................................... 57
+Table ofFigures ................................................................................................................. 62
+
+3
+
+All the reporters in the world working all the hours of the day could not witness all the
+happenings of the world.
+-Walter Lippman
+Introduction
+Sitting across from me in the booth, Tim sipped at his tea while I asked him about
+PW's readership demographics. "Media Audit," Tim said without hesitation, "is way
+fucked up." A minute ago, Tim had listed off the characteristics of the "average" PW
+reader as was related to him by the subcontractor that the publisher paid upwards of
+$30,000 per year to collect demographic data: white, young, affluent and urban. Tim
+didn't doubt that young white affluent citizens read the paper, but he saw a large gap
+between the data that the expensive demographic research company, Media Audit,
+provided and what he considered to be PW' s identity within the Philadelphia media
+market. After all, in a town as racially diverse as Philadelphia, could a paper really
+survive without having "something for everybody?"
+Elaborating a bit, Tim recalled that "on occasion" the audit company had "gone
+out of their way to point out that covers featuring African Americans don't have the same
+pick up rate as other covers." As a free urban "alternative weekly" (alt weekly), PW
+depends on a high pick up rate to ensure that it is reaching a demographic that advertisers
+will pay to communicate with. Without establishing a discrete readership, then, it is
+impossible to brand the paper and sell advertising. "For the record," Tim continued,
+referring to the subcontractor's advice, "I think that's horseshit."
+Tim started out as a magazine journalist, but found his way to PW just as it was
+undergoing a dramatic renovation from an oddball community paper, the Welcomat, to
+the established and newly resurgent alt weekly format that had already proved successful
+
+4
+
+in other markets. The changes were enacted over the course of a "chaotic" year of
+massive turnover, dramatic spikes in circulation and some bitter words with former staff.
+In the end, PW became one of two vibrant "alt weekly" style publications in the city,
+featuring journalistic news stories, human interest features, music, entertainment and
+extensive local listings for everything from concerts to massage parlors.
+PW combines left leaning journalism with an extensive knowledge of local events
+to provide a Philadelphia-centric hub of activity in a form that is both colorful and edgy.
+Through its various incarnations, PW has over 30 years of history, and in the currently
+tumultuous media landscape of Philadelphia, has been a profitable and steadily growing
+institution. This contrasts sharply with the widely publicized financial and circulatory
+malaise at formerly dominant daily print bastions such as the venerable broadsheet The
+Philadelphia Inquirer and the tabloid The Daily News.
+
+However, as a social site of meaning creation, PW poses a unique set of questions
+which can be multiply approached for a holistic view of its peculiar niche.
+Chronologically, one can ask how its historically specific form originated and flourished,
+and what economic conditions led to its formation at a given moment in time. As a
+social site of production, PW also presents a challenging productive and aesthetic
+dynamic, encapsulated in the set of practices which it uses to create and project its
+identity as an "Alt" publication. All of these issues can be drawn into a larger discussion
+of the causal structure of mass media in contemporary society, and approaching these
+questions from the bottom up, via long term participant observation and personal
+interviews, offers an excellent opportunity to evaluate certain conceptions of mass media
+from a different standpoint.
+
+5
+
+This project seeks to understand both the historical depth of PW as well as the
+current dynamics which continue to shape the social conditions of production. As Tim's
+apprehension about the media research sub contractor demonstrates, though the Weekly
+has developed into and continues to be a profitable publication which depends on a well
+developed, if abstract, advertising demographic, the tension between economic
+imperatives and editorial "independence" remains conspicuously unresolved. How did
+PW come to exist in its current format and why? Who produces PW, and what
+ideological underpinnings inform their decisions? How does PW fit into a broader media
+landscape? What can one infer about broader processes of institutionalized meaning
+making from the particular, local example of PW?
+This study combines a year of participant observation with a literature based
+analysis of both 'Alternative' publications as a historical phenomenon as well as issues of
+power and hegemony which any discussion of media production invariably entails. From
+approximately June 2006 to May 2007, I was an editorial intern at the publication, during
+which time I fact-checked articles, transcribed interviews, did some limited research and
+updated concert listings on a MySpace page. As time wore on, I successfully submitted
+several news features for publication and had the opportunity to work with both a senior
+staff writer and a managing editor. As part oftbe project, I attended weekly staff
+meetings during which I took notes on the discussions and in addition conducted formal
+interviews with the majority of the editorial staff.
+This study begins with a broad review of some major developments in mass
+media theory which contributed to the author's understanding of the issues at stake and
+moves quickly into an overview of the available anthropological materials dealing with
+
+6
+
+media ethnography as well as the small number of texts which deal directly with
+alternative newspapers.
+The second section reviews the academic debate surrounding the definition of
+'alternative' versus the 'mainstream' publications. Although the notion of the
+'mainstream' is not new, no stable definition separating it from its 'alternative'
+counterpart has yet been articulated. Nor has any one theorist been able to capture the
+precise nature of 'alt' publications and how they differ from 'popular' or 'mainstream'
+products. By attempting to synthesize an abstract model of the 'alternative' this author
+hopes to be able to more effectively analyze a publication that prominently self identifies
+as an 'alternative' weekly.
+The third section discusses the development of alternative newspapers, focusing
+on the genesis of a particular format, the "alt weekly," which emerged at a distinct
+historical juncture as the result of a unique confluence of factors. The now popular and
+widely reproduced "alt weekly" format emerged at a very particular moment in history
+from a number of identifiable forerunners. Of primary importance was the economic
+failure of the large number of"underground" publications of the late sixties and early
+seventies as well as a shift into free distribution and a business model based on
+advertising revenue rather than subscription.
+The fourth section is based primarily on my ethnographic observations and
+focuses on the peculiar practices of PW as an alt-weekly. Of particular interest are the
+development of the alt-weekly format as a vehicle for advertising and the distinct
+strategies of resistance that the editorial staff employs to reinforce its sense of
+independence from the capitalistic advertising component. Throughout all stages of
+
+7
+
+production, the staff relies on a diverse range of ideas to reinforce the paper's
+"alternative" identity despite the fact that many critics with a background in underground
+publications consider the format to be, generally, a form of "selling out" to capitalist
+pressures and nothing more than a niche marketing strategy.
+I will close the paper with an extensive discussion of the implications of
+increasing commoditization and strategies of demographically based marketing on the
+'alternative' identity of the alt weekly. While many commentators would be quick to
+condemn this process as a form of 'selling out' to corporate practice and capitalist
+dogma, I believe it is possible to show that general theories of media 'decline' and
+associated audience manipulation fail to take into account both the diversity of the media
+landscape as well as the astounding variability of personal subjectivity and individual
+interpretation of texts. In all sections, I rely on personal observations made over the
+course of my field work as well as a great deal of detail which was drawn from personal
+discussions with the staff.
+Literature Review
+Mass media research has been pursued across a wide range of social science and
+humanistic domains for much of the past century, making any review of the relevant
+literature necessarily constrained. However, media studies have been broadly influenced
+by many of the themes first articulated in the mid 20th century by cultural critics within
+the Frankfurt school. In their widely influential views, Adorno and Horkheimer theorized
+a "culture industry" which produced meanings according to a F ordist framework of mass
+production, thereby creating what they famously termed a "mass culture" ( 1974: 12)
+The "culture industry" of Adorno and Horkheimer (Adorno 1974) emphasized the
+degrading quality of cultural production, embodied in the collapsing hierarchy separating
+8
+
+'high' art from 'low' and increasing commoditization and industrialization of media
+production. Their mechanistic views of media production suppose an ordered apparatus
+which "intentionally integrates its consumers from above" while simultaneously "forces
+together the spheres of high and low art, separated for thousands of years" (12). As a
+result, "It impedes the development of autonomous, independent individuals who judge
+and decide consciously for themselves," individuals who are the "precondition for a
+democratic society" (19).
+As Debra Spitulnik (1993:295) noted in her review of the Anthropologic literature
+of mass media, this "dominant model" of the "mass communication process"
+distinguished the three phases of production, transmission and reception from each other
+and isolated each one as an isolated site of study. This model has long been accepted as
+the basis for the study of mass media and still retains a strong influence today. Indeed,
+Eric Louw (2001 :50) depends expressly on this model to base his hypotheses, and one
+can easily find the same linear chain of causality and pessimistic attitude towards recent
+media developments among media critics such as Bourdieu 1998, Chomsky 1988, Fenton
+2005, Anderson 2004 and Bagdikian 1997, among numerous others.
+Furthermore, media critics, the Frankfurt School pessimists included, almost
+universally ignore observations made by earlier interested actors within the rapidly
+growing mass media network at the beginning of the 20 th century. Chief among these
+writers is the widely cited Walter Lippman, who, in his classic text Public Opinion
+(1922), provides a description and evaluation of the news industry that is both practically
+attentive to detail and mindful of the mass media's place within a larger social and
+
+9
+
+cultural structure. Such a view is obviously contrary to the monolithic conception of the
+power of mass media that nonetheless superseded more moderate positions.
+Recently, however, Brian McNair (2006) has mounted a persuasive critique of
+preceding theoretical approaches, advocating instead a move away from what he refers to
+as the "control paradigm" which is "that set of critical approaches which views capitalist
+culture, and journalism in particular, as a monstrous apparatus bearing down on passive
+populations" and "cultural pessimism" which "asserts a process of backward evolution in
+capitalist culture [ ... ] towards those [media outputs] defined as debased, vulgarized and
+dangerous" (2006:vii-viii). Rather, by importing a neutral framework from the 'chaos
+theory' of the natural sciences, McNair supposes a "contemporary communication
+environment in which, as in nature, chaos creates as well as destroys, generating in the
+process enhanced possibilities for progressive cultural, political and social evolution, as
+well as trends towards social entropy and disorder" (2006:xii). Indeed, McNair's
+aesthetically and morally neutral approach succeeds in avoiding much of the confusion
+and alarmism of other media critiques and is able to acknowledge variation and
+ambiguity in many places where the binary system of "good" media versus "bad" media
+inevitably breaks down.
+To flesh out this transition, it is worth quoting McNair at some length:
+The control paradigm stresses the importance of structure, stasis and hierarchy in
+the maintenance of an unjust social order. It is premised on economic
+determinacy, whereby ruling elites are presumed to be able to extend their control
+of economic resources to control of the cultural apparatuses of media, including
+the mans of propaganda and public relations, leading to planned and predictable
+outcomes such as pro-elite media bias, dominant ideology, even 'brainwashing'.
+These outputs are then implicated in the maintenance of ideological control in the
+interests of dominant groups, whether these have been defined in terms of class,
+gender, ethnicity or some other criteria of stratification. [ ... ]
+
+10
+
+By contrast, the chaos paradigm acknowledges the desire for control on the part
+of elites, while suggesting that the performance, or exercise of control, is
+increasingly interrupted and disrupted by unpredictable eruptions and bifurcations
+arising from the impact of economic, political, ideological and technological
+factors on communication processes. These lead to unplanned outcomes in media
+content-dissent from elite accounts of evens rather than dominant ideology or
+bias; ideological competition rather than hegemony; increased volatility of news
+agendas; and this routinely, rather than exceptionally (2006:3-4).
+As we shall see, McNair's fresh perspective has some merit in attempting to understand
+the nature of' alternative' publications and their place inside the greater media landscape.
+Nearly half a century after their formulation, then, the unempirical and largely
+unqualified 1 assumptions of the Frankfurt school's cultural pessimism are only beginning
+to be evaluated and questioned. Although many questions of power relations and textual
+causality as they relate to the "total social fact" (Spitulnik 1993:293) of mass media in
+'modern' societies can largely be traced to the alarmist tone of the Frankfurt School, the
+current theoretical environment is becoming considerably more diverse, in Anthropology
+as much as in other fields.
+A recent wave of media ethnographers brings a bottom-up ethnographical
+methodology to media studies and is actively reconsidering former conceptions of media
+causality. This includes a reevaluation of the links between the social spaces of
+production and consumption, the various social actors in each and the textual objects
+themselves. Indeed, Spitulnik (1993 :296) noted the increasing focus on "the interpretive
+practices of media audiences" as a counterweight to previously unbalanced attention to
+processes of hegemonic media production. While Spitulnik lamented in 1993 that there
+was as yet "no anthropology of media" (1993 :293), nine years later Ginsburg, Larkin and
+
+1
+
+Adorno admits without dampening his fervor for the emptiness of the culture industry that, "thorough
+research has not, for the time being, produced an airtight case proving the regressive effects of particular
+products of the culture industry" (1974:18)
+
+11
+
+Abu-Lughod (2002) were able to identify a burgeoning subfield in Anthropology which
+was opening new doors in media studies with ethnographic approaches which were both
+multi-site and holistic.
+Of particular interest to anthropologists was the growing significance of mass
+media within the societies they were studying, and the discipline's interest in mass media
+appropriately grew from a global perspective on transnational media flow and mass
+media's role in individual and community identity formation, especially the development
+and distribution of 'national' consciousness. Two important theorists in this regard were
+Benedict Anderson 1983 and Jurgen Habermas 1989, who enriched Anthropology's
+theoretical framework for comprehending informational flows and senses of identity as
+they relate to cultural formation and change (Ginsburg 2002:3-5).
+In addition to more traditionally anthropologic studies of mass media in nonwestern societies, a small number of researchers have focused their efforts on fusing
+together the formerly separate phases of production, text and consumption into holistic
+studies of the social space of media forms. As Ginsberg and her colleagues helpfully
+point out, work by Domfield 2002, Mandel 2002, Davila 2002 and Ganti 2002 highlights
+cultural interests in the sphere of production of television, advertising and film,
+respectively. More importantly, this research destabilizes the boundary between
+production and reception by outlining the intertwined roles of audience and producer,
+ever if the former remains an abstraction. As Dornfield (2002) concluded in his study of
+a television documentary:
+The forms of mediation that result in the production of a television program are
+socially and historically situated in relation to other public cultural forms. In this
+sense, television is not just a media form but a format through which complex acts
+of cultural mediation take place[ ... ] (2002:261).
+
+12
+
+It is not difficult to think of other forms of mass media along similar lines. If the
+production of a television program entails such a detailed web of social relations, would
+we not expect to find a similar network at a newspaper or radio show?
+Continuing a bit further into the "final boundary," a very small number of
+researchers have sought to internally document and understand the "social worlds of
+media institutions where 'dominant ideologies' are produced" (Ginsburg et al 2002:17).
+These works tend to focus on the 'culture' of news production, primarily in television and
+broadcast journalism (Gitlin 1983, Pedelty 1995, Silverstone 1985 cf Ginsberg), but there
+are also some studies which directly address political economy in the newsroom,
+journalistic attitudes and internal conceptions of 'news' and 'democracy': Gibbs 2003,
+Min 2004, Harcup 2005 and Kunelius 2006.
+In brief, anthropologic literature on mass media is increasing, particularly in the
+areas where it intersects with national identity and marginalized indigenous forms in nonwestern societies, with an emphasis on broadcast media such as television and film. To a
+lesser extent, print media has been examined in a similar way, although anthropologic
+studies of newspapers seem to be rare or nonexistent. To the author's knowledge,
+ethnographic accounts of the production of alternative newspapers are extraordinarily
+limited. To date, Gibbs 2003 and Min 2004 appear to be the only studies which directly
+address the social sphere of production of printed news media with a more or less
+anthropological methodology.
+As Spitulnik commented: "The crucial challenge in studying these alternative
+media forms [ ... ] is to situate their production, use, interpretation and circulation within
+the large contexts of available media form" (I 993 :306).
+
+13
+
+To that effect, scholarly
+
+attention to "alternative" media in contemporary 'modern' societies is increasing,
+although there still remains no solid consensus on what constitutes an "alternative" or
+even "mainstream publication. If journalism is beginning to be addressed as a site of
+cultural and social production, it is still plain that the work of observing and evaluating
+contemporary mass media forms is in its early stages.
+This study proceeds from this juncture, wherein an incredible diversification of
+media production and consumption practices is a given within an equally diverse and
+fragmented sphere of exchange. Following McNair's (2006) critique of formerly
+dominant theoretical forms, this paper will eschew Habermasian and qualitative
+terminology wherever possible, situating its findings instead around the assumption that
+in a media environment as chaotic as McNair (2006) describes, nothing must be taken as
+given, and the only sure way to construct a stable or semi-accurate portrait is from the
+ground up.
+Genesis of' Alt'
+Discussing alternative forms of media immediately becomes a difficult exercise in
+semantics, as there is no formal consensus on the boundaries between what qualifies as
+"alternative" or "mainstream" (Harcup 2005:361 ). Nor is there any other reliable
+taxonomy which allows us to parse up and structurally comprehend contemporary news
+media. Instead we are presented with what Campbell (2004) has termed "broad-brush
+collective terms for a disparate body of practices" (qtd. in Harcup 2005:361). Before
+discussing attitudes at the weekly, therefore, it is necessary to attempt to disentangle
+some of the confusion and construct a suitable picture by which we can judge a
+publication to be a "popular alt weekly," an infinitely more problematic term than it
+
+14
+
+would seem. How can we understand the lines between "alternative" and "mainstream"
+journalism? Similarly, what is "popular" journalism and how does it relate to either or
+both "alternative" and/or "mainstream" publications? Is it possible for an "alternative"
+publication to be "popular?"
+As Henrik Orne bring and Anna Maria Jonsson (2004:285) have pointed out,
+Nancy Fraser's (1992) critique ofHabermas' 1989 Structural Transformations of the
+Public Sphere underlines the fact that the media environment of complex societies is a
+variegated and complicated exchange between many different interested parties,
+especially in the case of minority or "subaltern" groups. Thus, while it may be true that,
+in a modern democracy, public sphere access and exchange is essential, it may exist
+socially across many different modalities and communities, both imaginary and concrete.
+Although a discussion of the evolution of the public sphere entails many salient
+issues, the topic is far too dense to approach in this section. Rather, over the course of
+their fascinating appraisal of tabloid newspapers as the "journalistic other" (2004:284),
+Orne bring and Jonsson arrive at a concise, if ad hoc, distinction between the "mainstream
+mediated public sphere consisting perhaps of the television and radio news and
+commentary shows and the daily newspapers that have the largest audience and/or are
+generally considered most important [ ... ]" and "one or several alternative public spheres,
+where different people debate different issues in different ways" (2004:285), taken to
+mean "criticism and questioning of the political, economic and cultural elites and the
+societal status quo[ ... ]" (2004:287). While one is immediately tempted to reject this
+explanation as circular logic, since 'alternative' can only be negatively defined as that
+
+15
+
+which is 'not mainstream,' viewing this separation as a social dynamic rather than a
+structural fact makes some sense.
+For Ornebring and Jonsson (2004), this distinction is a set of binary oppositions,
+with morally charged markers delimited by the elite and established faction, which works
+in tandem to constitute an opposing dynamic between two social groups. Their example
+comes from the 19th century rise of 'popular' tabloid newspapers in England and in the
+U.S., which often garnered significant criticism from established broadsheets, which
+accused the papers of foisting all manner of sensationalized pap on an unsuspecting
+public. However, Ornebring and Jonsson find that this criticism is often unfounded, more
+the result of an elite group protecting its own interests:
+The journalistic other of tabloid journalism has appeared throughout the history of
+journalism, and [ ... ] elements and aspects of journalism defined as "bad" in its
+own time in many cases did a better job ( or at least a good a job) in serving the
+public good than "respectable" journalism (2004:284).
+As a result, in place of a qualitative, binary description of media forms which
+relies on classifying the nature of the texts produced, Ornebring and Jonsson usefully
+propose evaluating publications based on the social motivations of the actors involved.
+They classify the characteristics of an alternative sphere into four types: spatial ("takes
+place somewhere else"), social ("other participants than those normally dominating
+media discourse"), topical ("other issues than those commonly debated in the
+mainstream") and modal ("other ways" or forms of debating and discussing common
+issues) (2004:286). All of these categories rely on a conscious social opposition in
+relation to a fixed, possibly abstracted, other, and we can see that much of what might
+constitute an 'alternative' publication would be no more than a self-definition as such.
+Such an inclusive definition immediately obscures any view of the mass media that
+
+16
+
+assumes production can be broken down into two opposing halves, one mainstream and
+one alternative.
+While Chris Atton's (1999b) study of alternative media accepted the idea that it is
+possible for the alternative press to be conceived of in Habermasian terms as an
+"alternative public sphere," (1999b:54) where publications, as Tony Harcup (2005:361)
+observes, "frequently define themselves as existing in opposition to mainstream media"
+in order to "serve publics who in many cases are alienated from mainstream media,"
+recent work has destabilized this boundary. Harcup (2005) has identified many
+'mainstream' journalists with a background in the 'alternative' press and is skeptical
+about any sharp boundaries which might cast the alternative/mainstream question in what
+Rodriguez (2001) has referred to as "rigid categories of power and binary conceptions of
+domination and subordination" (qtd. in Harcup 2005: 370).
+Harcup (2005) ultimately concludes that there is some possible "crossover of
+ideas, content, style, and, not least, people between what may be termed the alternative
+and what may be termed the mainstream[ ... ]." Rather, Harcup indicates the "existence of
+what might be termed a continuum, with people, ideas and practices moving along this
+continuum, in both directions" (2005 :370). If indeed the fixed boundaries between
+'alternative' and 'mainstream' publications are breaking down, as Harcup's work
+indicates, ordering the media landscape according to Ornebring and Jonsson's (2004)
+criteria becomes extremely difficult, since the social actors at alternative publications,
+which should be separated and oppositional, are in some cases interchangeable.
+This is as much true for distinctions between 'kinds' of news as it is for the people
+and organizations which produce them. In his empirical evaluation of tabloid broadcast
+
+17
+
+journalism and its effects on the political knowledge of recipients, Matthew Baum (2002)
+grapples with a similar ambiguity produced by the multiple definition of' soft' news as a
+"residual category for all news that is not 'hard,"' "a particular vocabulary," or a "set of
+story characteristics" (2002:92). Ultimately, Baum accepts an "imprecise" inventory of
+characteristics to delineate 'soft' news from 'hard' news, but remarks that the "difference
+between soft and hard news is one of degree rather than kind" (2002:92). If there is little
+or no essential difference between 'kinds' of news, then, the social and cultural factors
+which impact news production and reception become ever more relevant.
+We should recall at this point the principal complaint articulated by the Frankfurt
+School pessimists, that media production is an ordered apparatus which "intentionally
+integrates its consumers from above" while it simultaneously "forces together the spheres
+of high and low art, separated for thousands of years" (Adorno 1974:12). This media
+criticism, based as it is on black and white judgments of quality and an indemonstrable
+but assumed decline, however, quickly shows itself to be problematic in the face of direct
+observations. Ifwe accept Harcup's (2005) claims that the boundary between
+'alternative' and 'mainstream' publications is at best porous, and evidence from Baum's
+(2002) content-based analysis that there is a similar ambiguity between 'soft' and 'hard'
+news content, it becomes obvious that we must re-examine the framework we employ to
+describe the cultural and social products of journalism.
+Further complicating matters is a significant overlap between so called 'popular'
+media and what can be considering 'alternative.' From the outset one would assume that
+a 'popular' form of media would be more aligned with the 'mainstream,' but this is not
+necessarily the case. Citing Raymond Williams 1976, Martin Conboy (2007) remarks
+
+18
+
+that there are three "areas of conflict" which obscure the definition of 'popular' cultural
+products. The term can be seen:
+first, politically as denoting culture created from the point of view of the people
+rather than those seeking power over them; second, it can be seen as inferior to
+the quality of elite or high cultural products and practices; third, it can mean wellliked by many people (2007:1-2).
+As Conboy (2007) notes, Colin Sparks (2000) synthesized this description into the
+"political, the aesthetic and the quantitative aspects of the popular" (Conboy 2007:2).
+Returning to the four part typology enumerated by Ornebring and Jonsson (2004) above,
+we can see some interesting parallels. The spatial, social, topical and modal features of
+the "alternative" can be un-problematically absorbed by the first two elements proposed
+by Sparks (2000), or vice-versa. Politically, actors set themselves apart in "alternative"
+spaces with "alternative" actors while aesthetically choosing to cover "alternative"
+subjects in "alternative" modalities. What is left is the quantitative dimension of how
+many people comprise the actual or imagined readership, which, when compared to the
+depth of the other categories is more a superficial marker of obscurity than otherness.
+The number of readers, after all, is a thin criterion by which to separate 'popular'
+publications from 'alternative' ones.
+Additionally, while at first glance the "popular" journalism of the tabloids would
+seem to be the antithesis of the anti-mainstream "alternative" press, both self-define via a
+process of differentiation from a fixed other. In the case of "popular" publications, it is
+their "elite" counterparts which produce the tension between, in Conboy's terms, "quality
+and tabloid," (2007: 1). In the case of "alternative" publications, as we have already seen,
+their 'alternative-ness' is constructed largely in their positioning of themselves in
+opposition to what is perceived to be 'mainstream.'
+
+19
+
+Hence, to say that a publication is at once "alternative" and "popular" is
+somewhat redundant, as "alternative" seems to overlap all the implied aspects of
+"popular," save for the quantifiable numbers of readership, and there is no reason to think
+that the inverse might not also be true. That is, in the most abstract terms possible,
+'alternative' can easily imply 'popular' and vice-versa. In this case, the only difference
+of note would appear to be the number of readers or the breadth of circulation. For all
+intents and purposes, then, this author considers the terms largely interchangeable.
+Considering the lack of any stable definition of "alternative" or "popular" based
+on structural or qualitative features of content, the social conditions of production
+become the primary dimension of analysis. Despite the fact that actors producing
+'alternative' media might not be entirely distinct from those who produce 'mainstream'
+forms of media, conditions of production could still differ significantly, regardless of the
+actors. The question therefore becomes: who is producing what and why?
+Atton (1999b) concisely distills this socio-political basis of 'alternative.'
+Building on Michael Traber's (1985) assertion that 'alternative' news was necessarily
+limited to"[ ... ] alternative social actors [such as] the poor, the oppressed, the
+marginalized and indeed the ordinary manual labourer, woman, youth and child as the
+main subjects of [their] news" (qtd. in Atton 1999b: 52), Atton asserts:
+Through Traber[ ... ] we can argue that collective methods of organization and
+alternative forms of distribution are far from mere ideological fixities; instead
+they spring naturally from the nature of the alternative media conceived as
+methods of achieving social and political action, rather than merely information
+resources that have no more than the 'bottom line' as their main concern
+(l 999b:73).
+
+20
+
+Atton goes so far as to produce the following 'Typology of Radical and
+Alternative Media" which covers both qualitative aspects of content as well as social
+dimensions of production:
+1. Content (politically radical, socially/culturally radical); news values
+2. Form- Graphics, visual language; varieties of presentation and binding;
+aesthetics
+3. Reprographic innovations/adaptations- use of mimeographs, IBM typesetting,
+offset litho, photocopiers
+4. 'Distributive use' [ ... ]-alternative sites for distribution, clandestine/invisible
+distribution networks, anti-copyright
+5. Transformed social relations, roles and responsibilities- reader-writers,
+collective organization, de-professionalization of e.g., journalism, printing,
+publishing
+6. Transformed communication processes- horizontal linkages, networks
+(1999a:27)
+Two of Atton's criteria are materially aesthetic (form and reprographics), while
+the rest refer to social modes of production. We can conclude, therefore, that any
+differences in news media which involve creating an 'alternative' publication rely much
+more heavily on the social and political motivations of their creators than anything else.
+Other categorical qualities have shown themselves to be difficult if not impossible to
+demonstrate, since kinds of news appear to exist on a stylistic and ideological continuum
+just as journalists themselves do. From this perspective, any argument which posits the
+'decline' of 'mainstream' news or even rests on a stable taxonomy of news production
+based on content is at best confusing and at worst fundamentally incoherent. As well, it
+may even be true that the 'alternative' press, in any meaningful sense of the term, no
+longer exists in a relevant way.
+As Conboy (2007) explains, "In our contemporary capitalist consumer culture, it
+is hard to envisage much in the way of journalism which is produced entirely by ordinary
+people and consumed by sufficient numbers of them to maintain regular production as
+
+21
+
+journalism given the institutional and financial demands of the genre" (2007:2). Most of
+journalism is thus professionalized and produced on a scale which renders it "popular" in
+at least one sense of the word.
+Thus, Conboy (2007) suggests that "previously convenient distinctions between
+elite and popular culture often no longer apply." Moreover, he provocatively opines that:
+Under pressures from increased capitalization and technological innovation we
+have seen the beginnings of professional convergence withinjournalism and
+following this trend we are quite possibly seeing a corresponding popular
+convergence in which previously distinct aspects of popular journalism blend and
+mix with other genres the better to fulfill its purpose of making money and
+darning influence by articulating the interests and the voice of the people
+(2007:2).
+Based on this reading of contemporary print media, the creation of opposing
+categories of media production is a feature of certain social relations and conscious
+positioning rather than a valid evaluation based on a set of qualitative features. This
+synthetic manner of parsing up the media landscape is not necessarily a new
+phenomenon, nor an outgrowth of the increasingly fragmented and large pool of
+contemporary production, however, as a historical view of the evolution of journalism
+will indicate. On the contrary, it appears to be a key indicator of the nature of the metadiscourse surrounding journalistic production and further motivation to investigate first
+hand the social conditions at the site of production itself. If no journalistic practices can
+properly be divided into corresponding "alternative" and "mainstream" spheres of
+production, and, as Stuart Allan (I 999) has claimed, that all journalism is necessarily
+'popular,' then it is not a great leap in logic to say, as Peter Dahlgren (1992) has, that
+journalism has much in common with the similarly difficult to classify cultural
+
+22
+
+productions of art, literature and language and should be treated as such (Conboy
+2007:3).
+Alt Weeklies in Historical Perspective
+As Ornebring and Jonsson (2004 ), as well as Conboy (2007), illustrate, the
+socially driven categories of 'high' and 'low' journalism as much as 'soft' and 'hard'
+news have a historical precedent, and are better understood as historical and political
+constructions than useful generic markers. Conboy (2007) appropriately observes that
+"historical perspective also demonstrates that journalism has always been part of a
+general process of making information accessible to people outside the narrow confines
+of power-elites and gossip-mongers" (2007: 1).
+Indeed, in the 19th century, one finds ready examples of this dynamic in the newly
+invented "tabloid" papers in England as well as the "penny press" of the United States.
+Tabloid journalism appeared as the brain child of Alfred Harmsworth in late 19th century
+England, mainly as a design innovation, since 'tabloid' in its most literal sense, refers
+only to the size of the paper. The first "tabloid" to appear by that name was
+Harmsworth's Daily Mail (I 896) as part of a broad effort to make papers with "mass
+market appeal" with a product that was "easier to handle and read on the bus, tram and
+other forms of public transport" (Ornebring and Jonsson 2004:287)
+Before this approach to journalism was dubbed "tabloid," however, "popular
+journalism" appeared in the US as early as 1830, with Benjamin Day's New York Sun
+(1833) as an example of a cheap newspaper which catered to "a newly literate pubic that
+did not have much in common with the newspaper public of a mere ten years earlier."
+The result was a paper which encouraged a different topical focus and tone, engendering
+
+23
+
+along the way the birth of the "human interest" story, divorced as it was from an early
+overemphasis in journalism on political and economic issues of interest only to the
+"property class." As these papers began to achieve commercial success, however,
+existing broadsheets criticized the new publications on charges of sensationalism, as they
+printed "scandalous tales of sin, the immoral antics of the upper class, and humorous tales
+of mishaps" in addition to crime and police stories (Ornebring and Jonsson 2004:288).
+Ornebring and Jonsson contend therefore, that the characterizations of tabloids as
+journalistically unsound are the result of an economic rivalry between the newcomers and
+established, elite interests. Despite the persistence of "binary oppositions, where
+emotional is bad and rational-intellectual is good, sensation is contrasted with
+contextualisation and tabloid journalism is charged with meeting complexity with
+dumbing down," Ornebring and Jonsson argue that tabloid journalism could constitute an
+"alternative public sphere" (2004:284), which arose in the face of the "failure of other
+societal institutions[ ... ] to address adequately issues of vital concern to many members
+of the public." Because they increase the spectrum of news coverage and its perceived
+audience, then, "tabloid forms may provide new opportunities for representation and
+recognition for groups outside the mainstream" (2004:293).
+Although not an unbroken lineage, the early history of popular journalism is
+paralleled in many important ways by the rise of a wave of radical and underground
+publications during the mid to late I 960s. These papers, for their part, represented
+another frenzied generation of publications produced to suit an audience which was not
+being adequately served. From the first issue of the Los Angeles Free Press in 1964 and
+of the Berkeley Barb in 1965, David Armstrong (1981) notes that by 1966, there were as
+
+24
+
+many as 400 underground newspapers, serving a readership of several million that was
+"overwhelmingly young, [ ... ] white and middle class" (1981 :32). These papers produced
+what Armstrong terms an "eclectic" mix of topics such that any broad definition would
+be difficult, but by and large the underground newspapers of the 1960s wrote about
+liberal political and social topics with an edgier, more aggressive tone which resonated
+with a large segment of the population (1981:45).
+As time passed, however, the increasing popularity and profitability of these
+publications resulted in significant aesthetic and production changes. To make money,
+many papers relied on pornographic ads that no other paper would print, along with a
+smattering of music advertisements from major record labels. However, as the Vietnam
+War ended, and audiences began to fragment politically, underground papers lost
+advertising and revenue to newer publications which were politically neutral, but kept the
+edgy "youth" style of the early underground press (Armstrong 1981:180-84).
+Armstrong cites the rise of the Rolling Stone as a specific example, but more
+generally laments that "underground media activists had underestimated the adaptability
+of mainstream culture" and that the "commercialization that proceeded apace in the late
+sixties was the complementary opposite of the political suppression of the same era"
+(179). As a result, more mellow, commercial 'alternative' publications emerged to serve
+the same readers, the "Woodstock Generation a decade later, looking for a condominium
+rather than a tab of LSD, the 18 to 37 year olds coveted by advertisers" (1981 :267). This
+involved the development of a "core of experienced professionals" who worked to
+change the confrontational position of the underground papers urging for "revolution"
+
+25
+
+into the "message that working models of reality substantially different from mainstream
+culture already existed" (1981:182-3).
+Emphasizing this distance, Harcup (1998, 2006) insists on the "demise of the
+local alternative press," at least in England. Harcup here uses 'alternative local press' to
+refer to "local newspapers[ ... ] which were independently and usually cooperatively
+owned; geographically based; and defined themselves as providing 'ordinary people'
+with an alternative to the mainstream media" (1998: l 06). Leeds Other Paper was such a
+publication, and while it offered a locally produced newspaper which focused on the
+'ordinary' citizen, and consistently, in Harcup's words, "demonstrated that there was
+more than one way of looking at the world," "contested the accepted notions of common
+sense" and "illustrated how news and views relied on social construction as much as the
+reporting of any objective truth" (1998:J 13). Eventually, however, LOP was unable to
+maintain its existence:
+[ ... )despite its journalistic achievements, and its development of a
+comprehensive arts listings guide, sales of LOP rearly topped the 2500 mark[ ... ]
+In the quest for a younger, more postmodern readership, it gradually became more
+of a what's on guide with 'lifestyle' features and fewer hard news stories.
+Dwindling sales and mounting debts, combined with increasing staff turnover and
+burnout, a declining number of contributors and chronic under-capitalisation,
+resulted in the paper publishing its final issue on 20 January 1994 (1998:114).
+Broadly, underground papers had succeeded in expanding the news spectrum, as
+Jean-Francois Bizot wryly comments that the major papers were now "publishing scoops
+such as Watergate that had formerly been the bread and butter of the UPS [underground
+press syndicate]." (2006: 227) But, as Armstrong has demonstrated above, many
+underground newspapers failed to remain profitable enough to survive. As a result, Bizot
+laments that "Thirty years later, the underground press has virtually disappeared" (2006:
+
+26
+
+227). However, certain papers, such as the Rolling Stone as well as the Village Voice,
+succeeding in transitioning from underground publications into profitable organizations,
+and furthermore tended to market themselves to the same readership. Thus, a broad trend
+among underground or alternative newspapers was both increasing commoditization of
+content (more ads and associated entertainment guides and features) along with a
+reinforcement of the underground aesthetic which allowed them to reach the same
+young, white, affluent and urban readers who could now be utilized, profitably, as a
+saleable ad demographic.
+A similar example can be found in the specific lineage of PW. PW, before 1995,
+was the Welcomat, an eccentric local paper that was described by a former editor as
+"basically one gigantic opinion page." The Welcomat was established in 1971 and
+survived, profitably, through the years with a small, if steady, circulation. As Jim
+Knipfel, a former columnist, reminisced:
+[we] transformed the Welcomat into exactly what we thought it should be [ ... ] we
+brought in writers and cartoonists we liked, we ran stories we liked. The office
+walls became covered with insane posterage [sic], the ceiling a home to a hundred
+or more species of dangling plastic animal. The air in that room filled with music
+few people could tolerate (Knipfel 2006:np).
+Dan Rottenberg, editor at the Welcomat from 1981 to 1993, describes the paper as
+"a unique, revolutionary experiment in pushing the boundaries of free speech" whose
+"willingness to speak truth to power generated a loyal audience that translated into ad
+linage and revenues three or four times the size of its closest competitor, the Philadelphia
+City Paper" (New York 2006: np). However, in 1992, the owner of the paper, Susan
+Seiderman, brought in a new publisher, Michael Cohen, who decided to revamp the paper
+into a new format. In a period which a current editor describes as "total chaos," every
+
+27
+
+staff member save for two was fired, and in the spring of 1995 the paper was changed
+"overnight" into an alt weekly.
+For some, including Knipfel, who will refer to Cohen only as "Baldy Fuckwad,"
+this transition was a form of betrayal. Knipfel describes acts of editorial sedition on the
+part of Cohen:
+suddenly he was back there in the editorial office, making suggestions and sitting
+in on editorial meetings. It became evident that what we were doing wasn't
+"commercial" enough for him, and he scheming to take steps to remedy that. [ ... ]
+a whole new editorial staff was brought in, and the name of the paper was
+changed, and it became "commercial." It also became just another one of those
+bland, predictable weekly "alternative" papers that you'll find in every major
+American city, with the same stories, the same attitudes, the same comic strips
+(Knipfel 2006:np).
+Rottenberg is similarly critical of Cohen, accusing him of turning the vibrant
+Welcomat into "a generic youth-oriented alternative weekly indistinguishable from the
+City Paper." The current editor, however, responded directly to these criticisms by
+claiming that:
+Cohen quadrupled the editorial staff and budget [ ... ], transforming what had been
+a vanity paper run by sycophants into a vital alternative newspaper with a heart
+and soul that's launched many writing careers (New York 2006:np).
+While the details are admittedly muddy, the trend for the newspapers founded in
+the late sixties and early seventies as "underground" or "alternative" publications to
+undergo difficult transitions in order to retain their appeal to a changing and fragmenting
+readership was obviously widespread. Taking a specific example, figures 1.1-1.4 show a
+local example, the Distant Drummer, which was founded as an underground paper in
+Philadelphia in 1966. In the span of 13 years, however, the roughshod, DIY underground
+political newspaper had become noticeably more entertainment oriented. Interestingly,
+the listings, which Harcup noted that LOP undertook only as a last ditch effort to save the
+
+28
+
+paper, have been present in The Drummer since the very first issue. Today, one still
+finds an "8 Days" feature printed in PW which is remarkably similar to the '8 Days a
+Week' of the Drummer (Fig. 1.5).
+As Armstrong (1981) has pointed out, contemporary alternative publications can
+trace their origins back to both populist tabloid newspapers of the late 19th and early 20th
+centuries as well as the 'activist' journalism of the underground newspapers of the 1960s
+and 70s (1981 :276). While earlier underground and alternative papers may have tended
+to attack the established political power structure from a more 'grassroots' standpoint
+with writers and staff who were not necessarily formal journalists, as the above examples
+show, alternative publications began to professionalize and hone their commercial skills
+in order to increase revenue and survive financially. What seems to have been carried
+over is a certain aesthetic sensibility, closely linked to the inclusiveness and brash tone of
+19th century tabloids as well as the same cheeky irreverence and colorful design of the
+60s underground publications. Consequently, speaking aesthetically, PW is not so far
+removed from Philadelphia's singular underground newspaper, the irregularly published
+Defenestrator, both of which can be traced back, in a limited way, to the underground
+proliferation in the late I 960s. As Figures 2.1 and 2.2 show, both are tabloids which rely
+on a striking artistic component to text layout and showcase features.
+However, much in keeping with the criticisms of Knipfel and Rottenberg,
+Armstrong considers these publications "alternatives in the broadest sense" since the only
+ways they differ from the 'mainstream' daily newspapers are:
+their relative ease of access for unknown or offbeat contributors; their use of the
+personal voice in writing; their willingness to do in-depth, magazine-style features
+about issues generally skimmed by daily newspapers and electronic media; their
+willingness to jab at the local power structure (1981 :277).
+
+29
+
+Indeed, Armstrong accuses the alternative weeklies as being nothing more than
+"hybrids" of earlier publications which favor "pleasure rather than struggle; status rather
+than the erasure of privilege; enjoyment of the world as it is rather than visions of the
+world as it might be." (1981:279) In more neutral terms, they utilize stylistic elements of
+the radical and underground press as an environment in which they can commercialize
+and profit from a demographic rather than mobilize a constituency. In fact, alt weeklies
+find such a willing pool of advertisers that they are mostly distributed free to readers.
+Despite the misgivings of some, the alt weekly has succeeded in securing a large
+and profitable audience. According to the Project for Excellence in Journalism, the
+audience for urban alt weeklies peaked in 2001 at 7.79 million, but continues to hold
+steady at 7.64 million in 2005, up from around 2.5 million in 1989. Furthermore, as the
+survey data from PEJ shows, the audience for alt weeklies is already old, with a median
+age of 40.3 years. Contrary to what one might think from their "hip" style, alt weeklies
+are not necessarily niche publications, as PEJ reports that
+The alternative weeklies are well-established papers, entrenched in many
+communities as more than simply tabloids for the young. As we have mentioned
+in previous years, weeklies are by no means outsider publications; their readers
+have an average income of over $51,000 and more than 40% of them have college
+degrees. And the rising rate of those who are married with children in the house
+reinforces their broader appeal (2006:np ).
+As well, in 1978, alt weeklies banded together to form a trade organization, the
+Association of Alternative Newsweeklies (AAN), which now comprises 124 "non-daily
+free-circulation papers." AAN also brings its members under a national advertising
+umbrella, courtesy of the Ruxton Media Group, which sells national ads in the network of
+alt weeklies (2007: np). Thus, while PW clearly reflects the aesthetic and topical
+
+30
+
+influences of the underground press, the paper has undergone a thorough process of
+commercialization which has stripped it of any grassroots political motivation. PW now
+has "something for everybody" because the paper is a capitalistic enterprise which caters
+to a saleable advertising demographic.
+To conclude, examining the history of any publication, much less an entire genre
+with an uncertain definition and fluid boundaries, is fraught with gaps of information and
+often necessitates making certain leaps. While it was not the intention of this section to
+be in any sense a definitive, or even complete, history of alternative publications nor PW,
+I believe it does show that current media forms have very specific evolutionary links, and
+that certain themes have remained in the public discourse surrounding journalistic
+production for nearly two hundred years. The questions posed even then are still
+relevant, as we are faced with media forms that have moved past socially motivated
+origins as sites of resistance and otherness and into a new paradigm of
+commercialization. The next section, which details my ethnographic observations, seeks
+to understand the current productive environment at PW by questioning its sense of
+institutional identity.
+Ethnographic Perspectives at the Weekly
+For the staff of PW, the publication is distinct from others in the media
+environment, especially from the 'mainstream' daily newspapers such as the Inquirer and
+the Daily News. This is well reflected in their comments regarding the nature of their
+publication, as well as some characteristics of the workplace and the editorial hierarchy.
+However, much as we would expect from the above discussion, a sense of being radically
+different is no longer salient for defining the weekly in a world where qualitative
+
+31
+
+distinctions are collapsing, and market dictates are shaping all publications into
+capitalistic enterprises dependent on the bottom line. This section relates to the qualities
+of 'altness' at the weekly both from the responses of the staff to my questions as well as
+my own observations.
+For convenience, I have divided them into sections which correspond to the three
+broad fields defined by Sparks (2000), though this is no way an attempt to impose an
+evaluative framework. Rather, these admittedly vague tags are entry points by which we
+may describe an otherwise fluid and illegible set of deeply enmeshed characteristics. It
+should also be noted that my analysis is structured very differently from Patricia Gibbs'
+(2003), and while I will use her work to put my own in perspective, our observations and
+subjects differ in numerous and important ways, which I will discuss in more detail at the
+end of this section.
+Political
+People and Hierarchy
+In terms of the demographics of its staff, PW does not necessarily fall outside of
+the 'mainstream.' The staff of PW includes several people with diverse backgrounds, but
+it certainly does not reach parity on all counts. Of twelve editors and staff writers, six are
+women, but only one is African American in a city that is approximately 43 percent
+African American. However, even this is seen as a positive development, as one editor
+noted that alt weeklies "have a historical tendency to be young and white" and that a
+prominent colwnn by an African American writer would not have been found in the
+genre only five or ten years ago. Most of the other editors and writers, however, are
+relatively young and mostly white.
+
+32
+
+In the office, despite the relative racial, economic and educational homogeneity of
+the editorial staff, PW embraces a sense of newsroom democracy that, at least on the
+surface, is non-hierarchical. According to the Editor in Chief, he pays "little or no
+attention to established writers" on staff. Instead, he claimed to rely on the "individual
+character" of each writer to search out the topics that interested them and ensure that the
+paper remained "edgy" and up to date.
+True to form, each large section of the paper is the purview of a single, quasi
+independent editor. 'Hard' news is contained in the "front of the book" in section called
+"This Just In" and is controlled by the Managing Editor, who works with staff writers,
+freelancers and interns to shape the section each week. Although the editor can have an
+active role in selecting or soliciting content, staff writers, interns or freelancers usually
+submit stories in the form of a short 'pitch,' either via email or in person. This same
+process is used by the other editors who are in charge of Arts and Entertainment (A&E,
+or the "back of the book"), Film, Food, Music, Listings and the two or so biogs which are
+written more or less independently by staff members. Once the editor has chosen the
+pieces for publication, the contents for the coming week are presented to the remainder of
+the editorial staff in a weekly meeting. Larger projects are often discussed many weeks
+ahead of time, but in all my observations, I did not see a single heated criticism or
+rejection of a piece once it had been chosen by its corresponding editor. It should also be
+noted, however, that most of the senior editors and writers have personal relationships
+which allow them to discuss content decisions outside of the staff meeting forum. As
+
+2
+
+Gibbs (2003:593) notes a similar situation at her site of study, with an alt weekly staff which is "not
+reflective of the ethnic makeup of the larger population of the state [Hawaii] [ ... ]" and furthermore that
+
+"The staff is also overwhelmingly young, with most in their 20s and 30s and fewer, more veteran workers,
+
+in their mid 40s or 50s. Roughly 50 percent of the workers are female and 50 percent are male."
+
+33
+
+such, it is a possibility that an informal hierarchy of personal relations has a significant
+influence on content decisions. All the same, these observations are strong indications of
+a compartmentalized and diffuse sense of authority.
+A conspicuous example of internal editorial independence is a "back of the book"
+editor who often writes about topics and publishes pieces which other staff members are
+not enthusiastic about. Even the Editor in Chief admitted that he had difficultly
+"relating" to this particular editor's tastes, and other staff members reacted ambivalently
+when presented with his ideas. During the weekly staff meetings, the back of the book
+editor oftentimes employed a dry, ribald wit which did not always solicit laughs from his
+front of the book colleagues 3 and often led to desultory conversations about various popculture icons. While it is difficult to demonstrate this separation effectively, Figures 3.13.4 contains a juxtaposition of 'line-ups' for the 'front of the book' and the 'back of the
+book' for a given week. Examining them side by side, we can see a significant aesthetic
+and topical contrast, from which it is not difficult to infer that more than one editorial
+tone prevails at the weekly.
+Another editor, known for his slapstick and unfailingly vulgar columns
+(exemplified in Figure 4) had no qualms about his literary tone and its place: "I doubt I'd
+be tolerated for more than five minutes at the Inquirer." This same writer/editor
+articulated, in the same speech, both that "capitalism is a bad thing," and that criticism of
+the popular media, such as tabloid newspapers, was most often the result of "effete craft
+snobbery."
+
+3
+
+For example, at a staff meeting the Music Editor encouraged everybody to go see Bobby Conn because
+"there's a good chance he'll take his penis out." There then followed one of the most lively discussions of
+
+the meeting, where the Music Editor debated the rest of the room about the quality ofVHI 's series "White
+Rapper." He was alone in his praise of the show.
+
+34
+
+By and large, while it is a stretch to say that the staff of PW is entirely
+representative of its wider community, it is nothing if not inclusive and open to a
+different range of political ideas from its staff which are not necessarily represented
+strongly elsewhere. However, as we shall see from the concrete sense of the readership
+in the minds of the editors as well as their thoughts on the distinctness of the publication,
+PW occupies a generally well-defined place in the media landscape.
+Readership in the Minds of the Editors
+One of the few things universally agreed upon at the weekly was its specific
+demographic. For a senior staff writer, the paper was a "niche publication" for "younger,
+more affluent and educated" readers. While he acknowledged that PW skewed a little
+older than other alt weeklies, for him, the primary audience was "college aged kids up to
+young adults in their early thirties." For another editor the response was "hip, young and
+white," while an intern dubbed the paper the "alternative, left-leaning voice of the young
+urban population." Most of the salient characteristics of the paper's readers (according to
+the editorial staff) fell somewhere into this vague realm of "young, urban and hip."
+However, this characterization seems to be more a result of well-published media
+research than of first hand observations, and many editors expressed reservations about
+its utility. One editor noted that the advertising staff talked a lot about the specific
+demographics of the target audience, and mused that if it were up to them, the whole of
+the paper's content would be tailored to fit that demographic. To the editor, this would
+only succeed at making the weekly "stilted" and "fake." While the editor didn't challenge
+the correctness of the demographic information, since he was sure "they spend a lot of
+time and money on it," he didn't think that the demographic was really all that "relevant"
+
+35
+
+to producing quality journalism. Rather, the editor expressed confidence in the paper's
+strategy, already articulated by a senior editor above and somewhat illustrated by the
+degree of internal editorial independence, to trust each individual writer's interests to
+follow the broader interests of the readership at large.
+Indeed, there were discrepancies between the widely circulated demographics
+used to sell ads and editorial opinion. The two most senior editors interviewed both
+agreed that the paper had "matured" in the 13 years they had been at the helm, and to a
+certain extent had become more "mainstream," with "something for everybody." Despite
+this ambiguity, many media guides, such as the Ruxton Media Group, which sells
+national ads in many alt weeklies across the country, describe PW's readers as "an
+extremely loyal audience of young, educated and active readers who are difficult to target
+using conventional media." On the other hand, RMG puts total readership at 336,000
+(Ruxton 2007: np).
+Regardless of the wide recognition of the existence of this homogenous set of
+"young, urban and hip" readers, opinion among the editorial staff was largely hostile
+towards media research. As noted in the opening anecdote, some staff at the paper
+expressed serious doubts about the methodological validity of the market research, a
+sentiment which was echoed by another editor, who said that the system was "total
+bullshit" since it only used landline telephone surveys that probably excluded younger
+readers, many of whom may only have cellular phones. Without skipping a beat, the
+same editor asserted that "everybody hates Media Audit." She recounted a hypothetical
+example based on several actual experiences in which the media research company would
+tell the editorial staff that pickup rates were dropping due to a lack of interest on the part
+
+36
+
+of one audience segment, only to come back with the opposite in the next report. In her
+words:
+'You're losing the females,' they would say, and so we would add a female
+columnist or something only to have them come back the next year telling us that
+the male readership was dropping off.
+Her frustration was echoed by many other staff members, one of whom during a
+staff meeting discussion of recent cover stories wondered aloud, "Do people really even
+care anymore?" The question, far from being merely a rhetorical expression of
+frustration emphasizes an underlying concern at the publication, more explicitly
+articulated by a senior staff writer as the general problem for all print media: "Everybody
+is trying to figure out the formula to reach readers effectively."
+This need to 'reach' readers was often discussed during staff meetings, and
+especially in reference to cover stories. A senior writer who wrote features very often
+contended that stories had to convey a strong sense of a "personality" or character which
+"makes it easier to follow, easier to get into." He referred to the amount of reader mail he
+received for particular stories as a gauge, using his recent series of journalistic criticism
+as an example: "Nobody responded when we wrote about Knight-Ridder, but Brian
+[Tierney] is different[ ... ] now people write in." During staff meetings, he consistently
+conveyed the same attitude, encouraging a personalized tone for cover stories with a
+human dimension, citing narrative stories with "compelling characters" which would
+produce an "emotional bond" with the reader, even while other writers advocated a more
+thematic approach of "topics from a different angle."
+Interestingly, perceived reader interest was often used as a primary gauge of
+quality for material. This interest was measured via web hits for the online version as
+
+37
+
+well as through the volume of mail (emails) to the editor. For example, when a new
+feature appeared, called "Angry Grammarian," a key topic of discussion in the staff
+meeting was the fact that the column had generated more letters than all the other stories
+put together. Similarly, returning to the above argument over the style of successful
+cover stories, the senior staff writer explicitly referred to the fact that an article based on
+a "compelling character" was among the top five most accessed stories on the website.
+Even more fascinating was the Editor in Chief's suggestion that since reader pickup rates
+determined the publication's salability to advertisers, alt weeklies were indirectly forced
+to "stay edgy or go out of business," a situation which he dubbed "capitalism in the raw."
+Generally, two themes emerged over the course of discussing readership
+demographics with the editorial staff. First and foremost, nobody accepted the Media
+Audit data without, at best, a healthy dose of skepticism. Editors were unequivocally
+frustrated both with the quality of the data and its applications to content to boost pickup
+rates. Secondly, despite these widespread doubts, editors and writers nonetheless had a
+conception of who was reading the paper, and based content related decisions on whether
+or not they thought a certain kind of story would increase pickup rates. Therefore, it is
+fair to say that even though the editorial staff mistrusted the data they received, they still
+expressed an interest in responding to the readership with content that 'they' would find
+interesting. This belief was strong enough in some cases to encourage a Darwinian
+analogy in which readership demand determined the survival of the 'hippest' publication
+most in touch with the need and interests of its intended demographic.
+Binary Antagonisms
+
+38
+
+PW is largely structured according to two sets of extremely distinct divisions.
+Broadly, the Editorial staff exists somewhat at odds with "the other side" of the
+advertising staff, which, interestingly enough, is also the source of a biannual softball
+rivalry. While the entire staff of the paper shares one contiguous workspace, a common
+reproduction area and two narrow hallways separate the "Eds" from the "Addies."
+As an editor explains it, however, this basic division is essential, and this "literal
+and figurative wall" should exist in "any newspaper that's worth its weight in salt." Four
+years ago, before PW moved to its current location, the administration, advertising and
+editorial sections were all on different floors and "we liked it that way," reminisced one
+editor. The editor recalled that many people were initially apprehensive about sharing
+floor space with the advertising section, worrying that the ad people would be "getting all
+up in our business." Speaking bluntly, he remarked that "we don't want them to know
+what we're doing." He gave two main reasons. First, they could leak information to
+clients in inappropriate ways, which would undermine the paper's credibility. In the
+editor's terms, a newspaper who sold ads directly based on content was not
+"journalistically sound." Secondly, since any article can be "changed or pulled at the last
+minute" he questioned the intelligence of such a "hypothetical" strategy, meaning that
+even if a publication sold ads directly based on content, it would be difficult to tie ads to
+specific pieces since they could be changed right up until the last minute. Overall, he
+emphasized that you "never want even the appearance that the advertisers are affecting
+editorial content."
+Thus, the Editorial staff operated with an explicit sense of independence from the
+advertising staff, which, as noted previously, uses an expensive subcontractor to generate
+
+39
+
+extremely specific readership demographics which they can in turn present to buyers as
+the audience for their advertisement. All the editors, when asked about the relationship
+between the two sides of the floor, emphasized the importance of having an
+"independent" editorial staff, but there is nevertheless a significant amount of overlap
+between advertising and editorial content.
+As we have seen, a distinct sense of who is reading the paper is an important
+component in the way the editors choose and evaluate stories. Inasmuch as they use this
+abstraction as a metric for quality, oftentimes editors referred to the advertising
+demographic as a force which shaped content in significant ways. As one editor said,
+matter-of-factly, "The guides are vehicles to sell ads" and so "they have to be a cheery,
+happy thing." These guides are seasonal and/or thematic issues (eg. "Spring Guide" or
+"Restaurant Guide") which focus on particular topics. However, this was not a widely
+held idea at the weekly, as the other editors seemed to think that the barrier between
+advertising and editorial was as strong as ever.
+Even within the editorial section there are significant separations between those
+who work on the "hard news" oriented 'front of the book' and those who work on the
+A&E 'back of the book' section. Recalling the personal idiosyncrasies of the previously
+mentioned back of the book editor, the split between news and entertainment produces a
+similar kind of tension.
+A senior staff writer remarked that in the last five to seven years, PW had gone
+from "grudgingly" supporting A&E to putting more effort into that section over all
+others. He noted that there were "more voices" and more "feedback" for the A&E
+section than for the front of the book. However, for the senior staff writer, this was
+
+40
+
+primarily a temporary staffing problem that resulted from the recent reduction of the
+permanent writing staff from four to two. "It's in the nature of alt weeklies. We'll never
+get the funding for six or eight writers to cover for one another." The result, according to
+the staff writer, was "blips," or inconsistencies, in news coverage. The turnover of staff
+writers was also not overly disturbing for him because the paper tends to hire writers
+"sporadically" to "fill certain niches." He therefore viewed the problem as temporary and
+cyclical, saying that although there were "wobbly" periods, eventually "we get our shit
+together."
+The difficulty of producing quality, traditional journalism also came up with
+another editor, who remarked that the primary reasons readers picked up alt weeklies was
+for their "calendars, movie reviews and show previews." Certainly, it was generally
+accepted in staff meetings that the largest web hits were generated by these types of
+articles. Rather than viewing the difficulty of producing traditional 'hard' news as a
+specific feature of staffing difficulties, however, the editor saw profound changes
+happening in the way news was consumed that made it next to impossible to present
+relevant issues in a weekly format. In a newly "compressed, online news cycle," more
+news was breaking more quickly online, while print publications, and more specifically
+large metropolitan daily broadsheets, begun to rely more heavily on stories culled from
+wire services. While weekly publications like PW would formerly do a more "in depth
+analysis" of the "day to day breaking news" in the dailies, the editor lamented the fact
+that now "by the time PW does a cover story that was significant in the last issue, the
+news cycle has already moved on." The Editor in Chief articulated yet another
+
+41
+
+perspective, asserting that readers picked up the paper primarily for its "compelling cover
+stories" and then were drawn to the entertainment features and listings.
+Aesthetic
+PW makes an obvious effort to distinguish itself from other publications in the
+genre, and 'mainstream' publications in particular. Referring to earlier radical
+publications, one editor made an explicit distinction between the "crusty old hippies" of
+established alt weeklies and the new, "scrappy" weeklies that tended to "push the
+envelope more." For example, this editor had a long background with alternative
+publications and before coming to PW had worked at one of these "scrappy" publications
+in Pittsburgh. For her, PW had matured as a paper, and could no longer do stories that
+risked challenging the readership and/or eliminating the abstract advertising demographic
+which is so prominent in the minds of the editors. To take a specific example, she
+reminisced about a Valentines Day issue which featured nothing but death themed
+content such as a macabre interview with an undertaker. She recognized, regretfully, that
+while it was no longer possible, economically, to do things that were "experimental," she
+realistically remarked that PW still existed, while the 'experimental' paper had long since
+gone under.
+At several different times, editors and interns alike proposed that PW occupied an
+important liberal-leaning niche. Early on in our interview, a senior editor cited the
+importance of the paper in representing the non-entitled. As a general rule, he proposed,
+"when in doubt, side with the poor," something that for him was part of the "alt weekly
+tradition." Other members of theed staff had similar thoughts, with a senior writer
+acknowledging the importance of"preaching from the left."
+
+42
+
+This perspective is blatant within the pages of each and every issue of PW, and
+only a few examples need be noted. Since the beginning of the second Iraq War, the
+paper has published a list of civilian and American military casualties that is updated
+every week. Politically, the paper has unequivocally endorsed Democratic candidates
+(such as Senator Bob Casey) while vigorously opposing Republican candidates (such as
+Rick Santorum). Another popular target which has appeared as the subject of a cover
+story was ultra conservative Philadelphia commentator Michael Smerconish, who has
+also been depicted satirically with filled in thought bubbles. As well, a staff writer has
+written extensively over the past year about escalating gun violence in the city and its
+effect on local neighborhoods, culminating in a recent article in which she dubbed the
+city "Killadelphia."
+Besides this political stance which is notably less neutral than might be expected
+from a 'mainstream' broadsheet newspaper, PW covers topics which would not ordinarily
+find their way into large scale media outlets. Perhaps the best example is a recent cover
+story on transsexual African American fashion shows which happen to have a significant
+following in the Philadelphia area. As well, the paper's entertainment listings cover a
+range of underground, independent and local bands which might otherwise only be found
+viaMySpace. Notable sex columnist (and vocal gay rights advocate) Dan Savage also
+finds his way into the pages, an addition that would likely not be well tolerated in the
+pages of a metropolitan daily.
+A similar distinguishing characteristic of PW which sets it apart from others in the
+media landscape is its unflinching embrace of profanity and its refusal to censor its
+writers. While this language finds its way into news features less often, there is no word
+
+43
+
+that the paper will not print, nor does it stop its writers from making outlandish satirical
+statements. A good example, reproduced in Figure 5, is the vulgarity ridden "Black Like
+Me" columns iu the A&E section, which, although they have generated a substantial
+amount of negative feedback from readers, continue to run.
+This offbeat and permissive tone extends to the working environment as well,
+where on various days writers can be heard discussing issues, loudly over the walls of
+their cubicles, ranging from the coffee in the break room to local politics while the music
+editor plays various video and sound clips. Other days, baked goods and free items show
+up on a table which is recognized as community property. At the extreme end of the
+spectrum, one day saw a game of pickup kickball start between the Editor in Chief and
+another staff member in the narrow corridors leading to the Ad Staffs space. Crossing
+over from once space to the other is to pass from an often noisy and chaotic space strewn
+with back issues, old copy, books, eds, a pifiata, streamers and plastic lobsters left over
+from two separate birthday parties and pinned up cartoons to a quiet peninsula of
+"legitimate" office space.
+Additionally, some of the greatest efforts to appear "alternative" manifest
+themselves in the decidedly festive and open work environment that PW tries to foster.
+Suits and ties are rarely, if ever, seen inside the editorial section, and everybody remains
+on a first name basis, regardless of position. However, despite the openness of the work
+environment, it is not clear that this sense of being apart from a typical business
+environment extends all the way across the Ed/Addie divide, nor does it necessarily
+guarantee that the produced text itself differs in any significant way from others which
+are produced in the city and target a specific demographic for a profit.
+
+44
+
+Quantitative
+PW is, by the standards of alternative weeklies, a large paper, with a weekly print
+run of roughly 101, 000 distributed via 2500 bright yellow boxes located in and around
+Philadelphia. This distribution, however, is anything but geographically homogenous.
+While detailed data on location was unavailable, a brief survey of boxes revealed an
+obvious lack of distribution points in the marginalized areas of the city, such as public
+housing complexes, compared to extremely wealthy enclaves such as the campus of the
+University of Pennsylvania as well as Main Line suburbs such as Wyndmoor. Even if the
+paper contains "something for everybody," certain readers have to walk farther from their
+homes for a copy than others 4 .
+While billed as an independent paper, PW is in fact owned by a corporation.
+Review Publishing, Inc. owns a number of weekly papers, including PW, The South
+Philadelphia Review and Atlantic City Weekly. However, there is no evidence
+whatsoever to indicate that the paper's owner exerts much, if any, control over the
+paper's content. He did not attend any weekly editor's meetings during which such
+decisions were made, nor does he maintain an office in PW's downtown space.
+Nevertheless, fears stoked by recent rumors about the paper's possible sale to another
+large corporation reinforced the fact the editors are in control of only the words printed
+on the pages.
+Philadelphia Weekly is a member of the Association of Alternative Weeklies, a
+national organization which provides a variety of services for its members, including
+
+4
+Armstrong (1981:294) uses the term "journalistic redlining" to describe a similar situation in which a free
+newspaper, the Berkeley Monthly is delivered door to door in "middle class and affluent neighborhoods."
+Armstrong wryly notes that "Poor people in its circulation area are, in effect, too poor to receive this
+periodical."
+
+45
+
+annual awards and, as Gibbs (2003:589), notes, serves as an important umbrella
+organization which helps alt weeklies consolidate their selling power in the advertising
+market. AAN describes its role thusly:
+The Association of Alternative Newsweeklies (AAN) is the trade organization for
+the alternative newspaper business. AAN is a diverse group of 125 non-daily freecirculation papers that are distributed in all of the major metropolitan areas of
+North America. Each paper has a distinct, local identity that sets it apart from the
+mainstream press in its market.
+Since its inception in 1978, AAN's primary mission has been to help its member
+papers flourish. The association strives for that ideal by focusing on the following
+activities:
+1. Promoting quality journalism and editorial excellence among its members;
+2. Facilitating access to information to enable member newspapers to raise their
+level of professional and business performance;
+3. Supporting the marketing and advertising efforts of member newspapers;
+4. Increasing awareness of the alternative newspaper business; and
+5. Advocating the interests of the industry (AAN 2007: np)
+Because these papers are free, however, they rely heavily on advertising. For
+example, in a single issue of PW, approximately I 00 out of 166 pages were ads, and
+approximately 25 pages were entertainment listings. Although solid numbers were not
+available to the author, it was generally understood that the paper was doing well
+financially and had been turning a decent profit for some time.
+While PW staff makes a concerted effort to separate Eds from Addies, we must
+still consider Armstrong's concern that "with advertisers footing all the bills, the
+temptation to devote space to airy promotional features that will please them and water
+down items that might offend them is enormous" (1981 :294). Indeed, to what extent has
+the newly commercialized alt weekly format sacrificed a clear political voice for a place
+in the capitalist ecosystem?
+Discussion
+
+46
+
+In her incisive study of the political economy of an alt weekly publication in
+Honolulu, Patricia Gibbs (2003) concludes:
+In fact, the reality of the Weekly is that the 'alternative' label at best only thinly
+disguises its deep roots in capitalist modes of production. At worst, it is used to
+justify the hyper-exploitation of its workers in the pursuit of matching upscale
+readers with niche-market products (2003 :603).
+Gibbs saw in the alt weekly a small enterprise which made significant sacrifices
+(ie, cheap office space, meager salaries, outdated equipment, etc.) for what was for some
+a deeply held idealism, the belief that by working for the paper they were "creating
+progressive social change and doing so in a way that is not done elsewhere" (2003 :592).
+The paper's strong profit motivation seems to challenge this ideal at least in the sense that
+it favors a capitalist system of profit-seeking over democratic redistribution.
+While InCheol Min (2004) unsurprisingly commented on the presence and
+importance of a discrete readership in the minds of the editors of the alternative political
+publication he studied, he added that the abstracted audience was best described as a
+"constituency," after Eliaspoh's (1997) conception: "mobilized, active and needing
+information to act on an issue that concerns them" (Min 2004:450). Min concludes that
+the editors of the paper "view their readers as active in their communities: participating in
+political meetings and interested in public issues. Consequently, the Observer tries to
+include different voices in society, dealing with labor issues, social movements in other
+sates and national politics, for example" (2004:456). In short, the paper facilitates the
+activism of a liberal minority in conservative Texas.
+PW is, by comparison with both these points, distinct as a large, profitable paper
+that, while it preserves a certain aesthetic that sets it apart from a broadsheet newspapers,
+
+47
+
+exists by and large to cater to a demographic which it will in turn sell to an advertising
+market in order to turn a profit. At this point, it is fair to say that PW does not fulfill
+more than two of the requirements in Atton's (1999a) "Typology of Radical and
+Alternative Media:"
+1. Content (politically radical, socially/culturally radical); news values
+2. Form- Graphics, visual language; varieties of presentation and binding;
+aesthetics
+3. Reprographic innovations/adaptations- use of mimeographs, IBM typesetting,
+offset litho, photocopiers
+4. 'Distributive use' [ ... ]- alternative sites for distribution, clandestine/invisible
+distribution networks, anti-copyright
+5. Transformed social relations, roles and responsibilities- reader-writers,
+collective organization, de-professionalization of e.g., journalism, printing,
+publishing
+6. Transformed communication processes- horizontal linkages, networks
+(I 999a:27).
+
+If it is accurate to say that Atton (1999a) begins at the surface and works his way
+down, then we have arrived at the crux of the argument against the alt weekly format:
+that they only superficially embody (or imitate) previous forms of socially radical or
+progressive publications which 'actually did something.' True, PW publishes stories
+which are in some sense outside of the 'mainstream' coverage of large daily newspapers
+and succeeds in presenting itself as an aesthetically edgy, uniquely manufactured
+publication. Although much of this aesthetic sensibility can be traced back to the DIY
+ethic of earlier papers, the comparison cannot proceed any further. PW is produced
+professionally by experienced staffers, distributed to targeted, educated readers with a
+large disposable income and operates in order to turn a profit. While it espouses liberal
+politics, it is unlikely that the paper itself engenders much political or social activism,5
+
+5
+
+The link between mass media and social activism is not as yet clearly defined. For discussion, see Atton
+
+(1999a).
+
+48
+
+and there is a strong indication that the traditional journalism it prints is of secondary
+importance to its entertainment component.
+Just as Gibbs (2003) questioned the motives of the Honolulu Weekly, Conboy
+(2007) addresses the issue directly by questioning if these "forms of popular journalism
+[are] simply integrating consumers into patterns of capitalist consumption or do they
+offer real possibilities of involvement and reflection upon the contemporary?" (2007:3).
+While Atton (1999a) proposes that the "alternative public sphere is an appropriate
+conceptual foundation from which to understand the production and reception of
+autonomously developed accounts of experience, critiques, information and knowledge"
+(1999a: 156), the closer we examine the production apparatus of this particular alt weekly
+as well as its incorporation of a readership defined in terms of an advertising market, the
+more we must admit the difficulty of seeing more than a superficial representation of the
+'alternative,' in its most stable sense, that of a production which establishes its alterity on
+multiple levels in opposition to a socially constructed other.
+Not identifying an alternative weekly as a site of "counter hegemony" has some
+serious import. Without noting otherwise, it is all too easy to take this as a piece of
+supportive evidence for an older theoretical paradigm. For, although Omebring and
+Jonsson (2004) argue effectively for the social value of the popular press of the 19th
+century, Louw (2001) insists that these same publications were the beginning of the
+"industrialization of western meaning making" and the "institutionalizing of intellectuals
+[ ... ] within organizations where the organizing principles were hierarchical and
+mechanistic, and where factories geared towards mass production were the model"
+(2001:16-17).
+
+49
+
+As a result of these changes, the "communicator" is able to effectively control the
+content that the passive "recipient" consumes with minimal or a complete lack of
+feedback (2001: 17). Effectively, "the mass media simultaneously increases the reach of
+professional communicators, while dramatically narrowing the role of recipients, turning
+recipients into passive receivers of meanings made by others" (2001 :18). Because these
+media are capitalistic and therefore dependent on attracting a large saleable audience,
+they become "organized around the lowest common denominator of the middle class with
+disposable income" (2001 :49).
+It is not possible to deny this possibility; however, studies of framing effects
+(Baum 2002, Druckman 2001) have effectively challenged the notion of a linguistic or
+semiotic chain of causality in mass media, while more recent work (Ghentzgow and
+Shapiro 2006) has suggested that consumers themselves have a strong influence on the
+'bias' of the publications they read. This is not to mention the numerous anthropologic
+studies noted in the initial literature review above which describe the irreducibly complex
+set of individual and social lenses through which externally generated meanings can be
+refracted. Louw's (2001) framework and reasoning, while logically sound and
+theoretically expedient, therefore, lack an appreciation of the finer detail that is to be
+found in studies with greater depth and sensitivity to variation.
+Another way to interpret the increasingly commercial nature of nearly all large
+scale publications is through Thomas Frank's (1997b) intriguing "countercultural idea"
+which questions once more the binary assertion of the warring factions of 'control' and
+'resistance.' Frank's meta analysis of cultural commentary is worth quoting at length:
+As existential rebellion has become a more or less official style of Information
+Age capitalism, so has the countercultural notion of a static, repressive
+
+50
+
+Establishment grown hopelessly obsolete. However the basic impulses of the
+countercultural idea may have disturbed a nation lost in Cold War darkness, they
+are today in fundamental agreement with the basic tenets of Information Age
+business theory. So close are they, in fact, that it has become difficult to
+understand the countercultural idea as anything more than the self-justifying
+ideology of the new bourgeoisie that has arisen since the 1960s, the cultural
+means by which this group has proven itself ever so much better skilled than its
+slow-moving, security-minded forebears at adapted to the accelerated, alwayschanging consumerism of today (1997b:34-5).
+Ifwe were to heed Louw's warnings, then who exactly would we rebel against?
+Where are the people pulling the levers in our heads? Looking once again at the staff
+producing PW, we can see that they have much in common with their own advertising
+demographic, in terms of age, ethnicity and class. ls it possible to suggest that this form
+of commercialization is, as a pessimistic reading of Prank might suggest, the
+appropriation of radical rhetoric as a marketing device? Or, to suggest an alternate
+reading, are the "crusty hippies" merely marketing to their peers by referencing a
+common experience? As a senior editor at PW noted, "It's not some journalistic
+conspiracy, it's producing what sells, what people want." How much can we separate the
+editors from their audience, if they fulfill many of the same criteria used to identify the
+readership? Similarly, how much of the paper is shaped by reader demand, real or
+abstract?
+Furthermore, the negative implications of commercialization or commoditization
+of the media have been, in some instances, grossly over exaggerated. As Naomi Klein
+(2002) remarked about her own activism, "In the absence of a clear legal or political
+strategy, we traced back almost all of society's problems to the media and the curriculum,
+either through their perpetuation of negative stereotypes or simply by omission"
+
+51
+
+(2002: I 08), a strategy which is inevitably doomed "to eventually fall victim to its own
+narcissism" (2002: I 09).
+Retrospectively, Klein reexamines the basis for her political activism, and
+acknowledges, with some chagrin, that "many of our demands for better representation
+were quickly accommodated by marketers, media makers and pop-culture producers"
+(2002:110). Thomas Frank (1997a) had earlier termed this transition as the rise of
+"liberation marketing" which "knows that the culture trust exists, and it knows that
+business has conquered the world. And it offers in response not just soaps that get your
+whites whiter, but soaps that liberate you, soda pops that are emblems of individualism,
+radios ofresistance, carnivalesque cars, and counterhegemonic hamburgers" (1997a:l 77).
+Added to this list could be perhaps 'hepcat newspapers for the stylish rebel.'
+Taking this critique of commercialization a little further, we find ourselves in
+David Harvey's (2006) world, where "neoliberalism 6 has, in short, become hegemonic as
+a mode of discourse. It has pervasive effects on ways of thought to the point where it has
+become incorporated into the common-sense way many of us interpret, live in, and
+understand the world" (2006:3). This mode ofreasoning extends to the point where even
+"the assumption that individual freedoms are guaranteed by freedom of the market and of
+trade is a cardinal feature ofneoliberal thinking" (2006:5). In light of this perspective,
+how are we to interpret the PW editor's satisfied observation that media competition
+based on reaching and retaining relevant advertising demographics as "capitalism in the
+
+6
+
+'Neoliberalism' for Harvey is "in the first instance a theory of political economic practices that proposes
+
+that human well-being can best be advanced by liberating individual entrepreneurial freedoms and skills
+within an institutional framework characterized by strong private property rights, free markets and free
+trade" (2006:2).
+
+52
+
+raw"? Were Frank and Klein prescient in recognizing, through different channels,
+Harvey's assertion that:
+Neoliberalism required both politically and economically the construction of a
+neoliberal market-based populist culture of differentiated consumerism and
+individual libertarianism. As such, it proved more than a little compatible with
+that cultural impulse called "post-modernism" which [ ... ] could now emerge full
+blown as both a cultural and an intellectual dominant (2006:42) ?
+However, it is possible that rather than being sold 'to' an external entity like a
+passive commodity, these values were taken into a new sphere of neoliberal exchange by
+the very people who held them dear. Rather than default to the pessimistic alarmism of
+Louw (among many others), is it so impossible to consider that a capitalistic framework
+has, over the course of cyclical upheavals, produced media which a majority of people
+find satisfactory and are able to navigate as cognizant actors?
+As Mc Nair contends, using the example of the prominent activist Michael Moore,
+it is not necessarily logical to assume that commoditization automatically produces
+control:
+Simply because the accumulated weight of historical, political and cultural
+experience means that contemporary capitalism contains within it many
+individuals who, far from begin brainwashed or seduced into submission to a
+dominant ideology which is opposed to their own interests (if such a thing as a
+dominant ideology can be discerned from the diversity and chaos of contemporary
+media coverage), are fully aware of the flaws of the system[ ... ] (McNair
+2006:95).
+By virtue of the fact that any media criticism exists at all, does this not mean that the
+'public sphere' is at least in some sense functioning in a 'healthy' manner? Rather than
+viewing media commoditization as a hegemonic bottleneck of production, McNair insists
+on the existence of a "meaningful [ ... ] plurality of voices within contemporary
+capitalism" and that "it is beyond dispute that the system can accommodate and give
+
+53
+
+mainstream visibility to a more diverse, broader range of opinion." Furthermore, "This
+has happened because of, and not despite, the commodification of culture. It is the
+unplanned and unforeseen consequence of counter-cultural capitalism" (McNair
+2006:100).
+Thus, McNair, without denying the essential body of knowledge produced by
+previous work, simply rejects the influence of the same paradigm of binary opposition
+which, as Klein herself has admitted, has produced considerable myopia with regard to
+mass media and cultural production more generally. By removing the moral and
+aesthetic tags from the analysis of media production under the conditions of late
+capitalism, we can see that the negative consequences implicit in a reading ofLouw,
+Frank or Klein are not at all a given.
+Conclusion
+The debate between cultural pessimists and more recent theorists like McNair
+(2006) positions journalistic production squarely in a field of capitalist practices of
+production and consumption, neither of which is well understood in relation to cultural
+production. While we can draw some limited conclusions, we are still left asking what
+role mass mediated forms of information play in the social lives of individuals. How can
+we understand the relationship between producers, text and receivers? Can we somehow
+reconcile critiques based on equal access to the "public sphere" with those that question
+the nature of cultural commodification? Unfortunately, these questions are, for the
+moment, beyond the scope of this paper and its necessarily limited site of study.
+
+54
+
+Conboy (2004) has previously remarked that "Tabloidization 7 may be the
+extended working out of the process of commercial logic within journalism as it enters its
+next discursive phase" (Conboy 2004:181). Though we can see this transition both as a
+function of PW' s increasing entertainment content as well as its unambiguous identity as
+a profit-driven capitalistic enterprise, there are many factors which obscure a complete
+analysis, not the least of which is a lack of in-depth ethnographic work which
+satisfactorily addresses the reader's role in the interpretation and appropriation of texts.
+To conclude, while it is fair to say that PW is less a site of 'alternative' media
+production t than a more generic capitalistic organization which uses certain stylistic
+tropes to appeal to a specific, if abstract, demographic readership, the implications for
+this finding are less certain. Earlier theorists and commentators have focused on the
+damaging aspects of the "commodification" of culture, equating the process with a form
+of betrayal and misappropriation. Looking at this process from a different perspective,
+however, allows us to see that commodification can in fact be a productive process which
+increases media diversity and allows greater access to a larger number of participants.
+Unfortunately, without an extended debate on the dense and contentious topic of the
+evolution of capitalist modes of production and consumption in the 'complex' societies of
+the 20th century, it is not possible to characterize the developmental trends of PW, nor
+determine whether the neoliberal imperatives of capitalist production are destructive or
+generative.
+Additionally, further research to round out and evaluate the proposed processes of
+production and consumption is needed to further distance ourselves from the three phase,
+
+7
+
+This term is multiply defined, but in Conboy's sense it refers to the rise of entertainment features and first
+person style in publications, among other qualities.
+
+55
+
+mechanistic viewpoint which currently limits much of what is possible to say regarding
+contemporary mass media. As we have seen above, the number of information sources is
+multiplying at an exponential rate while media outlets, and print publications in
+particular, are struggling to adapt to the new environment. Rather than refocus our
+efforts to redefine and re-catalogue this quagmire of generic pitfalls, however, it may be
+more prudent to reemphasize the subjective role of the consumer with regards to all
+cultural production. By conducting wide ranging studies of the media consumption
+habits and attitudes of groups of individuals with some time depth, it could finally be
+possible to reconcile our limited conception of mass media with some form of social
+reality.
+
+56
+
+Acknowledgements
+The author is eternally grateful to the staff at Philadelphia Weekly for consistently
+welcoming his inquiries and answering honestly and enthusiastically to every question,
+no matter how stupid. Furthermore, this project would not have been possible without
+the gracious support ofmy friends and family, as well as my advisor, Dr. John Jackson.
+References
+Adorno, Theodor W., and Anson G. Rabinobach
+1975 Culture Industry Reconsidered. New German Critique 6:12-19.
+Allan, Stu art
+1999 News Culture. Milton Keynes: Open University Press.
+Armstrong, David
+1981 A Trumpet to Arms: Alternative Media in America. Los Angeles: Tarcher.
+Anderson, Bonnie M.
+2004 News Flash: Journalism, Infotainment, and the Bottom-Line Business of Broadcast
+News. San Francisco: Jossey-Bass.
+Anderson, Benedict
+1983 Imagined Communities: Reflections on the Origin and Spread of Nationalism.
+New York: Verso.
+Atton, Chris
+1999a Alternative Media. London: Sage.
+1999b A Reassessment of the Alternative Press. Media, Culture & Society.
+21(1):51-76.
+Association of Alternative Newsweeklies
+2007 About AAN. Electronic Document,
+http://aan.org/alternative/Aan/ViewPage?oid=2086, accessed February 20 2007.
+Baum, Matthew A.
+2002 Sex, Lies, and War: How Soft News Brings Foreign Policy to the
+Inattentive Public. The American Political Science Review 96(1):91-109.
+Bagdikian, Ben H
+1997 The Media Monopoly. Boston: Beacon.
+Bizot, Jean-Francois
+2006 Free Press: Underground and Alternative Publications 1965-1975. New York:
+Universe.
+
+57
+
+Bourdieu, Pierre
+1998 On Television. New York: New Press.
+Campbell, Vincent
+2004 Information Age journalism: Journalism in an International Context. London:
+Arnold, 2004.
+Chomsky, N.
+1988 Manufacturing Consent. New York: Pantheon.
+Conboy, Martin
+2004 Journalism: A Critical History. London: Sage.
+2007 Permeation and Profusion: Popular Journalism in the New Millennium.
+Journalism Studies 8(1):1-12.
+Dahlgren, Peter
+1992 Introduction. In Journalism and Popular Culture. Peter Dahlgren and Colin Sparks,
+eds. Pp. 1-23. London: Sage.
+Davila, Arlene
+2002 Culture in the Ad World: Producing the Latin Look. In Media Worlds:
+Anthropology on New Terrain. Faye D. Ginsberg, Lila Abu-Lughod and Brian
+Larkin, eds. Pp. 264-280. Berkeley: University of California.
+Dornfield, Barry
+2002 Putting American Public Television Documentary in Its Places. In
+Media Worlds: Anthropology on New Terrain. Faye D. Ginsberg, Lila AbuLughod and Brian Larkin, eds. Pp. 247-263. Berkeley: University of California
+Press.
+Druckman, James N.
+2001 The Implications of Framing Effects for Citizen Competence. Theme issue,
+"Citizen Competence Revisited," Political Behavior 23(3):225-256.
+Eliaspoh, N.
+1997 Routines and the Making of Oppositional News. In Social Meanings ofNews: a
+Text-Reader. Dan Berkowits, ed. Pp. 230-53. Thousand Oaks: Sage.
+Fenton, Tom
+2005 Bad News: the Decline of Reporting, the Business of News, and the Danger to Us
+All. New York: HarperCollins.
+Frank, Thomas
+1997a Liberation Marketing and the Culture Trust. In Conglomerates and the Media. Pp.
+
+58
+
+173-190. New York: New Press.
+1997b Why Johnny Can't Dissent. In Commodify Your Dissent: Salvos from The
+Baffler. Frank Thomas and Matt Weiler, eds. Pp. 31-45. New York: W.W.
+Norton.
+Fraser, Nancy
+1992 Rethinking the Public Sphere: a Contribution to the Critique of Actually Existing
+Democracy. In Habermas and the Public Sphere. Craig Calhoun, ed. Pp. 109-142.
+Cambridge: MIT Press.
+Ganti, Tejaswini
+2002 "And Yet My Heart Is Still Indian": The Bombay Film Industry and the (H)
+Indianization of Hollywood." In Media Worlds: Anthropology on New Terrain.
+Faye D. Ginsberg, Lila Abu-Lughod and Brian Larkin, eds. Pp. 281-300.
+Berkeley: University of California.
+Gentzkow, Matthew, and Jesse M. Shapiro
+2006 What Drives Media Slant: Evidence from U.S. Daily Newspapers. Working paper.
+13 Nov. 2006. 30 Nov. 2006. <http://ssrn.com/abstract=947640 >.
+Gibbs, Patricia L.
+2003 Alternative Things Considered: a Political Economic Analysis of Labour
+Processes and Relations at a Honolulu Alternative Newspaper. Media, Culture &
+Society. 25(5):587-605.
+Ginsburg, Faye, Lila Abu-Lughod and Brian Larkin, eds.
+2002 Introduction In Media Worlds: Anthropology on New Terrain. Pp. 1-36. Berkeley:
+University of California Press.
+Gitlin, Todd
+1983 Inside Primetime. New York: Pantheon.
+Habennas, Jurgen
+1989 The Structural Transformations of the Public Sphere. Cambridge: Polity Press.
+Harcup, Tony
+1998 There is no alternative: the Demise of the Alternative Local Newspaper. In
+Making the Local News: Local Journalism in Context. Bob Franklin and
+David Murphy, eds. London: Routledge.
+2005 "I'm Doing This to Change the World": Journalism in Alternative and Mainstream
+Media. Journalism Studies 6(3):361-374.
+2006 The Alternative Local Press. In Local Journalism and Local Media: Making the
+Local News. Bob Franklin, ed. London: Routledge.
+
+59
+
+Harvey, David
+2006. A Brief History ofNeoliberalism.
+Klein, Naomi
+2002 No Logo: No Space, No Choice, No Jobs. New York: Picador.
+Knipfel, Jim
+2006 News and Columns. New York Press, February 1. Electronic Document,
+http://www.nypress.com, accessed March 12 2007.
+Kunelius, Risto
+2006 Good Journalism: On the Evaluation Criteria of Some Interested and Experienced
+Actors. Journalism Studies 7(5): 671-690.
+Lippmann, Walter
+1922 Public Opinion. New York: Harcourt.
+Louw, Eric
+2001 The Media and Cultural Production. London: Sage.
+Mandel, Ruth
+2002 A Marshall Plan of the Mind: The Political Economy of a Kazakh Soap Opera. In
+Media Worlds: Anthropology on New Terrain. Faye D. Ginsberg, Lila AbuLughod and Brian Larkin, eds. Pp. 211-228. Berkeley: University of California.
+McNair, Brian
+2006 Cultural Chaos: Journalism, News and Power in a Globalised World. New York:
+Routledge.
+Min, InCheol
+2004 Perceptions of the Audience by the Alternative Press Producers: a Case
+Study of the Texas Observer. Media, Culture & Society 26(3):450-458.
+New York Press
+2006 Mailbox. New York Press, February 8. Electronic Document,
+http~/w,vw.nypress.com, accessed March 12 2007.
+Ornebring, Henrik and Anna Maria Jonsson.
+2004 Tabloid Journalism and the Public Sphere: a Historical Perspective on Tabloid
+Journalism. Journalism Studies 5(3):283-295.
+Pedelty, Mark
+1995 War Stories: The Culture of Foreign Correspondents. New York: Routledge.
+Project for Excellence in Journalism
+
+60
+
+2006 Alternative Media Audience Trends: 2006 Annual Report. Electronic Document,
+http://www.journalism.org, accessed December 1 2006.
+Rodriguez, Clemencia
+2001 Fissures in the Mediascape: an International Study of Citizens Media. Creskill:
+Hampton Press.
+Ruxton Media Group
+2007 Newspapers: Philadelphia Weekly. Electronic Document,
+http://www.ruxton.com/index.php?page=newspapers/philly&nav=navigation alt
+&active=3, accessed March 3 2007.
+Sparks, Colin
+2000 Introduction: the Panic Over Tabloid News. In Tabloid Tales: Global Debates
+Over Media Standards. Colin Sparks and John Tulloch, eds. Lanham: Rowan.
+Silverstone, Roger
+1985 Framing Science: The Making of a BBC Docwnentary. London: British Film
+Institute.
+Spitulnik, Debra.
+1993 Anthropology and Mass Media. Annual Review of Anthropology 22:293-315.
+Traber, Michael
+1985 Alternative Journalism, Alternative Media. Communication Resource 7. London:
+Warid Association for Christian Communication.
+Williams, Raymond
+1976 Keywords. London: Fontana.
+
+61
+
+Table of Figures
+Figure I .I ............................................................................................. 63
+Figure 1.2 ............................................................................................. 64
+Figure 1.3 ............................................................................................. 65
+Figure 1.4 ............................................................................................. 66
+Figure 1.5 ............................................................................................. 67
+Figure 2.1 ............................................................................................. 68
+Figure 2.2 ............................................................................................. 69
+Figure 3.1.. ........................................................................................... 70
+Figure 3.2 ............................................................................................. 71
+Figure 3.3 ............................................................................................. 72
+Figure 3.4 ............................................................................................. 73
+Figure 4 ............................................................................................... 74
+Figure 5 ............................................................................................... 75
+
+62
+
+Figure 1.1- First Issue of the Distant Drummer, Philadelphia, November 1967
+
+I_
+
+1
+
+~-~~-:~.;,·, ·:~~~F-h_:~-~:::
+ti\~
+hi;..., l., 1'a), l - - ~ _ . iffl
+
+t11te / Specter:
+
+V~r's Dilemma
+
+1:f
+
+'
+
+.
+
+-..
+
+♦t:
+
+-.
+
+~-~
+
+63
+
+Figure 1.2- Listings Page of the First Issue of the Distant Drummer
+
+• ,,·1.
+.,' I
+~ l
+
+,
+·111
+~ Mi~n _;a.r~ \
+
+i• ~frodU¢.~icm. to
+;,''11l1)0·AH-and: · __ ,
+,a~ t!ie- ..9t_vk ~
+
+\r~_!ihf!J( the ,
+i~_r\_-aral. do
+
+ie\.C\m~~ )51\ld~- and
+
+i!j,£!J.T-l_1)'.
+
+, ·,--
+
+),I[
+
+nit t!le'. i:.i-1,'i_n_~ . :,,'._
+
+0
+
+filiiir
+Judge;111
+
+:{ \,l~tJrJ_'fl(Ul, by !
+da.p]1ic1t• _by -,\loeri-:
+a)\_ilr ~in Sh&~~,
+'f•:
+
+"fn(!
+
+1wTh:lv
+
+s(<)_ ~'.'tp 1_ 'Ptl,,
+n;, . P&~~Wfly nu_d
+
+..
+
+: A,;;ad.eiuy .of M>ili; c.,
+
+''
+
+'
+
+;.", -·:
+t"~t:s ot _Christ•
+
+-t.t :_;/'I
+
+th>µr--,
+fa1h_4:\."\>rk,"
+
+I
+
+1
+,p- .·. nu
+~n- ~r.
+
+qiu_~ic I Jtieh ~itt:
+;.t.)-la'in::ro:int, 87:4 Urn-
+
+6 ·4nd lb PH.
+
+•
+
+;.,
+
+-+t1Jg:a·.1t tl.1'.ff,
+
+""'1'0_~1111111
+:
+
+·
+
+1
+
+1
+
+i :-
+
+St,
+
+~
+
+'\1 :~• ·rhll.(IIS:
+
+-~r~•
+11:at.>e!
+
+· J.11.11e<1~f~t AVp:,. l\tytl_Ktiwr;
+
+!
+
+)l;j':,\i~T' :'~9
+
+'.c
+
+'
+
+_•
+
+•
+
+. '
+r; "rr,~~<llln' \:-puck, ''.!!S.m2.nSfit'"11t.foti1 )itup .tln1: Wa_:r,
+ill C~t-t/1,t fvt_
+'W<.t,1_.'k T tur:lj t"ally
+l• . .-;._dra!t:.
+~t:lltd:
+at th.e.
+IJM··po~ic)'. talk$
+, ic;,,,rllilln _J,lt) .Clllllffl\.lJ>ity _ _'
+1_1 ]¾,in .rt11f1U1•l
+1
+
+.'~,n·"·"·. .
+
+1.,nd ·1,'h1iatn1ff
+/
+
+'.,
+
+Chur,i;h at 13
+st; 1j -l'Pr:,ttlby'~ti_rfon
+l{;,_ G~ilen__ A~-'!ul.p#>ol<eri.i
+0
+
+, -Sts, .'l!tlt'ttier, det.i.11:s. frWli
+'. th11 Ph{laidlll-Phti,, "Antl•.<irll)ft-
+
+,11~,np11r,_ ao
+
+1 UlUort.)l(t6~653),
+
+!
+
+~: :st~u C-111ette:
+dl)t Ha.in l>bl"ll.t.
+1-&1<1 :t.o. PK; ·-a14
+
+-Tifl)1n .6; (I
+
+·
+
+•
+
+n' t k; Cl-aud_e Monet_. by
+J.a'c"tj,u,1 l-i-1,i _1-1e1.a.ai, .H
+,._-..J1us~um of A_'rt ,: I'a:rk\14y t
+?'.11~~1'.l~'
+,
+01(
+11-t"e: ·ioah.la.tt,; 1
+.l)ex, ~t -l:_n1>t ,ii-.1\ht act
+poipt tl"i4 Lantaut_et"_ A
+l,¢, wr. ·-Sand 10,
+
+t',
+
+I"'.
+
+\_o ilJl;~,;o•:·
+
+of . rifon
+
+11
+
+ar_kli, ..
+
+'ti~
+(lilt. -TQ .. l~el>b. ~:,.• \'
+~e t:Uual f lt,1s.'.fa e.tery,
+f,:40_.rl'M, Musa _, of, rt,
+-rarl-: a)' Ami F
+t
+
+11:
+
+io
+
+Pl(, .
+
+v_i Sh,:,.n}
+
+t'H, :Ae_m
+
+W~i
+
+rou:4--ail.d, !,qi -
+
+~wi_t
+
+,1:114
+
+jlt)'t\.';~'" •·
+
+.\
+
+1ut
+
+'ottl,
+
+,
+
+,
+
+'
+
+)
+:
+
+"'\
+
+.,
+
+: ' ..1.111t: t<t·2·lini,_ ~ "S '...I 2'.\.
+,I d·'IIA Fug:a'' at "ila dbbt,
+s:~o n1 a._.o _ t:
+1
+t, ; - ,:,niantQ •
+'
+
+' ,1
+
+.
+
+I
+
+"""I<
+1.itt
+",ft 8
+
+.
+
+ti:eeem e~ 16,\
+I
+
+·t<i
+S
+
+•
+
+fo; 1i
+
+•
+
+fi'th
+ild,l◊
+
+.,ht
+
+,l &(ld_.f'.a(tlllOllnt .t.v~, 1 11 AM~
+
+01~:Ii~1!::!1·.
+
+~1h
+
+1
+
+~r•
+
+i
+
+1 11 -1_ St.r♦\,btoi--t)'_
+
+'11
+
+,;;iijin\t,·_-~t. S) · 1~
+
+•11,,_,}Ut Areh: .'
+
+\·
+
+J'
+
+au, ,ba
+,_1
+
+~
+
+k~ f;lnd
+
+64
+
+uf!d It/
+' &nd
+
+dy~I
+
+'
+
+1
+
+I . :(
+
+'
+
+?refber ZJ
+
+C. __1.1a,f
+
+Bk: P
+
+,'~ltf J:'gifil:.
+
+l S. R{t~enhou&e _Sq1,urre.
+.
+\ an t•l~: 0niri Monn _1.hru
+!(,~' ·6-nO .• uiil 6.n~
+\ ~have_dt' 1>i·John ·t, _·Tf!.Ut:p,$
+, lljllljdb;r,_x, .~o 1Aflllll~t1:a~_1'111a_dutt-1,"1J •tn, l'ai.1<:r;r.1-y_
+1
+
+ii'"lWMI-, to
+' !'hd "f<11.1r O~y11 _
+, ~ll._ll-
+
+! l
+
+W$f-'. i,._tthW'.' 4nd
+il.h_ame:~ as_ olfl l.11dy, ''
+m,d ~ :, /:t_ rM.,j fuln_<H»i
+Ar,i,at !. :•, {rrnantof'
+
+i:r-nit Ar,
+
+l :
+
+I
+
+ierJ;ilboit l ·
+
+' ,w-:,' l!ra
+
+'. Hl11u . !i11:·,¼)aplll At
+
+I
+
+J·
+
+. \_
+
+1:eetU1:A1 ''thll· And- No'l-el.f'
+, by R:o7!1'blt.n_,_t«•c.h-f-t at
+j' the 'Frt_a:un.1_,;er_!!ity·o_f
+! I'enna~f.-arih. TaH. i~_ a:t:
+The l!t!)foAl Soc_iety• 1906
+
+A~.•·.•, 1>r.i1'1'!4i"i',
+
+- -
+
+n ,A\/e;
+
+0
+
+~1)_11'~eU1lwr -4
+
+•st. 1
+
+tl,
+
+,
+
+~M.-'
+
+I
+
+$
+
+thp.rs ~f I
+1: dar, J m tojthe1Tr.i
+St11-nA. 11. 9 J'M, 212
+
+1Jnd. :}:)O PH, Fr rik-
+
+'t_ :11ay Cha_rl!)$ _1,-n- _s.
+onCert.·at_ -the .Sp c_:..
+l'.l:uld, St:. anµ·_p.!lt "¾!W
+
+,',
+
+Zar,J,ai
+
+i
+
+l .)
+
+e.
+
+i'.:lml"")'
+
+! Plle·elflbet_ 9
+
+it~:-._tti, t.it'-'!:,ll hte_t_ure
+.iOi:;h-a_ d 'farlr.14ay,
+
+·
+
+\ °(Olk ·mu. 1r.:_,'s.tf_l;if._ cn_hi-1;ti!_
+".'.
+'. r.i_l.Y·.•.-· r .t·'. !:>: H.i!.in __P,:,_1. nt,
+I hut: "t0i:1'1;Y is his---hat day,
+Sh!J>-'fHC .il i:if!<1. 10 ·PM, __ <m
+
+i
+
+i. '
+Deee~h? 126
+
+lrvln... _.A d.iJ.4.t\i- an,d:S~\ut-e:
+
+J., .....I: .,;f.:hth.t.·11.r11r cJ1_ r''-
+
+L) iJ7'ii,'i' ,n Ual\l;lhol-l, -J.il.,',rmBt.\
+") St;..,_ C-e ·_11nt:()WT\.
+
+Ae
+
+·:
+
+l ,
+I
+.
+~ : l'ehn'a :Ghe _Cl_t
+
+;_l -t:11.du~,-).l_Ot:h and hrkw_ay_,
+1
+f!lm!·''' _ 11_SPvl111,- llanilet"
+
+~t1_,1t_y
+
+1
+
+,
+
+first_ ren_•Ye:au_ ::1n
+I, Spuderke~
+..ei,;_ 1.3 PM_. fels 'l>l.~r,r,-
+
+~jltr, 1:l)l'.U
+
+'
+
+~-a-Ste:r f.ve,, BrfA 'Havr.
+
+t11nvl.e:. ]1,J11.,'e_k pr)lheua,"
+~l'M·J Ai)nD.niHlttl: _Audi} tor1u_ttt, :fni'l!\'!r(i-tt:, \\! PenJta
+
+11'1/j.nd ·ru~,iy_,
+
+..
+
+'
+
+f~~k
+
+. '
+
+llal<l,y i'flltlid_f!Y,Ti
+
+,! n,t~ rt_an.-,-
+
+.
+
+4oa1.,•!•. !\re
+•" .""'.driake
+l'lertorl
+-at. ~h .. Tt{I
+2Ul At: h-.,St., i 9 ;l'ff;
+
+<tt'mnat -~l,)(ri. _Wil.ltp.JIIB.: fo
+"D}'hn-fheimas. Gl'.'i:>-wtnl Up;''"
+1:1:)0.PM,\ 1r;.,,1ne lu,1,lit'orillJli,
+)~th il\'1¢; SµJ\ju· · Stll,
+
+1,~11hts (~r~, H4
+
+nee.11Wl,e;i,:-. ,a
+'
+
+;:§$1t-filgh_t sh=~ :Sunahi a
+
+','fle~i.Dtbl.rl'.. 1
+
+h·e -l!:Jl_tllrritni!,r",
+<>rnh. ti :Jil l'M
+r\l -Sst~_rcdt;y,;,
+
+...,
+
+:I
+
+I
+
+I
+
+'10~.11•t--r."'__ ·atcie<I- ~t"il,..
+
+fog~l_•ight; ahev: StJ:.llwbfl-rry'
+A1.11na Clo4k-(see t,a"ge 5) is
+aJ the;- Ji;a~, Un,. ~ch St.
+
+~_n,
+
+!
+
+• aa:.. lphia.·-!)pat;a
+"S..'.''.'. ~.' .'.COll!P
+•.vif D;i1•
+e.. •"
+
+·
+
+&:l!i. _
+_ e.i,_n~_ho)!._- )0 krnia_t_
+-St~-•- derttto~..
+.
+
+'ll,{Jll1s ..
+
+i'i
+
+"1hY
+_U:S,111\l\ll
+
+f
+
+tj-'
+
+!f
+
+Figure 1.3- The Distant Drummer, ca. 1979
+
+,. •.. •.t.
+tllS'I
+MS
+
+65
+
+Figure 1.4- Listings Page from the Distant Drummer, ca. 1979
+
+I
+
+10·~1
+
+Wednesday·· ·•
+MUSIC
+,tohi:t. tlt&IZ at_ tti11_
+
+Sud_lit;~mi
+
+Br,1!14dlln,e_.Qafe,
+
+102£,.-$111.lllf ;$1, Media, 6-9 p;_m"5e8.cg9l1
+Chl:~Cln w..t~~-JulW _Q()kl ll\ C4bar,1n, 1_s;N,
+W&l_nvt· St; W-est ChM!i,r, 4;Jalf.~ll.
+1(1K1 'vtfflM1 -ll1- !ha Khfb#r Pll~ Pub, SIi S
+2nd S!
+
+-11~.
+
+l
+
+··,,___1
+
+ThursclaY.
+
+~~-
+
+O(.i._,nt:· lff ·it1:e:$pec!n.1M, JI_
+
+$Pit'
+9-p"cTT!.,
+
+f\llrlbow '11t--P"r1wtnk)4, 1 j_~ _ft_ 191t1 SI.
+
+Tennk,'·m1)(!td -O0\jbli,• For ·smg..-, T11mt111
+Too,. _3S;OO .Mafn' St, 7:3P. 12- .P J,L
+
+J•iik: MoG'ar,n at _La 8tstro, 7,57·fi'ont .St, f'U~.,
+
+73855.
+
+_1hua ~11.Qni;l<>l'l._2,:)ro eno Fat1mq1m1 Avenue
+
+tt•altl Alieri•n~ci-Khybor Pan Pubisa s. ,2nd
+s,
+S-41l'•$l1~4
+Holly_ ~!At' 'lrilh J:T'. i ' h ~ 'prea&nl.ed·,tiy
+i:c_bo_-pr-oovctl(iflt •nd WXPiN u·&,i;!.rr;,-.-Ur1111.
+al Pfl.l'\1'.1- ·-Mµs.eum-aud. 33.rd-&;~!mJ_l;_,e; S~-
+
+Brl9•~" ·n_t_ ·1ho· Cilv. W<111· Oirmer The_atra,
+
+shl:.W·
+
+A"'""1"·BOIII
+M~l11.
+
+Soi;tt, th.,.923-5559,
+
+Gn!;r1lt1 Rwn M&A,
+
+ti.mo
+
+.
+
+l;nrirof'.m'Ml1.-1 K#t.idlWI:~ ·-at 7;30 P·/TI,,
+"Sh,erino !31ab(ll·A&&Qtl(¢611.»·5tht1)'.klll Valley
+
+Mltlfi!
+
+N;•lurw t;:.nwr, 3_480 H1111f• MIii ·R1t, -46;?,
+7300
+~i-1-(:lym •-~1-1 HOU, a_1·woo !).m., YM•
+YW.HA,, e~u.11d & Pino Sta,, t<l,S-411_0:(l, t,)I\, 2tl.
+httr<l· \0 BU:klJlfflm~ It We,~•• fQN:hliJ,
+WQ(kthOPll 11;! 9:3()- iun:., YWCA -~7 -Cri11&1°
+
+ioo, S-
+
+J1Ut ·St.,, 1.J,)◄-3~;l(l,
+
+$Wffi _tu.adwr·v.oca1 JU1(:I lnstrmfientur avo at
+
+lnl_~•Jton•l-i:lal)e1fl9 11 1'.-p.m.,. -H,;:iu111m;·Hal!.
+l)qlvef~iy cf P1:hir)1Sylv11,nt~,- 34.lh & $p{v~e:St11.
+
+SiJu11r• I (IPPJl•e,tii.n -~ (::iic:i,, 1)11~_1'Q-_6.1
+
+a p:,m.: St M•rlln),ln•lhe-F,teldS,: WU/ow
+GrQ,'ffl .+v11 & _SI, M•r_llJ,'.l·l.al\8, 9ti~!,!I Hl!t
+
+'Ave.,. Mo)Wmei)j Ad., -tle-7-0200.
+
+---'-12------'-
+
+Krawau, at Sb1r:;Jl(ln.11, 701_.s. 4QJ-.51, t~~•:2'33$,
+
+_:y.u.,
+
+Wartu.n- s1,. !H.4,31150
+
+flih
+
+4
+
+MU.SIC
+1'hlt Ell• Cl1lai10 QUllrliJI il1 \.II E!ttvp. 167
+!"1Qrl/ _s1re_e.1, f1:J&,~65~
+Tti.. JQ~ <:1,!'Ml'UO- _TrJt:i, .. h1_11tu(1J10 M11n111n
+B•tb_iif!I R11lftla~j'dff i\l -Lelf-a'Jirtk. 1n2_ 6
+
+Th,f- A~_!'➔Uil~Ul.llirlll _s~_ty ·111
+Wa111u_l· .\rL .,rn1111lf;f1 _r,11,-t(i, _1•iv1L 9!h & ;
+WmmJt 51!1 . 514•3~,\l"O-
+
+[
+
+11 p=.m,.:Mairt9lf'$ Fln11h.01,1s.e_1;"11.v&ffl, CRy Un.ii
+
+~~r :~~tt,,t. Ard)ll:1'gh &-_H'lirt,<,,111_l L10''"'~- C:M_,!•
+
+,~rj9_:1ufoqµ:111 -Hw ·-c0:tyj_".le ·p,nn_e, Tne.ii.li"<i;
+4.2P:O·Cilv· i,..,rie:•/\Wl ._ ·_6_1~"~.QOO
+
+Pftviit \J>'wil al .Wai'nut St • ThM.trn,
+
+2021 -t
+816ll'.
+
+"Jr_ilih' l;ffinc_lnspist_ 8. pm • weiert~_oi.r Rt,i;tt,4•
+
+(;lµyll. •~d 01,.11• «i _me R1v11rf,on1 O(nni'ir
+1-l\,t.sJ\ro1 ·Qe!d~af,i _Ai~ -J,I Poplar St" $;!'5•
+
+~Vt,, ".le
+
+Roumi
+Afu'Allf\ '
+
+11,(
+
+Friday
+!-..•1"_!14y ,._OF)!t C•tf!W ~l 0,rfll'!dtti'$ !,.t11t..{l0£f
+
+-·
+
+.W:S·. ,-Kll_l_M\I•::• 'Thi. "RoOlno- Rodtwt.'.·At ,'10
+P.m: a,end·er,_ 41\r/sqq So:utti.-St.,.11:23.,sseo.
+
+_Phll•,.:J~.;;_"jJnffriio1.:,-a.t ·q:rb~d_ol'.11 la1,/56o
+
+S01.1-H1·.$J
+
+AIU'iut;l,
+
+POTPOURRI
+
+-4(.t Maplaw(!od MIi!!, G6rment(n(tn,.9:30-p.m.,
+
+,.m
+
+Ttl.ba!fll, :O<il.flW!lt♦ A>'t!,/Of f'9pl111 Si, 926-
+
+TQOI).
+
+MUSIC::
+
+,.'L.1,1ri1.·M1tkl-l,'fdt',,li.M~ 11.t-Tll)lorl c,111,
+
+t&ai, _-n,
+
+P01
+
+A/<,(lt1_r0nt· Dinner
+
+:tt";
+Ri'ljcqu,
+
+CheS\~r. 436-,95119,
+
+SPORTS
+
+~ :C1HM-.at -Grendel'11 l.Alr,, ~00
+
+~Ufti,:SJ;. ·_
+~i.\yjj·•,11__i,d. ¢~bi - lit: .tlHf
+
+4200 Clly.t_1n11 /We.', 6"19•4000
+
+ca,- Olol-:i!t -Gabil[l!II. IS N W11;lnvU.'it., 'W-t11ll
+
+Jin:!( McG•nn at L~ erni,o. 757 f",oul St, FUtl:.JlfS5
+
+t.M.-»,
+
+2nd, 922·91\.?J
+
+;., •'
+
+I
+
+MU
+w,...
+
+Wt}cl :
+
+ow
+
+2125 i
+C:-•tll '.
+
+521 '.,
+. .w•
+P,m.
+
+"'"'
+
+P4tN.
+
+i\lt1:
+
+t'il'!ll' i
+""'
+
+~ggl:
+
+Ui• I :
+Lf;lll'
+
+THEATRE
+
+&lttti I
+
+C•ht
+Tti,. . .U,.r~ut .\t'•'-Y' t:ultw-#1 - ~ Ill
+Watnur St.. T/)i!litf,'-t Th#ltlf\\i Fl!le. · 9th .la
+
+POTPOURRI
+
+w:.amut ·s1_fi,, .5Tol-3S~.
+A,i.rio•I S~t - ~ at _Gr.1u1!\11 _AUri M.if,
+M1:1t1111
+
+·
+
+_ __
+
+.
+
+__
+
+,
+
+·• •
+
+SW-ul "to11t14cl!'f- 'i'C.Cll!-and-ln~tro_morHJII ®,Q,- at
+? /:1 ,-M~tt\Qtj';:flriho,,tso f1v11rn,_ CIIY:_ L"l_Ot!i
+Av!:_, fMOJ1um11nt _Fh;L.-{>&t,p-200,'
+
+t'"
+
+_fih]_t. "EV~'Yon.;\i.( 8.p'.iii,)iillil1i .rq0,JJ;q¢°:.
+1>;1a1l):,S1 _. •t,fa'riaylini., !\1~•0:)()/J_
+
+PflVilhl- °uv•• ,It ·_wa,11')_11)
+Wa!rtllt-Sl!I-.• St,J-,"61).
+
+·.St,_ :Thel!lt~. 9iri
+
+&
+
+•
+
+YfN:_ (;:.."I .T:llit_♦-' _11 Wll!t" You,-'at· 1"1•)'11'" A
+Pla;tart :(t;f4 Ot,lancciy sf;, PE5;:0030i
+
+V•~-·At r~~ 311_ Ja;foad:&.Spr,~e,$1,~ ·
+
+135-A-1~1.
+
+Chai i
+
+YI<>
+
+Kra>1:
+Rain :
+
+Thti
+
+Fftln_)
+D11rl •
+Zf'ld .. l
+
+SPI
+
+..,
+
+66
+
+4>,;,_·,v·, ,vi' t',jv>! 1y -;,i..,i """'-'F",
+
+Mind"i!.~i:1:Body, ·f!_ncl VOiunteer
+
+!iS:trngs,._:
+
+>rj
+
+lV,
+
+t:'
+
+g.
+°'
+--.J
+
+;,if~E-~_ti· ~
+.l~M.,nth ..·. .
+
+00
+en
+
+.
+
+"C
+
+.. .
+
+i
+
+tfjfOl!Qb Mafc.h_.:Va_t!Ol-!~;tii:n~ ,and lo!?tlons. 215.67053.85.:
+
+W_WVJJ1.~sJic_f!in911th;~rg{f!Y~l)tS
+.::_=:-.:
+At $?,:Rosalyo-Payn~·Js-~r,ttllg-to·~9_nijery;hefher she'._[[ ever:a~~ip:s'~e:h!!f,: -.: '.
+Y,P,\J~ger, bf(lth_~r draw <! :n:e~_bri=ilth.·"l_ hcipe_l_ljve to:_' she-says Jrt:~ef:(:!tltt~f!!Q W~§t '.
+Oak. Lal'!e Jioma-~Yo~~veJo be Op_t!fnlstii:,!' Her·Orother.MuirAiafil~•Osa_9_lioro__ :
+h~_be:_en ~~r:vlng ,a ll_te ~~hfurce ~lnce :198:f_fQr:ane_ged!y ?ct!_ng ~_sJO?~·u_~-!l.\.lr[r\(J
+_fui,~~-led ~orth,P,hl_lf'if°,:bberv-mat re;-u!~~d-Jn_ :he mu~d,er _O,f~~~e'.?~fl~r_:s,~ff:' _·'. ,
+vl.l'.J!JanJu~g!Xir~nlY.17: WhM 1he_.criIT\e-_OCcu'rr:e~S a1,~Y5[~fnlarr{~t1cti!i(. ·
+1ni,,oc_ence. f:~d se_r)f_i;_ndng JU~{I(¼_ CJj~~!~ L\Duma_ll; said :~,w<!S~~(ti/1!~ b~.th_EL:
+rnandatorv so,nten~.' _ciddf_~V- it','.Se?t)'.le_d,'~nr,j(ri· H?_y.e we !1l~fltio:ri-~d.W~?e,s_m_a1~ "i _',
+'_in -th~. ~l_(!g!e ·ofpust_!~e;Moi'i(h?_prga.m.teP·fj_~~arl:hl)'lo_r~_P,$0:J1e~ rj~hts,a(j:fv_istJµ"dlth TrustoJ1:~:eveflts_-examJnj~g J_rieq_41tres_in t_he cri_mlri~ljustice·systef11 _a_re_on·
+tap <1)!_ overtbwn'. Th,e_ Pi7"e-_dE~istaiJ_ce·arriv_es-at_the-e_nd: _ an il!~·Marc~ 31_ a'.ln·
+,-,rer~nce "?t c_e_n_te,r:C~Y_'~-Bf'.Oati -~t_re_et'.Mrr!st_ry-t(e_aturl~ heavyY,'eights_Anq.e!<! .D,avls
+an_d=Sist£!r'Hel~PfeJ:ari)._But_ ofu1F~-~Mties_ s1unct w.ru111_whne too;'!!kf ~ ?9.~117_'
+, r~d)n41ytt:1ftt1 20_ at freEf Ubratvthat:11 inclt!det_he work-Of Mtiti-Ala_mu:asagooro
+who, 1_<1s_t his s!ster.1:te?:rd, wa5:t<!ng~1#11ng _!n'·,tne hole'' i~lt11ithe-Hou-w_ale.State
+correct1ona1_1nsti~utlbn. for.iMlstimi_qii t::a!U!ig himseff by hfs lfil.Fl:l!y"c_f-!anqia~ name,
+H_pw-nervy._ (Frank fiuJ1.Ii10)
+·
+·
+'=_
+
+_ _,_
+
+_
+
+_
+
+_
+
+,
+
+__
+
+1:1'
+
+s
+"C
+
+i
+
+th~
+
+. ,::-':-.-·
+
+_::;---.-
+
+__
+
+trr.e~enza ~ilk "rpm,_$10,$,s."56
+$__Sa,ji)tst;~--,_:_:--,
+-i•--"~:~' . _--:
+~9-lif'P{ll!fre_.i_~~A>f;
+
+-~-
+
+_a«frie~rt
+
+Oi:ad_b)' Wedriesdav,Wo!rPat.~
+"ilo)(,:stam ofJC'{f,.gpi;n:Si6'-$20._4t
+({,.bl//St~
+
+-,,
+
+-
+
+-~---,
+_,
+C[Elipiog Wee(ls:: Nwt!/lilS,'!i6ng
+'fwml stJrigray, Tjil)othf~rt
+_¢ori)pfet.:·S{lm ~8,5,,_S:~&:
+
+~ nimn
+
+,Ar;J,l)OOri-M"YffJii0..9f!m;'Free,4,roO
+
+-~k,I'\-~
+
+-'.n!~nfiMai,-At&.
+
+...,.,......,,
+~------:-.'. , :-
+
+fy(ote:Mii!li. pne~:SoM<mtll.'
+SUlltOVJ::S-"'thll~~ts\!i-8p!l'l$14-;$16:.J:14~5l~
+
+....,
+
+~ !i:i a'.SP#fil.sl.lCahfd _Lad'V.~
+
+_sPJl)_::$15: nw®rui,towiu~.1!~
+,bx';;_·:· ..- ·--
+
+>__",- .-
+
+f.11:111Mtt. 'PIS\Gl!lil, Damlr;ra,:Milri:Js
+Ugl)t•.'5:3_0_1i'm.3)l.llo'.G.ySJ; l\iit(llnmr_
+
+~m,
+
+.,..;~
+
+·.
+
+·Side Entrarn::e,SJ.l®Wa_/fil/[_st
+
+~ , ; ·..
+
+:tt.Motf..,__
+
+.i=:~3frrlt:~~-&S:S!wii!
+~-~-i:~
+
+:l'r.!nk:rti~~91)1!t:$5:f!81&!1sri5t,
+
+-~
+"p
+N
+
+0
+0
+
+--.J
+
+Figure 2.1- Comparison of PW (left) and Contemporary Underground Newspaper (right)
+
+68
+
+Figure 2.2- Comparison of Contemporary Underground Paper (top) with PW (bottom)
+
+69
+
+Figure 3.1- Music Lineup by Back of the Book Editor
+
+2/28
+
+N11it1it,!
+/il'J,u,e/
+
+3/2 Fucked Up @ FUC (Mookle Lovepump)
+
+3/6 the Thermals@ FUC (Gol<:lberg)
+3/1 Golden Elall @ JEls (Wallen)
+3/2 Scissor Sisters @ EF (Goldberg)
+
+3/1 Dalek @JEls (Jean Luc)
+3/2 Eddie Plllmieri @ Kimmel (Adler)
+3/4 Nightingales @ JBs (Jennifer.Kelly)
+3/6 Drake & Chroma @ WCL (Adler)
+
+l111npp1i:
+
+Chris McDavitt
+
+o PEN ING RIF'F': Monotonix, AC/DC inspired riff
+rock from Tel Aviv @ JBs 3/3
+
+POWE"- OF SOUL:
+
+New labels re-
+
+releasing old soul
+
+Hangin' Out His Onion: X
+]!e11tU'f&: Clinic @ JBs (Rob Trucks)
+
+Badmaster Records showcase @ JBs (Doug Wallen)
+
+1-t'IJ•t
+
+up
+
+whf) ... Ooh, wee Tierra
+
+sou lstress)
+
+70
+
+(Philly
+
+Figure 3.2- Image Included with Music Lineup
+
+71
+
+Figure 3.3- Back of the Book lineup
+
+.A+E 28
+A+E COVER: Beer
+
+A-UST
+Baby Loves Disco
+(Emily G)
+Phllly Craft Beer Fest
+(Jack)
+Boxing and. Kickboxing (Jean Luc)
+Intelligent Design on Trial ( Greg Halbrei.ch)
+
+BDAYS
+Giant Pinata at the. IGA (julie)
+Hard Dan<:e Academy USA (Jack)
+Mini M. Jordans try to catch atom'bombs with their ti,ngues (Roberta)
+"TRUTH, ~USTICE, OR THE AMERlCAN WAY?" (Alexandra Chalat)
+
+ON THE RADAR: superheroes
+OUT OF TOWNER:
+KIMEAGINE:
+
+El Gatito
+ART: as last week
+
+STAGE: exciting stuff
+
+FOOD SPREAD
+REV1!lW (K.M. Henri)
+Lush Life by Leah
+
+WHAT pisses off THE bartender
+Recipe:
+
+72
+
+Figure 3.4- Front of the Book Lineup
+
+FRONT! INEIIP
+.
+
+.
+
+Feb. 28: Chaka Fattah. (KG)
+Home Insert
+• Dirty archaeolow on lhdep~ndence Mall (SW) 1, 150
+• Prometheus ra<;llo project in Kenya (JJT & GM) 1, 1SO
+
+• Heartbreak at the Renalssanc.e fake (JS) 700
+
+March 7: Top 1O Drug Corners in the City (SV)
+Education Guide;
+
+• Marching band reco!lec,tons (EP)
+• Wagner Free Institute ofScience(JLR}
+
+March 14: .Jose Garcia and the Philly-Mexico City Connection (KK)
+• Homeless inPhilly (BM)
+
+MarchZl:SPRING GUIDE:STREET GAMES
+
+March 28: Jimmy Rollins (PP)
+
+Apri!4:TK (CH)
+
+April 11: TK (KG)
+
+*pink will b" appearing Jn Philly March 27
+
+73
+
+>)
+
+RAOAR
+
+!Jl'lllll<;.pp!',l'),1<,. . '' .•.•. • •• ·.. · ••.
+
+Yon lm.owwool mean. HeIIBl!ds JJO ..
+introduction. Yesterday heWajrth€;:ria:.'.. -✓
+h'!l'\)a ofPhilly cool, the super-gro;,vy
+gosi;ipblogger, tliedn<le;i,hoputthe
+"Ps," into hlpster. Tode;,.he's.snoton a
+Cl'llcl<who,e'sst<icl<ing.. .• <>C r·
+Hls crime~creillhility?In ahor- ·
+rlfieally liadlyjuilged 1'lwa4ilpbi~ irlag)\zine advertorial; tlie god-king posed in
+the back <if" "free" call,,-.ridictilously
+resplendent in his trruleµiarkrn;,nic
+girl's coat _aD.d·ilnt;~irofilc.'no,-sex
+specs-andgus1ied abollt his ·
+•l"'nsors'.wadnets tpo to w,,-w.
+philadeld
+m..
+goey ew.ms,~ ·- .. :.--' ·,., ..
+WeJl,ltbetroyed.,'lta:hbed
+th,;-ough tlie 1iciiil- Jesns.n.evei:
+shfiloo•. Che~)IE!Vffl'. ...
+suelred corj,oral;e~ But .
+. perlrap,rweshtfuldn'thaveh~
+.sh!,cl<ed.The god,l<;itrgb:~ .
+has aJ,i\,11;"' be<n, 'l!.ealnfeil'<npt ·
+
+.Real Life Is .No1' Fllgaai .
+Philly hipsterdomjumpslhe shark. ·
+
+C.
+
+··
+
+It's beerra rough fuvweeks for hipsters.
+Hugh: Barker And 'l'irntl Tuylor~a
+LarryWeat~Philadelphi,{s !Mhawked · hrulal ill:tack on.~pniressor
+~ calididate' for mayor,-appea:red · · David Lowetbal caJled •the dogon the;fro)!t <mer ofthe Metroiialci;d
+maofs"1£-dolusion,•whmhhasiand J)l'iapie, waving a harulg#n !!.lid
+l'!illy ldlls the enme concept of
+· scteallling hls plan to replacethe city's ·
+•authenlie" alternative culture,
+with wb!i>-wieldi satanlc cheer- •·el\lS .il;;•shitsit, J,uries it, digs it
+·,.·.~,,_'~r<laJ;sitand
+'''' ',' '' '. ' y t ' ~ . ::f""""hedidn\.
+"""""7,r, ,'
+'. ,'
+'; '' ,,_, >,. ,_,._, ' ....shi.·tsit
+He wore asuit. And ,wffled on ahout
+o\!tllgilin.And then nailsit to
+prtl,lic access TV.Hey ho. .
+.
+•a ¢anvaiiand !"'!ls it art. .
+We've.also
+tlieprtblwmonof thtee
+;1;mterulto'ci!riytliis !ast .
+•boob that rip pnnk'sheatt out and beat · popk~witkme.And
+it to death with a.stn 1'iwkM:id<et/ng: . . tlifnrti:tfinie1~.;-ro w)ro
+Getpl[Yonr.Assan/f;TointbeBe~~• ..,.;iill¼,h~J:hlgl,O,e.ahontto ... •
+. jsexactlYwbat it ~(inds)ll;; and~';•<. ·. usotllii
+· f a i l ~ .8al,yfonsBu.imilgby.CliJIC• ·;lsh.0:~himin.t;h<ilJ#lid· ·••t '·
+··tbn.Heylin tcllstliestQryofalterrui~[·• witblt,~.· ; C,
+rock,frompmil<to n e.Andl<;icltjl>
+,;Mi<lcifallthis~en
+seten shades 9fsat~
+m.itof.~liii!
+t<iliiealt ihe
+ro;:ldcons tlie Clash as it does so.
+j,uled ·
+·
+Andthenthere's~lt:Tii~~
+···
+for AJJfbeJitieityin Pqp,;Iar Ma.,icby
+
+.l'W~~~. ~;#l;'
+
+=~Tot.all --~"
+
+_,
+_,.
+
+seen
+
+~•~i!:~,.,.
+
+.tit
+
+Fug;,zi" (Fuga,:ibein,g;;punls
+
+b,i,,:l from, a my long tiyw "Ill'
+that bad pPliti,cs;,iJd ptmclples
+and shitlJlre that). . ·.· •. · . .• •. . ·•.
+. And you know what? Itliinkthe
+god-kinglsnght;R.;.i!Jffi,ill not ..
+
+1u,atthreven
+
+Futazi, Real.life ~oh J,;tmetliink
+now. Wait, I have it.
+Real life is K•1fed. •■
+
+m,-+g-5
+::i--8 <
+f-03§
+~
+-~~
+
+v:·
+
+N 3 "'O .-+ Q o
+"'
+:,"
+C :0N7~ (-t ) (
+t )"< ~
+
+0
+
+0
+
+-
+
+ac:
+
+"Tl
+
+l:I1
+-·
+c,.. (Jq
+
+~
+
+~: C:
+
+o•
+
+{/l-J
+
+~ Q (6
+ri>oe;,...,.~c:~ ::r
+.j:;:..
+Oo ~UlOQUl
+
+--:i::;-(t):1'"~,...,.o
+~
+
+=
+
+:,-
+
+I
+
+Figure 5- Black Like Me Column from February 14-20 2007 issue
+
+~z>;A,I&·.g·,·1. st'Ajt,.E '"'''
+
+';, ·,::_,·_·-,;·. ·_.:·· _,,>/ ..,.' •','::
+
+:·,.:·,-::- .-· .-'~ ·, ,'\\:-i'~
+
+'
+
+m~·· ..... ·
+
+iv.\i-11y 1~ay Onto you whit.e.women
+
+l.~jBLA . •
+i::LlKE'
+II::..·. · • · . ·. · ·.. ME
+
+f Atiierica: stay white. lt'spretty to
+
+·· P•J~ Qpd .qidn't Rlac~ yourra.ce
+· f!Way up inthe mountains and
+of ~l!rope so you can look like an
+ge lollipop rn an Hl;M Nbe top.
+resuppQsed to.beruno.lng.tpe
+dalqngs!de yourmenfol~,and lt'.s
+~ toryou to start looking fl~ enough
+.. rink. merlot from .the1kulis qtthe
+
+i ·••· .... ··. ·..
+
+ili.Uetters~Philad1lphiaweekly,cilm
+
+ffii'l'h•~lotOra~~~
+•. •
+i[: Ll,r~~:Stµpfd.. lt's a ploy.~niu~d
+
+UP
+
+Rit,lil'tli!ifllumJnali who runearthfrom
+
+· e~racesthat'vefaJlenbllfqr~ your
+,;ti on. Only an 4ndvi1izedbut-
+
+.
+
+fililtne Hubbl~Telescope.These evil. .
+!li m,isl:lirinlnds devised th9.concepl of
+
+;!ifromantic (ove to get men to buy !heir
+)11Jovers rings containing qiamoods from
+i+ conflict-ridden ar~as of /\frlca, thus
+·
+upporiiogthefurthersiJbjug91i?n and·
+· ventual annihilationof th.eblack race,
+
+·w,,
+Laura
+
+e,.f'luUyccloud•on-ia-spring·day
+
+. WhlleValentine's..Pay[l]~yg~a
+lilr cause for ceie.bratlon ln the
+•Jtdriesn;\ meaj,$hit inl,frica,
+
+Wouldthink a.McDonalo's doesn't
+g lnMogadishu.
+, beforeJforget; white ladles,
+'re alsofucklng with us niggas
+like our wh.lte womel} white. •
+Ingalls WUder whlte, Bj<irk
+
+. lt'shar~for us to lust after a
+an galwl\olooks like a Dragon
+
+.·
+
+'.Z-.character;
+
+~ilfggasis dodgJM bazoo.kas and
+J:; so some dude 9n this end oft he
+I.oil~ can get his pee•pee lellated by
+is"overtanned, orartge•skinneq bimbo.
+ue to his Qf1lat lqtkyJa;;te in gifts, .
+Also, when .didit becom'eattrlldiVe
+
+rwhitewo.men to tantMms~lvesto\:, ·
+
+• p\llntofturnlng.ttieir skin orange? ··
+ere any race on this planet !hat's
+ge 1~.nalure? Maype Italians, bµI
+
+'re.more.v.inill~•pudding·c;o,loretj.
+en when I backtrack through 1)1Y .·
+efatihlldtiood 111e111ori.es (more...
+
+s<... this Jn the tut~r:e/..i~Q'fre~~l!a•i
+•'Wcartoon character thatcwas orange.
+l;!,;:~o,wutthadi!ly, ladies? 1ihls whole·
+
+1il(Qr<1nge·skin~ed white-woman shit Is
+/i;iiJQ~lunsettllng.
+
+75
+
+, · · .•·· . .
+
+·• .
+
+h:rwrap this u~ It's gree;tfo be
+· Whitelikethe:clean dishes ..
+\ipboardl. Yo~rfqCe created
+and concrete. Don't trade those
+hl)i•n\f!n.!o look "11xotl.c" or ·
+tli.i~g,.Y1>1.;JµstJRQ~. s~~rv.•to me,
+mtoo i>lq tg b~• ·
+· ·
+
+

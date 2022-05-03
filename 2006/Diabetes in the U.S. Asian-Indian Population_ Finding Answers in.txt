@@ -1,0 +1,1776 @@
+Anthropology Senior Theses
+
+University of Pennsylvania
+
+ScholarlyCommons
+Department of Anthropology
+
+Spring 2006
+
+Diabetes in the U.S. Asian-Indian Population: Finding Answers in
+Diet and Lifestyle
+Teenu Cherian
+University of Pennsylvania
+
+Follow this and additional works at: https://repository.upenn.edu/anthro_seniortheses
+
+Q
+
+Part of the Anthropology Commons
+
+Recommended Citation
+Cherian, Teenu, "Diabetes in the U.S. Asian-Indian Population: Finding Answers in Diet and Lifestyle"
+(2006). Anthropology Senior Theses. Paper 77.
+
+This paper is posted at ScholarlyCommons. https://repository.upenn.edu/anthro_seniortheses/77
+For more information, please contact repository@pobox.upenn.edu.
+
+Diabetes in the U.S. Asian-Indian Population: Finding Answers in Diet and
+Lifestyle
+Disciplines
+Anthropology
+
+This thesis or dissertation is available at ScholarlyCommons: https://repository.upenn.edu/anthro_seniortheses/77
+
+Diabetes in the U.S. Asian-Indian population: Finding Answers in Diet
+and Lifestyle
+A Senior Thesis in Anthropology
+Teenu Cherian
+May 3, 2006
+
+Table of Contents
+Abstract
+I. Introduction
+
+1
+
+IL Background On Type II Diabetes
+
+1
+
+III. Diabetes and the Role of Genetics
+
+2
+
+IV. Diabetes and the Role of Diet and Lifestyle
+
+4
+
+V. Regional Contributions to the Prevalence of Diabetes
+
+7
+
+VI. Type II Diabetes in the U.S. Asian-Indian Population
+
+8
+
+VIL Survey Data Analysis
+
+11
+
+Methods
+
+12
+
+The Population
+
+13
+
+Observations
+
+14
+
+Diabetes: Concern and Knowledge
+
+24
+
+VIII. Discussion
+IX. A Future of Prevention
+
+25
+27
+
+Abstract
+The number of diabetics in the United States has grown considerably each year. A
+significant proportion of these diabetics are of Asian Indian ethnicity, as their genetic
+predisposition places them at greater risk of developing diabetes. Although a rapidly growing
+ethnic population in the U.S. and with a high incidence rate of diabetes, research regarding
+diabetes in this population is only slowly emerging. Since the Asian Indian population has a
+common predisposition for diabetes, it was hypothesized that the risk of developing the disease
+primarily depended on diet. In order to determine whether the diet of Asian-Indians contained
+diabetes-promoting foods as well as their knowledge and concern for diabetes, a small
+population ofMalayalee Indians was surveyed. Analysis of the data collected revealed the
+observance of three different diets, each arising from a combination of factors. As diabetes is
+heavily reliant on behavior modification, diet and lifestyle interventions are argued as the
+primary means to prevent the rise of diabetes to epidemic proportions in the Asian Indian
+population.
+
+Cherian, 1
+Introduction
+
+In 1995, the U.S. ranked third following India and China for the number of adults with
+diabetes. Estimates from 1998 projected the same third place standing for the U.S. in the year
+2025 with nearly 21.9 million adult diabetics (King, 1998: 1417). The American Association of
+Physicians of Indian Origin indicated that nearly 2,200 people in the U.S. are diagnosed with
+diabetes each day (AAPI, 2001). Those of Asian Indian ancestry are undoubtedly well
+represented in the number considering the 1.9 million Asian Indians living in the United States,
+and the well-aclmowledged prevalence of diabetes within the group (Venkataraman, 2004:977).
+Research of diabetes within the Asian-Indian population has already indicated a predisposition
+toward diabetes. Significant increase or decrease in the risk of developing diabetes, therefore,
+rests in factors of diet and lifestyle choices. Many researchers have suggested particular foods as
+contributing to the risk of diabetes. Are Asian-Indians actually consuming large quantities of
+such foods? If Asian-Indians are at such high risk of developing diabetes, how many are
+knowledgeable and concerned about the disease? These questions were examined in greater
+detail through a study conducted of a small population of Malayalee Indians (a subset of the
+Asian-Indian population). The study although limited in scope was an attempt to address the
+above questions and assess the need and avenues for education and prevention in the population.
+Early intervention in the factors of diet and lifestyle may provide the control necessary of a
+disease otherwise growing to epidemic proportions in the population.
+
+Background on Type II Diabetes
+
+Between the two most common types of diabetes, type II accounts for nearly 95% of all
+cases (Dean, 2004:3). Individuals with type II diabetes fail to either produce enough insulin to
+
+Cherian, 2
+regulate the level of glucose (sugar) in their blood or fail to respond properly to the insulin.
+Therefore, they are characterized by having unusually high blood sugar levels (3).
+No one particular factor contributes to the development of diabetes in an individual. In
+most cases, it is triggered by a combination of genetic and environmental factors. Nevertheless,
+type II diabetes appears to be more strongly linked to genetics than type I. Once genetically
+predisposed to diabetes, an individual's risk of developing the disease heightens if the individual
+leads a Western lifestyle (The Genetics of Diabetes, 2005). The diet, which accompanies a
+Western lifestyle, often increases the individual's chance of becoming obese. This correlation is
+of particular importance because obesity has been repeatedly identified as a major risk factor for
+diabetes.
+Although, diabetes is quite manageable, it must be taken very seriously because of its
+close ties to other life-threatening illnesses. Endocrinologist Lt. Col. MK Grag, speaking at a
+seminar on "Diabetes and its awareness," acknowledged that diabetes can reduce life expectancy
+by five to seven years if left untreated. He also asserted that living with diabetes increases the
+risk of heart disease by 50 times, renal complications by 17 times, and gangrene by 25 times
+(The Times oflndia, 2004).
+According to projections made in a World Health Organization publication in 1998, an
+increase of 42% in the number of people with diabetes was expected between 1995 and 2025 for
+the developed nations.
+
+Diabetes and the Role of Genetics
+
+Research has revealed that the onset of diabetes involves several factors. Currently, much
+of the focus has revolved around genetic and environmental cues. It is with a genetic
+
+Cherian, 3
+predisposition to the disease, particular in the case of type II diabetes, that many individuals
+become more prone to the development of diabetes (The Genetics of Diabetes, 2005). Although
+researchers have determined that type II diabetes involves many genes, identifying these genes
+has proven more difficult. Much of the reason lies in the possibility that these "diabetes genes"
+could simply be small variations of a particular gene sequence. Such variations are too abundant
+within the population to indicate an association between a particular gene and an increased risk
+of diabetes. Nevertheless, in the hopes of finding "diabetes genes" researchers have conducted
+genome linkage studies, in which "the entire genome of affected family members are scanned,
+and [thereafter] ... followed over several generations" (Dean, 2004:3). Their efforts have
+revealed two "diabetes susceptibility genes," calpain 10 (CAPN 10) and hepaocyte nuclear factor
+4 alpha (HNF4A) that influence the risk of developing diabetes (Dean, 2004:3).
+Current estimates of the number of people living with diabetes suggest that the disease
+has reached near epidemic proportions. According to one theory, "thrifty genes" may have a
+central role in the rising prevalence of the disease. These genes are especially important to the
+survival of an individual when living in an environment prone to famines and starvation. When
+food is available under these conditions, "thrifty genes" allow the individual to utilize the food to
+build up "fat stores." These "fat stores" provide the energy necessary to survive the food
+shortages prevalent during famines. Unfortunately, when food is available in constant supply,
+these genes become disadvantageous to the survival of the individual. Continuing to build up "fat
+stores" under this constant supply of food, these "thrifty genes" contribute to threat of obesity.
+Considering the intimate relationship between obesity and diabetes, "thrifty genes" may be yet
+another set of genes crucial to the development of diabetes (Dean, 2004:9, Lieberman,
+2003:356).
+
+Cherian, 4
+As illustrated by the case of the "thrifty genes," genetic and environmental factors are
+closely intertwined. Therefore, genetic predisposition alone does not determine an individual's
+risk for diabetes. In fact, this predisposition to diabetes only seems to be a significant factor
+when the individual follows a Westernized lifestyle. In regions around the world untouched by
+Western standards, the threat of type II diabetes remains significantly lower regardless of the
+population's level of predisposition toward the disease (The Genetics of Diabetes, 2005).
+Further proof for this notion of diabetes as having more than a genetic component lies in studies
+conducted with identical twins. If one twin is diagnosed with type II diabetes, the other twin has
+at most a 3 in 4 chance of developing type II diabetes. Although they are genetically identical,
+their likelihood of developing diabetes may vary as a consequence of environmental differences
+(The Genetics of Diabetes, 2005).
+
+Diabetes and the Role of Diet and Lifestyle
+In association with an individual's genetic makeup, the environmental cue most
+significant in the risk of diabetes is the lifestyle led by the individual. Before the onset of
+diabetes, most individuals as a consequence of their genetic makeup become insulin resistant.
+According to experts, this resistance is heightened if the individual grows obese and leads an
+inactive lifestyle (Patlak, 2002). With the modernization and globalization occurring throughout
+the world obesity and a sedentary lifestyle have become the trend. Many fast food franchises
+have expanded and become more widely available for mass consumption. Unfortunately, much
+of the fast foods available contain large amounts of hydrogenated oils, which as fatty acids work
+to actually "hamper the action of insulin in muscle cells" (Patlak, 2002, Pereira et al., 2005:41).
+Fast foods also contain "highly refined starchy food and added sugar," which along with high-fat
+
+Cherian, 5
+dairy products and red meat are part of a "diabetes-boosting diet" (Patlak, 2002, Pereira et al.,
+2005:41).
+
+In addition to the increased intake of such foods, modernization has worked to
+
+decrease the level of energy output with the contribution of motor vehicles and public
+transportation (Lieberman, 2003 :360). The fallen levels of energy expenditure in combination
+with a greater consumption of high-caloric foods have led to the increased prevalence of obesity
+around the world. Considering that more than 75% of diabetics are obese, this factor cannot be
+dismissed (Patlak, 2002). However, in the case of diabetes, simply examining the extent of
+obesity within an individual proves insufficient. It becomes imperative to consider how the fat is
+distributed within each person. It appears that an increased distribution of fat in the abdominal
+region increases the risk of developing diabetes (Fact Sheet, 2003, Abate et al., 2001 :322). In
+contrast to the fat found elsewhere in the body, the visceral fat within the area "secretes far more
+hormones and other circulating substances that counter the effects of insulin at the cellular level"
+(Patlak, 2002). Recent research has shown that the subcutaneous fat in the area also plays a role
+in insulin resistance (Ramachandran et al., 2002:1473) As a consequence of these deposits, the
+individual grows more insulin resistant and in turn more likely to develop diabetes. The rise of
+obesity along with a sedentary lifestyle characteristic of Western practices, therefore, contributes
+to an increase in insulin resistance more so than directly causing diabetes.
+Further evidence for insulin resistance in the population comes from a study conducted
+using American and Asian Indian vegetarians. Examination of their insulin and glucose levels,
+revealed that the Asian Indian men involved always had higher levels of insulin present than
+their American counterparts. Further analysis disclosed that with fewer binding sites for insulin
+on their red blood cells, the percent of insulin binding was significantly less than in the case of
+the American subjects. With this "decreased affinity" for the insulin present in the blood, the
+
+Cherian, 6
+insulin begins to accumulate (Scholfield et al., 1987:957). Considering this, a greater amount of
+insulin would be required to regulate the glucose levels. Many have suggested that the decreased
+binding of the insulin may have resulted as a consequence of genetic factors (Scholfield et al.,
+1987:959). However, the author is quick to point out that changes in the type of carbohydrates
+consumed within the diet can also adversely affect insulin resistance.
+Indians also appear to have a predisposition to certain physical characteristics. Studies
+conducted in the northern and southern regions of India demonstrate a higher percentage of body
+fat in Indians. Although those participating in the studies had ideal body mass index (BMI)
+values, their levels of body fat percentage were similar to that of the overweight white subjects
+within the study (Ramachandran et al., 2004: 193). Moreover, their bodies have a predisposition
+toward the accumulation of abdominal fat (Ramachandran et al., 2004:28). As discussed before,
+increased deposits of fat in the abdominal region has a significant link to the risk of developing
+diabetes. With such deposits of fat in the abdominal area, Indians for a given BMI, appear to
+have greater central adiposity (Ramachandran et al., 2004: 192). Although considered to have
+ideal BMI levels, such genetic predispositions under the influence of a Western lifestyle have
+heightened their resistance to insulin.
+With increased levels of insulin resistance, the number of Indians falling to the threat of
+diabetes continues to grow. Throughout India, modernization has resulted in varying prevalence
+of diabetes among urban and rural populations. Dr. Garg, an endocrinologist speaking at a
+seminar on "Diabetes and its Awareness," reported that nearly 70% of diabetics within India
+reside in urban areas, while only 30% inhabit rural regions. He suggested that the "lifestyle and
+food habits in the city" are to blame for the trend (The Times of India, 2004). With the increased
+urbanization in India, traditional lifestyles have given way to modem practices in urban centers
+
+Cherian, 7
+throughout the country. In regards to diet, affluence and modernization within urban regions has
+resulted in the consumption of more fats and more calories by means of refined cereals and
+carbohydrates within their diets (Mohan, 2004: 471, Ramachandran et al., 2002:1473).
+Urbanization has also led to an overall decrease in the physical activity for many Indian
+urbanites. Technological advancements arising from modernization have provided "energy
+saving methods of transport and labour," leaving Indians with very little reason to engage in
+vigorous physical activities (Ramachandran et al., 2002:1474). This experience of urbanization
+in India and its apparent heightening of the risk of diabetes prove similar to the effects seen in
+people immigrating and becoming integrated to modem lifestyles of the U.S (V enkataraman,
+2004:979).
+
+Regional Contributions to the Prevalence of Diabetes
+Despite immigration, regional patterns of cuisine remain evident in the consumption patterns of
+Asian-Indians (Jonnalagadda, 2002:1286). This in tum can result in variations in the individual's
+risk of developing diabetes. Some effort to understand these regional differences resulted from
+the National Urban Diabetes Study. According to the study the southern parts of India-- Chennai
+with 13.5%, 12.4% in Bangalore, and 16.9% in Hyderabad, appear to have the highest incidence
+of diabetes (Mohan, 2004:468). The eastern, northern, and western regions in comparison show
+prevalence rates of 11.7%, 11.6%, and 9.3% respectively (469). This higher frequency of
+diabetes in southern India, particularly in the southwestern state of Kerala, may reflect the
+cuisine of the region. Recent estimates, after accounting for the possible bi.as toward higher
+prevalence resulting from the impressive detection rates in Kerala, identify nearly 11 % over the
+age of 20 with type II diabetes (The Hindu, 2002). In general, the Indian met is "rich in
+
+Cherian, 8
+carbohydrates with almost an equal distribution of proteins and fats" (Shobana et al., 1998:182).
+The South Indian meal when considered alongside meals of other regions of India contains the
+highest amount of fat. It is well acknowledged that "fat makes an important contribution to
+energy intakes." In the case ofKerala, nearly 22% of the energy is obtained from various sources
+of fat (Nigam, 2000:61). If an individual's energy intake exceeds the recommended level as a
+result of increased fat consumption, obesity may very well pose a threat. According to a report in
+the Hindu Times, 35% of those over the age of 35 in Kerala are overweight (The Hindu, 2002).
+Considering the close ties between obesity and diabetes, the high amounts of fat in the South
+Indian meal is of great significance. Research of the fat intake throughout India has revealed that
+Kerala consumes the highest amount of"invisible fat," nearly 50.5g through cereals (largely rice
+and tapioca), pulses, eggs, meat, and vegetables available in its South Indian cuisine (Nigam,
+2000:59-61). The diet also consists oflarge quantities of coconut and coconut oil. Nearly 88% of
+the oil contains saturated fatty acids, which contributes a significant amount of "visible fat" to
+the individual's total energy intake (Nigam, 2000:60). An inactive lifestyle in combination with
+such a diet only heightens the risk of diabetes for a population already predisposed to the illness.
+
+Type II Diabetes in the U.S. Asian-Indian Population
+With immigration to the United States, Asian-Indian families attempt to integrate the
+regional diets of their native lands and the foods of American culture. The acculturation has not
+necessarily improved health in regards to diabetes for immigrant Asian-Indians when compared
+to their counterparts in India. In fact, a study conducted by Venkataraman et al. revealed similar
+rates of prevalence of diabetes in their study population in the U.S. and those reported for urban
+India. Within the U.S. itself, the prevalence of diabetes in Asian-Indians is markedly higher than
+
+Cherian, 9
+that of other minority groups. Venkataraman et al. reported that those older than 20 years of age
+in their study had a prevalence of diabetes twice that of Hispanics (9.3%) and nearly four times
+that of whites (4.8%) (Venkataraman et al., 2004:979). Although Asian-Indians between the age
+of 60-74 had a prevalence rate (24.8%) comparable to that of Hispanics (24.4%), it was
+nevertheless much higher than that found in whites of the same age group (11.3%) (979). Among
+their study population of Gujaratis living in the Atlanta region, the prevalence rate appeared to
+increase progressively between the age of 40 and 70 (Venkataraman et al., 2004: Fig.!)
+In regards to physical health, the link between obesity and diabetes suggests higher rates
+of diabetes in populations with higher body mass indices. However, Asian-Indians continue to
+have a greater prevalence of diabetes in comparison to non-Hispanic whites despite having lower
+BMI values (Mohanty et al. 2005:477). Experts express that although BMI values are suitable
+measures of obesity, they do not provide accurate information in regards to insulin resistance and
+in turn the risk of diabetes for the Asian-Indian population. In comparison to whites, AsianIndians develop truncal obesity to a greater degree. For this reason, many argue that measures of
+truncal obesity provided through waist-hip ratios are a better means of diagnosis for this
+particular group. Some experts have gone even further and suggested that perhaps all AsianIndians should be considered "pre-diabetic" (477). Although this suggestion may seem extreme,
+Asian Indians have a very low sensitivity to insulin for relatively low BMI values. Therefore, a
+small increase in weight may reduce insulin sensitivity to a point at which diabetes develops
+(Ramachandran, 2003: 17).
+The epidemic nature of diabetes in the Asian Indian population has only heightened
+because of the sedentary lives led by most immigrant South Asians. Concerned with establishing
+successful lives for themselves and their families, most South Asians do not find the time to
+
+Cherian, 10
+exercise (Sridaran, 1994:47). In fact, in a survey conducted of 237 South Asians originating from
+different regions of Indian, 38% reported never engaging in any form of physical activity
+(Jonnalagadda, 2002: 1288). Moreover, with automobiles seen as a necessity in the U.S., nearly
+everyone has a car. Many Asian Indians, therefore, are participating in very little rigorous
+activity in traveling from one place to another. In India, on the other hand, people find
+themselves walking or using a bicycle to move about, resulting in some degree of physical
+activity daily (Sridaran, 1994:47).
+In addition to inactivity, the changes in diet for many immigrant South Asians has meant
+an increased risk of obesity and in tum an increased potential to develop diabetes. According to
+Sridaran and Kolhatkar, many Asian Indian immigrants began to incorporate fast foods and other
+"high-calorie, high-fat foods" into their diet in the process of acculturation (Sridaran, 1994:47).
+Sandwiches, soups, and meats are being consumed in greater quantities and appear to have
+become staples for Asian Indians. Similarly, in the diets of many Asian Indians, American
+breads have substituted the wheat flatbreads once so common to the Indian diet (47). Kulkarni, in
+his survey of a group of South Asians in the U.S., concluded that with immigration this group
+has essentially abandoned their low fat, high fiber diets and adopted one with greater quantities
+of animal protein, saturated fats, and low fiber (Kulkarni, 2004:191). Several studies have
+demonstrated that a diet rich in saturated fats decreases the body's sensitivity to insulin, while
+the risk of diabetes is reduced if a diet rich in fiber is consumed (Bazzano, 2005:311-312). For
+immigrant Asian Indians, the combination of a diet rich in saturated fats and low in fiber would
+potentially increase their risk of developing diabetes.
+
+Additional studies have displayed an
+
+increased risk of developing diabetes with consumption of foods that heighten an individual's
+glycemic load (312). Since the carbohydrate content of foods determines glycemic loads, this
+
+Cherian, 11
+finding is of particular importance as Asian Indian immigrants derive nearly 60% of their daily
+energy intake from carbohydrates (Misra, 2004:485).
+As an immigrant population, the duration of time in the U.S. significantly affects the
+composition of the diets of Asian Indians. With increased lengtb of time spent in the U.S., Asian
+Indians digress from traditional Indian cuisine and begin to consume a greater proportion of nonethnic foods and alcoholic beverages (Diwan, 2001 :50). In the process of assimilation, Asian
+Indians are seen consuming increased amounts of American meals as well as chips, fruit juices,
+colas, alcohol, fruit, and margarine, and other Western baked goods (Sudha, 1999: 1108;
+Kulharni, 2004:191). Although, over time they have abandoned the use of saturated fats such as
+ghee (clarified butter) and butter in cooking, their total energy intake and the proportion of
+energy derived from fats has increased upon immigration to the United States(Kulharni,
+2004:191; Jonnalagadda, 2002:1287). In a study conducted of various groups of Asian
+immigrants, including Asian Indians, the likelihood of becoming overweight increased with
+duration in the United States (Lauderdale, 2000:1192). Moreover, analysis of the National Health
+Interview Survey from 1992 to 1995 revealed that with increased time spent in the U.S., Asian
+Indians experienced a general deterioration in health (Mohanty, 2005:474). These results are
+precisely due to the unhealthy diets and inactive lifestyle arising from acculturation into an
+unfamiliar culture.
+
+Survey Data Analysis
+
+With a relatively higher prevalence of diabetes in Asian Indians comparable to other
+immigrant populations in the U.S., the need for education and targeted prevention in this group
+intensifies. Considering the association between diet/lifestyle and diabetes, a survey was
+
+Cherian, 12
+conducted among a small population of South Indians in an attempt to understand their dietary
+habits as well as their concern and knowledge of diabetes. The survey and the dietary recall
+requested provided the opportunity to examine if South Indians were consuming foods that could
+potentially increase their risk of developing diabetes. Perhaps, more importantly, the data
+collected produced some insight into how to best target education to alleviate the impact of
+diabetes for Asian-Indians.
+
+Methods
+
+The survey carried out to address these questions was in the form of a questionnaire. In addition
+to some demographic information, it asked the individuals to record a dietary recall. Participants
+were instructed to record the dietary recall between Monday and Friday in an attempt to
+minimize the fluctuations that occur during the weekend. The questionnaire also asked several
+questions regarding the individual's concern and lmowledge of diabetes. Nearly 85 forms were
+given out to a group of South Indians at St. Mary's Cathedral upon conclusion of services. The
+initial group was permitted a week to complete the form and return it the following Sunday. With
+a lack of response the initial week, phone calls were made to members' houses on Saturday
+evenings as a reminder. After two weeks, an additional 15 forms with attached envelops were
+given to more members in order to gather a sufficient amount of data. Several more
+questionnaires were given to other Malayalee South Indians belonging to other churches. At the
+conclusion of the study, 108 questionnaires were given to this target population, of which 51
+were returned and used in the analysis that follows.
+
+Cherian, 13
+
+The Population
+Table 1
+
+Study Population
+
+Age Range
+
+Males
+
+Females
+
+Missing
+
+Total
+
+10-19
+
+3
+
+2
+
+0
+
+5
+
+20-29
+
+2
+
+10
+
+0
+
+12
+
+2
+
+4
+
+1
+
+7
+
+40-49
+
+2
+
+3
+
+0
+
+5
+
+50-59
+
+2
+
+4
+
+0
+
+6
+
+60-69
+
+2
+
+1
+
+2
+
+5
+
+Missing
+
+6
+
+2
+
+3
+
+11
+
+Total
+
+19
+
+26
+
+6
+
+51
+
+30-39
+
+The survey population consisted of 51 South Indians of whom 69% were born in India,
+20% in the United States, 4% in the United Arab Emirates, and the remainder of unknown origin.
+Regardless of their place of birth, all of the participants belong to an ancestry that originates in
+India. More specifically, these individuals are presumed to have families arising from the state of
+Kerala. One of the states on the southern most tip of India, Kerala primarily consists of Hindus,
+Muslims, and Christians (India Heritage). Keralite Christians predominately consume a nonvegetarian diet. It was presumed that all the participants in the survey were also non-vegetarians
+as all of them were Christians. In fact, a majority of the individuals belongs to a single
+congregation while a few others attend other churches in the Philadelphia region.
+Among the 51 participants, 26 females, 19 males, and 6 individuals of unreported gender
+are represented (Table 1). The average age within the population is 35.6 years, with the majority
+of immigrant women and men arriving in the United States at 23 .3 and 28.1 years respectively.
+
+Cherian, 14
+Observations
+
+Review of the dietary recalls revealed three different diets consisting of American and
+Indian cuisine. The first included primarily Indian foods (two or more Indian meals in a given
+day), the second a combination of American and Indian foods (one Indian meal), and the third
+largely American foods (zero Indian meals). Those consuming an Indian diet reported as eating
+two or more Indian meals during the course of the day. From one individual to the next, the
+contents of these two meals remained consistent. One meal generally contained some rice with
+curried vegetables, yogurt salad dressing, and curried meat or fish. The second meal often
+consisted of store-bought or homemade chapattis (wheat flat bread) with curried vegetables,
+meat, or yogurt salad dressing. To illustrate, an individual classified as eating an Indian diet
+recorded as consuming the following for lunch: 2 cups of rice with two tbps. of beans with
+coconut, 2 tbps. of yogurt made with Indian spices, 2 pieces of fish curry, 16 ounces of water,
+and 1 apple. In addition, the individual ate the following for dinner: four chapattis prepared with
+wheat flour and I tsp. of vegetable oil, chicken curry, and 16 ounces of water. The individuals
+who consumed a combination of American and Indian foods typically only ate one Indian meal
+during the reported day. The Indian meal usually consisted of either rice or chapattis with
+vegetables and/or a meat dish. Interestingly, 73% of the individuals ate rice as their Indian meal,
+while only 20% ate chapattis and 6.6% consumed both during the one meal. The American
+portion of their meals included soups, salads, sandwiches, and meat dishes. An individual from
+this group reported as having one tuna sandwich with mayonnaise, lettuce, and tomatoes or rye
+bread, 16 ounces of diet ice tea, and one medium apple for lunch. For dinner, the individual
+consumed a typical Indian meal consisting of two cups of rice, half a cup of string beans, two
+tbps. of yogurt, one tsp. of pickle, four ounces of fish, and two cups of water. Unlike this
+
+Cherian, 15
+individual, those eating an American diet did not consume any Indian meals during the day. For
+most participants within this group, meals included sandwiches, salads, pasta, meat dishes, and
+fast foods. In one particular case, the individual recorded as having eaten half of a turkey
+sandwich with lettuce, one pear, 12 ounces of Sierra Mist, and four chocolate chip cookies for
+lunch. The same individual ate broiled chicken thighs with seasoning, sauteed mixed vegetables
+with onions and garlic, two Pillsbury biscuits, and one Klondike oreo bar ice cream for dinner.
+Whether participants consumed entirely American meals as the individual described
+previously, followed a diet consisting of primarily Indian meals, or a combination of both
+cuisines depended on several factors.
+Table 2
+
+Composition of Diets According to Age
+
+Age
+Range
+
+Total# of
+Individuals
+in Age
+Range
+
+#
+
+# Eating a
+
+Eating
+Indian
+Meals
+
+Combination
+of American
+and Indian
+Meals
+
+# Eating
+American
+Meals
+
+% Eating
+Indian
+Meals
+
+% Eating
+American/1ndian
+Meals
+
+% Eating
+American Meals
+
+10-19
+
+5
+
+0
+
+2
+
+3
+
+0%
+
+40%
+
+60%
+
+20-29
+
+12
+
+3
+
+2
+
+7
+
+25%
+
+17%
+
+58%
+
+30-39
+
+7
+
+3
+
+2
+
+2
+
+43%
+
+29%
+
+29%
+
+40-49
+
+5
+
+2
+
+2
+
+1
+
+40%
+
+40%
+
+20%
+
+50-59
+
+6
+
+4
+
+2
+
+0
+
+67%
+
+33%
+
+0%
+
+60-69
+
+5
+
+2
+
+2
+
+0
+
+40%
+
+40%
+
+0%
+
+Missing
+
+11
+
+8
+
+3
+
+1
+
+73%
+
+27%
+
+9%
+
+The table above reveals one of the more apparent associations; that between the age of the
+individual and the diets consumed. Within the population, those m their teens and twenties
+consumed mostly American meals, 60% and 58% respectively, during the day. Nevertheless,
+these two groups differ in their consumption oflndian meals. While those between the ages of 10
+
+Cherian, 16
+and 19 only included a maximum of one Indian meal into their daily diet, nearly 25% of the
+individuals in their 20s were eating a largely Indian diet. This trend toward the inclusion of more
+Indian meals continues with those in their 30s and 40s. Fewer and fewer individuals within this
+age group are seen consuming an entirely American diet. Although moving toward an Indian
+diet, some proportion of those in their 30s and 40s consume all three types of diets discussed
+previously. Unlike those in their 30s and 40s, participants in their 50s and 60s have moved away
+from the all-American diet completely. Most of these individuals are eating at least one Indian
+meal daily, if not more. Despite further observance of an Indian diet within this older group,
+American meals have not been abandoned altogether. Nearly 33% of those in their 50s and 40%
+of those in their 60s consume a diet composed of both American and Indian meals. The data
+provided appears to suggest that Indian meals come to compose a greater proportion of an
+individual's diet with increasing age.
+As depicted in Table 3 below, the particular diet observed also varied in accordance with
+the individual's duration as a resident in the U.S. Those participants who have resided in the U.S.
+for less than 11 years were found to have diets composed of largely Indian meals. This was
+particularly true for those who had been in the country for less than five years. After a period of
+five years, the data revealed a gradual incorporation of American foods into the diet. Among
+those who have lived in the U.S. for six to eleven years, 67% were found to consume a diet
+composed of both American and Indian foods.
+
+Cherian, 17
+
+Diets in Relation to Number of Years in the U.S.
+
+Table 3
+
+# Eating
+Indian
+Meals
+
+# Eating
+American
+/Indian
+Meals
+
+# Eating
+American
+
+4
+
+4
+
+6-11
+
+3
+
+12-17
+
+Meals
+
+Eating
+Indian
+Meals
+
+% Eating
+American
+/Indian
+Meals
+
+% Eating
+American
+Meals
+
+0
+
+0
+
+100%
+
+0%
+
+0%
+
+1
+
+2
+
+0
+
+33%
+
+67%
+
+0%
+
+12
+
+5
+
+3
+
+4
+
+42%
+
+25%
+
+33%
+
+18-23
+
+5
+
+4
+
+0
+
+1
+
+80%
+
+0%
+
+20%
+
+24-29
+
+2
+
+0
+
+1
+
+1
+
+0%
+
+50%
+
+50%
+
+30-35
+
+3
+
+0
+
+2
+
+1
+
+0%
+
+67%
+
+33%
+
+U.S.
+Born
+
+10
+
+0
+
+4
+
+6
+
+0%
+
+40%
+
+60%
+
+Missing
+
+12
+
+8
+
+3
+
+1
+
+67%
+
+25%
+
+8.3%
+
+# of
+Years in
+the U.S
+
+Total# of
+Individuals
+
+0-5
+
+%
+
+Greater inclusion of American foods and all-American diets exist in those participants who have
+resided in the U.S. between 12 and 25 years. The 0% of individuals among those having 18-23
+years of residence in the U.S. is certainly unexpected, but the explanation may exist in the small
+size of the population. Nevertheless, in considering that 33% of participants with 12-17 years
+residence and 20% of individuals with 18-23 years residence are following an American diet, it
+becomes apparent that individuals have begun to move toward American cuisine. The resulting
+decrease in the consumption of Indian meals is perhaps most evident in those participants who
+have lived in the U.S. for more than 24 years. Individuals among this group have completely
+abandoned a largely Indian diet. They have moved toward a diet composed of either American
+and Indian foods or one primarily of American foods. This increased consumption of American
+cuisine is perhaps most exaggerated in those born in the United States, as nearly 60% of these
+individuals follow a largely American diet. Although, a significant shift toward American cuisine
+
+Cherian, 18
+develops with prolonged residence in the United States, the South Indians within this survey
+population have not eliminated typical Indian meals from their diets. Many of those who have
+been in the U.S. for more than 24 years or were born here reported as having one Indian meal
+dilling the day. Nonetheless, the general trend within the population reveals that as length of
+residence in the United States increases, the individual grows distant from a primarily traditional
+Indian di et.
+The individual's dietary habits also appear to differ in association with the age at which
+the individual arrived in the United States (Table 4).
+Table 4
+
+Diets In Relation to Age at Arrival in the U.S.
+
+Age at
+Arrival
+in U.S.
+
+Total# of
+Individua ls
+
+# Eating
+Indian
+Meals
+
+# Eating
+American
+/Indian
+Meals
+
+# Eating
+American
+Meals
+
+%Eating
+Indian
+Meals
+
+% Eating
+American
+/Indian
+Meals
+
+% Eating
+American
+Meals
+
+U.S.
+Born
+
+10
+
+0
+
+4
+
+6
+
+0%
+
+40%
+
+60%
+
+0-10
+
+9
+
+1
+
+2
+
+6
+
+11%
+
+22%
+
+67%
+
+11-20*
+
+2
+
+2
+
+0
+
+0
+
+100%
+
+0%
+
+0%
+
+21-30
+
+13
+
+7
+
+5
+
+1
+
+54%
+
+38%
+
+7.7%
+
+31-40
+
+8
+
+5
+
+2
+
+1
+
+63%
+
+25%
+
+12 .5%
+
+41 - 50
+
+4
+
+3
+
+1
+
+0
+
+75%
+
+25%
+
+OQ/o
+
+51-60
+
+2
+
+2
+
+0
+
+0
+
+100%
+
+0%
+
+0%
+
+Missing
+
+3
+
+2
+
+1
+
+0
+
+67%
+
+33%
+
+0%
+
+•one individual 18, duration in U.S. unknown; other individual 19 and has been in the U.S.
+for 2 years.
+
+Those who were born in the U.S. or arrived while still young (under the age often) consumed a
+primarily American diet. While U.S. born individuals in the study population did not consume
+more than one Indian meal during the course of the day, a small proportion of those who arrived
+while still young did eat more than one typical Indian meal. Participants who arrived in the U.S.
+in their late teens or 20s were found to follow a largely Indian diet with only 38% displaying any
+
+Cherian, 19
+incorporation of American foods. Among those arriving in their 30s and 40s, even less inclusion
+of American cuisine is observed. In fact, only 25% of those in their 30s and 40s follow a diet
+comprised of both American and Indian foods. This incorporation of both cuisines grows even
+more insignificant in the diets of those who immigrated to the U.S. in their 50s. Within this
+survey population, it became more likely for the individual to observe a traditional Indian diet as
+their age upon arrival to the U.S. increased. Although, the significance of an individual's age at
+immigration to his or her diet is presented distinctly from other factors, it is undoubtedly
+intertwined with the duration ofresidence and the individual's current age. For, a person who
+arrived in the U.S. when only six and has resided in the United States for more than 25 years will
+be more likely to observe a primarily American diet than an individual who arrived at 50 years of
+age and has only lived in the U.S. for 2 years.
+The association seen between time and the variation in diets does not appear to hold true
+in the case of gender.
+Table 5
+Gender
+
+Differences in Composition of Diets According to Gender
+Total# of
+Individuals
+
+# Eating
+Indian Meals
+
+# Eating
+American
+/Indian
+
+# Eating
+American
+Meals
+
+Meals
+
+%
+Eating
+Indian
+Meals
+
+% Eating
+American
+/Indian
+Meals
+
+% Eating
+American
+Meals
+
+Male
+
+19
+
+8
+
+6
+
+5
+
+42%
+
+32%
+
+26%
+
+Female
+
+26
+
+11
+
+7
+
+8
+
+42%
+
+27%
+
+31%
+
+Missing
+
+6
+
+3
+
+2
+
+1
+
+50%
+
+33%
+
+16.6%
+
+Cherian, 20
+In comparison of gender with the form of diet followed in table 5 above, both males and females
+are observed to consume all three types of diets in relatively similar proportions. Given this, it is
+interesting to note that the prevalence of diabetes in this survey population is nearly three times
+greater in the male participants (Table 6).
+
+Distribution of Diabetes According to Gender
+Table 6
+Gender
+
+Tota!# of
+
+Type I
+
+Type II
+
+Missing
+
+%with
+Diabetes
+
+Individuals
+Males
+
+19
+
+0
+
+5
+
+1..
+
+32%
+
+Females
+
+26
+
+1
+
+2
+
+0
+
+12%
+
+Missing
+
+6
+
+0
+
+0
+
+1·
+
+0%
+
+*the individual indicated no knowledge of diabetes, so it is assumed that he/she
+does not have diabetes.
+**the individual reported as being diabetic, but is unsure of the Type.
+
+Cherian, 21
+Variation of Diet Among Diabetics
+
+Table 7
+Total#
+of
+lndivid
+uals
+
+# Eating
+Indian
+Meals
+
+# Eating
+
+# Eating
+
+%
+
+America
+n/lndian
+Meals
+
+America
+n Meals
+
+Eating
+
+Type I
+
+1
+
+1
+
+0
+
+0
+
+Type II
+
+7
+
+4
+
+2
+
+Missing
+
+1
+
+0
+
+1
+
+Diabetes
+Type
+
+%
+Eating
+America
+n/lndian
+Meals
+
+%
+Eating
+America
+n Meals
+
+100%
+
+0%
+
+0%
+
+1
+
+57%
+
+29%
+
+14%
+
+0
+
+0%
+
+100%
+
+0%
+
+Indian
+Meals
+
+Among the 51 participants in the survey, nine reported having either Type I or Type II diabetes,
+indicating a relatively high prevalence rate of 17% in the small population. When Type I and
+Type II diabetics were compared to the diets eaten, in table 7 above, a majority of the diabetics
+within this group were found to consume either a traditional Indian diet or one with a
+combination of American and Indian foods. Those with Type II appeared to vary in the diets
+observed, whereas the individual with Type I followed a strictly Indian diet. This observation
+however may be insignificant as only nine individuals from a population of 51 reported as being
+diabetic.
+
+Cherian, 22
+
+Prevalence of Diabetes in the Population
+
+Table 8
+Age Range
+
+Total# in
+
+Type I
+
+Type II
+
+Missing
+
+%with
+Diabetes
+
+Range
+10-19
+
+5
+
+0
+
+0
+
+0
+
+0
+
+20-29
+
+12
+
+0
+
+0
+
+0
+
+0
+
+30-39
+
+7
+
+0
+
+0
+
+0
+
+0
+
+40-49
+
+5
+
+0
+
+0
+
+0
+
+0
+
+50-59
+
+6
+
+0
+
+3
+
+0
+
+50%
+
+60-69
+
+5
+
+1
+
+1
+
+1·
+
+40%
+
+Missing
+
+11
+
+0
+
+3
+
+1··
+
+36%
+
+*the individual indicated no knowledge of diabetes, so it is assumed that he/she does
+not have diabetes.
+**the individual reported as being diabetic, but is unsure of the Type.
+
+The prevalence of diabetes in the population was found to concentrate entirely among older
+individuals, as depicted in table 8 above. The data did not provide any insight into the
+progression of diabetes in relation to age as illustrated by Vekataraman et al. in their survey of a
+Gujarati population (Vekataraman, 2004: Fig 1). This was not unexpected given the small size of
+the survey population and the inability to categorize several participants because of omitted
+information.
+Although, diabetes was not prevalent in those younger than 50 years of age, the diets of
+those within these age groups indicate the potential for an increased risk of diabetes. Those
+following a largely American diet are eating foods with very little fiber and increased amounts of
+trans fat. Most of their meals consist of salads, pasta, meats, and sandwiches that contain little
+fiber. Very few individuals consnmed the fruits and vegetables that would contain the fiber
+required. These individuals also ate foods containing trans fat such as fast foods including tacos,
+
+Cherian, 23
+pizzas and Chinese foods. Additional sources of trans fat were derived from snacks, including
+sodas, cookies, donuts, potato chips, and cakes eaten by nearly every individual consuming an all
+American diet. Researchers have indicated that eating increasing amounts of foods containing
+these components could raise an individual's risk of developing diabetes (Bazzano, 2005:311).
+Those observing a traditional Indian diet of two or more Indian meals each day did not
+appear to consume high levels of trans fat, as they did not snack to the degree or in the manner of
+those eating an American diet. Their source of trans fat primarily come from fried Indian foods,
+including fish and Indian sweets and mixtures, and the use of coconut. Individuals within this
+group also consumed relatively more vegetables, fruits, and whole grains that are good sources
+of fiber. Although the higher levels of fiber and smaller amounts of trans fats within the Indian
+diet appears more appropriate for those at risk of diabetes, the potential for the disease still exists
+because of the large amounts of carbohydrates consumed within the diet. Consistently eating
+carbohydrates that could elevate the glycemic load 1 within the body has been found to promote
+the development of Type II diabetes (Bazzano, 2005:312).
+Considering the possibility of high glycemic loads within the typical Indian diet and the
+low fiber and high levels of trans fats in the American diet, those consuming a combination of
+both cuisines may be more likely to increase their risk of developing diabetes. These individuals
+readily consume the sodas, soups, salads, sandwiches, fast foods, and meat dishes seen among
+those eating a largely American diet. Although the rice, chapattis, and vegetables in the Indian
+meals eaten might supplement the lack of fiber in these foods, the increasing amounts of
+carbohydrates consumed may heighten the individual's glycemic load. The increased glycemic
+levels in addition to the trans fats consumed may work to increase the rate at which the
+
+1
+
+This is the product of the glycemic index, the "glucose-raising" potential, of a food and the total amount of
+carbohydrate within the food (Bazzano, 2005 :312).
+
+Cherian, 24
+individual would be likely to develop diabetes. This is not to suggest that observing a diet
+comprised of both American and Indian cuisine should be avoided. Rather, foods within both
+cuisines may be combined to promote a diet with foods low in its glycemic load, low amounts of
+trans fats, and high levels of fiber (Bazzano, 2005 :315).
+
+Diabetes: Concern and Knowledge
+
+In addition to the diet recall, questions regarding the population's knowledge of the
+disease and concern for its implications were also asked. Among the 51 participants, most
+individuals indicated having some (51 %) or a significant (43%) amount of knowledge about
+diabetes. In fact, only 5.9% of individuals stated that they did not know anything about the
+disease. A majority of these individuals learned of this information through the media (42%),
+while others pointed to their parents (31 %) and physicians (20%) as sources of information. With
+continued investment in the media directly targeted toward Asian-Indians and by providing more
+resources and training for parents and physicians, three avenues of education and prevention can
+be developed for this population. Considering that 88.2% of those surveyed expressed concern
+regarding the disease, the effort spent in educating the population will prove cost-effective. Their
+concern combined with accurate knowledge will allow them to take initiatives early in life to
+prevent the onset of diabetes. With fewer individuals requiring the life-long management that
+accompanies the disease, the money saved by the health industry as well as the individuals can
+serve other purposes.
+
+Cherian, 25
+Discussion
+
+Although the survey provided worthwhile initial insights into the population's concern for
+diabetes as well as dietary habits that may contribute to the development of diabetes, it was
+limited in several regards. Perhaps most importantly, the survey was conducted during a period
+of Lent in the Orthodox Christian calendar. Lasting fifty days, the Lent commenced on March
+27 th and ended with Easter Sunday on April 16'\ During this period most individuals refrain
+from eating meat and therefore the sample population, a large proportion of who were devout
+Orthodox Christians, may have consumed greater quantities of grain, vegetables, and fish than
+under normal circumstances.
+
+Additionally, the survey results proved insufficient to make
+
+conclusions without assumptions regarding the diet most likely to increase the risk of diabetes.
+The lack of detailed diet recalls left uncertainties in the true composition of the meals consumed
+by certain individuals. Clarification of whether the chapattis included in an Indian meal were
+homemade or store-bought would have provided a better understanding of the types of fats and
+carbohydrates being consumed. As not all fats and carbohydrates contribute to the development
+of diabetes, knowing such details would have proved useful in determining the most diabetes
+promoting diet. Moreover, without actually quantifying the meals eaten it is difficult to conclude
+with certainty a diet composed of both Indian and American foods as most likely to lead to
+diabetes.
+
+This, however, was the conclusion reached following analysis of the surveys. Within
+
+the conclusion lies the assumption that the American foods eaten contained the trans fats !mown
+to increase the risk of diabetes, and the Indian meals consisted of the quantity and type of
+carbohydrates likely to promote the high glycemic loads associated with the onset of diabetes.
+Finally, as the survey was conducted of small subset of the Asian Indian population-Malayalee,
+Christian Indians, its results carmot be generalized to the entire ethnic group. Asian Indians
+
+Cherian, 26
+arising from India differ in their dietary habits and traditions according to the regions from which
+they originate and the religions they observe (Kulkarni, 2004:191). The results become less
+applicable when considering the numerous other groups classified as Asian-Indian, including
+those originating from Nepal, Sri Lanka, Bangladesh, and Pakistan.
+Nonetheless, the survey did reveal some important aspects regarding the dietary habits of
+Asian Indians. Even among a small population in which the individuals are of the same religion
+and trace their ancestry to the same region within India, diets varied dramatically. Although the
+particular foods eaten may vary among the different groups of Asian-Indians, this trend may
+exist in those populations as well. Among the population of South Asians surveyed, the results
+revealed the consumption of three different diets. The diet a particular individual was likely to
+consume relied on their current age, their age upon immigration, as well as their length of
+residence in the United States (Tables 2, 3, 4). Those individuals who consumed a largely Indian
+diet were older in age, immigrated to the U.S. as adults, or had only resided in the U.S. for a brief
+period of time. On the other hand, those following an American diet have generally lived in the
+U.S. for more than ten years. Moreover, they were relatively young individuals or immigrants to
+the U.S. as children. The number of participants who reported eating a diet composed of both
+American and Indian foods appeared to increase with age. Most these individuals have been in
+the U.S. for at least five years, so they have incorporated American foods into their diet. They
+also arrived in the U.S. in adulthood, so very few of them have abandoned the consumption of
+Indian meals. With both of these factors in effect, these individuals have continued to observe a
+diet of both American and Indian cuisine. As these diets have the potential to increase an
+individual's risk of developing diabetes, it is important to acknowledge and understand their
+
+Cherian, 27
+composition. The means for developing prevention and education strategies lies in obtaining this
+knowledge.
+
+A Future of Prevention
+
+As a fast growing group in the United States and with nearly 83% of the surveyed
+population concerned about diabetes, campaigns targeted toward Asian Indians for prevention
+and education of diabetes have been overlooked (Mohanty, 2005: 477). Simply understanding
+the consumption patterns of individuals provides points of intervention. The survey conducted
+revealed that the diets adopted varied in relation to age upon immigration to the United States.
+Those who arrived when still very young were less likely to follow a largely Indian diet than an
+individual who immigrated as an adult (Table 4). Having an understanding of the diets people are
+likely to adopt upon immigration provides the opportunity for an early intervention. By speaking
+with individuals soon after immigration and assisting them to adopt healthy diets and lifestyles,
+the high fat diets and sedentary lifestyles led by most Asian Indian immigrants can be avoided.
+For the population of Asian Indian immigrants already present in the U.S., knowing an
+individual's length of residence in the U.S. provides insight into the diet followed. Of the small
+population of Asian Indians surveyed those who had resided in the U.S. for more than 12 years
+were more likely to have incorporated Americans foods into their diets. Consequently, this group
+consisted of more individuals following diets composed of all American foods or a combination
+of American and Indian foods. By using length of residence as an indicator of the diet observed,
+individuals can be targeted with suggestions of dietary changes most appropriate to their diets.
+Another point of intervention exists in understanding the diet of the diabetics already present in
+the immigrant Asian Indian population. Among the fifty-one individuals in the surveyed
+
+Cherian, 28
+population, only nine indicated as having diabetes. Consuming diets composed of primarily
+Indian meals or a combination of American and Indian foods; the consumption patterns of these
+diabetics did not vary significantly from those of non-diabetics. Apart from the lack of raw sugar
+in their meals, these individuals ate the very same breads and rice consumed by those without
+diabetes. This finding suggests a population subset in which immediate intervention in the form
+of education may reduce the need for medications and improve their overall standards of health
+to divert a wave of insulin-dependent diabetics.
+Any attempts to institute prevention strategies within this Asian Indian population must
+take the form of diet and lifestyle modifications, as their low sensitivity to insulin and the
+resulting genetic predisposition toward diabetes cannot be changed. Dietary changes do not have
+to result in complete elimination of the foods composing the individual's diet. Rather, healthier
+alternatives for the foods already consumed can be found. Several studies have uncovered an
+inverse relationship between diabetes and whole grains (Bazzano, 2005:312). Therefore,
+increasing one's daily intake of whole grains may actually decrease the risk of developing
+diabetes (312). Consuming greater quantities of cereal fibers may also do the same, as research
+has displayed an inverse relationship between cereal fibers and diabetes (311-312). Further
+studies suggest that substituting saturated and trans fats in diets with vegetable, monosaturated,
+and polysaturated fats will reduce the likelihood of developing diabetes (311 ). In regards to
+diabetics, the American Diabetes Association encouraged accounting for the total amount of
+carbohydrates consumed in order to maintain appropriate glucose levels (312).
+Although observing a healthy diet reduces the individual's risk of developing diabetes,
+the link between obesity and diabetes requires modifications in the inactive lifestyles of many
+Asian Indians. In a lifestyle intervention conducted in China with 557 individuals considered to
+
+Cherian, 29
+have "impaired glucose intolerance," the prevalence of diabetes reduced to 46% in a group
+receiving intervention by means of both diet and exercise. Over a period of the same six years
+the control group, which did not receive any form of intervention, displayed a prevalence rate of
+67.7% (Bazzano, 2005:314). According to an analysis of nearly 70,000 individuals from the
+Nurses Health Study, lifestyle modification does not have to include the introduction of an
+extreme exercise regime. During the course of eight years, the impact of walking and vigorous
+activity on the incidence of diabetes revealed similar results. Those who walked the most and
+those who participated in vigorous activity were both 26% less likely to develop diabetes when
+compared to individuals leading inactive lifestyles (Mohanty, 2005 :313). Simply by walking
+daily, individuals at risk can be expected to dramatically reduce their potential for developing
+diabetes. Regardless of the type of activity chosen, individuals must maintain favorable weights
+in order to reduce their risks of developing diabetes. Current estimates suggest that those at risk
+should attempt to maintain BMI values between 18.5 and 23kg/m2 (Misra, 2004:486). In the
+case of Asian Indians, for whom greater correlation exists between waist-hip ratios and diabetes,
+waist circumferences of 90 cm in men and 80 cm in women are ideal (487). These guidelines as
+well diet and lifestyle interventions should emphasize the importance of weight maintenance, as
+research continues to demonstrate the strongest associations between obesity and diabetes.
+The success of any intervention initiated and incorporation of prevention strategies relies
+upon the ability to drive large groups within the immigrant population to become concerned
+about diabetes. Research has revealed that individuals in the process of assimilation are bound to
+adopt "poorer diets and fewer health-promoting behaviors" if they do not have adequate social
+support (Diwan, 2001 :58). For Asian Indians, churches, temples, and other religious institutions
+can serve as the foundations for these social support systems, as religion holds a signification
+
+Cherian, 30
+role in this ethnic group (Diwan, 2001 :58-59). By using these institutions as distribution points
+for information regarding diabetes and related interventions, educators can build a shared
+knowledge among a large group. These groups can in tum act as social support systems for
+immigrants in the initial stages of acculturation. Provided contact with such large groups that are
+informed about diabetes and the means for prevention, it is expected that the newly immigrated
+individuals will adopt behaviors that will reduce their likelihood of developing diabetes. Taking
+the initiative to practice the appropriate behaviors is an essential component in the prevention of
+diabetes (Engelgau, 2003:S88). As so much of the act of prevention rests on the individual at
+risk, it is necessary for researchers and educators to keep these individuals well informed about
+the disease.
+The importance of education and prevention cannot be overemphasized. "In 2002, [the
+cost of diabetes in the U.S. reached] approximately 132 billion dollars in direct medical costs and
+lost productivity" (Bazzano, 2005 :310). The cost not only accounts for the management of
+diabetes, but also the complications including foot diseases, cardiovascular, and eye problems
+that may develop as a consequence of the illness (Engelgau, 2003 :S88). For the individual, a
+diagnosis of diabetes results in a "reduction in life-expectancy and quality of life" (Bazzano,
+2005 :310). In fact, for a male and female diagnosed at the age of 40, the years lost from their
+lives are 11.6 and 14.3, respectively (310). This current situation as it exists now can be
+remedied if the avenues available through parents, doctors, and the media are used to inform and
+institute prevention programs for at risk populations, including Asian Indians. If the importance
+of prevention and education is not recognized, then the number of diabetics, a large proportion of
+which will include Asian Indians, may reach and surpass the 29 million estimated in the U.S. for
+the year 2050.
+
+Cherian, 31
+
+Works Cited
+Abate N. and Chandalia M. "Ethnicity and type 2 diabetes: focus on Asian Indians." Journal of
+Diabetes & its Complications 15.6 (2001): 320-327. Ovid Medline. U of Pennsylvania Lib.,
+Philadelphia
+"AAPI Fighting Diabetes Among Indian-Americans." News India-Times 31 Aug. 2001.
+<http://proxy.library.upenn.edu: 8134/pqdweb ?did=467916271 &sid= 1&Fmt=3&clientld=3748&
+RQT=309&VName=PQD>.
+Bazzano, Lydia, Mary Serdula, and Simin Liu. "Prevention of Type 2 Diabetes by Diet and
+Lifestyle Modification." Journal of the American College of Nutrition. (2005) 24.5 :310-319.
+Dean, Laura, M.D. The Genetic Landscape of Diabetes. Bethesda: NCBI: NIDDK, 2004.
+University of Pennsylvania Libraries, Philadelphia, PA.
+<http://hdl.library.upenn.edu/l 0l 7/13312>.
+Diwan, Sadhna, and Satya Jonnalagadda. "Social integration and Health Among Asian Indian
+immigrants in the United States." Journal of Gerontological Social Work. (2001) 36.1/2: 45-62.
+Engelgau, Michael M., K.M. Venkat Narayan, Jinan B. Saaddine, and Frank Vinicor.
+"Addressing the burden of diabetes in the 21st century: better care and primary prevention."
+Journal of the American Society ofNephrology. (2003) 14 (7 Suppl 2): S88-91.
+Fact Sheet: Diabetes and Obesity. 2003. International Diabetes Federation. 17 Dec. 2005
+<http://www.idf.org/home/index.cfm ?node= 1207>.
+"India Sits On Diabetes Precipice." The Times of India 25 Oct. 2004.
+<http://timesofindia.indiatimes.com/articleshow/897800.cms>.
+India Heritage: A Living Portrait of India. (2005)
+<http://www.indiaheritage.org/cuisine/cuisine_type.php?type=Kerala>.
+Jonnalagadda, Satya, and Sadhna Diwan. "Regional variations in dietary intake and body mass
+index of first-generation Asian-Indian immigrants in the United States." Journal of the American
+Dietetic Association. (2002) 102.9: 1286-1289.
+King H. Aubert RE. Herman WH. "Global Burden of diabetes, 1995-2025: prevalence,
+numerical estimates, and projections." Diabetes Care. 21.9 (1998): 1414-1431. Ovid Medline. U
+of Pennsylvania Lib., Philadelphia
+Kulkarni, Karmeen D. "Food, Culture, and Diabetes in the United States." Clinical Diabetes.
+(2004) 22.4: 190-192.
+
+Cherian, 32
+Lauderdale, D.S., and P.J. Rathouz. "Body mass index in a US national sample of Asian
+Americans: effects of nativity, years since immigration and socioeconomic status." International
+Journal of Obesity. (2000) 24.9:1188-1194.
+Lieberman, Leslie S. "Dietary, Evolutionary, and Modernizing Influences on the Prevalence of
+Type 2 Diabetes." Annual Reviews Nutrition 23 (2003): 345-77.
+Misra, Anoop, and Naval Vikram. "Insulin resistance syndrome (metabolic syndrome) and
+obesity in Asian Indians: evidence and implications." Nutrition. (2004) 20.5:482-491.
+Mohan, V. "Why are Indians More Prone to Diabetes?" Journal of the Association of Physicians
+oflndia 52 (2004) <http://www.japi.org>.
+Mohanty, Sarita, Steffie Woolhandler, David Himmelstein, and David Bor. "Diabetes and
+Cardiovascular Disease Among Asian Indians in the United States." Journal of General Internal
+Medicine. (2005) 20:474-478.
+
+Nigam, Anant. "Consumption of Pat in Indian Diet." International Journal of Diabetes in
+Developing Countries 20 (2000): 58-61.
+Patlak, Margie. "Taking a new approach to type 2 diabetes." American College of PhysiciansAmerican Society of Internal Medicine Observer May 2002. 17 December 2005
+<http://www.acponline.org/joumals/news/may02/diabetes.htm>
+Pereira, Mark, Alex Kartashov, Cara Ebbeling, Linda Van Hom, Martha Slattery, David Jacobs
+Jr., and David Ludwig. "Fast-food habits, weight gain, and insulin resistance (the CARDIA
+study): 15-year prospective analysis." Lancet 365 (2005): 36-42.
+Ramachandran, Ambady. "Identifying the risk factors: diabetes in Asian Indians." Diabetes
+Voice. 48 (2003). <http://www.diabetesvoice.org/>.
+Ramachandran, A., C. Snehalatha, and Vijay Viswanathan. "Burden of type 2 diabetes and its
+complications-The Indian scenario." Current Science 83.12 (2002): 1471-1476.
+Ramachandran, A., C. Snehalatha, and Vijay V. "Low risk threshold for acquired diabetogenic
+factors in Asian Indians." Diabetes Research & Clinical Practice 65.3 (2004): 189-95.
+Scholfield, D.J., K.M. Behall, SJ. Bhathena, J. Kelsay, S. Reiser, and K.R. Revett. "A study on
+Asian Indian and American vegetarians: indications of a racial predisposition to glucose
+intolerance." American Journal of Clinical Nutrition 46.6 (1987): 955-961
+Shobana, R., Snehalatha C., Latha E., Vijay V., and Ramachandran A. "Dietary profile of urban
+south Indians and its relation with glycaemic status." Diabetes Research & Clinical Practice. 42.3
+(1998): 181-186
+
+Cherian, 33
+Sridaran, Geetha, and Raina Kolhatkar. "Ethnic food practices of Asian Indians." Topics in
+Clinical Nutrition. (1994) 9.2:45-48.
+Staff Reporter. "Lifestyle Diseases on the Rise." The Hindu 25 Jan. 2002.
+<http://www.hinduonnet.com/thehindu/2002/0l/25/stories/2002012503340300.htm>.
+Sudha, Raj, Ganganna Prema, and Jean Bowering. "Dietary habits of Asian Indians in relation to
+length of residence in the United States." Journal of the American Dietetic Association. (1999)
+99.9:1106-1108.
+The Genetics of Diabetes. American Diabetes Association. 17 Dec. 2005
+http://www.diabetes.org/genetics.jsp
+Venkataraman, Rajesh, Navin Nanda, Gurpreet Baweja, Naresh Parikh, and Vishal Bhatia.
+"Prevalence of Diabetes Mellitus and Related Conditions in Asian Indians Living in the United
+States." American Journal of Cardiology. (2004) 94:977-980.
+
+

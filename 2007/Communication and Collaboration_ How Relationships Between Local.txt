@@ -1,0 +1,3103 @@
+University of Pennsylvania
+
+ScholarlyCommons
+Anthropology Senior Theses
+
+Department of Anthropology
+
+Spring 2007
+
+Communication and Collaboration: How Relationships Between
+Local Populations and Environmental Non-Governmental
+Organizations Could Be Improved
+Katie Hawkes
+University of Pennsylvania
+
+Follow this and additional works at: https://repository.upenn.edu/anthro_seniortheses
+Part of the Anthropology Commons
+
+Recommended Citation
+Hawkes, Katie, "Communication and Collaboration: How Relationships Between Local Populations and
+Environmental Non-Governmental Organizations Could Be Improved" (2007). Anthropology Senior Theses.
+Paper 89.
+
+This paper is posted at ScholarlyCommons. https://repository.upenn.edu/anthro_seniortheses/89
+For more information, please contact repository@pobox.upenn.edu.
+
+Communication and Collaboration: How Relationships Between Local
+Populations and Environmental Non-Governmental Organizations Could Be
+Improved
+Disciplines
+Anthropology
+
+This thesis or dissertation is available at ScholarlyCommons: https://repository.upenn.edu/anthro_seniortheses/89
+
+COMMUNICATION AND COLLABORATION:
+HOW RELATIONSHIPS
+BETWEEN LOCAL POPULATIONS AND
+ENVIRONMENTAL NON-GOVERNMENTAL ORGANIZATIONS
+COULD BE IMPROVED
+
+By
+Katie Hawkes
+
+In
+Anthropology
+Submitted to the
+Department of Anthropology
+University of Pennsylvania
+Thesis Advisor: Dr. Clark Erickson
+2007
+
+ABSTRACT
+In a world increasingly beleaguered by deforestation, pollution, global warming and other threats
+to the environment, we must take every possible step toward the conservation and sustainable
+management of our planet. Governments, environmental non-governmental organizations, and
+local communities must all work together in the pursuit of this common goal. Even with such
+cooperation, however, problems arise during the implementation of projects designed to protect
+land and resources used by local and indigenous communities. Many of these difficulties are
+caused by ideological conflicts between conservation organizations and the local communities
+with which they work, issues that appear repeatedly in the history of such interactions. In this
+thesis I explore the framework of conservation, including the role of governments, environmental
+non-governmental organizations (ENGO's), and local populations. This is followed by a history
+of the relationships between ENGO's and the local and indigenous communities with which they
+often collaborate. Finally, using a series of three case studies including one that I conducted in
+Monteverde, Costa Rica in the fall of 2006, I make suggestions as to how these relationships
+could be improved, ideally creating an interactive framework appropriate to the expansion and
+change that the field of conservation is experiencing in the 21 st century.
+
+INRODUCTION
+In an age when income and industry are hallmarks of development, when anthropogenic
+chemical and gas emissions are altering every biogeochemical process on earth, when clean,
+fresh water is running out and the other natural resources that sustain us are in peril, it is
+imperative that we take every step we can toward the conservation and sustainable management
+of our beleaguered planet (Vitousek et.al. 1997). This undeniable truth has been the driving
+force behind an ever-expanding environmental movement: the last few decades have witnessed
+the transformation of environmental protection from a foreign notion into a household issue with
+concepts like recycling, "wasting water," organic produce, and more (Read 1999, Whole Foods
+2003). Countries worldwide have established countless environmental agencies, organizations
+and foundations whose goal is to safeguard the environment and natural resources.
+Conservationists, motivated by the need to maintain the biodiversity of the world's diverse
+habitats, have motivated the creation of hundreds of nature preserves in developed and
+developing countries (Borgerhoff Mulder and Coppolillo 2005).
+With this progress, however, come inevitable glitches in implementation. Two major
+players in the world of conservation are environmental non-governmental organizations (NGO's
+or ENGO's) and the local and indigenous communities with which they frequently work.
+Throughout the past decades of reserve establishment, the hope has been that together these
+powers can create nature preserves that protect habitat, biodiversity and resources while also
+sustaining the local population (World Wide Fund for Nature 2006, Dove 2006). Historically,
+however, ideological differences have contributed to problems in implementation of
+conservation programs as well as substantial friction between the two groups (Johnston 2006,
+
+I
+
+Redford and Mansour 1996). This paper is ultimately an examination of that dissent as well as
+an attempt to discover, through specific case studies, recommendations for its resolution.
+In Part I of this thesis, I describe the organizational framework of conservation and the
+roles of different actors and stakeholders therein, including governments, ENGO's, and local
+communities. In Part II, I outline the historical ideological differences between conservationist
+NGO's and the local or indigenous peoples with which they work. Part III consists of a series of
+three case studies that examine the interactions between ENGO's and groups of local people in
+different Latin American countries, including one case study based on field work I conducted in
+Monteverde, Costa Rica in the fall of 2006.. In Part IV, I discuss these case studies and the
+conclusions that can be drawn from them, highlighting recommendations for the improvement of
+relationships between ENGO's and local communities involved in the implementation of
+conservation programs.
+
+PART I: THE FRAMEWORK OF CONSERVATION
+Although heralded by noted naturalists since the mid-19 th century, the pollution, degradation and
+destruction of habitats worldwide has only recently become a subject of national and
+international concern (Salzman and Thompson 2007, BorgerhoffMulder and Coppolillo 2005).
+As a result, unprecedented efforts at conservation have taken place. Newly established
+environmental agencies in various countries have promoted the passing of legislation curbing air
+pollution, water pollution, release of toxic substances, and other negative environmental
+externalities of industry. More efficient waste management solutions are continuously being
+sought, and endangered species are increasingly acquiring legal protection (Salzman and
+Thompson 2007). Moreover, many countries have responded to environmental threats by
+establishing nature preserves: areas of land where human activity and economic use have been
+
+2
+
+limited or banned altogether. In 1978, the International Union for the Conservation of Nature
+(IUCN) introduced the blanket term "protected area" to describe these preserves. However, not
+all protected areas are the same. Some operate under the "people-free park" philosophy of
+conservation, which essentially walls off a protected area from all use but scientific research. In
+other cases, government policies allow a variety of land use strategies within parks, from
+recreation to limited hunting and extraction to sustainable logging (BorgerhoffMulder and
+Coppolillo 2005). The IUCN addressed these differences by dividing the spectrum of protected
+areas into six different categories according to the number of restrictions placed on human
+activities within each class (Table L 1) (Borgerhoff Mulder and Coppolillo 2005). This system
+was revised and simplified in 1994, altered mainly to acknowledge that the owners and managers
+of these areas were no longer solely governmental agencies, but rather included NGO's,
+corporations, individuals, local communities and indigenous groups (BorgerhoffMulder and
+Coppolillo 2005).
+Although definitions of conservation differ from person to person and can incorporate
+pollution control, waste management, toxic substance regulation and a number of other steps
+toward environmental protection, for the purposes of this paper I define "conservation" as the
+formation of any of the reserve types described in Table 1.1. I use this definition because, as I
+will explain later, the idea of "conservation" to a biologist consists largely of the protection of
+biological diversity. Thus, the formation of reserves as perpetuated by environmental NGO's is
+generally accomplished with the goal of maintaining biodiversity and the ecosystems that sustain
+it. Accordingly, "conservation efforts" as evaluated later consist of any political, monetary,
+lobbyist or other actions taken by any of a variety of actors with the ultimate aim of establishing
+a reserve. These actors generally fall into one of three categories: governments (local and
+
+3
+
+national), non-governmental organizations or NGO's (local, national or international), and the
+local people who live in or around a reserve itself. Each of these groups plays an integral part in
+the preservation of habitats, biodiversity and natural resources, and before embarking on an
+examination of relationships central to conservation, it is essential to understand its general
+framework and the roles of the powers involved.
+Governments
+
+Little could happen in the way of reserve establishment without the involvement of local and
+national governments. These bodies hold the power of legislation, and in the realm of
+conservation they can employ this power to establish and administer nature reserves as well as to
+dictate the terms of land use therein (Salzman and Thompson 2007, Shafer 1990, Hunter 2002,
+Acheson 2006). Environmental NGO's would have trouble implementing projects and creating
+protected areas without the help of govermnents; these bodies write the policies that turn a big
+plot of privately owned land into a protected area with specific land use strategies and
+management plans (Hill 1996).
+Governments are, in addition, generally in charge of ensuring that these terms are being
+kept by industries and local peoples, an issue which frequently causes conflict when preserves
+are accused of being "paper parks" whose rules and boundaries are not respected (Alcorn 1993,
+Acheson 2006). Moreover, the authority of governments puts them in a position to influence the
+other actors, an ability with a history of both positive and negative consequences. The
+relationships of conservation organizations to the governments of the countries in which they are
+based and in which they work often dictate the actions that they are able to take. In addition,
+local people's regard for their governments and vice versa can influence whether or not their
+claims and objections are addressed (Chapin 2004, Borgerhoff Mulder and Coppolillo 2005).
+
+4
+
+Governments also have the power to establish agencies whose role is to protect the
+environment and regulate its use (Salzman and Thompson 2007). In the US, these agencies
+include the Environmental Protection Agency and the various organizations overseen by the
+Department of the Interior (Salzman and Thompson 2007). The US is not the only country to
+realize the need for governmental control of the environment, though: further afield, the Costa
+Rican government, for example, administers MINAE, the Ministry of Environment and Energy
+(Burlingame 2000).
+Although the effectiveness of these conservation strategies depends on the strength and
+ulterior motives of the governments that implement them, political activism is an essential
+element in reaching conservation goals.
+Non-Governmental Organizations
+Another important facet of environmental protection is the environmental non-governmental
+organization (NGO or ENGO). With spheres of influences ranging from the local to the
+international, NGO's experience a greater freedom of action than governmental organizations,
+constrained as the latter are by their unilateral source of funding (Hunter 2002).
+Environmental NGO's, most often non-profit organizations as well, have similar mission
+statements despite the varying sizes of their corporations and areas of the globe in which they
+work. Their goals include preserving the environment, whether for utilitarian, religious,
+ideological or purely scientific reasons. However, even local ENGO's rarely have a single goal
+or methodology; most organizations attempt to tackle a variety of problems in a variety of ways.
+For example, goals can include the preservation of biodiversity, the improvement of living
+conditions and social systems, or the pursuit of sustainable land management solutions. The
+
+5
+
+actions taken by these organizations can include fundraising to purchase land, environmental
+education, lobbying, biological surveys, and development projects.
+ENGO's usually function at a local, national, regional, or international level, and the
+actions taken at these different scales of influence differ subtly. At every level, ENGO's today
+work with and provide support to other ENGO's and local communities. The higher the level,
+the more the organization plays a supporting and connecting role, although all types ofENGO's
+tend to do their own micro-regional field projects. This support can be monetary, technical,
+informational, leadership- or planning-based, and more.
+Local ENGO's are generally established by individuals in a community or municipality.
+They tend to have the most specific goals, undertaking particular tasks and projects to achieve
+these goals. An example of a local NGO in my fieldwork was the Monteverde Conservation
+League in Monteverde, Costa Rica, which was established by local biologists and other
+community members with the goal of preserving biodiversity in the Monteverde area. Their
+accomplishments have included environmental education, reforestation projects, and the
+acquisition of thousands of hectares of pristine rainforest through philanthropic funding and
+debt-for-nature swaps; more information on this organization will be provided in the Monteverde
+case study.
+National ENGO's are larger organizations with proportionally greater resource bases that
+attempt to solve environmental problems on a national level. One such organization is CEDA, or
+the Ecuadorian Center for Environmental Law. Although committed to the overarching goal of
+environmental preservation that pervades ENGO's, they contribute more legally than
+scientifically, focusing on promoting national and international environmental legislation as a
+
+6
+
+means to protect the natural world. Similarly, the projects that they undertake are legally based,
+aiding local communities and other organizations in need of legal or informational help.
+Regional ENGO's are fewer in number and tend to be active over large areas, usually
+covering several countries. Examples of regions include areas like Europe, Southeast Asia, Latin
+America, and others; these regional organizations often have satellite agencies in one or more of
+the countries in which they work. One example is the Environmental Foundation for Africa, a
+regional ENGO founded by the United Kingdom. Based in Sierra Leone, the EF A works to
+preserve the natural environment in West Africa. They accomplish this goal through local
+projects as well as by providing a supporting, linking, and informational sharing role to smaller
+ENGO's.
+The largest ENGO's, those that work on an international scope, are largely scientific
+research-based, focusing on conservation through the maintenance of biodiversity. Their goals
+allow them to concentrate regionally, attempting to conserve areas with high biodiversity and
+important and singular habitat types. Like other, smaller ENGO's, they work on a variety of
+levels, often with committee-based approaches. Their work with governments includes lobbying
+for the creation and management ofreserves, lobbying for better policies and protection, and
+furnishing relevant scientific and biological information to facilitate the passing of
+environmental legislation. With the most diverse resource and financial bases, they are able to
+provide the most support to smaller ENGO's and communities, and also to implement the
+greatest number of individual field projects.
+The biggest international ENGO's draw their funding from a typically diverse group of
+governmental agencies, philanthropic foundations, corporations and individuals. These
+organizations are active in countries worldwide with yearly budgets sometimes reaching
+
+7
+
+hundreds of millions of dollars. Though often criticized for the power and financial resources
+that they wield, multifaceted, multinational ENGO's like the World Wide Fund for Nature
+(WWF), The Nature Conservancy (TNC), and Conservation International (CI) - sometimes
+known as the "Big Three" of international conservation - are capable of accomplishing
+proportionally wide-ranging objectives (Chapin 2004). With this power also comes the ability to
+conceive far-reaching and ambitious goals. Although at their inception and throughout the
+1980's and 90's these ENGO's worked largely with governments and local conservation groups,
+their goals at this stage are becoming much larger in scope and incorporating many more players.
+Governments, corporations, private institutions, local and community constituents are
+interwoven into overarching goals of regional environmental conservation, social well-being and
+sustainable development.
+Local Communities
+The people who live around and interact with the environments that conservationists are so eager
+to protect are the final stakeholders in conservation decisions. Much of the dissent involved in
+conservation implementation exists at this level; as explained in depth in Part II, the goals,
+philosophies and ideologies of local and indigenous people do not always match those of
+conservation organizations. At the local level, essentially, people either work on their own
+initiative or with motivation from ENGO's to preserve the land that they live on and around, a
+task that they may undertake for a variety of reasons (World Wide Fund for Nature 2006, Alcorn
+1993, Dove 2006).
+In many instances in developing countries especially, local communities are made up of
+indigenous or "traditional" people, a label which is inherently difficult to define (Dove 2006).
+How long must a group of people have lived in an area to be considered "indigenous?" Are they
+
+8
+
+defined by a shared culture and history, or is a shared lifestyle and subsistence pattern sufficient?
+Is a concept of indigeneity based on precolonial occupation of a territory too exclusive? Where
+are traditionally nomadic peoples indigenous to? Should definitions focus more on "nativeness"
+or historic continuity? These questions are debated by anthropologists and answered differently
+by dictionaries, organizations, governments and international bodies like the United Nations
+(Dove 2006).
+Despite the many ways this status may be granted, however, many governments sustain
+indigenous people's claims to the land that they have traditionally occupied, giving them control
+or private property rights (Redford and Mansour 1996). As administrators of frequently vast and
+diverse landscapes, indigenous people play a decisive role in the fate of those lands. Indigenous
+groups are not the only individuals to deeply impact their traditional homelands, however; rural
+farmers and other long-established demographic groups, such as rubber tappers in the Amazon,
+have had the same occupations sometimes for hundreds of years (Cahn von Seel en 2004, Brown
+and Rosendo 2000). In short, the land use practices oflocal communities, whether indigenous or
+not, have overwhelming potential to impact biodiversity and habitat maintenance, especially if
+they are allowed by their governments to exclusively control resource use in the areas that they
+occupy (Acheson 2006).
+In some cases local people are interested in conservation themselves, enlisting the help of
+ENGO's or their governments to protect their territories from exploitation by industry and other
+would-be exploiters (World Wide Fund for Nature 2006, Borgerhoff Mulder and Coppolillo
+2005). The more common scenario, however, is that of an ENGO approaching a local or
+indigenous community to attempt to find conservation solutions beneficial to both the local
+
+9
+
+environment and the people who depend on it (World Wide Fund for Nature 2006, Conservation
+International 2004, Redford and Mansour 1996).
+Although the idea to officially protect the environment in which they live is rarely that of
+the local people, they are essential to the success of any conservation effort. Government or
+conservationist action alone is rarely enough to ensure the long-term success of any preservation
+attempt, as proven by experience and repeatedly stressed in the literature (Jacobsen and McDuff
+1998, Fang 2002, Infield 2001, Mulder and Coppolillo 2005). However, the dissent that
+provides the focus of this paper lies within the historical difficulties in reconciling the needs and
+desires of local people with conservationist agendas.
+
+PART II: IDEOLOGICAL CONFLICTS
+Despite the dire need for environmental NGO's and local communities to work together,
+discrepancies due to different goals, philosophies, assumptions, and definitions have negatively
+affected conservation efforts in the past. Although the subtleties of these rocky relationships are
+numerous, several conflicts have arisen time and again in the history of collaboration between
+ENGO's and local or indigenous communities. To each of these conflicts there exists a
+conservationist perspective and a local perspective, both of which are essential to understanding
+the issue as a whole.
+Humans and the Environment: A Sustainable Relationship?
+
+The first of these conflicts involves differences in both philosophies and goals. Despite their
+initial reluctance to enter into partnerships, since nearly the beginning of the environmental
+movement that swept the globe conservationists realized both the need and the strategic
+expediency of collaborating with the local and indigenous people whose practices and decisions
+affected the landscapes they were working to conserve (Redford and Stearman 1993). Despite
+
+this realization, the fact remains that no matter how much a biologist may see the logic behind an
+idea like working with native people toward sustainability, this type of humanitarian work is
+frequently not in their training and also goes against the beliefs inherent in the practice of
+conservation for scientific, biological reasons (Redford and Stearman 1993, Jacobson and
+McDuff 1998). This conservation that is practiced by biologists and underlies the goals of many
+ENGO's is based on the preservation of biological diversity in all its forms (World Wide Fund
+for Nature 2006, Conservation International 2004, The Nature Conservancy 2006, Redford and
+Stearman 1993). Conservationists define biodiversity in a variety of ways, but in its most allencompassing sense it incorporates the diversity of ecosystems on the Earth, the assemblage of
+biological "communities" within ecosystems, the species and populations that make up those
+communities, and the genetic variation present in those populations (Noss 1990). An equation
+involving human activities that still preserves all of these levels of diversity seems impossible.
+Studies repeatedly show the negative effect of hunting on biological community assemblages:
+humans tend to deplete populations of prey animals, ultimately impacting populations of large
+predators like jaguars, which are often keystone species within the ecosystem (Redford and
+Sanderson 2000, Wilson 1999). Defined by Wilson (I 999: 40 I), a keystone species is "a species,
+[such as the jaguar], that affects the survival and abundance of many other species in the
+community in which it lives. Its removal or addition results in a relatively significant shift in the
+composition of the community and sometimes even in the physical structure of the
+environment." A source of even more worry is the fact that keystone species are not easily
+identifiable, and sometimes they cannot be recognized as such before the effects of their
+depletion are observed (Wilson 1999). Conservationists are dedicated to preventing such drastic
+decreases in community and species diversity.
+
+II
+
+Hunting is not the only human activity that negatively impacts natural ecosystems,
+however. Farmers have been clearing land, frequently by destructive slash-and-bum techniques,
+and engaging in subsistence and for-profit farming for centuries. The concept of "sustainability"
+in farming and forestry is hotly debated: in theory, "sustainable" agriculture and extraction
+should impact their environments as minimally as possible. This includes methods executed in
+such a way as to prevent ecosystem destruction and to permit the continued use of the land or
+resource. Some authors attempt to define it, but biologists denounce it as an impossibility
+because it is impossible to know without long-term data just what an ecosystem can or cannot
+sustain (Struhsaker 1998, Redford and Stearman 1993). For this reason, although cooperating
+with local populations to find sustainable, low-impact landscape use solutions may be the only
+way forward for conservation, it will always be second best for conservationists; environmental
+preservation without use remains their number one priority (Redford and Sanderson 2000).
+Because of these beliefs and because conservationists are frequently obligated to work with local
+populations, these people are often seen as more of an obstacle to be overcome than a possibility
+for fruitful relationships (Chapin 2004). Local people interpret this mindset as conservationists
+corning to the community to push their own agendas under the veneer of collaboration (Chapin
+2004).
+The flip side of this coin is the local and indigenous rejoinder to these misanthropic
+opinions about the status of the environment and the results of resource use. The bottom line, of
+course, is that humans are here to stay; and when it comes to the most endangered habitats on
+Earth, the most common choice is between working toward sustainability and clear-cutting,
+cattle ranching or other wholly destructive land use practices (Schwartzman et. al. 2000). The
+other extreme, evicting local or indigenous people from land that they have occupied for
+
+12
+
+hundreds or even thousands of years is difficult if not impossible to justify with any
+humanitarian feeling and leads to calamitous social consequences (West et. al. 2006). Local
+populations and the authors who support their claims also maintain that the effects of their
+activities on the environment are exaggerated by biologists; hunting and extraction have a much
+less dire impact than conservationists believe (Schwartzman et.al. 2000). Moreover, local and
+indigenous populations cite as a main reason for collaboration the reality that destroying the
+landscape in which they live is rarely in their best interest, not to mention that it would go
+against the ideologies that for centuries have maintained that landscape for use (Western and
+Wright 1994). They profess themselves to be much better stewards of nature than governments,
+who often use land in their best monetary interest, granting industry and development free reign
+(Schwartzman et.al. 2000, Acheson 2006).
+The feather in the cap of anthropologists' arguments in support oflocal and indigenous
+land use, however, is the overwhelming evidence that humans have been altering their
+environments for thousands if not millions of years, and that virtually no landscape on earth is
+completely free of anthropogenic modification (Redman 1999, Balee 2006). Furthermore,
+studies have shown evidence that this modification can be not only neutral but in fact beneficial
+to biodiversity in an area (Mann 2002, Anderson and Posey 1989, Janzen 1998).
+despite heated debate over whether or not conservationists and local peoples are actually
+working toward the same goals, ideologically conservation organizations strive for the protection
+and management of natural landscapes, preferably in the absence of people. Local groups, on the
+other hand, are generally working toward the goal of protecting and legalizing land for their own
+use (BorgerhoffMulder and Coppolillo 2005). Finding mutually satisfying objectives, therefore,
+requires compromises on one or both sides: a difficult end to achieve in any relationship.
+
+13
+
+The Danger of Assumptions
+Another causal factor in the unfortunate misunderstandings between ENGO's and local peoples
+are the assumptions that each makes about the other, especially on the organizational side.
+Conservation organizations, especially those with larger spheres of influence, tend to
+view local communities worldwide as somewhat homogeneous. Arun Agrawal and Clark
+Gibson (1999: 640) describe this misconception as the" 'mythic community': small, integrated
+groups using locally evolved norms to manage resources sustainably and equitably." This idea
+assumes similar community structure, composition, and decision-making processes. It assumes
+that the interests, political ties, and actors within each community are relatively the same
+(Agrawal and Gibson 1999). The truth, of course, is that communities are widely diverse across
+regions and even across nations, and treating them as more or less the same from the outset of a
+project can only lead to errors in communication and understanding (Agrawal and Gibson 1999).
+Other damaging presuppositions historically made by ENGO's include the now-famous
+myth of the "ecologically noble savage" (Redford 1991 ), or the assumption that traditional
+subsistence methods lacking modern technology and uninfluenced by Western thought and
+practice are inherently symbiotic with the environment. Among others negative outcomes, this
+assumption led to management plans in which the locals' continued use of a protected area
+became contingent upon their maintaining a "traditional lifestyle," a condition termed "enforced
+primitivism" and denounced by anthropologists. Despite the fact that the conservationist
+community has for the most part recognized this idea as false (Redford 1991, Holt 2005), some
+organizations still operate under a similar assumption, leading to predictable hitches in project
+planning and execution (BorgerhoffMulder and Coppolillo 2005).
+
+14
+
+Additionally, conservation organizations and local communities alike frequently take for
+granted that their goals and priorities in implementing a project are the same (BorgerhoffMulder
+and Coppolillo 2005). This is a dangerous assumption for either party. On one hand, it can lead
+to local groups not receiving the benefits that they expected out of a conservation management
+arrangement (Hill 1996). On the other hand, conservationists dread situations in which a local
+group gains autonomy or private property rights and proceeds to use their resources in ways
+unforeseen by the ENGO, such as destructive logging (Terborgh 2000).
+Examples like these demonstrate the perils of assuming anything about one's partner in a
+collaboration situation, but they do not prevent these and similar presumptions from hindering
+conservation implementation every day.
+
+Defining the Issues
+An inherent conflict that ENGO's often fail to realize in their dealings with local and indigenous
+people is the fact that many of the issues at hand- conservation, sustainability, even forests - are
+terms defined differently among different groups, and the ideas of those groups often differ
+significantly from conservationists' own (Struhsaker 1998, Redford and Mansour 1996, Alcorn
+1993).
+Sustainability, for example, is a concept debated by many and claimed as impossible by
+most strict biologists because how could we possibly know exactly what the environment can
+sustain in the long term? Certainly conservationists and local people have different views on the
+subject. The former define sustainability as methods of farming and harvesting certain goods
+from a landscape in such a way that maintains biodiversity in the ecosystem, both in the species
+being harvested and the species that interact with them ecologically (Struhsaker 1998). Local
+and indigenous groups, however, tend to have a broader sense of the word, taking sustainability
+
+15
+
+to mean methods of farming and extraction that prevent the destruction of the landscape or the
+exhaustion of the resource.
+In addition, the idea of a forest, though it seems self-explanatory, can be interpreted in
+different ways. When an ENGO wants to conserve a forest, it wants to preserve biodiversity in
+all of that ecosystem's components - genetic, species, and community- as well as to preserve all
+of its attributes structurally, functionally, and compositionally (Redford and Sanderson 2000).
+When local groups and the anthropologists who work with them talk about forests, on the other
+hand, they tend to reference them as a group of trees whose function is to provide a home to
+people and the animals and plants that help to sustain them.
+Lastly, conservation itself is a slippery subject. To a biologist, conservation is
+fundamentally the maintenance of biodiversity and the habitats that sustain it. Conversely, many
+authors have shown that local and indigenous ideas of conservation differ significantly from the
+scientific Western view. According to Alcorn, no word for conservation exists in any nonEuropean language, and it is "generally translated as 'respecting Nature,' 'taking care of things,'
+or 'doing things right"' (I 993: 425). Redford's and Stearman's (2000: 253) experience with
+local and indigenous people lead them to conclude that to these people, "preserving biodiversity
+means preventing large-scale destruction." In my experience among the local residents of
+Monteverde, Costa Rica, local definitions of conservation related directly to the individuals'
+modes of subsistence. Conservation for farmers involved soil and water resources as well as
+trees to provide windbreaks and maintain watersheds. On the other hand, business owners
+defined conservation in the vague terms that many of their foreign, ecotouristic customers would
+define it: all-encompassing, global concepts like "saving the planet" and "maintaining the earth."
+Redford's (I 996) survey at The Nature Conservancy's workshop "Traditional Peoples and
+
+16
+
+Biodiversity Conservation in Large Tropical Landscapes" determined that one common thread in
+the definitions of conservation given by the delegates from eight indigenous groups was that of
+rational use ofresources that would maintain them for future generations.
+In all of these cases, we see a marked concern in the scientific community for
+biodiversity and the elements necessary to maintain it. The local and indigenous conceptions of
+these words, however, tend to be almost unilaterally anthropocentric, defining conservationrelated terms with the maintenance and well-being of humans in mind. Even when the two
+groups attempt to work together for goals they perceive to be common, these disparities in
+ideology can lead to one or both sides becoming disillusioned with the outcomes.
+The Economy of Conservation
+The economic side of conservation, although rarely addressed in-depth by anthropologists, is a
+factor to be ignored at the peril ofENGO's. With wildly different cultures, educations, and
+socioeconomic backgrounds, conservationists and local and indigenous people often find it
+difficult to see eye to eye and understand each others' behaviors when [dealing with] these kinds
+of issues (Borgerhoff Mulder and Coppolillo 2005).
+Conservationist ideologies are based in part on economic principles. In the US, suddenly
+aware of the polluted and overexploited state of our environment, we are doing all we can to
+inform, tax, bully, coax, and legislate our way out of environmental degradation (Salzman and
+Thompson 2007). Many of the problems we are experiencing are caused by what Hardin (1968)
+infamously called the "Tragedy of the Commons," a problematic social phenomenon wherein
+each individual, acting in his own self interest, exploits a common good to the detriment of all
+(and in the case of natural resources, the eventual depletion of the resource). The assumption that
+individuals will act in their own self interest is a building block of Western economic theory, and
+
+17
+
+it therefore plays a large role in the implementation of conservation practices: essentially, either
+conservation must somehow be in local people's best interest, or there must be some strong noneconomic factors encouraging them to be altruistic (Borgerhoff Mulder and Coppolillo 2005).
+This is problematic because without taking ecosystem services into account, the economic
+benefits of conservation, especially with low-impact or no extraction, are neither great nor
+available in the short-term. The perceived future economic value of a forest, for example, is
+often less than the owner could gain by simply cutting it all down and selling the timber
+(Acheson 2006). Moreover, a person's valuation ofa good decreases as a function of the amount
+of time he or she must wait to collect the benefit, a concept referred to as a discount rate
+(BorgerhoffMulder and Coppolillo 2005). According to this principle, twenty dollars in your
+pocket now is worth more to you than the promise of twenty dollars in your pocket a month from
+now, because anything could happen in the interim: you could die, the price of your good could
+change, that good could even be destroyed. By the same token, the revenue from clear-cutting a
+forest today is often worth more to someone than sustainably logging it for twenty years.
+Depending on age, sex, socioeconomic status and other variables, different people are expected
+to value future benefits differently, but in most cases individuals are expected to forgo long-term
+benefits for short-term ones (Borgerhoff Mulder and Coppolillo 2005). These expected
+economic valuations are not the only factor in decision-making, but they understandably play a
+large part in how people decide to manage their resources. Given this understanding of
+individual behavior as determined in part by economic self-interest, it is no wonder that
+conservationists question whether local and indigenous people will conserve their resources if
+given control over their disposal (Redford and Sanderson 2000).
+
+18
+
+Anthropologists counter these economic arguments with the observation that many
+societies not wholly assimilated into Western thought do not operate under the same principles,
+and the assumptions that underlie Western economic theory can't be used to predict their
+behavior (Chapin 2004, Chapeski 1995). In some sense this is true: anthropologists have shown
+that common-pool resource use and conservation is often maximized in harsh, resourceconstrained environments like highly acidic blackwater areas of the northwest Amazon region
+and dry savannas of central Brazil (Stearman 1994, Borgerhoff Mulder and Coppolillo 2005). In
+addition, anthropologists and indigenous people alike cite historically successful management of
+resources on ancient homelands as evidence of the unlikelihood of their overexploiting these
+resources in the future (Schwartzman et. al. 2000, Redford and Stearman 1993).
+However, these rejoinders only apply to a small minority of indigenous groups; they fail
+to take into account non-indigenous local groups as well as more Westernized indigenous groups.
+Moreover, exposure to Western societies based on monetary wealth, escalating ties to market
+economies, and growing populations due to the introduction of better medical techniques are
+increasing pressure on natural resources and inclination toward overexploitation in even more
+traditional indigenous societies.
+Holt (1999) answers to these inconsistencies in a novel way: she maintains that the views
+held by conservationists on the type of low-population-density, low-impact traditional
+indigenous peoples generally held to be "conservation friendly" are actually a Catch-22. Using
+the same Western ideas of common property theory that underlie conservationist thought and
+supporting her claims with evidence from the Huaorani of Ecuador, she argues that indigenous
+groups with limited technology, basic subsistence economies and low population densities are
+those least likely to foster conservationist ideals. Rather, people with improving technologies,
+
+19
+
+market involvement and greater population density- those commonly held by ENGO's to be
+inimical to conservation goals - are more apt to realize the need for resource stewardship and
+promote conservation. Further, she points out the hypocrisy in viewing Western culture as both
+the problem (causing indigenous peoples to buy guns, drink Coca-Cola and amass monetary
+wealth) and the solution (being the umbrella of authority under which conservationists assume
+themselves to be qualified to make decisions about how native people should manage their
+resources) (Holt 1999).
+In the end, conservationists see themselves faced either with the difficult task of putting
+conservation into an economically beneficial framework for local people, or the equally complex
+task of appealing to some inherent moral, ethical or religious belief held by local people that
+would encourage them to conserve their resources. This struggle, exacerbated by the fact that
+creating economic benefit inevitably involves some level of destructive practices, only serves to
+worsen the conservationist perception of local people as obstacles to overcome rather than
+partners and aides. On the flip side, conservationists discourage local and indigenous people
+from become Westernized, while at the same time ENGO's wield their Western educations and
+perspectives as tools that grant them the ability to decide the fate of others' resources.
+These conflicts and a variety of others arise repeatedly in the implementation of
+conservation projects; their effects detract from the success of those programs, and the vast
+majority of environmental NGO's experience years of trial and error before finding one or two
+conservation projects that succeed (Cahn von Seelen 2004, Redford and Mansour 1996). By
+analyzing the following case studies of relationships between conservationist organizations and
+the local communities with which they attempted to collaborate, I will suggest possible strategies
+to lessen or alleviate the impacts of these debilitating conflicts.
+
+20
+
+PART III: CASE STUDIES
+Three case studies provide examples of both positive and negative relationships between
+ENGO's and local and indigenous communities. The first is a case study of an indigenous group
+in Paraguay and a national ENGO. The second case study evaluates the perspectives of
+conservation policy makers, policy implementers, and the local population obliged to live with
+policies near a nature preserve in southern Mexico. The third case study, my own, examines the
+development of conservation by interviewing different groups of local inhabitants in Monteverde,
+Costa Rica.
+CASE STUDY #1: THE ACHE OF PARAGUAY
+The first case study is based on one of a series of evaluations that were commissioned by The
+Nature Conservancy as part of a campaign to realize more effective partnerships between the
+organization and indigenous peoples. These evaluations, written by well-known and respected
+social scientists in conjunction with indigenous people, culminated with a workshop entitled
+"Traditional Peoples and Biodiversity Conservation in Large Tropical Landscapes," where the
+evaluations were presented and discussed. The purpose of this workshop was to examine the
+relationship between The Nature Conservancy's mission of conservation and the needs and
+desires of indigenous groups. This workshop was attended by the authors of the case studies,
+representatives from The Nature Conservancy, and representatives of eight indigenous groups
+from seven countries in Latin America. The proceedings from this workshop as well as the case
+studies were published in 1996 (Redford and Mansour 1996).
+The evaluation below, written and presented at The Nature Conservancy's workshop by
+anthropologist Kim Hill (Hill 1996), details the rocky relationship between The Nature
+Conservancy, its locally active satellite ENGO, and the indigenous Ache people in regard to the
+
+21
+
+Mbaracayu Nature Reserve in the southeastern part of Paraguay.
+
+Hill conducted this study with
+
+the help ofTiko Tikuarangi, an Ache who was born in the Reserve and served as the main chief
+of one of the nearby communities from 1990 to 1995. The case study is based on Hill's
+experiences while engaged in a research project to measure and monitor edible resource (animal
+and plant) densities and how human activities impacted those densities within the Reserve. I
+focus my analysis on Hill's recounting of historical and cultural details about the Ache as well as
+his observations about the relationship between conservationists and native peoples assimilated
+during twenty years of research experience with native populations in Paraguay, Peru, and
+Venezuela.
+
+THE MBARACAYU RESERVE
+Conservation is of low priority in the Paraguayan government. As in many developing nations,
+many official policies discourage it in favor of rapid resource exploitation. The law protects only
+individuals who make "rational use" of their property, which incorporates intensive strategies
+such as clear-cutting for agricultural use but does not include sustainable use of primary forest.
+Anyone who keeps their land forested is not considered to be using their landholding rationally,
+and in reality the only way to prevent expropriation of land in Paraguay is to clear-cut and use it
+for pastureland or agriculture. A few government agencies are charged with protecting the
+environment and natural resources, but due to their lack of official support, these agencies are
+underfunded, understaffed and generally ineffective. Because of this, nationally declared
+conservation areas are often subject to illegal occupation and immigration as well as hunting and
+extraction by inhabitants of communities nearby.
+Environmental non-governmental organizations, however, tend to enjoy a greater
+measure of power. Often drawing from the wealthy Paraguayan elite, employees are more
+
+22
+
+highly educated and better paid than those of governmental groups. Board members and donors
+are commonly among the most influential people in society, and as a result the ENGO's are
+much more effective than their governmental counterparts. The high socioeconomic status of
+many ENGO members, however, has created a history of mistrust and resentment among the
+peasant and indigenous populations whose destructive land use practices are often the target of
+conservationist policies and programs.
+One ENGO exhibiting these qualities is the Fundaci6n Moises Bertoni (FMB), a
+Paraguayan national organization founded in 1988 by former government workers in conjunction
+with The Nature Conservancy. These individuals, formerly employed by the ineffective
+government agencies described earlier, wanted to create an organization that carried more weight
+and enjoyed more success. The ENGO enlisted the help of USAID, which provided initial
+funding for institutional development, and TNC, who provided funding and organizational
+training. This association with the respected international ENGO also drew qualified individuals
+to FMB, leading to increased status and salary among employees and attracting the support and
+participation of the social and economic elite. Such a status earned the FMB the leverage they
+needed to carry out their conservationist goals, the first of which materialized in the form of a
+large land purchase with international funds. They also created a satellite ENGO, the Fundaci6n
+Mbaracayu, to receive the land title, obtained permission from the government to manage the
+property, and eventually convinced the Paraguayan government to pass legislation officially
+protecting the land. Through an agreement between the United Nations, The Nature
+Conservancy, the FMB, and the Paraguayan government, the Mbaracayu Nature Reserve was
+created in 1991. Hill does not mention whether the Ache played any part in this process.
+
+23
+
+The Mbaracayu Nature Reserve ("the Reserve") encompasses 60,000 hectares of forest.
+Together with the surrounding 250,000 hectares of the upper Jejui watershed, it forms the largest
+tract of undisturbed tropical forest in eastern Paraguay. The area is characterized by rolling hills
+covered with evergreen forest and flat valleys dominated by tall broadblade grasses. It includes a
+variety of ecosystems including forests, rivers, mountains, caves, grasslands, and wetlands, all of
+which contain important biological communities unique to the area. The region is additionally
+ecologically important: the Reserve shelters around 90 percent of all of the rare and endangered
+species in Paraguay and harbors a plethora of plant and animal species found in no other South
+American park
+
+THE ACHE
+The Reserve is also home to the indigenous Ache, who according to archaeological research
+have occupied the region for over 10,000 years. Historical records show that the Ache
+experienced no peaceful contact with outsiders between the Spanish invasion in the 1500's and
+the 1970's. The Ache were resettled on mission and government reservations in the 1970's,
+where they live today. The current Ache population numbers approximately 700 dispersed in
+five separate settlements, two of which are close to the Reserve and involved in its management.
+These reservations contain more than just the Ache communities; in addition, each embraces a
+small portion of forested land to which the community holds legal title.
+The Ache traditionally lived in nomadic, independent small bands which had no fonnal
+leadership and a membership that fluctuated. War was an important aspect of life: Ache bands
+were unfriendly to one another, and non-Ache people such as the Guarani Indians or foreign
+invaders were killed on sight.
+
+24
+
+According to Hill, the Ache hold no religious beliefs about the forest or the resources that
+sustain them. Shamanism, a fundamental aspect of many cultures of indigenous Amazonia, is
+absent, and medicinal plants are infrequently used. No animals or plants are sacred or taboo, but
+myths about animal behavior and animal relationships to humans are common. In fact, one
+enduring aspect of Ache culture is the traditional naming of Ache youth, which demands that a
+child be named after an important game animal that its mother cooked and consumed during
+pregnancy. This practice defies the pattern of departure from cultural norms that has resulted in
+the disappearance of so many other traditions - birth rituals, puberty ceremonies, singing, and
+traditional hairstyles among others - and it has important implications for conservation. The
+Ache refuse to name their children after domestic animals, and because all animals found in their
+area are part of the naming system, they insist upon hunting and consuming all of them at least
+occasionally, regardless of rare or endangered status. Thus, because of this facet of Ache culture,
+"replacing" wild game with domesticated animals is not a viable conservation strategy.
+The refusal of the Ache to restrict their hunting patterns also alludes to an important
+aspect of Ache culture: the concept of extinction is entirely outside of their realm of possibility.
+With their history ofnomadism and low population density, until recently their resource
+depletion has been localized, and their only experience with limitations on hunting has been to
+take fewer individuals of species that become scarce. In their worldview, a shortage of one
+animal is temporary, and thus the Ache simply have to wait for more of that species to migrate
+from another area. As a result, they have exhausted the populations of nearly all game animals
+in their reservation forest. The idea that a species could potentially be exploited to the point that
+it no longer exists is not within their worldview.
+
+25
+
+Another changing aspect of Ache culture with important implications for conservation is
+their economy and associated resource use patterns. Originally their economy centered on the
+hunting of game animals, the extraction of wild honey, insect larvae, and palm starch, and the
+collection of seasonal fruits. The current economy includes these practices as well as swidden or
+slash-and-bum agriculture and the raising of domestic animals including chickens and pigs,
+which were introduced in the last 15 years. There is, however, a generational gap in Ache
+knowledge and economic practices. The individuals who were children at the time of Ache
+settlement on reservations and now 25 to 35 years in age tended to practice traditional hunting
+and extraction methods. The younger age group, who were born on the reservation and attended
+school rather than foraging during their childhood, have many fewer skills than their parents and
+much less interest in hunting. Men in this age group know less about the habits of animals and
+the tracking skill necessary to hunt them, and thus make greater use of firearms, dogs, and
+fishing, as well as taking greater numbers of small birds. The women of this cohort do not know
+how to fashion the customary women's tools and are ignorant of the extraction of palm fiber,
+traditionally the main activity of women in the forest. These younger Ache are much more
+interested than their predecessors in farming, raising domestic animals, and performing wage
+labor. This generational gap and shift in economic practices has not, however, changed the role
+of women in the society, who believe that a large and healthy family is the most important goal
+in a woman's life and are still mainly occupied with intensive child-rearing as a full-time activity.
+The economic structure of the community is geared toward communal ownership and
+individual exploitation ofresources. Although resources are community property and as such the
+leaders of the community in theory have sole rights to their disposal, they are in reality exploited
+unconditionally by all with no community controls over game taken or fruit harvested. This
+
+26
+
+economic structure encourages short-term resource exploitation over long-term management:
+you have to take what you can before your neighbor takes it. Moreover, reservation lands are
+also hunted and fished by nearby non-native populations, who would exploit anything that the
+Ache "conserved" if the latter ever chose to do so. Essentially, although long-term conservation
+ofresources would be in the best interests of all Ache, the economic structure in place in their
+communities does little to encourage conservationist thinking or practices, and it is likely to lead
+to the Tragedy of the Commons. On the other hand, income is acquired through the sale of
+handicrafts and wage labor rather than the harvest of forest products for profits.
+Chupa Pou and Arroyo Bandera are two communities of Ache located close to the
+Reserve. The Chupa Pou community, which holds legal title to 2,000 hectares ofland, has a
+political system largely imposed by the Catholic missionaries that live nearby: three elected
+community chiefs serve five-year terms, representing the Chupa Pou population to outside
+organizations and making resource use and development decisions in consultation with
+missionaries. Most community decisions are discussed in large community forums attended by
+all adults, although discourse is often dominated by those Ache who have spent time among nonnative Paraguayans as wage laborers or domestic servants. Men in Chupa Pou rely mostly on
+guns and dogs for hunting.
+The smaller community of Arroyo Bandera, which occupies only 500 hectares, uses more
+traditional hunting and gathering methods and interacts less with outsiders than the inhabitants of
+Chupa Pou. Their reservation forest has been less extensively logged, but they hunt as
+intensively as the residents of Chupa Pou and as a result the area contains little game. Three
+elected chiefs represent the community to outsiders, but decisions are made communally with
+relatively equal input from all individuals.
+
+27
+
+CONSERVATION AND THE ACHE
+
+Indigenous peoples and Paraguayan peasants alike have little interest in conservation. The Ache
+have interacted with only two conservation organizations: TNC and the FMB. Although Hill
+(1996: 175) generalizes the historic interactions between these groups as positive, he makes this
+qualification based solely on the fact that both the Ache and conservationists are interested in
+saving the Paraguayan forest. This assertion is also couched in a number of misunderstandings,
+conflicts, and failed conservation and development programs. Hill (1996: 175) ascribes such
+difficulties to "communication problems based on language and culture," and he claims
+conservationists must take the initiative in resolving these issues.
+The main misunderstanding that arose between the Ache and conservation organizations
+was due to the fact that the latter did not, for whatever reason, explain to their partners in
+conservation what their goals actually were, and why. As detailed above, the Ache have no
+concept of extinction, and thus the concept of animal protection makes little sense to them.
+Neither do they perceive the logic in preserving a resource that you do not intend to use.
+Exacerbating this inherent lack of conservationist principles in Ache culture, no one attempted to
+broach with them the subject of biodiversity and ecosystem protection, terms that are completely
+outside the Ache worldview. In summary, these people were left with absolutely no conception
+of conservationist goals or their importance; instead they saw only the puzzling actions of
+conservationists and could simply attempt to deduce, necessarily within the context of their own
+beliefs and philosophies, what the motivations behind those actions could possibly be. The
+results, unsurprisingly, were often disastrous.
+Another important conflict arose as a result of both poor communication and confusing,
+illogical actions on the part of the FMB. At the time of the study, the interactions between the
+
+28
+
+Ache and the ENGO had been limited to debates about restrictions on resource use and the FMB
+occasionally lending economic assistance to the Ache]. With their limited understanding of
+conservationist goals, the Ache failed to see the logic underlying these restrictions, the enforcing
+of which was shifting and desultory in nature. Different guards enforced different regulations,
+and in fact none of the "rules" they were enforcing were ever explicitly stated to the Ache. In
+addition, the Ache failed to see why the ENGO would help them with some activities - such as
+planting trees - and not others - such as planting maize. FMB employees implementing projects
+had goals, but they did not communicate these to the Ache. Equally destructively they did not
+seek any opportunity to learn about the Ache, their beliefs, their social and economic patterns,
+and their extensive.knowledge about the forest. A familiarity with these aspects of indigenous
+culture could have informed them as to which policies and programs would work best with
+respect to the Ache worldview, saving them many years and many dollars worth of effort.
+Hill uses three examples to illustrate indigenous economic decisions and conflicts
+between ENGO's and the Ache people. The first details the different choices of the Chupa Pou
+and Arroyo Bandera communities in regards to their timber resources. The second conveys the
+conflicts that arose between the Ache and the FMB over a project involving the raising of
+domestic pigs. The last example describes government and ENGO vagueness in writing and
+explaining restrictions placed on the Ache, as well as the reaction of the latter group to these
+vaganes.
+
+Chupa Pou, Arroyo Bandera, and the Timber Debacle
+The history of the exploitation of timber resources in the communities of Chupa Pou and Arroyo
+Bandera illuminates several aspects of the Ache economic system, including how the system can
+change with different leadership and cultural pressures. Both communities operate under the
+
+29
+
+system of collective ownership of resources described above, but in this case Chupa Pou deviates
+temporarily from that pattern, as detailed below.
+In 1987, slightly more than ten years after the Ache were resettled onto reservations,
+Chupa Pou, the more Westernized of the two communities, acquired the legal title to 2,000
+hectares of adjacent land. Inhabitants immediately began selling off valuable hardwood trees to
+nearby sawmills, ostensibly without contemplating any future effects of this action. An informal
+consensus arose within the community such that any individual who claimed a tree became the
+owner of that tree and was free to dispose of it as he or she pleased. These new "owners" of
+community property immediately began combing the land for valuable trees and putting claim
+markers on them. Local timber entrepreneurs approached individuals and bought "their" trees.
+Proceeds were spent on clothes, gambling, parties, canned foods, radios and other luxury
+products. By 1988, the community had sold all of its valuable trees and spent the resulting
+income. All Chupa Pou Ache lived well during this period, but when all of the profits were gone
+community members had nothing to show for their sudden windfall. None of the money had
+been invested in the community, nor were long-term improvements made.
+In contrast, the Arroyo Bandera community in 1990 also decided that they had legal
+rights to the trees on their reservation. At a community meeting the group decided to sell some
+hardwood trees to a local timber concessionaire in exchange for a schoolhouse. This building, a
+sturdy wood and brick structure with a cement floor and glass windows, was built in short order.
+The community then put a moratorium on the sale of hardwood trees from their reservation, a
+ban that still existed at the time of the study. In this way, Arroyo Bandera gained an important
+community building in addition to preserving much of their timber for possible future use.
+
+30
+
+In 1993, another 6,000 hectares of land were granted to the Chupa Pou community
+through the cooperative actions of TNC and FMB. Evidently having learned from their mistakes,
+the community members treated this acquisition much differently than they had their previous
+land grant. The community, with advice and support from the local Catholic missionaries, came
+to a consensus that a small amount of the timber should be sold off and traded for rough planks
+of wood to be used in housing and community projects. Because all members were in agreement,
+chiefs ruled that no individual ownership or selling of timber would be allowed.
+Hill concludes this fable of overconsumption with the hope that seeing the successful
+Arroyo Bandera example and the Chupa Pou trial and error, the Ache will realize that
+community-wide control of resource use leading to long-term conservation is the best strategy.
+However, Hill couches this hope in the caveat that "until the communities recognize both the
+problem and the solution, and are willing to cede authority over reservation resources to elected
+representatives, overharvesting of community resources will continue" (1996: 169).
+A Poorly Planned Conservation Strategy
+
+Hill details the strained relationship between Ache communities and the FMB with two examples
+of conservation projects and legislation gone awry. The first describes a program in which the
+FMB provided small-scale economic help to the Community of Chupa Pou Ache in I 990 in the
+hope of gaining goodwill toward future conservation programs while at the same time achieving
+a conservation goal. This program took the form of a community pigpen: the FMB reasoned that
+if their supply of domestic meat increased, the Ache would stop hunting so intensively and the
+pressure on local game populations would be lessened. With this in mind, the FMB proposed to
+purchase for the community a number of breeder pigs and fencing for them. The Ache were
+
+31
+
+charged with the building of the fence and the feeding of the animals, which would be a
+community resource. The Ache agreed, and the plan became a reality.
+By 1993, both parties recognized that the project was a complete failure. The community
+suffered from the classic free-rider problem in economics. Because the pigs were a community
+resource and everyone could consume them regardless of who contributed food and care, there
+was no reward for those who went to the extra effort of feeding and caring for them. As a result
+few took the initiative to care for the pigs, and individuals killed and consumed them at every
+opportunity. Eventually the pig population dwindled to nothing.
+More frustrating to the Ache, however, was the fact that many adult members of the
+community had predicted the failure of the project even before its implementation, although they
+did not mention this to the FMB until it had already failed. Similar projects had actually been
+attempted at least three times between 1977 and 1990, and each scheme had failed because there
+was no way to reward or compensate the individuals who provided food and labor. Thus, the
+Ache blamed the FMB for implementing a program doomed to fail, and a community leader
+denounced the organization at a public meeting. According to Hill, "'the FMB should have
+known that nobody would feed the pigs and they would all be eaten,' that leader said. 'The FMB
+deceived us, and they have done nothing to help us'"(l996: 176).
+Hill proceeds to point out the errors committed by both sides in this project: the Ache
+refrained from telling the FMB before implementation why the project was likely to fail, and the
+FMB neglected to research whether similar projects had been attempted before. He also accuses
+the FMB of behaving patemalistically and neglecting to discuss the project in-depth with the
+Ache under the assumption that they would not be able to grasp or propose solutions for
+
+32
+
+complicated issues like the free-rider problem. The Ache were angry at not being treated like
+humans, with human capabilities and intelligence, by FMB representatives.
+
+Vague Definitions and a Variety of Enforcements
+The second example of conservationist-indigenous relations is the misunderstandings between
+the FMB and the Ache as to how the latter was permitted to use the reserve. Interestingly,
+although the FMB began to manage the reserve in 1991 and developed regulations concerning its
+use by the Ache, neither that organization nor the Paraguayan government created written
+regulations detailing permitted use for the reserve's indigenous inhabitants. The 1991
+Paraguayan law that created the reserve simply stated:
+In recognition of the prior use of the forest by the Ache indigenous community, these groups will
+be permitted to continue subsistence hunting and gathering in the area of The Nature Reserve, as
+
+long as they employ traditional methods, and according to that which is allowed in the
+administrative plan of the reserve. This use right pertains only to the members of the Ache
+
+community and cannot be sold, authorized, or ceded to third parties. The members of the local
+Ache community will be allowed to harvest species of wild animals and plants that are not
+threatened or in danger, under the regulations established for the conservation of the nature reserve.
+
+This use will be regulated by the Honorary Council and based on technical studies and the
+management plan of the reserve. The participation of the local
+
+Ache community in the protection
+
+and administration of the reserve will be encouraged, and they (the Ache) will be offered
+permanent employment that comes about as a result of the development of scientific studies,
+
+recreation, and tourism in the reserve and the protected areas around it (Law 112/91, Article 13)
+(Hill 1996: 177).
+
+In addition to many vague references to the unspecified "management plan" of the reserve to be
+developed by the FMB, this law was never translated for or communicated to the Ache, and they
+remained ignorant of its contents in the fall of 1994. Although indigenous community
+representatives had been present during the process of passing the law, they were not treated
+equally. Communicating with them was difficult, and legislators and FMB representatives
+assumed that they were too "unsophisticated" to have opinions about the wording of the law.
+Despite the lack of official regulations regarding Ache use of the Reserve, the FMB
+began developing and enforcing their own regulations in 1992. Although they assured the Ache
+that they would be consulted before any regulation became official policy, the FMB did not keep
+
+33
+
+this promise, and the indigenous community was never consulted before the new regulations
+became official. In subsequent years FMB employees enforced a variety of prohibitions on
+indigenous use of the reserve. Although all restrictions had some justification, some were more
+applicable and important than others. A variety of regulations were enforced inconsistently, and
+none of them were authorized by any written policy. In addition to these irregularities, a few
+regulations were clearly formulated without ecological knowledge of the region. Some of the
+game animals that the Ache were prohibited from hunting were locally abundant, contributing
+further to the indigenous confusion as to why animals should be protected. As a result,, the Ache
+could not help but conclude that the FMB regulation of their use of the reserve was largely
+arbitrary. This unsurprisingly did nothing to stimulate trust or respect among the indigenous
+community, who worried about the lack of protection of their use rights, the lack of formal rules,
+the absence of Ache input in regulation decisions, and the unlikelihood of any of these things
+coming about in the near future.
+The Ache approached Hill for clarification of many of these concerns when they realized
+he was collaborating with the FMB in his projects of monitoring game in the reserve. Their
+questioning culminated in a meeting between representatives of the five Ache communities and
+Hill rather than a more appropriate meeting between the Ache and the FMB. The Ache raised
+worthwhile and perceptive questions including:
+• What is the definition of "traditional" hunting and gathering methods? Ache methods of hunting and
+gathering have changed throughout the 20 th century and changed even more rapidly alter
+permanent outside contact. Which of these is "traditional," and who decides that issue?
+
+• Why are only "traditional" methods allowed inside the reserve? Isn't the important issue how many
+animals the Ache kill, not how they kill them?
+• If the only activities allowed are those that meet the approval of the administrative plan of the
+reserve and the Honorary Council, what guarantee do the Ache have of any use rights? Will
+Ache use rights change from one year to the next at the whim of the council? What guarantee is
+there that the grandchildren of the current Ache population will have any use rights in the reserve?
+• Who is a member of the "local" Ache community and who decides this? Can Ache visiting from
+other communities hunt inside the reserve?
+• What does it mean to say that an animal species is "threatened" or "in danger," and who decides this?
+
+34
+
+• What does it mean to "encourage" Ache participation in the administration of the reserve? Will the
+Ache have formal say in decisions about reserve management?
+• How often will the Ache be offered employment? What fraction of the employment that comes up
+will be offered to the Ache? (from Hill 1996: 178)
+
+Although the anthropologist could help the Ache address some of their concerns, most of
+their questions remained unanswered. Hill does not mention whether the communities
+ever brought these issues to the attention of the FMB.
+Many problems could have been solved with frank discussion between the groups. The
+FMB, however, had internal problems with communication. The high-level executives who met
+with the Ache leaders often failed to connect with the local employees who were charged with
+protecting the reserve, leading to contradictions and broken promises with virtually no one in the
+organization aware of the big picture. These discrepancies led to distrust in the Ache community,
+who further distanced themselves from the FMB and complained to other organizations that
+FMB employees were dishonest.
+Aside from these two ill-fated conservation programs, only two projects were
+implemented in the Chupa Pou and Arroyo Bandera communities. Although several other
+programs were discussed, they were never implemented. Through some error in communication,
+the Ache assumed that these projects would definitely be executed, and when the opposite
+proved to be true their mistrust of the conservation organization deepened. To worsen matters,
+the FMB never fulfilled the commitments they made in the course of the projects they did
+implement. Because the FMB suffered from a lack of materials as well as a lack of technical
+and informational support, and also because the Ache had been jaded by too many previous
+disappointments, these projects were never fully carried out.
+
+35
+
+Progress Despite Conflict
+Even in the face of such ill-fated programs, the FMB has made some headway in the quest to
+convince the indigenous Ache that conservation is worthwhile. Although the Ache do not
+support most hunting restrictions and most individuals have little understanding of the concept of
+extinction, they have accepted some conservationist dogma into their daily lives. In one instance
+that Hill witnessed, a chief convinced several members of his community to release endangered
+bush dogs that they had captured as pets, reminding them that the FMB had asked them not to
+hunt or kill those animals. In another example, Tiko Tiknarangi, the Ache man with whom Hill
+collaborated, stated at the INC conference that although he had once hated jaguars as many of
+his peers do and would have preferred to exterminate them, he is now willing to let them live in
+the reserve. These examples suggest that despite the lack of effective communication and
+understanding between conservationists and the Ache, some agreements have been reached, and
+it would seem that the Ache are willing to comply with regulations that they perceive to be
+logical.
+Learning from some of its mistakes, the FMB has improved communication within its
+own organization and employees make certain that no promises are made to the Ache that cannot
+be kept.
+CONCLUSION: SHARING THE INTELLECTUAL WEALTH
+
+Hill concludes with several statements on how conservation organizations and indigenous
+peoples can learn from one another. On one hand, he asserts, ENGO's could potentially be a
+helpful resource to indigenous peoples, as long as they are willing to be flexible and occasionally
+teach important skills unrelated to conservation. He lists a variety of things that in his
+experience native people desired to learn: "how national and local governments work, how to
+
+36
+
+lobby for funds and political support, how to take apart a truck transmission, how to clean the
+heads on a tape recorder, and what is the best way to treat syphilis" (Hill 1996: 183). In addition,
+ecological and scientific knowledge based on experimental evidence and observation could
+suggest environmental solutions that indigenous people could not arrive at on their own. Hill
+cites the interest of the Ache in learning about maximal harvest theory and life history theory,
+two ecological principles that could possibly help them develop sustainable hunting and
+harvesting techniques.
+On the other hand, the main resource that indigenous people have to offer
+conservationists is their extensive knowledge of the forest. Their generations-old knowledge of
+tracking, organism identification, animal behavior, and more exceeds the knowledge of
+ecologists, who see and study their environment through a different perspective.
+Conservationists and other scientists who are willing to engage indigenous people as research
+assistants and consultants will be vastly more informed when it comes to making decisions about
+resource management.
+
+ANALYSIS
+As a result of this case study, Hill suggests the following: (1) improve communication to
+negotiate and find common goals, (2) share knowledge, and (3) explore the possibilities of
+central control of community resources. While these are worthwhile goals amply supported by
+the evidence, his methods are somewhat questionable. Although he describes the interactions
+between TNC, the FMB and the Ache as "positive," Hill highlights overwhelmingly negative
+examples of these interactions. When he does mention a few positive outcomes of this
+relationship, Hill fails to note why the individuals in question opted to comply with regulations.
+In fact, Hill's study fails to discuss the reasoning behind the events that took place. Why did the
+
+37
+
+Ache who prevented the hunting of bush dogs decide to comply with the conservationist agenda?
+Why did the Chupa Pou Ache behave one way with their timber resources, and the Arroyo
+Bandera Ache entirely another? Why did collective action succeed with selective logging but
+fail utterly in the pig project? Why did the Ache approach Hill with their discrepancies rather
+than the FMB? Why will the Ache abandon the majority of their cultural traditions but hold fast
+to the naming system? These lingering questions draw attention to the fact that Hill's study is
+less ethnography and more simple observation, which in many cases overlooks the deeper
+underlying factors influencing indigenous decisions.
+For example, one important facet of indigenous life that Hill glossed over is the religious
+belief system of the community. Although he points out that many aspects of the religious
+beliefs of ecologically similar cultures are missing among the Ache, Hill does not mention the
+religion that does exist. The significance ofreligion to native decisions regarding the
+environment is suggested by the pig project. The importance of the naming system, probably a
+remnant of an earlier animistic religion, in conjunction with the importance of family that results
+in the birth of numerous children, should have indicated to the FMB that decreasing the intensity
+of hunting is a more complicated issue than simply supplying meat from somewhere else.
+Although Hill explores the economic reasons for the failure of this project, what role do Ache
+ideologies and religious beliefs play in their motivation for hunting? This question, like those
+mentioned above, probably has a large bearing on the environmental decisions that these
+individuals make, and the subject can only be explored through true ethnographic research
+among the Ache.
+Despite these drawbacks, Hill's study is rich in detail and filled with information about
+the relationships between ENGO's and indigenous people. We see all of the conflicts discussed
+
+38
+
+in the second part of this paper: ideological differences, misguided assumptions, and conflict as a
+result of differing definitions of ideas related to conservation. Nonetheless, this article is unique
+among those presented here for clearly illustrating the complex nature of the last of the conflicts
+described in Part II: the economic issues associated with conservation. The economic system of
+the Ache should, according to Western theory, lead to the Tragedy of the Commons, which in
+some cases it did. However, although many economists suggest granting private property rights
+to combat these issues, among the Ache this method only served to worsen matters when it came
+to the disposal of formerly community-owned timber. As a result of observing this process of
+trial and error, Hill suggests that collectively owned resources managed by elected
+representatives are the solution; and yet perhaps a private property approach would have worked
+better in the pig example. Economic solutions are rarely as simple as substituting one economic
+strategy for another. In this case a combination of economic approaches would have been best,
+but it would be folly to assume that this same strategy would work for a different indigenous or
+local group.
+
+CASE STUDY #2: THE CALAKMUL BIOSPHERE RESERVE, CAMPECHE, MEXCIO
+A second example of the relationships between local people and ENGO's comes from the
+Calakmul Biosphere Reserve, a conservation area established by the United Nations Education,
+Scientific and Cultural Organization (UNESCO) in the State of Campeche in southern Mexico.
+In an ethnographic study, Kristin Cahn von Seelen analyzes the discourses of various local and
+national shareholders in conservation. She hypothesized that when groups of people experience
+conflict over the use of resources, they disagree about not only material concerns but also
+metaphorical constructs like worldview and way of life. Cahn von Seelen's methods emphasize
+"observing what people do ... listening to what people say ... and considering how people say what
+
+39
+
+they say" (2004: 14), and her philosophy stems from the observation that conservation cannot be
+implemented while dismissing the cultural and social history of the local population. Through
+the analysis of interviews, informal conversations, official speeches, life histories, folktales, and
+community meetings oflocal inhabitants, environmental and developmental policymakers, and
+field-level policy implementers, she makes several conclusions about the relationships between
+these groups and suggests that her methods provide a new and useful tool for understanding
+resource-use conflict.
+
+YUCATAN HISTORY AND THE CALAKMUL BIOSPHERE RESERVE
+Early visitors described the Yucatan Peninsula in southeastern Mexico as wild, sparsely
+populated by indigenous peoples, and inhospitable to foreigners until around 1970, when a wave
+of new national policies encouraged subsistence farming among indigenous communities. These
+visitors failed to see what archaeology and historical ecology later told us: that area of Central
+America had once harbored the Mayans, one of the greatest civilizations in history. Moreover,
+the region was far from "wild" and had in fact been modified by humans for thousands of years.
+In the centuries since the collapse of the Maya states and later the Spanish conquest, the Maya
+endured several rounds of forced migration, resulting in an amalgam of ethnic Mayans in
+southern Mexico speaking different languages and harboring racial prejudices against each other.
+The complex and brutal history of Mexico as a whole did not exclude this region. In the 19
+
+th
+
+century, the Yucatec Mayans of the northern peninsula violently reclaimed the eastern and
+southern parts of the Yucatan, making what is now the State of Quintana Roo hostile territory to
+non-Mayans and Mayans at peace with the Mexican government until the early 1940's. In that
+era, the government established the ejido system of land tenure, under which lands are
+communally owned but individually farmed in family plots.
+
+40
+
+Throughout the latter part of the 19 th century and well into World War II, many primarily
+foreign powers holding chicle and lumber concessions provided wage labor opportunities for
+thousands of peninsula inhabitants, half of whom were employed in the extraction of forest
+products by 1940. These concessionaries, the jobs they provided, and the tradition of intensive
+forest exploitation that they established profoundly impacted the social, economic, and
+environmental conditions in the states of Campeche and Quintana Roo. In areas where human
+habitation had previously been solely seasonal, the extraction companies found it worthwhile to
+create permanent settlements for their migrant workers connected by their roads and railroads.
+Three decades later in the early 1970's, the Mexican government's pro-settlement
+legislation instituted land reforms favoring subsistence farming and the ejido system of land
+tenure, which officially restored territories to peasant and indigenous farmers. These policies,
+which essentially proffered free land in the Yucatan region, were partly geared toward the
+settlement of lands in the south of the country, which would help to solidify the border with
+Guatemala. As a consequence of this political encouragement as well as instability and violence
+in the nearby State of Chiapas, a steady influx of immigrants began to enter the region starting in
+the 1970's and continuing through the end of the century. This immigration, primarily from the
+Chol- and Tzeltal-Maya speaking parts of the State ofChiapas, has resulted in the establishment
+of approximately 70 villages in and around the Calakrnul Biosphere Reserve established in 1993.
+More recent international policies that encourage conservation in this region have clashed
+with earlier policies emphasizing settlement and farming, creating the conflicts that form the
+basis of this case study. These international efforts receive financial support from a variety of
+privately funded organizations including the Funds for Natural Protected Areas and the Global
+Environment Fund as well as Mexican and foreign ENGO's working within its boundaries.
+
+41
+
+These include the United States-based Conservation International, the Canadian Bosque Modelo,
+and the Mexican ProNatura, Naturaleza Compartida, and BioCensis A.C. The majority of the
+funding for the Mexican ENGO's is also foreign, coming from private international foundations
+and individuals.
+Mexico's National Institute of Anthropology and History in 1989 first proposed the
+Calakmul Biosphere Reserve to protect the many archaeological sites in the area, which was
+officially designated in 1993. Established under UNESCO's Man and the Biosphere Program,
+the reserve was one of356 similar conservation areas whose purpose was to "promote solutions
+to reconcile the conservation of biodiversity with its sustainable use" (Cahn von Seelen 2004: 9).
+The reserve is composed of 723,000 hectares, but today only 5% of that is pristine or high
+tropical forest, with 50% more in secondary growth. These densely forested areas are the core of
+the reserve that is farthest from the roads; most of the area around these highways has been
+cleared for agriculture and cattle ranching.
+Zoh Laguna, the village with about 1,000 inhabitants in which Cahn von Seel en
+conducted most of her research, is near the eastern border of the State of Campeche. The
+population consists mainly of Yucatec and Chol Maya, who mutually dislike one another; the
+Chol Maya are considered to be "invaders" by the Yucatec Maya despite historic and prehistoric
+evidence demonstrating their previous occupation of the area and subsequent relocation by the
+Spanish conquistadors.
+CONSERVATION AND THE CALAKMUL REGION
+According to Cahn von Seelen, the area of Zoh Laguna "was an ideal place for observing and
+interpreting the dynamics of a cross-cultural resource-use conflict, because it is the center of a
+region that has garnered considerable attention from national and international organizations
+
+42
+
+over the past 20 years" (2004: 10). During this time, the previous immigration-friendly ethic
+collided with the more recent conservationist ethic supported by both the government and
+various environmental activist organizations.
+Governmental support for conservation in the area comes from two different powers: the
+Calakmul Biosphere Reserve staff, which educates local people about fire prevention and the
+environment and regulates activities within the reserve, and the Tourism Secretariat, which has a
+permanent office in Xpujil, a town 10 km from Zoh Laguna. This group works to promote the
+production and sale of Mayan handicrafts as well as to establish the beginning of a tourism
+industry, building tourist destinations and training the locals in the hospitality expected by
+tourists.
+Two main conservation organizations, the Canadian NGO Bosque Modelo and the
+Mexican ProNatura-Peninsula de Yucatan, A.C, operate in the reserve. Although the approach
+of conservationists in the beginning tended toward absolute prohibition of forest clearing, the
+actions of community residents has forced them to adopt a sustainability approach. While on
+rare occasions inhabitants resorted to violence to achieve this end, their more common rebellions
+have been acts of civil disobedience. Because of the subsistence economy and isolated
+geography of the area, environmental resource use policies are difficult to develop and nearly
+impossible to enforce. Community members come to meetings held by conservationists, nod
+their heads and feign assent, only to return home and simply continue practicing whatever land
+use strategies they employed before. This tendency of inhabitants to react against or simply
+ignore initiatives that do not interest or benefit them has forced conservationists to take local
+needs and desires into account when developing programs and resource use systems.
+
+43
+
+In the l 990's Bosque Modelo attempted to support conservation in the area by promoting
+ecotourism, building a guest house for tourists, an activities center, and a "nature path" complete
+with ecologically informative signs and two captive jaguars. However, by the time the author
+arrived in 1998, this program had been largely abandoned and its constructions rarely used and
+overgrown. Although the NGO planned to revamp this project, its status at the time of the
+author's experience was illustrative of what has been called the "boom and bust cycle" of both
+conservation and development programs, which suffer from gradually decreasing funds and
+problems with financial resource allocation. These rather temporary projects, according to Cahn
+von Seelen, "might be more aptly dubbed 'initiatives,' for there always seem to be new ones
+beginning" (2004: 22).
+The Mexican ENGO, ProNatura-Peninsula de Yucatan, has implemented a wider array of
+projects and experienced a greater measure of success. Over the last ten years, this
+organization's conservation attempts have included medicinal plant workshops, educational radio
+programs, a program encouraging composting and gardening among community women, and a
+program establishing local organic apiculture. Cahn von Seelen credits the reasonable success
+among these programs to the fact that ProNatura learned over time to create and implement
+projects of direct economic benefit to the community. The organization also directly involves
+community members, employing them as both paid staff and environmental consultants.
+The author attributes the failure of ecotouristism initiatives to the lack of local
+infrastructure as well as to the fact that the presence of such an infrastructure would make the
+community inherently a less desirable destination for ecotourists. She also hypothesizes that the
+local population, mostly subsistence farmers by tradition, are interested more in preserving their
+traditional way oflife than in making money. They have little interest in service sector jobs,
+
+44
+
+which according to their friends and family pay next to nothing, and they have seen ecotourism
+programs fail in areas around them.
+Cahn von Seelen notes that although conservationists and government officials stress the
+development of a conservation ethic among local people, such an ethic already exists. She
+suggests that any recent failure of local inhabitants of the Calakmul region to use their resources
+conservatively stems from one of two main causes. The first is the presence of strong economic
+incentives for community members to garner short-term profits from cash crops or unsustainable
+logging. NGO field representatives especially cite this problem. The second is that local
+community residents are resisting conservation as an embodiment of further assimilation into
+Western culture.
+
+THE SHAREHOLDERS
+Cahn von Seelen's main goal is to understand "where people are coming from" (2004: 27),
+historically, culturally, intellectually and ideologically. True to her hypotheses that (I) resourceuse conflicts have a metaphorical dimension as well as a material one and (2) analyzing formal
+and informal discourses on the subject ofresource use can provide useful information to policy
+makers, policy implementers, and local community members, Cahn von Seelen examines the
+way these shareholders talk about issues related to conservation, starting with the creators of
+environmental resource use policies.
+
+Policy Makers
+While exploring how environmental policy is formulated, Cahn von Seelen examines an
+interview with the founder of Mexico's ENGO ProNatura-Peninsula de Yucatan A.C., an
+interview with the Director of the Calakmul Biosphere Reserve, and a speech delivered by the
+Governor of the State ofCampeche. Prominently featured in all accounts is the perspective
+
+45
+
+gained from flying over the Yucatan area, or seeing satellite pictures. This opportunity allows
+individuals to see firsthand the amount of deforestation that has been perpetuated, and as Cahn
+von Seelen notes, this experience usually has a profound impact upon those who are able to have
+it, informing and strengthening their views about nature. However, this privilege is not available
+to the whole population; as the anthropologist expresses, "the view from above not only has a
+powerful effect on those who command it; those who command it are themselves powerful"
+(Cahn von Seelen 2004: 33). Because such a unique perspective is afforded only to the rich, this
+group of shareholders has almost exclusive access to it.
+The author's interview with ProNatura's biologist founder, for example, features an
+account of her first trip to the Yucatan in the 1960's and her impression of the forest as she flew
+over it. By comparing this account to those of author and journalist Graham Greene and cultural
+anthropologists Xochitl Leyua Solano and Gabriel Ascencio Franco, Cahn von Seelen
+illuminates the differences between accounts of people primarily concerned with social or
+cultural issues from those of people chiefly concerned with environmental issues. Through this
+analysis she comes to the conclusion that '"nature' is what we project onto it, a mirror for our
+allegiances and our times" (Cahn von Seelen 2004: 85). This observation serves to strengthen
+the author's opinion that different groups of people have different ideas of nature, and each uses
+its own view to support and promote its traditional or ideal way of life.
+Next the Cahn von Seel en examines a speech given by the Governor of the State of
+Campeche to the campesinos of the Calakmul region at the Town ofZoh Laguna. The speech
+concerned sustainable development: past successes, future imperatives, issues and concerns.
+Three themes emerged: "ownership of resources; a tension between citizens as clients of, versus
+citizens as partners with, the government; and the linking or distancing in space and time of
+
+46
+
+responsibility, blame, authority, power, benefit, and credit to the government and/or to the
+citizenry" (Cahn von Seelen 2004: 93). Cahn von Seelen concludes that the speaker walks a fine
+line rhetorically, and metaphorically he is addressing a way of life different from his own which
+is ultimately at odds with his. He implies that the subsistence farming way of life is neither
+ecologically nor economically sustainable. His speech, therefore, is ambivalent: delivered to
+farmers, it tries to assimilate them into a political agenda that no longer includes their way of life,
+suggesting that the frontier area that is their home is open to one kind of development but not
+another. She concludes:
+.. .Many paradoxes that arise in his speech - between development and conservation, shared
+patrimony and restricted access, plenty and scarcity, future and past - reflect an ongoing
+ambivalence about the region's place in Mexico's social, political, and economic fabric, that is
+
+complicated by its designation as a site of global ecological import. [She] ... found that what is
+explicitly a discussion by a representative of a currently dominant culture of problems such as
+illegal woodcutting contains deeper concerns about the loss not only of trees, but also of that
+culture's particular way of life (Cahn von Seelen 2004: 106).
+
+Finally Cahn von Seel en discusses an interview with the then-current Director of the
+Calakmul Biosphere Reserve. The director emphasized both the satellite images of the region he
+commissioned and the fact that they came from Stanford University, a respected American
+institution. In this discourse, four different themes emerged: giving credit and blame for
+resource use and misuse; the local conflict between conservation and development; the concept
+of adapting to rather than assimilating a conservation ethic; and the emergence of the "Calakmul
+generation" born in the region to immigrants. The metaphor in this case is the idea of this
+generation: the director hopes it will be a "greener," more sustainable, more ecologically friendly
+group of people, a step in a different direction for the inhabitants of the area.
+Overall, while those with the most power to affect change within the Reserve and its
+surrounding community both talk about sustainability, the crux of their message seemed to be
+
+47
+
+that "the rainforest is imperiled, and that it must be saved from technocrats from outright
+obliteration by peasants" (Cahn von Seelen 2004: 88).
+Field Representatives: Policy Implementers
+Next Cahn von Seel en relates the details of the time she spent with field representatives
+employed by locally active ENGO's, those indomitable individuals in charge of actually
+implementing projects. She accompanied three representatives of different ENGO's on field
+visits in the area, each in the course of implementing or following up on conservation-based
+projects. One additional farm she visited on her own.
+During her first foray into conservation fieldwork, Cahn von Seelen accompanies Johan
+Junge, a German doing summer volunteer work for a Chaipas-based ENGO named Na Bolom.
+This organization focuses more on humanities and social issues than the environment: they wish
+to renew pride in ancient traditions among contemporary farmers, hopefully restoring the use of
+sustainable agricultural practices in the bargain. Junge and Cahn von Seelen visited a "milpa" or
+farm under the ejido system, where Junge gathered information for a photographic exhibit that
+his organization was mounting at a local Cultural Center. They walked around the large farm,
+learning from the farmer about his practices, observing his work, and getting an impression of
+what his life is like. Cahn von Seelen is careful to note the different restrictions and expectations
+applied to her because she is a woman: because women never go into farms alone or with a
+farmer, she must always be accompanied on these visits, usually by NGO fieldworkers,
+ecologists, biologists, or families going for the day. She dressed conservatively to avoid
+attention and increase the probability that the subjects of her ethnographic study would take her
+seriously.
+
+48
+
+I
+I
+I
+I
+I
+I
+I
+I
+I
+I
+I
+I
+I
+I
+I
+I
+I
+I
+
+that "the rainforest is imperiled, and th'
+
+1
+, '
+
+technocrats from outright
+
+obliteration by peasants" (Cahn von S
+
+Field Representatives: Policy Imp!~
+Next Cahn von Seelen relates the detiH
+
+field representatives
+
+employed by locally active ENGO'
+implementing projects. She accomi'
+
+£different ENGO's on field
+
+visits in the area, each in the course,(!f
+
+up on conservation-based
+
+projects. One additional farm she vis'
+During her first foray into cbn
+
+Seelen accompanies Johan
+
+Junge, a German doing summer volu
+This organization focuses more on hu
+
+. the environment: they wish
+
+to renew pride in ancient traditions
+
+qpefully restoring the use of
+
+sustainable agricultural practices int
+
+j:i Seelen visited a "milpa" or
+
+farm under the ejido system, where J
+
+lphotographic exhibit that
+
+his organization was mounting at a Io
+
+"cl around the large farm,
+
+learning from the farmer about his pr
+what his life is like. Cahn von Seelen
+
+strictions and expectations
+
+applied to her because she is a woman
+farmer, she must always be accompan'
+ecologists, biologists, or families goin
+attention and increase the probability
+
+hie study would take her
+
+seriously.
+
+48
+
+Cahn von Seel en's next fieldwork experience is in the company of a woman - - -'"'¥
+representative from ProNatura-Peninsula de Yucatan working on a gardening nr,,i,,;h
+local women in the community of La Guadalupe, the designer and former coordinator
+-_-_- was on maternity leave. She joins Delia in helping a local woman plant chiles and cila
+in conducting an orientation meeting for the front-yard gardening project. Over the c
+
+> this day, Cahn von See\en observes several potential problems in conservation imp le
+First, she notes the interesting cultural tendency of Mexican people to avoid confronti
+
+\'./:/,-:---_,,
+
+<
+
+\,_ibontradicting others, especially visitors to their land. Through several similar experie_-_'
+<
+
+Seel en concludes that "what sometimes seemed curious behavior to [her] was b
+\}J,cies1reto facilitate social interactions and to maintain personal dignity" (2004: 152).
+Jfuit0c1~0UlS as this behavior seems, it means people are not forthcoming with what th
+
+I
+I
+I
+I
+I
+I
+I
+I
+I
+I
+
+information, and occasionally they respond to questions with the ans
+
+their guests feel good about being where they are and doing what they are doi
+von Seelen 2004: 152). These behaviors can be misleading and lead fieldworkers to
+misinformation. In addition, the meeting the author attended was fraught with misun
+First, the timing unknowingly overlapped with another community meeting, a fact of
+Delia was not apprised until a few hours before the meeting was scheduled to begin,
+the gardening meeting being postponed. Next, the gathering of local women, althou
+cordial, failed to understand exactly what the project entailed. They were "accustom
+receiving something" (Cahn von Seelen 2004: 160) from "projects" implemented by
+which usually involved a grant of money, or at least supplies for whatever activity th
+wished the community to undertake. Additionally, in the past women had stated, i
+
+I
+I
+
+I
+I
+I
+I
+I
+I
+I
+I
+I
+I
+I
+I
+
+I
+I
+I
+I
+I
+
+explicitly, that in general if they did not receive money for doing something the conservationists
+wanted , they did not comply; and the failure of many projects in the area demonstrates that
+sometimes even if they were paid, it failed to motivate them for any extended period of time.
+Also, they were accustomed to such projects receiving enthusiastic outside support in the
+beginning, only to have that support wane with time. Representatives would simply fail to come
+back after a while, probably contributing to the community's reluctance to continue with project
+implementation on its own. Although frank discourse between the community women and Delia
+resolved the issue of what the women would and would not receive in the course of the project,
+they clearly harbored mistrust for conservation projects and, as an extension, the individuals in
+charge of implementing them.
+With Dave Green, an American cartographer following up on volunteer work he had
+done for ProNatura-Peninsula de Yucatan, Cahn von Seelen conducted her last experience in
+conservation fieldwork. She and Green visited two different ejidos, looking over the apiaries
+that they had developed to sell the organic honey in such high demand in the United States and
+Europe, an important and relatively easy addendum to subsistence farming that could help
+support local families. ProNatura had implemented a project with the goal of showing farmers
+that they could improve their honey by having increased melliferous tree diversity on their farms,
+and Green had returned to assess the results of this project. He and Cahn von Seel en discussed
+with the farmers how the honey is produced, what prices were like, and how they kept it from
+becoming contaminated with pesticides and other chemicals, which the European market would
+not tolerate. The farmers' words and actions supported the conclusion that they actually believed
+the chemicals to degrade the honey- a new ideological development in the community - and
+that many farmers had ceased fumigating their hives with this in mind.
+
+50
+
+I
+I
+I
+I
+I
+I
+
+I
+
+In all these accounts, Cahn von Seelen stresses just how difficult and time consuming
+simply getting from place to place can be. Most of the locations fieldworkers visit are difficult to
+reach. She provides details about washed-out, unpaved dirt roads; cars with little suspension that is, ifthere are functioning cars to be used at all; and the vast distances and time
+commitments involved if one is to visit a substantial portion of a community and observe their
+agricultural practices. Unlike many evaluators of conservation projects who simply criticize the
+shortcomings of project implementation, Cahn von Seelen sheds light on the obstacles involved
+and the reasons why project execution might experience difficulties at the field level.
+Local Community Members: Living With Policies
+
+I
+
+I
+I
+I
+I
+I
+I
+I
+I
+I
+I
+I
+
+Saving the local perspective until last, Cahn von Seelen uses interviews, informal conversations
+and personal histories to explore the history of immigration to the area, the implications this has
+for policy, the social stratification within the community, and local perspectives on conservation
+and Western thinking.
+The history of the Town of Zoh Laguna, as described above, involved a primary influx of
+settlers to work in the sawmill, and later a continuous trickle ofrefugee-like immigrants fleeing
+from environmental, social, and political upheaval in their native state. Because of their
+traditional familiarity with wage labor, the author notes that the first immigrants to the area are
+more amenable to the idea of conservation and the ecotourism industry it frequently entails. The
+later immigrants, subsistence farmers by tradition and philosophy, are more apt to resist
+conservation and ecotourism as a metaphorical consumption and elimination of their worldview
+and way of life. Cahn von Seelen expresses her view that the conservationist worldview, and
+that of the first immigrants and wage laborers, is one in which consumption is not actually
+decreased, but rather it entails a way of life that incorporates "displaced resource consumption,
+
+51
+
+or consumption of gasoline and electricity whose deleterious effects on the environment are not
+nearly as apparent as those of deforestation, because the oil refineries and power plants are
+elsewhere (out of sight and, therefore, out of mind)" (2004: 203).
+A social gap exists between the primary and secondary immigrants to the area. The most
+superficial facet of this gap is racial: the primary immigrants were largely Yucatec Mayans, and
+they look upon the more recent Chol-, Tzeltal-, and Tzotzil-Mayan immigrants as racially
+inferior invaders, although this opinion rarely entails anything as radical as violence. The other
+feature of the social gap is more demographic in nature: the first immigrants to Zoh Laguna came
+for the booming logging industry, and they remember a time when the community was
+prosperous, the houses were painted, all the children had proper clothes and shoes. Now they
+mourn the lack of jobs, struggling to make ends meet and working to allow their children to
+move to other places with more available employment. On the other hand, the secondary
+immigrants, the subsistence farmers fleeing from a life in which they had virtually nothing, see
+the village of Zoh Laguna as it is now as paradise: they have land, they have relative security,
+they can grow their own food and live as did countless generations before them. Interestingly,
+the primary immigrants blame the immigrant subsistence farmers, rather than the logging
+industry, for the current deforestation crisis.
+Much of the local population, especially the portion that survives by subsistence farming,
+strongly resists the efforts of conservationists to curb their use of land. To them, these efforts are
+hypocritical: the government encouraged them to move to the area, or they arrived there with
+nothing as refugees. They feed their families; they do not take more than their share. What right,
+they demand, do foreign conservationists have to come in every once in a while and dictate how
+permanent residents of the region should use their land? Moreover, why do poor farmers in a
+
+52
+
+developing nation carry the responsibility for rectifying the global environmental problems that
+developed countries perpetuate? Why must they sacrifice their quality of life so that industries in
+the United States and Europe can simply continue to emit carbon? These questions are echoed
+by similar populations worldwide, and there is no viable answer for them.
+To conclude her examination of the local perspective on resource-use issues, Cahn von
+Seelen analyzes several folktales and one personal history gleaned from the Chol Maya
+immigrant community. This analysis leads to the conclusion that in every story, the concept of
+over-consumption is associated with moral deficiency. People who want more than their share
+of a resource are depicted as being socially destructive. Indeed, within the community the
+Western conservationists, rather than the farmers or wage laborers, are perceived as wanting
+more than their fair share, "tak[ing] everything [they] see" to fulfill some vague conservationist
+agenda; Cahn von Seelen, upon reflection, realizes that "excepting only the poorest of its citizens,
+the industrialized world appears to those not living in it as one, big orgy of acquisition" (2004:
+224). By analyzing the messages about Chol Maya culture contained in the folktales as well as
+the local metaphorical opinion of Western activists, the author concludes that local community
+inhabitants have an inherent cultural conservationist ethic based on each person taking his or her
+fair share. Thus their failure to comply with Western conservationist agendas suggests not a
+failure to adopt such an ethic but rather a resistance to assimilation into a Western way of life.
+
+CONCLUSIONS
+From her fieldwork, Cahn von Seelen draws several relevant conclusions about the relationship
+between local people, policy implementers, and policy makers with regard to resource use. One
+main points is the fact that conflicts over resource use are rarely simple questions of surviving
+and getting enough to eat, but rather a larger metaphorical dimension to these conflicts, with
+
+53
+
+each side defending an ideology and way of life. She stresses the need for conservationists to
+explore the possibility that local communities are resisting not conservation itself but rather a
+Western worldview. In line with this, Cahn von Seelen also suggests that tapping into whatever
+innate conservation ethic exists among the local population would be more profitable for
+governmental and non-governmental groups than trying to change community culture and instill
+such an ethic, possibly incurring the resentment and resistance of the locals.
+In regards to conservation implementation, she notes that the main lesson ENGO's have
+learned is to maintain constant presence in an area, checking on progress and addressing any
+problems that inhabitants experience. Without this regular support from field representatives,
+community members are likely to abandon the efforts necessary to make projects successful.
+Additionally, she observes that the only projects that have been truly successful are those that
+provide clear, direct economic benefits to the community.
+Cahn von Seelen emphasizes that to mediate resource-use conflicts and develop
+subsequent legislation, policymakers and conservationists need to understand where community
+inhabitants are corning from both materially and metaphorically. In her view, doing so entails
+examining all aspects oflocal perspectives, including history, discourse, and even the largely
+unexplored realm of folklore.
+ANALYSIS
+In general, Cahn von Seelen presents a thoughtful, perceptive and original work, rife with useful
+details and interesting insights. Her perspective, however, is that of an anthropologist, and thus
+more descriptive than prescriptive, leaving room for a number of conclusions and policy
+recommendations.
+
+54
+
+The relationships between ENGO's and the immigrant population are less strained in Zoh
+Laguna than they are among the Ache, and there is less outright conflict. However, we do see
+misunderstandings and mistrust in addition to the larger metaphorical conflict involving ways of
+life. Like the Ache, the population of Zoh Laguna is wary of conservation organizations, their
+aims, and their "boom and bust" cycles of project-implementation enthusiasm. In another
+parallel, conservationist goals are rarely stated explicitly to community members, nor is the
+nature of help offered immediately apparent to them. In this respect many of the common
+discrepancies discussed in Part II between ENGO's and community members are present,
+although their occurrence is more subtle and less explicitly stated than the conflicts between the
+Ache and the FMB.
+Despite the fact that ENGO's have experienced some success and that conflicts with the
+local population are not as dire as they could be, some aspects of the interactions between these
+groups could nonetheless be improved. The first glaring inefficiency in this relationship is that
+according to Cahn von Seelen, only one ENGO - ProNatura-Peninsula de Yucatan - enjoyed
+much success, and this with programs as simple as a front-yard garden project, after ten years of
+trial and error. Why did it take this organization so much time to determine what would work
+within the economic and social framework of the community, and why has the knowledge of
+ProNatura not been shared among all locally active ENGO's?
+This extended failure of the majority of organizations to determine what projects would
+work and how they should be implemented suggests that these ENGO's neglected to properly do
+their homework. Had any of the field representatives done research similar to Cahn von Seelen's,
+he or she would have stumbled upon some of the deeper conflicts that she revealed. For example,
+ENGO members frequently noted problems of overexploitation of forest resources, citing
+
+55
+
+connections to market economies and incentives for short-term gain as responsible. While this
+changing aspect oflocal culture is probably related to the destructive resource management
+strategies being perpetuated, this single-layered explanation fails to take into account Cahn von
+Seelen's discoveries: (1) an inherent cultural taboo on overconsumption, (2) a general lack of
+interest among subsistence farmers in making much money, and (3) the ideological resistance of
+local people in Zoh Laguna to assimilation by Western thoughts and practices. This discrepancy
+suggests that ENGO's are not correctly interpreting the ideas and drivers behind local decisionmaking, an egregious mistake when it comes to the development of policy. If conservationists
+do not understand why people act as they do, how can they hope to convince them to act
+otherwise? The knowledge of this incongruity sheds light on the reasons why many projects
+developed by ENGO's were more or less shots in the dark. The nature of these
+misunderstandings and their implications for the outcomes of conservation projects link this case
+study strongly with the previous one: in both cases the failure ofENGO's to perceive the deeper
+reasoning behind community social structure and decision-making led to frequently debilitating
+glitches in implementation.
+Contrary to the unintentional implications of many similar studies, however, the
+individuals carrying out conservation programs are not lazy, unintelligent, unperceptive or
+ineffective. On the contrary, the author's accounts suggest they do the very best they can.
+Unlike other evaluators of NGO-local relationships, Cahn von Seelen describes both the
+experiences of the local population and the experiences of field representatives for ENGO's.
+Through this seldom-seen lens we perceive the effort and obstacles involved in actually
+implementing policy: as a fieldworker one is hot and tired, going from house to house on foot or
+by unreliable car on bad roads, talking to people as likely to ignore what you say as to take it to
+
+56
+
+heart, trying to convince them of something you believe to be beneficial and right while they
+most often persist in ignoring the ostensibly divine light. Although doing so results in the failure
+of many conservation projects, it is relatively easy to understand why a field representative might
+cease visiting a community with previous frequency, particularly if funding runs out and he or
+she believes the project should be self-sustaining. It is not the fault of the field-level underling
+that his or her training might not have incorporated ethnography, ecology, or economics. Rather,
+the fault lies higher in the organization, with project planners who made unilateral assumptions
+about the resources that would be needed to address such problems.
+Finally, Cahn von Seel en experienced discrimination because of her gender. Among the
+Ache, Hill was accepted, respected, received with equanimity in his requests to accompany
+hunters, and approached when community members could not interpret the restrictions on their
+resource use. Cahn von Seelen, on the other hand, was obligated to modify her dress and
+behavior and to always be chaperoned on her forays onto farmlands. Farmers may not have been
+as frank or open with her as they would have been with a man, though this is speculation based
+on the knowledge that in few Latin American societies do men have great respect for women.
+Regardless, her and Delia's status as women severely restricted the actions that they were able to
+take and the people they were able to influence within the community. This very status, however,
+allowed them to do several things well: working with women in the garden, advising them about
+how to use their house and the surrounding area, and obtaining the depth of folklore and personal
+histories that Cahn von Seelen acquired would have been either difficult or impossible had the
+author or the field representative been men. In light of this observation, conservation
+organizations must think carefully about the type of project they are implementing, and what
+type - or gender - of person would be best suited to gather information about or execute it.
+
+57
+
+CASE STUDY #3: MONTEVERDE, COSTA RICA
+The last conservation case study is my own conducted in Monteverde, Costa Rica in the fall of
+2007 (Figure I). Having spent a number of months in the area before the study began, I could
+see that the conservation efforts there had been largely successful, with privately owned reserves,
+local and national ENGO's, a thriving ecotourism-based economy, biological research, and the
+lives of local people operating side by side with surprisingly few major problems. I also noticed
+that the Community of Monteverde was an incredibly eclectic one. This made me wonder how
+the different groups of people who composed that community had influenced the development of
+conservation there, and whether they played a part in creating its success. To assess the complex
+interplay of community elements I carried out a series of interviews with the ultimate goal of
+determining how local perceptions of conservation had contributed to the relative harmony
+between conservation efforts and community life. With this information I hoped to determine
+whether the structure of conservation in Monteverde could either serve as a model or provide
+recommendations for conservation efforts in other areas.
+
+MONTEVERDE HISTORY
+In keeping with national aims set stolidly on development, Costa Rican property law grants
+private property rights to an individual who clears an area of unclaimed virgin rainforest,
+creating farmland or making other "improvements" to it. Under this statute, the Monteverde area
+was colonized by Costa Rican subsistence farmers in 1915, who cleared much of the cloud forest
+habitat to make their living. They had developed a small community by the time that a group of
+Quakers from Fairhope, Alabama, arrived in 1951. Allured by Costa Rica's tranquility and lack
+of army, they bought a large tract of land and divided it into farms, leaving the highest, wettest,
+steepest part forested as a protection of their watershed. Over this patch of forest they
+
+58
+
+established an ownership group called Bosqueterno, S.A. (The Eternal Forest). Fulfilling their
+ultimate goal of becoming dairy farmers, they began the Productores de Monteverde, a dairy
+plant that still aids the livelihood of small-scale farmers in the area (Figures 2 and 3). Some of
+the Quakers were already familiar with soil and water conservation practices sponsored by the
+US government; these and the Quaker values that "encouraged conservation of natural
+resources" they brought to Costa Rica with them (Burlingame 2000).
+Throughout much of its history, Monteverde's remoteness from national and regional
+government seats gave it a self-sufficient mentality. Because government presence and decisionmaking were lacking, problems were solved through a series of local organizations and
+committees founded for that purpose. These organizations solved community issues through
+consensus .. That mentality persists to this day: by 1995, over 40 local problem-solving
+organizations were present (Burlingame 2000). However, problems in Monteverde still exist.
+Despite the establishment of a local government in 2002, disputes over the use of local resources,
+the development of the community, and waste management persist. Unfortunately the local
+government, like those in many developing countries, is often loath to enforce laws against
+wealthy, powerful, and well-connected community members.
+In 1972, the next big step in local conservation took place when Monteverde's first
+biological reserve, the Monteverde Cloud Forest Preserve (MCFP), was founded (Figure 4). Its
+establishment was largely due to the efforts of a biologist named George Powell, whose desire to
+preserve the disappearing forest in Monteverde led him to recruit the help of the San Jose-based
+Tropical Science Center (TSC), a national ENGO that is now the Reserve's owner, as well as
+various international conservation organizations such as the World Wide Fund for Nature. The
+
+59
+
+Quakers' Bosqueterno was added to the MCFP in 1974, when the Quakers leased it to the
+Tropical Science Center for protection and administration.
+In 1985, the establishment of the Monteverde Conservation League (MCL) by biologists
+with support from local residents added to the successes of conservation in the area. This group
+utilized both fundraising and debt-for-nature swaps, arrangements based on developing countries
+agreeing to protect certain areas in exchange for either a creditor forgiving some of their debt, or
+an organization buying that foreign debt at a discount. In this way the MCL acquired a section of
+forest bordering the MCFP, creating the Bosque Eterno de los Ninos (the Children's Eternal
+Rainforest) or BEN, the largest private reserve in Central America. Both the MCL and the MCFP
+created local environmental education programs, and the MCL also established a windbreak
+project, which involved both tree nurseries and education oflocal farmers. In addition to
+encouraging reforestation and relieving some pressure on adjacent forests, this program
+increased production on participating farms by increasing pollination, decreasing the harmful
+effects of wind, and decreasing soil erosion problems (Burlingame 2000) (Figure 5). The
+farmers, many of whom make their living by growing fruits and vegetables and selling to the
+local Fair Trade coffee co-op, were grateful for this improvement (Figure 6).
+Finally, a section of land bordering BEN was leased to the public Santa Elena High
+School (SEHS) by the Costa Rican government for a conservation project. In 1992 this land
+became the Santa Elena Reserve (SER), which is still administered by the high school. Together,
+these four private reserves today make up the majority of the 29,000 hectare Monteverde
+Reserve Complex (MRC) (Burlingame 2000) (Figure 7). None of the elements of this complex
+are extractive reserves. Each has a small portion that has been developed for biological study
+and ecotourism (paths, visitor centers, and research stations), but the majority of the reserve
+
+60
+
+complex is inaccessible to the general public and off-limits to hunting, harvesting, and other
+extractive endeavors. Guards employed by reserve owners (MCL, TSC, and SEHS) are
+responsible for prohibiting these actions as well as maintaining trail networks.
+A history of the Monteverde area would not be complete without a discussion of
+ecotourism. Through a series of scientific papers, books, and documentaries praising the area
+and its flora and fauna in the 1980's, worldwide interest was generated and tourists began
+trickling in. By the 1990's this trickle had become a flood of 50,000 tourists per year, and today
+this number exceeds 200,000 (Nadkarni and Wheelwright 2000). Monteverde's environmental
+richness and established reserves, coupled with Costa Rica's accessibility and ease of travel,
+contributed to the development of the tourist industry that now forms the economic foundation of
+the community and the country. This influx of tourists resulted in a boom of local development,
+turning the one four-roomed pension of the 1970's into the vast array of hotels, restaurants,
+stores, internet cafes, and tourist destinations that exists today (Grosby 2000). Many of the
+owners of these businesses have come from other countries to take advantage of the economic
+opportunities in Monteverde.
+In short, Monteverde is today an interesting amalgam of Quaker dairy farmers, foreign
+and Costa Rican business owners (Figure 8), subsistence farmers (Figure 9), wage workers
+employed by the tourism industry, and a community of biologists drawn to the rich ecology of
+the region, many of whom have inhabited the area for decades (Figure 10)).
+
+METHODS
+I set out to discover what community members thought of conservation, what it meant to them
+and how it intersected their lives. I hoped that this information would shed light on how the
+
+61
+
+opinions of these local shareholders might have contributed to, or perhaps inhibited, the
+formation of the vast reserve complex that now characterizes the area.
+To explore these local views and ideas about conservation, I decided to conduct
+interviews with local people. I assumed that opinions would differ between the different groups
+of shareholders; thus, a simple random sample of community members would not reflect the
+variety of personal histories and motivations that have contributed to the development of
+conservation in the area. Rather, in such a situation each group needs to be evaluated
+independently to create an accurate reflection of community sentiments (Jacobson and McDuff
+1998).
+With this in mind, I interviewed local shareholders in four of the five aforementioned
+groups: five Quakers, ten farmers, ten business owners, and ten biologists. Although the portion
+of the population that works in the ecotourism industry also plays a role in conservation, these
+four groups are the most likely to make decisions that affect change within the community. This
+data collection took place over the space ofa month during October and November of 2007. The
+Quakers' sample was restricted to the five original settlers who were still Monteverde residents
+at the time of sampling. Farmers were local landowners who had lived in the area throughout
+Monteverde's developmental stage, the decades during which the first reserves were established.
+Business owners were owners of local businesses that benefited in some way from the tourism
+industry. Biologists interviewed had lived or worked in Monteverde for an extended period of
+time and were present through the development of the community and the associated MRC.
+I contacted biologists and Quakers with recommendations and contact information from
+Alan Masters, a local biologist. Business owners were contacted with information from Alan
+Masters, with help and recommendations from Alexandra Rodriguez, a local resident and
+
+62
+
+Spanish teacher to foreign visitors, and by convenience sampling. Noe Vargas, a farmer and
+administrative worker for the local coffee co-op, recommended farmers to interview, and
+Geovanny and Cristina Leit6n, local farmers, provided their contact information. No one
+declined to be interviewed, but despite the assurances of various community members that
+owners of certain businesses were "always there," these owners repeatedly, on a variety of
+different days at different times, "couldn't be found," had ')ust left," or made an appointment
+and then simply failed to show up. I did not succeed in interviewing any such evasive owners.
+Interviews began with the acquisition of demographic information including name, age,
+profession, spouse's profession, education, and number of children. Questions were developed
+based on study goals, focusing on the individual's definition of conservation, the place of
+conservation in his or her life, opinions on the protection of additional land in the area, and
+perceived local problems relating to conservation or the environment (Appendix I). Each person
+was given the same core group of questions, regardless of position in the community; questions
+were primarily open-ended, and respondents were frequently encouraged to elaborate on their
+responses. Interviews were conducted in English or Spanish, depending on the respondent's
+preference, and most were recorded on a small tape recorder for future reference. Interviews
+took place in the respondent's home or place of business, and seven of the ten biologists
+completed the interview in survey form over email.
+
+RESULTS
+Because the responses to some questions were combined by respondents, only three categories of
+data emerged from the interviews: definitions of conservation, views regarding the protection of
+additional land in the Monteverde area, and perceived community problems relating to
+conservation and the environment.
+
+63
+
+Demographic Information on Shareholders
+The five Quakers had an average age of 77, with a spread from 74 to 83; all of them completed
+high school, and one completed one year of college. Four spent the majority of their lives being
+farmers and stay-at-home wives and mothers; one man had had a variety of jobs, from farmer to
+clerk and distributor for the Cheese Factory. All were born in the United States.
+The ten farmers had an average age of 53, with a spread from 37 to 73. Education ranged
+from none to the completion of high school, and the majority completed primary school or high
+school. Farming was the main occupation for all but one, who also worked at the Cloud Forest
+School, a local environmental-education based K-12. The majority had wives who did not do
+wage labor but were instead occupied with domestic tasks. All were born in Costa Rica, many of
+them in San Luis, a largely agricultural community near Monteverde where they still live.
+Business owners were 43 years old, on average; these ages ranged from 28 to 70, with the
+majority (n=8) in their 30's and 40's. Four completed college, five others completed high school,
+and the man with the least education completed three years of high school. Interestingly, six of
+the owners interviewed were not born in Costa Rica; their countries of origin included the US,
+Israel, Colombia, Germany, and Algeria. Five of the businesses whose owners consented to be
+interviewed were hotels; three owned restaurant/bars and two owned stores. Unfortunately, of
+the large, expensive hotels in the Monteverde area, only one owner consented to be interviewed
+(Hotel Montana, Appendix II).
+Biologists had an average age of 52, with a spread from 45 to 67. Eight often were born
+in the United States and eight completed at least their PhD; one completed a B.A. and the last
+completed a Masters in biology. Two were born in Costa Rica. Although only five of these
+
+64
+
+individuals make their homes in Monteverde, four of the remaining five are landowners who
+spend part of their time there, and the remaining one lives in the city of San Jose.
+Definitions of Conservation
+In all cases, a definition was more than just the simple explanation of a word. Most people
+"defined" conservation by enumerating environmental elements that should be protected, and
+many included what they did personally to conserve, even before explicitly asked. Across all
+groups, definitions of conservation were largely utilitarian, with each individual emphasizing the
+elements that pertained most to their job or subsistence method. Definitions within groups were
+largely similar, while the dominant definition in any one group was, overtly or subtly, different
+from those of the other groups (Table 3.1).
+In their personal definitions of conservation, four of the Quakers discussed the protection
+of water sources or natural resources (Table 3.1). During further discussion on the subject they
+made clear that this sentiment was related to farming; all talked about conservation in terms of
+conserving nature to sustain people in the future, explicitly or implicitly by making farming
+possible for future generations. Three perceived tourism as beneficial for the forest, and one
+perceived tourism as negatively impacting the environment. One reiterated the sentiments
+expressed in Burlingame (2000) that Quaker religious values advocate the protection of nature.
+Although their definitions of conservation were also related to farming, local farmers
+talked more in terms of trees than water (Table 1). All farmers talked about forests in their
+definition of conservation, and nine mentioned reforestation and planting trees as something they
+do individually to conserve. Additionally, farmers generally included other factors important to
+farming, such as clean water, good soil, and clean air. Seven also brought up animals and/or
+birds in their definitions of conservation. All farmers discussed how much of the area used to be
+
+65
+
+deforested, contrasting it to the amount of forest cover now. Several noted that their fathers and
+grandfathers did this because they did not know any better. Although only three farmers
+mentioned the Monteverde Conservation League's efforts to educate farmers about animals,
+plants, and planting native trees for windbreaks, most spoke proudly about their windbreaks as a
+contribution to conservation.
+Business owners had a markedly different perspective on conservation. All spoke about
+conservation and the environment in all-encompassing, global terms. Although many included
+references to elements like clean air, clean water, and forests, they did not talk about them as
+though these things immediately impacted their livelihood; rather, they mentioned them in the
+context of vague, less specific and large-scale necessities such as "maintaining earth," "saving all
+parts of the planet," and "lengthen[ing] the life of the earth" (Table 3.1). Their contributions to
+conservation for the most part consisted of individual, everyday actions applied in their
+households and businesses, including recycling, creating as little waste as possible, and
+separating trash. Five respondents spoke of tourism in their definitions, and two discussed
+conservation as something that needed to be balanced with business and making money.
+Incidentally, these two were both hotel owners, one of which being the largest and most
+expensive hotel I was able to interview. This man, in addition, was the only one of 35
+respondents to say that conservation was not a part of his life, saying there was nothing that he
+could do. This singular case, as well as the evasiveness of the owners of additional expensive
+hotels when solicited for interviews, could suggest that the owners of large, extremely profitable
+enterprises that take advantage of ecotourism might have different ideas and perspectives than
+small business owners.
+
+66
+
+Biologists, unsurprisingly, generally contributed much longer, more involved answers to
+questions of defining and contributing to conservation. Their definitions were remarkably
+systematic: seven mentioned the protection of biodiversity in their definitions, and nine
+mentioned the protection of natural resources or ecosystem functioning (Table 3 .1 ). Eight talked
+about teaching, researching or writing papers in their contributions to conservation; all expressed
+conservation as a part of their daily lives. Actions like recycling, trying not to overconsume, and
+carpooling were repeatedly noted; as one biologist said, "I keep my footprint fairly small" (B.
+Haber). Additionally, three have limited their family sizes in part to avoid contributing to
+overpopulation.
+One sporadically expressed aspect of the need for conservation was the non-utilitarian
+idea that nature should be conserved because it is beautiful, because it has a right to be there, or
+because it has an inherent value. This idea was expressed by two Quakers, five farmers, two
+business owners, and five biologists.
+Occasionally expressed in the discussion of conservation was the idea that without the
+biologists or Quakers, conservation might not have taken such a hold in Monteverde. Three of
+the Quakers expressed the idea that biologists started conservation in the area; one even
+recounted his initial feeling that a reserve would not work and that the biologists were wasting
+their time. One hotel owner expressed her opinion that the Quakers began the conservationist
+feeling in the area, and one farmer felt strongly that without the presence of the Quakers and the
+biologists, deforestation for local farming would have continued at its former devastating rate. In
+his words, "if it weren't for conservation, if visionary people hadn't existed who started to work
+very hard with people, I don't know what would have happened to Costa Rica. At one time it
+was in first place among Central American countries for deforestation" (G. Lobo).
+
+67
+
+Additional Protection
+All Quakers, four business owners, and seven farmers thought that enough land in the
+Monteverde area was already protected, although one Quaker and one business owner who said
+yes mentioned the need for corridors to link the Monteverde reserves to other areas. Although
+they thought that enough land had been conserved, many of them expressed pride in the fact that
+so much land in the area was protected, talking about how much more land in Monteverde is
+protected than in other areas, as well as how much more land is forested and conserved now than
+it was in past generations. Of the nine people in these three groups who thought that more land in
+Monteverde should be protected, four business owners and one farmer thought that the
+government should take responsibility for protecting it, and two farmers and two business
+owners thought it should be "everyone's responsibility," although they could not clarify what
+they meant (Table 3.2). Although all of the reserved land in Monteverde is privately owned, no
+one in these groups mentioned that conservation organizations should take responsibility for
+conserving more land.
+Biologists were a different story. None thought that enough land in Monteverde was
+protected, and instead of answering vaguely that "more" should be conserved, each had definite
+ideas about what should be protected. The Pacific slope and wildlife corridors were mentioned
+more than once; elevational gradients and specific forest types were cited as well. In addition,
+seven expressed additional conservation as a necessity rather than something that simply should
+be done. Four thought that this expansion of protected area should be the responsibility of the
+local or national government, while the other six thought that individuals or conservation
+organizations should shoulder the load (Table 3 .2). One pointed out that although in the past
+conservation has been the work of biologists and conservation organizations, now the local
+
+68
+
+government should have the responsibility to fulfill conservation goals after biologists point out
+the need.
+
+Perceived Problems
+The environmental problems perceived to be most immediately important in Monteverde varied
+little between groups. The most commonly cited problems included, in order of frequency,
+progress and unplanned development, water issues (pollution, disputes) and waste management
+(Table 3.3). Although the vast majority of people in all groups noted one or more of these
+dilemmas, other problems were occasionally mentioned. Interestingly, only one farmer and one
+hotel owner brought up chemical use on farms as a problem; the rest of the farmers mentioned
+chemicals neither as a problem nor as an issue related to conservation, and they discussed their
+chemical use only when directly asked about it. Three biologists talked about global warming as
+a major problem, although they also mentioned that it has no local solutions. One business
+owner expressed his opinion that there were not enough tourists visiting the area.
+When discussing the three dominant problems, respondents either had no solution
+suggestions or thought that the local government should deal with them. Although they often
+suggested that individuals could do their part by decreasing consumption and waste production
+or treating their water instead of simply dumping it in the river, these recommendations were
+most frequently couched in the opinion that the government had the ultimate responsibility.
+Most talked about things that "people" should do. When questioned about the identity of these
+"people," respondents implicated other business owners, farmers, or inhabitants of Monteverde.
+Although the problems that the biologists discussed were largely the same as the
+problems cited by other groups, their perspective was different. As in other groups, they noted
+crowding, lack of planning, and water problems; however, unlike other shareholders, eight either
+
+69
+
+directly or indirectly implicated tourism as the ultimate cause of the majority of environmental
+problems in the area.
+
+DISCUSSION
+These data lead to a variety of conclusions on both a local and a global level. Definitions of
+conservation, perceived problems, and views on future conservation efforts in Monteverde
+differed depending on shareholder grouping. The data as well as the differences between groups
+suggest possible solutions to community problems, the probable future of conservation in the
+Monteverde area, and overall conclusions about the history, success, and duplicability of
+conservation in Monteverde.
+
+Possible Solutions to Community Problems
+Although the mentality of solving problems locally persists in Monteverde, a committee of
+people cannot force their neighbors to comply with local laws. Respondents' repetitive
+recommendations for what "people" should do suggest that many local residents see clearly what
+should be done in the community, but they are unable to enforce compliance. The situation
+speaks of the need for a strong local government to respect laws and provide leadership in
+planning, one capable of both creating laws and enforcing them. This government would be
+capable of implementing zoning laws, which would be nearly impossible for a committee to
+enforce, but which were highlighted by many of the community shareholders as an immediate
+necessity due to the unbridled growth of tourism. Local government could initiate more
+effective waste management techniques, hopefully both reducing waste production and dealing
+better with its disposal.
+However, as the biologists realized, the problems that Monteverde is experiencing are
+symptomatic of a community that has grown too large for its own health, and the ultimate cause
+
+70
+
+is tourism. Without the recent population explosion and development associated with tourism,
+these issues would have remained on a small enough scale to avoid many current environmental
+problems. As several people noted, the ultimate answer may be to limit, or at least to plan more
+effectively, tourism and its associated development. In addition, education oflocal people could
+successfully encourage them to minimize their own contributions to local environmental
+problems. Tourists, and ecotourists especially, do not want to see dirty streets, polluted rivers,
+and overcrowded development. Realization of this characteristic of tourists could convince local
+people both to decrease their share in these problems as well as to demand that local politicians
+or ecotouristic businesses enforce laws preventing them.
+The Future of Conservation in Monteverde
+
+Although data related to protection show strong local pride in and support for keeping already
+conserved land protected, they also show that it is the biologists and, to a lesser extent, the
+business owners who primarily want to protect more land. However, in the case of the business
+owners, this wish is probably tied to tourism. This assumption is supported by the fact that the
+owners' definitions of conservation were generally large-scale and vague with few ties to local
+ecosystems, suggesting a lack of personal connection to the environment in Monteverde. On the
+other hand, 50% of owners mentioned tourism in their definitions.
+In contrast, biologists seem to have purely scientific and utilitarian bases for expressing
+the desire to see more land protected. This is supported by the specificity of their responses to
+the question of more protection, the fact that 70% discussed conservation as a necessity, and the
+fact that 70% mentioned biodiversity and 90% mentioned ecosystem functioning in their
+definitions of conservation. Given these views, their history of activism, and the general lack of
+concern for additional conservation among other shareholders, it will most probably be biologists,
+
+71
+
+perhaps with some support from business owners, fighting for the expansion of protected land.
+Despite the opinion of many that it should be "everyone's responsibility," the historical trend of
+biologists and conservation organizations protecting land will likely prove to be the future
+pattern as well.
+
+Conclusions
+Overall, results show that ecotourism is certainly not a panacea for local problems, as it is
+sometimes assumed to be in other places, where scientists introduce ecotourism as the sole basis
+of conservation (Infield 200 I). Although ecotourism does increase the income of a community,
+it has its own set of associated problems. Though some hotel owners and a few of the Quakers
+saw tourism as a help to the environment, many others, including most of the biologists and one
+Quaker, saw tourism as damaging to the ecosystems that it touches.
+Indeed, one conclusion that can be drawn from the data in this study is that ecotourism
+was neither a primary nor even a secondary impetus for conservation in Monteverde; rather, it is
+simply a recent addendum to the economic basis of the community, taking advantage of
+conservation programs already in place. Although local business owners become more aware of
+conservation for economic reasons, positive effects of ecotourism on the local population's
+activism in protecting the environment have yet to be demonstrated. Excluding the biologists,
+most respondents are content with the amount of protected land in Monteverde now, and the
+majority of those that are not are content to sit back and let the government address the issue.
+Rather, as a few community members perceived, it seems to have been the presence of
+the Quakers, with their foreign ideas about water and soil conservation, and the biologists, with
+their extensive knowledge base and propensity for environmental activism, that began
+conservation in Monteverde. The presence of these individuals led to the formation of the first
+
+72
+
+reserves, which led to the involvement of national and international conservation organizations
+as well as the foundation of local organizations such as the MCL. Only much later did these
+efforts secondarily lead to the development of ecotourism.
+Moreover, Monteverde is characterized by being extremely accepting of foreign
+influence. The Quakers have been community members longer than many inhabitants; American
+biologists are neighbors, longtime residents, and members of the MCL, and a significant
+proportion ofresidents and business owners are foreign. Farmers proudly talk about their
+reforestation efforts and windbreaks while forgiving their forebears for their ignorance in
+deforesting the region, though few can explain just where their knowledge came from and just
+why their parents changed their minds about cutting down trees. Foreign ideas about
+conservation have been around so long that they have been assimilated by the local population
+and simply incorporated into daily life, and people have almost completely forgotten that these
+ideas were originally supplied by the Quakers, the biologists, and the MCL.
+In summary, these data suggest that it is not a single factor like ecotourism that
+contributes to conservation in the area. More accurately, a complex matrix of historical,
+ideological, and cultural factors unique to this region in particular created Monteverde as it is
+today. Unfortunately, using Monteverde as a model for conservation requires the realization that
+it is unique in many ways and that duplicating the series of people and events that made
+conservation possible there would be nearly impossible in another place and time.
+However, this is not to say that either ecotourism-based or scientifically-based
+conservation is impossible in other places. The exact events and conditions in Monteverde do
+not necessarily have to be replicated to create a successful conservation program. In addition,
+certain core factors intrinsic to the success of Monteverde may or may not be duplicable in other
+
+73
+
+areas. One of the most important of these factors is a devoted collection of locally-based
+biologists; another is a population with a history of self-sufficiency and openness to new ideas
+and viewpoints. Also, as suggested by Burlingame (2000) but not shown by this study, the lack
+oflarge-scale poverty among the original subsistence farmers in the region allowed
+conservation-minded people and organizations to focus on conservation rather than a campaign
+to improve the inhabitants' quality of life. Overall, the primarily scientific and ideological, rather
+than economic, basis of conservation with the secondary development of ecotourism is probably
+key to the success of both.
+Although they perpetuated the deforestation, the original local farmers were in fact being
+hurt by it; however, many seem to have failed to realize this until foreign influences like the
+Quakers and the biologists came and pointed it out. Given this observation, conservationists in
+other areas could benefit from examining the effects of habitat loss on local people.
+Alternatively, as Mark Infield (200 I) suggests, promoting conservation in the context of the local
+culture and values could provide a more convincing argument than economics in some areas. In
+a way this also plays a part in the case of Monteverde. 40% of Quakers, 50% of farmers, 20% of
+business owners and 50% of biologists expressed the belief that nature should be conserved
+because it is beautiful, tranquil, and contributes to good health, demonstrating inherent values
+consistent with conservationist ideas.
+
+ANALYSIS
+From this study, unlike the others, we can learn about relationships mainly from success stories
+rather than failures. Monteverde and its reserve complex are remarkable in many ways, and
+there are many factors separating it from the other case studies. First of all, the reserves in the
+area are private and there is little governmental input in their fate, an unusual feature unique to
+
+74
+
+Monteverde among the cases presented. Second, there were no real development projects in the
+area - inhabitants started off in passable socioeconomic condition, and development proceeded
+on its own, largely as a result of reserve establishment and the subsequent emergence of an
+ecotourism industry. However, the problems associated with this development are echoed in
+many other areas; I have heard similar complaints of sprawling development without effective
+zoning or waste management from people as diverse as cab drivers in rural Mexico to real estate
+agents in Southern California. These issues, though, are not as problematic at the other locations
+discussed in this paper, where development has yet to reach a stage where planning becomes an
+ISSUe.
+
+Also, unlike the regions in the other case studies, much of the deforestation in the
+Monteverde area happened at the hand of subsistence farmers long before conservationists
+stepped in. As a result the programs implemented there have been more or less equally divided
+between preserving the remaining habitat and reforesting that which was lost. The fact that
+deforestation was not always in the best interests of local farmers is also significant: this
+information emerged from systematic study only after reforestation efforts had improved
+productivity on farms, suggesting that similarly unforeseen positive results of reforestation could
+be realized in other areas as well.
+Additionally unusual is the fact that the hand of big, international ENGO's is rarely seen,
+with the exception of monetarily during the establishment of the MCFP. In fact, there is little
+interaction between even national or local ENGO's and community members: although the MCL
+and the TSC alike have implemented environmental education programs as well as conservation
+projects, the infonnation contained in these programs has, in the long run, been either
+disregarded or assimilated by the community without so much as a hiccough of dissent. In 3 5
+
+75
+
+substantial discourses on conservation, only a handful of people mentioned the MCL, none
+mentioned the TSC, and only biologists thought that conservation organizations would play a
+role in future environmental preservation in the area. Yet farmers spout conservationist ideas
+about forests, water and animals as though they've had them all their lives, when in reality their
+fathers and grandfathers knew little about their environment but how to cut down trees, grow
+crops, raise livestock, and hunt wild game. The difference between Monteverde and the other
+two areas described in this paper, as it emerges from this study, is this: conservation is not a
+foreign idea brought in recently by large-scale, paternalistic ENGO's. Rather, it has been a
+constant presence since the coming of the Quakers, and especially since a number of biologists
+took up permanent residence in the area. Conservationists are not people who pop in and out
+unpredictably and dictate how they think things should be, half-heartedly proposing and
+implementing projects that sometimes succeed and sometimes fail; they are neighbors and
+friends, community members and local activists dedicated to making their views and knowledge
+known and preserving the natural beauty of their home. Although some of the conflicts
+described in Part II are evident in Monteverde, most of them are between local biologists and
+local business owners rather than ENGO's and community residents at large, and few of these
+disagreements have escalated to point that wedges are driven between ideologically distinct
+groups.
+
+PART IV: DISCUSSION AND CONCLUSIONS
+By evaluating these examples as well as the historical patterns in local-ENGO relationships, we
+can come to a number of conclusions about how those relationships could be improved. Few of
+these improvements are restricted to the ground level of the field representative-local population
+
+76
+
+relationship, however; rather, enhancements can be made at every stage from field
+implementation to organizational structure.
+
+Implementation
+At the level of implementation, for example, these studies make amply clear that [a great deal of!
+communication is necessary to make projects successful; knowledge must be shared not only
+from conservationists to local people, but also from locals to conservationists. This exchange,
+however, is not the single element that will create successful conservation programs. Rather, the
+two groups must establish an open relationship that invites discussion and provides a forum for
+airing discrepancies and misunderstandings. Field representatives or project planners could
+develop this relationship by approaching local people with respect, requesting the assistance of
+qualified local inhabitants in conservationist activities that would employ their skills, and
+soliciting friendships beyond the merely professional. As difficult as it may be for some
+biologists and conservationists to change an inherent belief that humans are damaging to their
+environment, in order to successfully affect change in the long run they must entertain the idea
+that local and indigenous people could have valuable knowledge that must not be overlooked or
+dismissed.
+Additionally, field representatives should state clearly while outlining a project to a local
+or indigenous population exactly what community members will receive in the course of
+implementation, thus avoiding problems of misinterpretation and the perception of broken
+promises when inhabitants do not receive what they expected. A proposed time frame would be
+beneficial: one recurring problem was that of field representatives failing to return after a certain
+interlude. Ideally this should be rectified by those individuals visiting regularly to address any
+problems, but in reality for financial reasons this is frequently impossible. Rather than being
+
+77
+
+surprised and disillusioned when this happens, locals should be apprised of the amount of time
+that representatives will be able to return to a community, when they will cease to do so and also
+the reasons why they are obligated to withdraw their help.
+
+Project Planning
+Only a portion of the effectiveness of conservation programs can be addressed solely between
+local people and field representatives, however. Long before fieldworkers are mired in the
+problems of actually executing projects, ENGO's could take measures to ensure those projects'
+success. The planning process could in many cases be made more efficient at several stages.
+The main overarching improvement that needs to be made involves the acquisition of
+more information at the outset of project planning. What is the local economic structure like?
+What concept does the local population have of conservation? What interplay of cultural,
+religious, financial and other reasons account for their resource use or overuse? What kind of
+impact do their land use practices have on the local ecosystem? What kinds of conservation and
+development programs have been attempted in this community in the past? Asking these
+questions at the beginning of local conservationist work would have benefited both the FMB in
+Hill's study and the various ENGO's active in the Calakrnul region in Cahn von Seelen's study.
+In Monteverde, answering them contributed to successful reforestation initiatives in the area.
+One way to obtain this information would be to involve inhabitants of the community in some
+stage of project planning. Anthropologists stress the need to use inherent social, economic, and
+ideological structures as the basis for conservation programs: bringing those structures to the
+planning table could incorporate them that much more easily. Regardless of how an organization
+acquires information about the local people in question, their social and economic norms, the
+
+78
+
+ecological impact of their community and their views on conservation, with it project planners
+will be much more able to develop successful projects.
+This information could also aid the individuals planning a conservation program by
+indicating the type of people best suited to addressing the issues at hand. Are the land use
+practices on which the program focuses the traditional occupation of men or women? Does the
+situation call for someone with a background in ecology? Biology? Anthropology? Economics?
+Problem solving? All of these are beneficial, but depending on the project one or two could be
+more useful than the others.
+Organizational Structure and Functioning
+
+Despite modifications at the planning and implementation levels that could boost a program's
+probability of success, problems with developing and keeping local trust, effective preparation,
+and communication are often more deeply rooted. These recurring difficulties speak to
+inefficiencies within the organizations themselves, and many of these ENGO's would benefit
+from an internal evaluation.
+Why, for example, is communication within organizations so often less than ideal? Why
+do field representatives and the higher executives that approve their finances frequently fail to
+connect, resulting in broken promises and insufficient resources? Why are the regulations
+enforced in the Mbaracayu Nature Reserve so irregular? Essentially, where is the kink in the
+bureaucratic hose where information stops like so much water? To develop trust among their
+local associates, field representatives cannot make promises that never come to fruition; more
+effective communication within the organization would prevent problems like this from arising.
+In addition, ENGO's as well as the local populations with which they work could benefit
+from streamlining implementation. Are there consistent problem areas? What conflicts arise
+
+79
+
+periodically? How are these conflicts affected by the organization itself, at higher levels than
+field representatives? This query could be addressed by a trained consultant, but it would be far
+easier for conservation organizations to simply conduct self-evaluations. TNC, with Traditional
+Peoples and Biodiversity Conservation in Large Tropical Landscapes, admirably addressed this
+
+issue with the help of social scientists, anthropologists, and local liaisons. However, the majority
+ofENGO's, and presumably those with fewer human and financial resources at their disposal in
+particular, never go to the trouble of determining how and why their projects succeed or fail, to
+which the dearth ofliterature on the subject attests. Even without the ability to hire consultants
+or social scientists, though, ENGO's could make a practice of project evaluation, even to so
+simple an extent as a survey filled out by project implementers and evaluated to determine
+commonalities, problems and possible solutions. No doubt some organizations already employ
+measures of this kind; but the constant recurrence of conflicts and issues as simple as failures in
+communication suggest that even if such a system is in place, it fails to effectively address
+problems in implementation.
+It does not help matters that ENGO's, especially those that are larger and more powerful,
+
+are often in competition for funds and projects (Chapin 2004). Although they do collaborate on
+some ventures, this competition creates a barrier to ENGO's viewing each other as useful
+resources. Together with self-evaluation, inter-organizational communication about successes
+and failures could benefit all involved parties.
+Finally, each organization should determine its opinion on several ethical concerns raised
+by the potential future of conservation. The stance that an organization takes on these issues has
+important implications for the types of projects they will undertake and how they will execute
+
+80
+
+them. These concerns are raised in questions asked by local populations as well as the global
+community at large, and ENGO's should be prepared to address them as well as they can.
+1. Is the "people-free park" approach to conservation ethically tenable, if it contributes
+to or does not improve a low quality of life among local people? Is this even an
+ENGO's concern?
+2. Cahn von Seelen noted the questions of subsistence farmers in Mexico as to why they
+should change their entire way of life to combat global problems. Why should these
+individuals be obligated to make sacrifices and compromises to correct problems like
+global warming for which developed nations are the most responsible?
+3. Must programs always be economically beneficial to a community, and should
+ENGO's go so far as to directly provide economic incentives for conservation?
+The decisions ofENGO's on how to incorporate these issues as well as others into their
+missions will determine the fate of conservation in the future.
+Conclusion
+
+Essentially, conservation as a worldwide enterprise would benefit from changes in structure and
+operation. In many ways conservation is moving toward a new regime: one that incorporates
+social well-being, sustainable development, and increasing interactions with industry. For
+example, the biggest, most powerful NGO's are beginning to occupy slightly different roles than
+they have had for most of their history; increasingly, organizations like WWF, CI and TNC are
+relaxing their raptor-like surveillance of industry and instead entering into corporate partnerships
+(Esty and Winston 2006). Ideally these partnerships, which involve various levels of intensity
+and interaction, are beneficial to both parties and the environment as well (Rondinelli and
+London 2002). The lowest level of interaction intensity between ENGO's and corporations is
+
+81
+
+that of monetary support for the ENGO; at the highest level of intensity, the ideal point for
+ENGO's, organizations and corporations collaborate to create new and better environmental
+management strategies for businesses (Rondinelli and London 2002). Many critics decry what
+they believe to be partnerships between fundamentally opposing groups, and some voices accuse
+these organizations of straying from their original purpose (Chapin 2004). These critics fail to
+realize, however, that this is a niche that needs to be filled, and it must simply fall to other
+ENGO's to shift into occupying the larger organizations' former position. While subsistence
+farmers and indigenous communities may perpetuate harmful practices like illegal logging,
+intensive hunting and agriculture and overconsumption of scarce resources, industry causes
+pollution and environmental destruction on a global scale, and one important way to address this
+impact effectively is to open venues for frank discussion, sharing of knowledge, and reciprocal
+benefit. Businesses and conservationists, like local populations and conservationists, have a
+great deal to offer one another, and collaboration of this nature is a necessary step in
+environmental protection.
+Diversifying in this way, in addition to tackling broad, worldwide issues like global
+hotspots and social and economic improvement, leaves these powerful organizations with lofty
+goals but a plethora of field-level problems, including and exceeding all those discussed in Parts
+II and III. One way that large, international ENGO's could address these comparative minutiae
+would be to establish or help to develop satellite organizations, as TNC aided in the development
+of the FMB and WWF helped the MCL. By establishing even small satellite organizations to
+administer small regions, for example, ENGO's could establish the local presence so urged by
+anthropologists while simultaneously micromanaging conservation goals. Operating in this way
+has made the MCL successful: by acting locally and adopting small-scale goals such as
+
+82
+
+preserving habitat for local wildlife, this organization and its conservationist agenda has been
+assimilated into the community.
+Of course, this strategy is not financially or organizationally feasible in most cases, but
+alternative methods for addressing recurring field-level problems do exist. At the most
+fundamental level, for example, the evidence from the case studies presented here as well as
+others supports the conclusion that conservation organizations should implement fewer projects
+with much more effectiveness. Every failed program, every Ache pig that dies because no one
+would feed it, every hour that Delia spends trekking through La Guadalupe making promises that
+bad communication or financial mistakes do not allow her to keep is a waste of time, money, and
+resources. It took ten years of trial and error for ProNatura-Peninsula de Yucatan to discover the
+simple secrets to successful projects, and after almost that much time the FMB was still making
+errors fatal to its nascent conservation programs.
+A novel tactic for ENGO's to ameliorate these difficulties and increase efficiency would
+be to commission at least two - one man, one woman - ecological anthropologists to simply live
+for a time in every community in which the organization hopes to implement a large-scale or
+long-term project. Ideally this preparatory step should be taken before every new enterprise, but
+this may not be financially feasible.
+This method would alleviate the vast majority of conflicts that arise between conservation
+organizations and local people. By living in a community for a year, for example, field
+representatives would ideally develop the relationships that every case study deemed so
+necessary. These direct and established relationships, like Hill's with the Ache, would create
+open forums for discussion and learning in both parties. In this way the very presence of these
+individuals could result in a community-wide dissemination of information and ideas about
+
+83
+
+biology, ecology, biodiversity, and conservation, much as the similar presence of biologists and
+Quakers has impacted Monteverde. With training in anthropology and ethnography,
+representatives could examine essential cultural elements like definitions and conceptions of
+conservation, community history, cultural norms, religion and folklore to create a multi-faceted
+assessment of potential environmental management strategies. Moreover, with backgrounds in
+biology and ecology, they would understand the pressures on and needs of the local ecosystem,
+avoiding simplistic mistakes akin to that cited by Hill involving the unfounded prohibition on
+hunting of locally abundant organisms. It would also be essential for these individuals to have a
+basic knowledge of economic principles, granting them the capability to accurately diagnose and
+address such issues as the Tragedy of the Commons and the free-rider problem.
+Although this may seem to be an unnecessary investment of time, money, and human
+resources, in the long run such a step would provide ENGO's with the information and
+relationships necessary to implement successful conservation programs, saving countless years
+and dollars on strategies that may or may not achieve their goals.
+In the end, a variety of adjustments and new tactics on every level of conservation
+infrastructure have the potential to improve conservation implementation by further developing
+the relationships between ENGO's and the local communities with which they work. However,
+as in all quests for self-improvement, the first step will be for conservation organizations to
+realize the problems inherent in their current operational strategies and make a commitment to
+changing them. If these organizations are willing to keep an open mind, evaluate themselves
+critically, and entertain the possibility of tackling conservation from an entirely new angle, there
+remains hope that new and ambitious goals of environmental preservation can be met. With
+
+84
+
+dedication, communication and understanding, a new regime of conservation will carry us into a
+bright - and forested - future.
+
+REFERENCES CITED
+Acheson, James M. 2006. "Institutional Failure in Resource Management." Annual Review of
+Anthropology 35: 117-134.
+Agrawal, Arun and Clark C. Gibson 1999. "Enchantment and Disenchantment: The Role of
+Community in Natural Resource Conservation." World Development 27(4):629-649.
+Alcorn, Janis B. 1993. "Indigenous People and Conservation." Conservation Biology 7(2): 424426.
+Balee, William 2006. "The Research Program of Historical Ecology." Annual Review of
+Anthropology 35:75-98.
+Brown, Katrina and Sergio Rosendo 2000. "The Institutional Architecture of Extractive Reserves
+in Rond6nia, Brazil." The Geographical Journal 166(1):35-48.
+Burlingame, Leslie J. 2000. "Conservation in the Monteverde Zone." IN: Nalini M. Nadkarni
+and Nathaniel T. Wheelwright 2000 (ed). Monteverde: Ecology and Conservation of a Tropical
+Cloud Forest. Oxford University Press, New York.
+BorgerhoffMulder, Monique and Peter Coppolillo 2005. Conservation: Linking Ecology,
+Economics, and Culture. Princeton University Press, Princeton, New Jersey.
+Cahn von Seelen, Kristin 2004. " 'This Place Was Paradise': Consumption as Metaphor and
+Material Concern on Mexico's Southern Frontier." Doctoral Dissertation, Department of
+Anthropology, University of Pennsylvania.
+Chapeski, Andrew 1995. "Land, Landscape, Culturescape: Aboriginal Relationships to Land and
+the Co-Management of Natural Resources, Ottowa: Report to the Royal Commission on
+Aboriginal Peoples."
+Chapin, Mac 2004. "A Challenge to Conservationists." World Watch November/December 2004:
+17-31.
+Conservation International Annual Report 2004.
+Dove, Michael R. 2006. "Indigenous People and Environmental Politics." Annual Review of
+Anthropology 35: 191-208.
+
+85
+
+Esty, D.C. and A.S. Winston 2006. Green to Gold. Yale University Press: New Haven,
+Connecticut.
+Fairhead, J. and M. Leach 1996. Misreading the African Landscape: Society and Ecology in
+Forest-Savanna Mosaic. Cambridge University Press, Cambridge, England.
+Fang, Yiping 2002. "Ecotourisrn in Western Sichuan, China." Mountain Research and Development
+22: 113-115.
+GoVisitCostaRica 2007. http://www.govisitcostarica.com/default.asp. 17 April 2007.
+Haber, William 2005. "Dragonflies and Damselflies: Odonata of Monteverde, Costa Rica."
+Electronic Field Guide Project, University of Massachusetts-Boston.
+http://efg.cs.urnb.edu/rnonteverde/Ode/OdeMap.htrnl. 17 April 2007.
+Hardin, Garrett 1968. "The Tragedy of the Commons." Science 162: 1243-1248.
+Hill, Kirn 1996. "The Mbaracayu reserve and the Ache of Paraguay. IN: Kent H. Redford and
+Jane A. Mansour 1996 (ed). Traditional Peoples and Biodiversity Conservation in Large
+Tropical Landscapes. The Nature Conservancy, America Verde Publications, Virginia.
+Holt, Flora Lu 2005. "The Catch-22 of Conservation: Indigenous Peoples, Biologists, and
+Cultural Change." Human Ecology 33(2):199-215.
+Hunter, Malcolm L., Jr. 2002. Fundamentals a/Conservation Biology. Blackwell Publishing,
+Willison, Vermont.
+Infield, Mark 2001. "Cultural Values: A Forgotten Strategy for Building Community Support for
+Protected Areas in Africa." Conservation Biology 15(3): 800-802.
+Jacobson, S.K. and M.D. McDuff 1998. "Training idiot savants: the lack of human dimensions in
+conservation biology." Conservation Biology 12(2): 263-267.
+Janzen, Daniel 1998. "Gardenification ofwildland nature and the human footprint." Science
+279:1312-1314.
+Johnston, Alison M. 2006. Is the Sacred/or Sale? Earthscan, London.
+Noss, R.F. 1990. "Indicators for monitoring biodiversity: A hierarchical approach." Conservation
+Biology 4: 355-364.
+Read, Adam D. 1999. "'A weekly doorstep recycling collection, I had no idea we could!'
+Overcoming the local barriers to participation." Resources, Conservation and Recycling 26:217249.
+Redford, Kent H. 1991. "The ecologically noble savage." Cultural Survival Quarterly 15: 46-48.
+
+86
+
+Redford, Kent H. 1996. "Getting to Conservation." IN: Redford, Kent H. and Jane A. Mansour
+1996 (ed). Traditional Peoples and Biodiversity Conservation in Large Tropical Landscapes.
+The Nature Conservancy, America Verde Publications, Virginia.
+Redford, Kent H. and Jane A. Mansour 1996 (ed). Traditional Peoples and Biodiversity
+Conservation in Large Tropical Landscapes. The Nature Conservancy, America Verde
+Publications, Virginia.
+Redford, Kent H. and Allyn M. Stearman 1993. "Forest-Dwelling Native Amazonians and the
+Conservation of Biodiversity: Interests in Common or Collision?" Conservation Biology
+7(2):248-255.
+Redford, Kent H. and Steven E. Sanderson 2000. "Extracting Humans from Nature."
+Conservation Biology 14(5): 1362-1364.
+Redman, Charles L. 1999. Human Impact on Ancient Environments. The University of Arizona
+Press, Tucson.
+Rondinelli, D.A. and T. London 2002. "Stakeholder and Corporate Responsibilities in Crosssectoral Environmental Collaborations: Building Value, Legitimacy and Trust." Washington,
+D.C: Working Paper, Nonprofit Sector Research Fund, The Aspen Institute.
+Salzman, James and Barton H. Thompson, Jr. 2007. Environmental Law and Policy. Foundation
+Press, New York.
+Schwartzman, Stephan, Adriana Moreira and Daniel Nepstad 2000. "Rethinking Tropical Forest
+Conservation: Perils in Parks." Conservation Biology 14(5): 1351-1357.
+Shafer, Craig L. 1990. Nature Reserves: Island Theory and Conservation Practice. Smithsonian
+Institution Press, Washington, London.
+Stearman, Allyn M. 1994. "Only slaves climb trees." Human Nature 5:339-357.
+Struhsaker, Thomas T 1998. "A Biologist's Perspective on the Role of Sustainable Harvest in
+Conservation." Conservation Biology 12(4): 930-932.
+Terborgh, John. 2000. "The Fate of Tropical Forests: a Matter of Stewardship." Conservation
+Biology 14(5):1358-1361.
+Vitousek, Peter M., Harold A. Mooney, Jan Lubchenco and Jerry M. Melillo 1997. "Human
+Domination of Earth's Ecosystems." Science 277: 494-499.
+West, Paige, James Igoe, and Dan Brockington 2006. "People and Parks: The Social Impact of
+Protected Areas." Annual Review of Anthropology 35:251-277.
+
+87
+
+Western, D. and Wright, Michael R. (eds.) 1994. Natural Connections: Perspectives in
+Community-based Conservation. Island Press, Washington D.C.
+Whole Foods 2003. "One Year After USDA Organic Standards Are Enacted More Americans
+Are Consuming Organic Food." Electronic document,
+http://www.wholefoods.com/company/pr_ I 0-14-03.html, accessed March 13, 2007.
+Wilson, E.O. 1999. The Diversity of Life. W.W. Norton & Company, New York.
+World Wide Fund for Nature Annual Report 2006.
+Worldwatch Institute 2005. "From Readers: A Challenge to Conservationists: Phase IL" World
+Watch January/February 2005: 5-20.
+
+88
+
+TABLES AND FIGURES
+
+Sta.led
+A1a1wgenwnt
+Title~'
+fa
+
+lh
+
+Stricr namre
+reserve
+\VildemeSs ttrea
+
+II
+
+National park
+
+m
+
+National monument
+
+IV
+
+H,ibimtfspeci<:s
+management
+-ar:ea
+
+V
+
+Protected landscape/seascape
+
+!\'fanage111e11t
+
+SR
+
+W'P
+
+SD
+
+Science
+
+,:,. ,:;- -;:;-
+
+a:-,:;-
+
+--~· -
+
+Wi\deme,s protecnon
+Ecosystem prorecnon and recreation
+Conservation of
+specific natural
+feanJres
+Conser. ation
+through man-
+
+*
+
+* ⇒:::.-
+
+>.'-:::.-
+
+,.,
+
+*"-~
+
+'
+
+Obiectil'e
+
+-·
+
+,,
+
+0
+
+ES
+::,;.
+
+Obiectiue'-'
+
+NF
+
+:::,,:::, :::·
+
+-;:-
+
+ED
+
+SU
+
+CA
+
+,;,'.-
+
+*<-
+
+:::;⇒,;;
+
+⇒⇒
+
+"fR
+
+','.•
+
+,;:-
+
+* ,;- ;~
+
+,:-.:-
+
+1'· ~.
+
+,;;.- t- ,:,,.
+
+;:Cf,.::;'..
+
+:,,_c;.;.
+
+'
+
+,a;.,;.
+
+.;;,,:,:,;:-
+
+.,.*., *
+
+*
+
+,:;- ,:_~
+
+;--:<-
+
+~--
+
+:::;.::;.
+
+::::-:,.⇒
+
+=:,,-;:.,;;.
+
+:.::• -::;-
+
+;;;.,-,.
+
+,;-;•,:;-
+
+'
+
+a,.
+
+4
+
+""⇒
+
+agen11::nt inter-
+
+venrion
+Landscape/
+seascape
+
+1:.~*
+
+: :- * -:;,•
+
+cd:ns.er1tarion
+
+VI 1',,!an,\gcd resource
+protected area
+
+and recreation
+Susrainable use of
+namrnl ecosysterns
+
+**
+
+;'.-'i
+
+*
+
+~-
+
+⇒⇒
+
+; ]UCN us,es six c::11:e-gnrie:; for das,ification of protected areas, -.1ecording ro rhe man:1.gemcnr obfc-.:--dn:-s of
+rbi;; sir·es HLCKt 19941. Tht::;c- 1995 darn nrt taken from Green and l\1im.' 0997f, who also Jefino:d and scored
+
+the managemem obje·-cfr,.,fi.
+Using dan.1 from Green ,rnd Paine. land use !s apponioncd in [he follmving order to 11 \mnirnul p,1rks~
+4,01J0~605 knit Vl tmanaged n.:~uu:rct proten.cd ,1reas-., 3 1 601,44() km;\ IV \habirn.tlsptc!es rnanagemenr
+are:.is,. 2.,459,i703 knr=-1. and V (protecred bndsc.;.1pefs-1::ascape~ 1~057~448 knY\ with Ia, lb. and HI aH having
+!css. rh;,,:n a rnilllon km·\
+: SR: s-:iemific rest;_1r.:h~ \'fl\ ,sil<lc:Tn6s prmcnion: SD~ spt:....::ies.f:gentric dli:er:-.!ry: ES. environrnemal sen·ices; Nf.
+n,1rnr,1.Vculmral ft:.:1run.:~; TR~ rourisrn and recrearion; ED, education; SU 1 .5uSt-.jinablt m,e:: C:\. culmral :ttt"Jl!'mtt:~.
+i ,;,:s-t- primary ob]cct-ivc: ,.:~ 5e,:ond,1ry objecriYe; -o::~ pt.itentfa.Hy no't applicab!e; -nor appi-ica:ble.
+
+Table 1.1 Protected Area Management Categories (Borgerhoff and Coppolillo 2005 :31)
+
+89
+
+Shareholder
+Quakers
+Farmers
+Business Owners
+Biologists
+
+Total
+
+Biodiversity
+0
+0
+0
+7
+7
+
+Ecosystems
+0
+0
+0
+9
+9
+
+Water
+3
+4
+
+6
+0
+13
+
+Forests
+0
+10
+3
+0
+13
+
+Soil
+2
+3
+0
+0
+5
+
+Animals
+
+0
+5
+4
+
+The
+Planet/The
+Environment
+0
+1
+
+8
+
+0
+
+0
+9
+
+9
+
+Table 3.1. Number of people who mentioned specific elements in their definitions of
+conservation. Columns represent concepts relating to conservation; numbers are the number of
+people within each group citing that concept in their definitions of conservation.
+
+Shareholder
+Quakers
+Farmers
+Business Owners
+Biologists
+
+Total
+
+Enough
+Protected
+
+More:
+Government
+Responsibility
+
+More:
+Individual
+Responsibility
+
+(n)
+
+(n)
+
+(n)
+
+14.3 (5)
+20 (7)
+11.4(4)
+0 (0)
+45.7 (16)
+
+0 (0)
+2.9 (1)
+11.4(4)
+11.4(4)
+25.7 (9)
+
+0 (0)
+5.7 (2)
+5.7 (2)
+11.4(4)
+22.9 (8)
+
+More: Conservation
+Organization
+Resvonsibilih, (n)
+0 (0)
+0 (0)
+0 (0)
+11.4(4)
+11.4 (4)
+
+Table 3.2. Views on additional land protection in Monteverde .The n is the total number of
+respondents who expressed a certain response. "More" signifies that respondents thought more
+land should be protected. The percentage is the percentage of the total 35 people. Total
+percentages do not add up to 100 because two biologists thought that both individuals and
+conservation organizations had the responsibility of conserving more land.
+
+Shareholder
+Quakers
+Farmers
+Business Owners
+Biologists
+
+Total
+
+Water
+Issues
+5.7 (2)
+5. 7 (2)
+17.1 (6)
+14.3 (5)
+42.9 (15)
+
+Waste
+
+Manaf!ernent
+0 (0)
+5.7 (2)
+8.6 (3)
+0 (0)
+14.3 (5)
+
+Progress/Unplanned
+Develooment
+2.9 (1)
+14.3 (5)
+11.4(4)
+20.0 (7)
+48.6 (17)
+
+Chemical
+Use
+0 (0)
+2.9 (1)
+2.9 (1)
+0 (0)
+5. 7 (2)
+
+Not
+Enough
+Tourists
+0 (0)
+0 (0)
+2.9 (1)
+0 (0)
+2.9 (1)
+
+Global
+Warmimz
+
+0 (0)
+0 (0)
+0 (0)
+8.6 (3)
+8.6 (3)
+
+None
+5. 7 (2)
+0 (0)
+0 (0)
+0 (0)
+5. 7 (2)
+
+Table 3.3. Frequency of problem perceptions. Then represents the number of people in each
+group who identified a certain problem as important in Monteverde. The percentage is the
+percentage of the total 35 people.
+
+90
+
+,;( Country Map of
+
+Costo Rica
+~. .
+
+..
+
+~!l<,m, d,I c.k,rodo
+
+Caribbean
+Sea
+
+\~tf11J:io Nacl<itlal
+nt-del Colorado
+
+PACIFIC
+OCfAN
+
+0
+
+.,s
+
+lO
+
+IS
+
+100
+
+~ .
+
+@Go\tlsi!Cl>,iaRl~•uom
+
+Figure 1. Map of Costa Rica, with the Monteverde area outlined in blue (GoVisitCostaRica
+2007).
+
+91
+
+Figure 2. The dairy plant established by the Quakers continues to contribute to the income of
+local farmers, many of whom still milk their cows by hand.
+
+Figure 3. Farmers bring their milk in carts or on horseback to the main road in San Luis, where a
+truck picks it up and transports it to the factory for processing.
+
+92
+
+Figure 4. Inside the Monteverde Cloud Forest Preserve
+
+Figure 5. The San Luis Valley in Monteverde, where many subsistence farmers reside. Rows of
+trees are used as windbreaks and erosion prevention around pastures and agricultural land.
+
+93
+
+Figure 6. Monteverde is famous for its coffee, which is grown by a local Fair Trade co-op. Here,
+young coffee plants are cultivated near a greenhouse before planting.
+CMtltiental
+;_--·~ bi,..ide
+
+Contour line: 700 m
+
+Nrooon
+•
+
+Odonata sites
+
+Towns.shp
+N_Roado
+NRivers.ohp
+®
+
+, Reserves
+
+. ,omaters
+
+Figure 7. Map of the Monteverde Reserve Complex as well as the main surrounding towns,
+rivers, and roads (Haber 2005). For abbreviations, see text.
+
+94
+
+Figure 8. Nancy Johnson and her daughter in front of their family's hotel, the La Colina Lodge.
+
+Figure 9. Gilbert Lobo, local farmer living in the San Luis Valley.
+
+95
+
+Figure 10. Richard K. LaVal, local biologist and bat specialist.
+
+96
+
+APPENDICES
+APPENDIX I
+
+List of Interview Questions
+What is your:
+Full name?
+Age?
+Last year of school completed?
+Profession?
+Spouse's profession?
+Number of children?
+
+1. Where were you born?
+2. How do you define conservation?
+3. Do you think that conservation is a part of your life? Why or why not? What do you do to
+conserve?
+4. Why is it important to conserve?
+5. Is enough land in Monteverde protected? Do you think that more should be protected?
+Who do you think has the responsibility of protecting it?
+6. Why do you have the profession that you have?
+7. What do you think are Monteverde's biggest conservation-related problems? What do
+you think are good ways to solve them?
+
+97
+
+APPENDIX II
+List of Respondents by Group
+Quakers
+Mary Rockwell
+Lucky Guindon
+WolfGuindon
+Marvin Rockwell
+Howard Rockwell
+
+Farmers
+Climaco Castro
+Gilbert Lobo
+Francisco Vargas
+Oldemar Salazar
+Jorge Fuentes
+JuanLeit6n
+Rafael Leit6n
+Mario Castro
+Milton Brenes
+Geovanny Leit6n
+Business Owners (Business)
+Nancy Jolmson (La Colina Lodge)
+Adolfo Vargas Villalobos (Hotel Villa Verde)
+Silvio Mengel (Farmacia Vitosi)
+Pilar Aguvelo (Treehouse Hotel)
+Galit Smilanski (Luna Azul)
+Nir Smilanski (Moon Shiva)
+Cindi Rodriguez (Paradise Cafe)
+Paul Tiabenard (Hotel Montana)
+Alexis Alfaro (Albergue Bellbird)
+Frederico Valverde (La Tabema)
+Biologists
+Nalini Nadkarni
+Jolm Longino
+Kathy Winnet-Murray
+Carmen Rojas
+Carlos Guindon
+Karen Masters
+Alan Masters
+Bill Haber
+Willow Zuchowski
+Richard LaVal
+
+98
+
+

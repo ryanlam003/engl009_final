@@ -1,0 +1,1377 @@
+University of Pennsylvania
+
+ScholarlyCommons
+Anthropology Senior Theses
+
+Department of Anthropology
+
+Spring 2007
+
+The Social Context of Legislating N.A.G.P.R.A.
+Barbara Clare Tarpey
+
+Follow this and additional works at: https://repository.upenn.edu/anthro_seniortheses
+
+Recommended Citation
+Tarpey, Barbara Clare, "The Social Context of Legislating N.A.G.P.R.A." (2007). Anthropology Senior
+Theses. Paper 79.
+
+This paper is posted at ScholarlyCommons. https://repository.upenn.edu/anthro_seniortheses/79
+For more information, please contact repository@pobox.upenn.edu.
+
+The Social Context of Legislating N.A.G.P.R.A.
+
+This thesis or dissertation is available at ScholarlyCommons: https://repository.upenn.edu/anthro_seniortheses/79
+
+THE SOCIAL CONTEXT OF LEGISLATING N.A.G.P.R.A.
+By
+Barbara Clare Tarpey
+
+Senior Thesis in Anthropology
+
+Submitted to the
+Department of Anthropology
+University of Pennsylvania
+Thesis Advisor: Robert Preucel
+
+2007
+
+Abstract
+The Native American Graves Protection and Repatriation Act is a groundbreaking
+piece of legislation. However, the law was sharply contested prior to its passage in 1990.
+An examination of how professional academic societies, museum institutions, federal
+institutions, Native American groups, and individuals interacted during the late 1980s and
+1990s reveals several rhetorical strategies that were used to sway opinions of other actors
+in negotiating the language of the law. This research contributes to awareness of the
+anthropological and archaeological communities vis-a-vis repatriation legislation,
+especially concerning if, or how, attitudes towards repatriation legislation change over
+time.
+
+1
+
+Table of Contents
+
+Chapter 1. Introduction
+Chapter 2. A Short Legal Background: Laws and Human Remains in the United
+States
+Chapter 3. NAGPRA in Brief
+a) Outline
+b) Significance of provisions
+Chapter 4. Historical Context
+a) Native Americans and Federal Indian Law
+b) Changes in Archaeology and Social Theory
+Chapter 5. Getting to NAGPRA
+a) Early rumblings
+b) Tribal requests and state laws
+c) Individual Archaeologists
+d) Pan-Indian activism
+e) Congress and Federal Legislation
+t) Working Together
+Chapter 6. Motivation and Discourse
+a) Personal and Impersonal
+b) Rights and Constitutionality
+Chapter 7. Conclusions
+
+2
+
+Chapter 1
+Introduction
+
+On November 16, 1990, President George H.W. Bush signed his name to Public
+Law IO 1-60 I, creating the Native American Graves Protection and Repatriation Act.
+Hailed as a watershed moment for Native American rights, NAGPRA, as the act is
+popularly known, was the culmination of years of work by Native American individuals,
+tribes, organizations, academics, professional organizations, and the museum community.
+While the Act has provisions for the excavation of Native American sites and the
+protection of sacred and burial places, the most highly contested section ofNAGPRA is
+repatriation, which is the focus here. Repatriation, or the return of human remains and
+artifacts, involves a multitude of stakeholders and interests. NAGPRA mandates that all
+federally funded institutions must follow certain guidelines to inventory, make public,
+and review requests to repatriation collections of Native American human remains and
+artifacts. This requires the involvement of museum and university trustees and staff,
+professional anthropologist, archaeologists, and federally recognized Native American
+tribes. In the drafting and negotiating processes that occurred before the final draft of the
+bill, all of these stakeholders vied to represent their best interests through meetings,
+resolutions, coalitions, congressional testimonies and hearings, and in the news media
+and in the public eye.
+The creation ofNAGPRA is embedded within an historical and social context that
+must be explored to uuderstand the reasons and timing of the legislation, as well as the
+motivations of the various stakeholders who negotiated over the bill. The broad context
+
+3
+of the acknowledgement ofNative American rights, the history of museum collection
+practices, developments within academia inform the specific actions of individuals and
+events that catalyzed the creation and passage ofNAGPRA. Discourse about repatriation
+from various points of view has converged over the process of drafting the law, as can be
+seen in joint statements to Congress, reports in news media, and works from within
+academia and the museum community. The prevailing inertia of many of the professional
+anthropological and archaeological organizations and museums has been partially
+alleviated, as widely held fears concerning loss of collections has not come to pass.
+In my thesis, I examine how professional academic societies, museum
+institutions, federal institutions, Native American groups, and individuals interacted
+during the late 1980s and 1990s. I focus particularly on the rhetorical strategies that were
+used to sway opinions of other actors in negotiating the language of the law. This
+research contributes to awareness of the anthropological and archaeological communities
+vis-a-vis repatriation legislation, especially concerning if, or how, attitudes towards
+repatriation legislation change over time. My analysis of the interrelationships of
+NAGPRA and archaeology reveals that archaeology can be conceived as "culture" in the
+cultural anthropological sense of culture as a contested process of meaning making and
+that this process is ongoing.
+
+4
+
+Chapter2
+A Short Legal Background: Laws and Human Remains in the United States
+It is useful to begin with an overview of the laws treating human remains and the
+
+dead in the United States. Anthropologically, law is a subject of interest because "it is not
+separate from culture but is an integral part of culture" (Delaney, 2001, p. 489). Law
+draws up categories, such as "body," "nature," and "property." It matters where the lines
+of each category are drawn, as well as how they are applied to people and the material
+world. A large and legitimate grievance in the discourse surrounding repatriation is the
+inequality faced by Native Americans. In terms of the court decisions and statutes that
+regulate the dead body, historical discrimination against minority and disempowered
+populations has manifested itself despite the idealized profession of equality under the
+rule oflaw.
+This discrimination extends to the treatment of human remains, which have been
+the subjects of legislation over the last two hundred and thirty years: distinct laws and
+regulations at the federal and state levels largely stem from the English Common Law
+tradition. In particular, American rulings and laws concerning human remains have
+focused on the rights and wishes of survivors such as the next-of-kin, and the degree to
+which this groups is politically marginalized or empowered is reflected in the application
+of law. An historical analysis of court rulings and statutes over the disposition of human
+remains reveals continuity in American society regarding the role of the next-of-kin, as
+seen through changes in the legislation and the disposition of archaeological resources.
+These laws and practices contrast with treatment of some Native American remains, as
+state-sponsored and privately-funded collecting resulted in differential treatment.
+
+5
+Arguments for NAGRA that center on the rectification of historic wrongdoing hinge on
+the discrepancy between the law and its application to more powerful groups in American
+society and its application to subalterns.
+Across all human cultures, argue scholars of human rights advocating on human
+remains issues, there are general levels of respect accorded to the remains of deceased
+humans (Hubert & Fforde 2002; Moore 1987). However, it is important to remember that
+the "treatment of the dead is a cultural entity and the 'proper' treatment at any given
+place and time is culturally determined" (Goldstein & Kintigh 1990:586). In the United
+States, jurisprudence concerning human remains reflects the importance of specific
+rituals for the dead, and was initially based on English, Enlightenment, and Protestant
+ideas concerning death and the body.
+American law is in part based on the English Common Law tradition. Most
+reviews of American law and dead bodies begin their analysis with the pre-Reformation
+era in England, when "the Church and the ecclesiastic courts exercised jurisdiction over
+matters involving dead bodies"(Meyers 1990:183; Columbia Law Review 1905; Van de
+Kamp 1990). In the seventeenth century, burial of dead bodies were in nullius bonis, or
+beyond human property interest, due to the fact that interment belonged to the category
+
+res relisiosae, or things inherently sacred. This put the buried body firmly out of the hand
+of the general law of property and into the hands of the English ecclesiastical courts (J. F.
+
+H. 1926; Meyers 1990; Van de Kamp 1990). After the Reformation, during the
+seventeenth century, the secular courts began to take jurisdiction over matters previously
+subject to the ecclesiastical courts. However, the notion that a corpse was res nullius was
+continued, and, indeed, the American common law tradition upholds that the next of kin
+
+6
+
+have only "a right of possession/or the purpose of burial" (Meyers 1990: 183, emphasis
+added). Early American courts upheld the principle that no property interests exist in
+human remains: the person taking charge of the body merely held it in trust for those with
+an interest in the body, i.e. family and friends.
+However, American courts departed from the English Common Law in finding
+"quasi-property rights" in dead bodies in 1872, in Pierce v. Proprietors of Swan Point
+
+Cemetery (Harvard Law Review, 1896:51 ). Importantly, this quasi-property right is
+extinguished upon burial or cremation of the body (Swain & Marusyk, 1990, p. 12). In a
+second contemporary case, Larson v. Chase, the surviving spouse was deemed to have a
+right of possession of the corpse of his or her spouse, "in the same condition as when
+death occurred, for the purpose of giving it proper care and burial" (Harvard Law
+
+Review, 1896, p. 52). Exceptions are made for autopsies deemed necessary by the state
+(Meyers, 1990, p. 184). Seventy years later, courts also ruled in State v. Bradbury (1939)
+that the disposal of a body by the next of kin in a manner deemed contra bonos mores
+(against common decency), was a common law misdemeanor based on the "subsequent
+effect of the act upon the community" (Harvard Law Review, 1940, p. 1048). Through
+the expansion of common law jurisdiction the courts prosecuted Bradbury for a
+misdemeanor that would otherwise have broken no laws - it was simply shocking to the
+community. While American courts expanded the rights that can be claimed in a dead
+body, adding the idea of quasi-property rights, an emphasis remains upon the "duties" of
+next-of-kin and a sense of community propriety in the treatment of remains.
+Once a body is buried or cremated, however, next-of-kin no longer hold any
+rights in the body. In fact, the state then "exercises a protective function over [the body]
+
+7
+
+against unauthorized removal" (Meyers, 1990, p. 186), and unauthorized removal can be
+punished in criminal courts (Meyers, 1990, p. 186; Sappol, 2002; Van de Kamp, 1990).
+In fact, "no known English or American decision or statute appears ever to have
+recognized title in anyone to interred or disinterred human remains" (Van de Kamp,
+1990). American laws regarding dead bodies are in part based on assumptions of value,
+invested in both goods and morals, shared by the entire community. Kin have "rights" or
+"quasi-property rights" or "sacred duties" in the eyes of the community, and this is what
+is written into law.
+In sum, it has been the opinion of American courts that the next-of-kin have a
+"sacred duty" to bury or otherwise dispose of the body of kin in a manner acceptable to
+the moral standards of the community. Additionally, the next-of-kin have a quasiproperty right to an undamaged body, and hold the body in trust until the act of burial or
+cremation. After burial, it is the state that protects bodies from unlawful removal. In court
+and in everyday language, it is respect for the actions and wishes of survivors and the
+approbation of the community that guides American legal interpretation surrounding dead
+bodies. These points are illuminating when considering the disposition of human remains
+categorized as archaeological resources and the history of discrimination evident in the
+practice of collection the remains of Native Americans, which manages to violate all the
+principles enumerated above.
+Van de Kamp (1990) writes, "The proposition appears universally to be accepted
+that human interments are fundamentally inviolate" in American jurisprudence, and
+"disinterment and disposition of human remains is governed strictly by statute."
+However, many statutes named allow ownership in Native American human remains, and
+
+8
+"the legal protections-which most Americans take for granted-have failed to protect
+the graves and the dead of Native people" (Trope & Echo-Hawk, 2000, p.125). It has
+long been established that the next-of-kin can recover damages for "any outrage,
+indecency, or injury were caused to the body of the deceased" and that the damages stem
+from "emotional interests connected with the dignity of the disposition of the body and ...
+peace of mind [of the next of kin]" (Meyers, 1990, p. 184). Yet this protection has not
+always been extended towards Native Americans.
+The beginning of the twentieth century saw the creation of laws that began a
+legislated century-long federal "ownership" ofNative human remains. In 1906 the
+Antiquities Act was passed, with the immediate purpose of protecting archaeological sites
+on public land in the form of parks and national monuments. However, the Antiquities
+Act ushered in an era of viewing archaeological finds the property of the federal
+government. The act specifies that "archaeological resources," including human remains,
+should be turned over to state and federal museums (Sockbeson, 1990, p. 2). However,
+the common law rules applying to burial grounds undermine the basis for granting
+excavated human remains to museums. Under regular common law of property, there
+exists a doctrine of abandonment that allows landowners the rights to objects and
+resources on their property. However, because bodies are res nulliae, and no one can
+have property interest in a body, abandonment cannot apply to burial grounds and even
+when the identity of a burial ground is forgotten or lost, for "the obligation continues not
+to desecrate the graves or dishonor the dead" (Moore, 1987, p. 5). Even if remains are
+discovered on public land, or in federal parks or monuments, the original treaties drawn
+between the United States and Native American tribes covering these lands do not grant
+
+9
+
+any right to bodies to the government; no treaty expressly grants rights to bodies, and the
+general interpretation of treaties is that they are "a grant of rights from Indian tribes to the
+United States; not as a grant to tribes. Rights not expressly granted are reserved" (Moore,
+1987, p. 6, emphasis in original). The right of the United States government to exhume,
+or exhume and store or display indefinitely, Native American human remains is thus
+contestable.
+Not until the latter half of the twentieth century did bills pass that affected the
+Antiquities Act. In I 960, the Reservoir Salvage Act, which allows for archaeological
+excavations of lands prior to the construction of dams, continued the presumption of
+federal ownership of human remains begun with the Antiquities Act of 1906. The
+language of the National Historic Preservation Act of 1966 seemed to slightly ameliorate
+the practices of the previous sixty years, but Moore (1987) writes that it "results in little
+real substantive change in terms of protecting burial sites" (p. 3). The presumption of
+federal ownership continued with the Archaeological Resources Protection Act [ARPA]
+of 1979, which at least provided a mechanism for tribes to consult with archaeologists
+before excavations begin, and a permitting system for land under the control of tribes or
+individuals.
+Nine years later, the inviolability of Native burial grounds was tested decisively in
+court: in 1986, the case Charrier v. Bell was heard by the Louisiana Court of Appeals.
+The Tunica Biloxi Tribe claimed rightful ownership of material excavated from private
+land, and the Court of Appeals ruled against the private landowner, for the "common law
+doctrine of abandonment did not apply to burial materials" (Moore, 1987, p. 5). This
+ruling occurred in the same year that Senator John Melcher introduced S. 2952, the first
+
+10
+bill to address Native concerns about the disposition of human remains classified as
+archaeological resources (Sockbeson, 1990, p. 3). The bill began a four-year-long process
+of creating a federal-level piece of legislation to address human remains, culminating in
+the Native American Graves Protection and Repatriation Act, 1990.
+
+11
+
+Chapter 3
+NAGPRA in Brief
+Outline of Public Law JO 1-60 I
+
+Before considering the multifaceted process of the creation ofNAGPRA, it is
+important to understand the major provisions of the legislation. The final bill, signed into
+law November 1990, was the attempt of Congress to reconcile four major areas of federal
+law: civil rights, Indian law, property law, and administrative law.
+The act has fifteen sections, and is only ten pages long. It defines key terms
+(Sections I and 2), such as: burial site; cultural affiliation; cultural items including
+associated funerary objects, unassociated funerary objects, sacred objects, and cultural
+patrimony; federal agents and federal lands; Indian tribe; museum; Native American;
+Native Hawaiian; right of possession; tribal lands (U.S. Congress 1990). The choice of
+language in the terms themselves and the definitions were contested elements in the
+drafts of the bill. The third section, "Ownership", ownership or control of cultural items
+(including human remains) is vested in lineal descendants, tribes on whose land the
+objects were found, tribes with cultural affiliation proved with "the preponderance of the
+evidence", tribes who previously occupied the land on which the objects were found, and
+in the case of unclaimed cultural items a reviews committee of Native Americans and the
+scientific and museum communities is established to determine disposal. This section
+also covers the intentional excavation of Native American human remains, which must be
+undertaken in accordance with the Archaeological Resources Protection Act of 1979 and
+with the consult (federal lands) or consent (tribal lands) of appropriate Native American
+
+12
+tribes. If human remains or cultural items are inadvertently discovered, then the Secretary
+of the Interior must be notified and cease any development activity until notified by the
+Secretary or appropriate Native American tribes.
+Section four covers illegal trafficking, and bolsters the extant law by amendment
+with fines and possible imprisonment for knowingly selling, purchasing, using for profit,
+or transporting for sale or profit any Native American cultural items without right of
+possession or in violation ofNAGPRA.
+Section five outlines the inventory requirement for federal agencies and museum
+holding human remains and associated funerary objects. Originally scheduled to be
+completed in five years, most institutions were given extensions in order to adequately
+meet the requirements. While this inventory process requires determining cultural
+affiliation of all Native American collections in federally funded institutions, it is not
+license for "the initiation of new scientific studies" (U.S. Congress 1990, p. 3053). Six
+months after inventory completion, the culturally affiliated tribes must be notified in
+writing and the inventory must be published to the Federal Register. Indian Tribes are
+also allowed access to records kept by museums about the acquisition of the objects.
+Section six outlines a similar process of summary for unassociated funerary objects,
+sacred objects, and objects of cultural patrimony.
+Section seven treats repatriation. After establishing cultural affiliation, institutions
+"shall expeditiously return" cultural items to requesting tribes, and human remains and
+associated funerary objects to lineal descendants or tribes. If the objects or remains are
+part of an "indispensable" scientific study "of major benefit to the United States" then
+they are to be returned 90 days after the study finishes. Native Americans can also prove
+
+13
+that institutions do not have the right of possession and thus repatriate items or remains.
+Institutions must share knowledge with tribes during the process. This section also
+relieves museums from liability for claims that they breached "fiduciary duty, public
+trust, or violations of state laws" (p. 3055).
+Section eight establishes the review committee. The committee, of Native
+Americans, scientists, and museum personnel, monitors and reviews disputed claims.
+Sections nine through fifteen outline civil penalties for museum non-compliance, grants
+for assisting tribes and museums, states the unique relationship between the U.S. and
+Indian tribes, and outlines regulations, authorization of appropriations, and enforcement.
+
+Significance of Provisions
+NAGPRA is an extension of several of the provisions of the National Museum of
+the American Indian Act [NMAIAJ of 1989. This act created a new arm of the
+Smithsonian, the National Museum of the American Indian, out of collections acquired
+from the Heye Foundation's Museum of the American Indian in New York City. The
+NMAIA includes a requirement for the Smithsonian to repatriate human remains and
+cultural items using a similar formula to that later used in NA GPRA, which extended the
+requirement to all institutions receiving federal funding-about 700 across the United
+States (Fine-Dare, 2002:119)-although some have said that "most" of the 8,000
+museums across the United States will be affected (Thornton 1998:399). The NMAIA
+addresses Native American human remains and funerary objects in the Smithsonian's
+collection and outlines a process of inventory, notification, and repatriation, setting the
+precedent for NAGPRA (Trope and Echo-Hawk, 2000: 137). The NMAIA, in tum, was
+the product of preceding bills, all at the state level, which treat repatriation and the
+
+14
+protection of burial sites: the two most commonly cited as inspirations for federal
+legislation are the Kansas repatriation law and that of Nebraska (Trope and Echo-Hawk
+2000:134).
+NAGPRA is broadly seen, through inclusion of Natives at many levels in the
+process of repatriation and consultation, as well as the fact of a repatriation bill in itself,
+to be a partial rectification of wrongs, both historical and current. Trope and Echo-Hawk,
+both lawyers for the Native American Rights Fund, and who were instrumental in the
+crafting of the NAGPRA law, hold that the legislative intent ofNAGPRA is human
+rights: in a parallel to Civil Rights legislation, NAGPRA is based on a doctrine of trust
+insofar as Congress' dealings with Indian affairs "are to be liberally construed for Indian
+benefit" (2000:140). Watkins (2000:50) echoes Trope and Echo-Hawk, citing NAGPRA
+as primarily human rights law as well as important for the deterrence of amateur
+pothunters and private collectors.
+Aside from repatriation, NAGPRA is also significant for its recognition of the
+communal property of Native American tribes, a notion that runs contrary to most
+property law yet is a well-established tradition of many indigenous groups. As McKeown
+remarks ofrepatriation and the recognition of communal property: "Neither idea is very
+new, both reflecting the guarantee of equal protection under the law imagined by
+America's founding fathers and codified in the Constitution of the United States"
+(2002:128). Henry Sockbeson, another staff lawyer at NARF, wrote just after the passage
+ofNAGPRA that it "represents a major federal shift away from viewing Native American
+human remains as 'archaeological resources' or 'federal property' alone" (1990:2).
+
+15
+Overall, NAGPRA is a means of reconciling four major areas of law: civil rights
+legislation, Native American law, property law, and administrative law. Congress
+recognized the differential treatment to which Native Americans were subject, recognized
+tribal sovereignty, clarified the "unique status of the dead" and recognized the failure to
+recognize communal property, and directed the Department of the Interior to implement
+the mandate and regulations of due process (McKeown 2002: 108-109). The first three of
+these areas have been the subjects of historical neglect.
+The historical context of Native American law is crucial for its understanding.
+Native American law is "perhaps the most historically dependent of all areas of
+constitutional interpretation" for it "grows from, and is merged into, the historical
+experience" (Strickland 1998:254). IfNAGPRA represents a major federal shift, and if
+equal protection under the law is now only being guaranteed, an introduction to the
+historical discrimination experienced by Native Americans is warranted.
+
+16
+
+Chapter 4
+Historical Context
+Native Americans and Federal Indian Law
+The U.S. treatment of Native Americans in court and in Congress breaks down
+into five historical periods, with NAGPRA falling into the fifth and current period.
+Following Strickland (1998), these five period are:
+
+I. Formative or Treaty Era, 1789-1871
+2. Period of Assimilation and Allotment, 1871-1928
+3. Time of Reorganization and Re-establishment, 1928-1942
+4. Termination Movement, 1943-1961
+5. Era of Self-Determination and Tribal Revitalization, 1961-Present
+Many authors (Fine-Dare 2002; Bieder 2000; Hinsley 2000; Watkins 2000) treat the
+discriminatory practices leveled at Native Americans over the centuries since European
+contact, so only a brief overview will be addressed here.
+The first of Strickland's eras, from the late eighteenth through most of the
+nineteenth centuries, was marked by a distinctive philosophical view of Native
+Americans that has informed federal policy and public opinion to this day. Based on the
+rationality principles of the Enlightenment, with thinkers such as Thomas Jefferson and
+Count Buffon witnessing and unfavorably judging Native American versus European
+culture, representations of Native Americans "articulated social agendas" such as the
+political ordering of European above non-European (Bieder 2000:19-22; Fine-Dare
+2002:20). The study of"Man" in the nineteenth century centered on scientific principles
+
+17
+with the categorizing of the body (across cultures) as a specimen subject to the medical
+gaze and a fascination with measuring. Samuel Morton's Crania Americana and the
+popular pseudo-science of phrenology drove an evaluation ofNative Americans as
+inferior (Bieder 2000:23).
+A Spencerian vein in archaeology and musewn collecting informed many of the
+practices of the nineteenth and early twentieth centuries toward Native Americans. Belief
+in unilinear evolution of societies also led white Americans to characterize Native
+American societies "as static cultures at a relatively primitive stage of development
+compared with European civilization" (Ferguson 1996:64), and that they would perish in
+competition with European-American culture. The prevalent belief that the Indians were
+dying out, called the "Myth of the Vanishing Indian", spurred the rapid and rampant
+collection of human remains and artifacts across the United States (Weaver 1997:14;
+Ferguson 1996:64). Museums engaged in "wars" to out-collect one another. A corollary
+of this rush to preserve a dying race was the unethical and often illegal acquisition of
+remains and objects. While many items were purchased, unscrupulous activity did occur.
+In the literature treating this period, one frequently quoted incident is that of Franz Boas
+himself despairing of the "unpleasantness" of grave-robbing in the face of his utmost
+belief that someone had to do it (Fine-Dare 2002:41).
+A larger context of empire building and Manifest Destiny informs the practices of
+archaeologists of this period (Watkins 2000:5), who, with the dehistorization,
+commodification, and objectification of Native Americans and Native American culture
+engaged in a musewn process which "constructed a meaning of Indian demise within the
+teleology of Manifest Destiny" (Fine-Dare 2002:13, 21). Complicit in the collecting
+
+18
+practices was the federal government itself, as the Army Medical Corps during the late
+1800s actively collected skulls and artifacts from battlefields and massacres oflndians for
+shipment to museums (Fine-Dare 2002: 32; Harjo 2006). Additionally, the Indian Office
+was engaged in activities to "civilize" the tribes, basically enacting assimilationist
+regulations. These ran the gamut from education policies stifling traditional language
+and culture to intermarriage with whites (Bieder 2000:31). The end of the "Indian Wars"
+in the 1890s marked an upswing in public interest in Native American culture: the
+World's Columbian Exposition of 1893 was complete with live displays ofNative
+American miniature villages and families inhabiting them, showcasing "traditional" life.
+Strickland's "Treaty Era" came to a close and the period of assimilation and allotment
+began.
+Federal legislation began to affect Native American and archaeology in more
+direct ways with the turn of the century. The Federal Antiquities Act of 1906 decreased
+looting and increased the federal government's ability to seize objects as archaeological
+resources and demarcate places as national sites (Fine-Dare 2002; Moore 1987). The act
+established a principle that cultural resources are important to the cultural history of the
+United States and thus need to be protected (Watkins 2000:38); however, this continued
+the focus on Native Americans as a dying race and on archaeological material.
+Native Americans gained citizenship in 1924 with the Indian Citizenship Act. The third
+of Strickland's periods saw Collier's Indian Reorganization Act of 1934, which prevented
+states from impinging on tribes' treaty rights. By the 1950s, however, Congress led the
+termination policy efforts to dismantle reservations and put an end to federal aid
+programs; by 1968, termination was undermined (Fine-Dare 2002:65-68).
+
+19
+The 1960s saw a surge of Native American activism, paralleling the Civil Rights
+Movement. The "Red Power" movement brought issues of discrimination against Native
+Americans into national consciousness, and links between the historic preservation
+movement and Native American were established in the following decade (Watkins
+2000:7). The National Indian Youth Council staged protests such as the Alcatraz Island
+occupation, the Longest Walk march protest contributed to the formation of the group
+American Indians Against Desecration, and the Native American Rights Fund was
+established in 1970 to provide legal assistance to Native Americans (Fine-Dare 2002).
+This fifth era also saw the rise of prominent pan-Indian movements' concern for
+protection of sacred places, burial grounds, and reburial of Native American remains. The
+American Indian Religious Freedom Act of 1978 [AIRF A] was seminal, although
+Watkins (2000) writes that the act had no "teeth", and the Archaeological Resources
+Protection Act of 1979 [ARPA] also had provisions for requesting consultations from
+tribes on whose land excavations were made. 1979 saw, for the first time, Native
+American status equal to that of state and local government agencies relative to the
+control of cultural resources (Watkins 2000:43). However, Moore (1987) still sees, in the
+1979 act, "very little" meaningful change for Native people (3). Eleven years later,
+NMAIA and than NAGPRA marked watershed moments in the growing movement for
+reburial and repatriation on the federal level. Some states had already passed repatriation
+legislation before 1990, but the national movement is significant for it recognizes a broad
+concern over these issues.
+Changes in Archaeology and Social Theory
+
+20
+As Native American law underwent significant changes over the past two
+centuries, the disciplines of anthropology and archaeology have done so as well,
+unsurprisingly given the fair amount of legislative changes concerning both the academy
+and Native Americans. Early archaeology, writes Ferguson (1996:64) was mostly a
+colonialist endeavor meant to aid in the domination of Native American populations by
+Europeans: indigenous people were denigrated and accused of being incapable of
+civilized life. The nascent discipline of American archaeology led to the formation of a
+myth of the "epic potential of America"-the construction of a meta-narrative of
+American democracy-based on the prehistory of Native Americans (Hinsley 2002:3841). The phrenological obsession of the 1800s gave way to Boasian anthropological
+thought, a shift to the development of chronological techniques in archaeology and a
+growing separation between ethnology and archaeology (Bieder 2002; Ferguson
+1996:65). Processual archaeology, developed in the 1960s and 1970s, focused on the
+changes within Native American societies and ecological variables and recognized Native
+American cultures as just "as creative as European cultures," while still focusing on
+universal terms that had little meaning for individual tribes (Ferguson 1996:65). Ferguson
+also sees the development of Cultural Resource Management [CRM] from the 1970s
+onward as a significant change within archaeology, although not within the academy:
+CRM increases knowledge of Native American archaeology at development sites but also
+commodities archaeology by "removing archaeology from the realm of universities into
+the commercial area of contracts and private consulting companies" (66). Watkins (2000)
+sees American archaeology today divided into two: "anthropological archaeology" (a
+better term would be "academic archaeology") which is research-oriented in academia,
+
+21
+and "compliance archaeology" which is business and government based and focuses on
+compliance with regulations (21). While CRM has continued from the 1970s onward,
+processual archaeology ("academic archaeology") has been challenged by, appropriately
+enough, post-processual archaeology (also "academic archaeology"). The post-processual
+school accepts pluralism in archaeology and recognizes that archaeology is neither valueneutral nor possessing of a transcendental objectivity (Thomas 2000:242). Archaeology,
+as the study of the past, "is a social and political practice intimately bound to the context
+in which it is conducted" (Leone and Prence! 1992:115). This can be seen as a general
+trend toward greater self-reflexivity in the field, and within the United States it is in part
+due to criticism by Native Americans (Ferguson 1996:70). Critical theory, as applied to
+archaeology by Leone and Prence! (I 992: 117), emphasizes that knowledge production
+must be understood in its social context, as it is "rarely, if ever, apolitical." The debates
+surrounding reburial and repatriation dramatically emphasize the political nature of
+archaeology.
+The trajectory of American archaeology as seen in its colonialist, processual,
+CRM, and post-processual incarnations, is encompassed by a paradigmatic shift in social
+theory. Boggs (2002) sees this shift occurring in the liberal polity-the "intellectual and
+public life in the West" from "liberal" social theory to "culture" social theory. Liberal
+theory is grounded in the Enlightenment project that embodies the principle of physical
+science as social ideology and social form. It defines itself as grounded in "scientific"
+understandings of human nature and economic law stemming from Hobbes and Locke
+and the social contract based on individual reason and needs (Boggs 2002:60 I). Culture
+theory, on the other hand, "grounds the diversity of human life worlds in natural human
+
+22
+sociality and symbolic faculties," using a Geertzian understanding of culture that
+"decenters the Western experience as one among others" and rejects the claim of
+universality ofliberal theory (601-602). This evolution began in late 20th-century
+scientific thought, ironically enough (Boggs 2002:607). Other than offering a general
+framework for changes within the discipline of archaeology, Boggs' thoughts are
+important for the interactions between changing paradigms of social theory and the law
+as it relates to Native Americans. Boggs' central thesis is that the incommesurability of
+liberal theory and culture theory is demonstrated by the lag time of change in law and
+economic policy (social practice) when compared to change in social theory, and that
+"events in the arenas of U.S. Indian law and policy are ordered and illumined when
+viewed as public arena clashes between liberal and cultural theory" (603). Laws such as
+NAGPRA are "broadly informed" by cultural theory and serve the function of
+introducing this perspective into administrative and legal decision-making, but are
+nevertheless interpreted and defined by extant liberalist institutions (Boggs 2002:603).
+McKeown notes this general backward-looking tendency in law as well, as the
+interpretation of legislation like NAGPRA is guided by established cannons (2002: 109).
+The incommesurability noted by Boggs is remarked upon, albeit in different language, at
+the time ofNAGPRA's passage (Goldstein and Kintigh 1990; Leone and Preucel 1992;
+Meighan 1992) and within the recent literature (Hubert and Fforde 2002; Thomas 2000;
+Zimmerman 1996, 2002) that treats repatriation and its reception among various
+stakeholders, such as Native Americans and museums or academic institutions. A caveat
+must be mentioned, however, as the shift between the two competing paradigms
+presented by Boggs is not straightforward or clear-cut: every group, whether treating the
+
+23
+
+law or archaeology or Natives, has heterogeneous elements that make classifications such
+as "museums" or "Native Americans" too broad and over-general.
+IfNAGPRA is a locus of contention in the process of a paradigm shift, then in the
+social context of its formulation bears closer scrutiny.
+
+24
+
+Chapter 5
+Getting to NAGPRA
+How did NAGPRA come about? A variety of actors, both institutional and
+individual, played a critical role in the development of federal repatriation law. In the
+writings, interviews, and statements made by the various actors and stakeholders in the
+process of negotiating federal repatriation law, the emphases are not always analogous,
+which is understandable given the fact that personal experience shapes one's point of
+view. Archaeologists speak most knowledgably about archaeologists, and etc. A more or
+less chronological account follows, organized by general type of stakeholder, into five
+major groups: tribal cases of reburial brought up under early federal or state laws, panNative American activity, individual professionals, professional organizations including
+universities and museums, and finally Congress. These groups allow a convenient
+organization of chronology, but there is considerable interaction and overlap of goals
+among them. In general, individual cases by tribes drove the formation of state laws that
+informed the pan-Native American activities. Native groups, along with several key
+institutions and academics, took a pro-active stance while professional organizations and
+museums acted primarily in reaction to demands for repatriation.
+Early Rumblings
+
+A broad goal of Native American leaders, articulated in the 1960s, was to earn
+respect from the dominant segments of society. Manifesting in AIRF A, this goal also
+ushered in the first explicitly articulated reburial and repatriation initiatives backed by the
+force of law as protection for reservation land, sacred places, and burial places grew into
+
+25
+a demand for repatriation. Before the passage of the American Indian Religious Freedom
+Act in 1978, there was a concerted effort by Native Americans for the protection of
+sacred places and burial places involving state and federal governments. In 1967
+Cheyenne leaders met at Bear Butte, a sacred site, and agreed to form a coalition of
+Native American leaders to generally seek "respect in general society," including the
+recovery of sacred objects from museums, protection for sacred places like Bear Butte,
+and began meeting on a semi-regular basis across the country (Harjo 2006). One of the
+multifarious goals of the coalition-which went by several names-was the
+establishment of the explicit right of freedom of religion for Native Americans. The
+coalition, with the help ofNARF, and eventually President Carter, was able to get
+AIRF A signed into law in an edited form-"more of a policy statement with certain
+requirements"-than as substantive law as it was originally envisioned by Native
+American activists (Harjo 2006). Unfazed, the coalition continued its work on the
+implementation of AIRF A, which was considered the same work as sacred places
+protection and reburial. The passage of AIRF A represented an acknowledgment of the
+history of discrimination against Native Americans practicing their religions as well as a
+symbol of the extension of constitutional protections (Echo-Hawk and Echo-Hawk
+1991 :63). AIRFA set the scene for more strident and successful reburial requests.
+
+Tribal Requests and State Laws
+The seeds of the legislation ofreburial and repatriation on a national level are
+from individual tribes' reburial requests and state responses from the I 960s until the midl 980s. A specific focus on reburial occurred at the 1971 panel discussion at the Second
+Convention oflndian Scholars in Aspen, at which issues such as the display of human
+
+26
+remains in cultural institutions were discussed and a call was made for a moratorium on
+excavations of burials (Fine-Dare 2002:76). A few significant long-term efforts by Native
+American tribes to regain cultural objects made repatriation particularly topical, such as
+the repatriation of wampum to the Six Nations after 100 years of requests, finally
+honored in 1970, and the repatriation of Ahayu:da war gods to the Zuni (Fine-Dare
+2002:91-94; Watkins 2000:47). Ahayu:da were located around the country in various
+museums and private collections, and many of the repatriation requests made in 1978
+were honored in the 1980s, pre-NAGPRA (Ferguson, Anyan, and Ladd 2000:240). In the
+mid-1980s, a Pawnee burial site called the Salina Pit was the focus of the Pawnee Tribe's
+attempts to end public exhibition of human remains and rebury them (Echo-Hawk and
+Echo-Hawk 1991; Brower and Putnam 1989). A one-year-long study of the illegitimate
+acquisition of goods, undertaken during the Carter Administration also contributed to
+bringing repatriation into the public's eye (Trope and Echo-Hawk 2002:128).
+Several states began to pass laws as a result of tribes' insistence on reburial and
+repatriation. Most notable are laws in California, Nebraska, and Iowa. In California, one
+of the "most sweeping and severe" burial laws was enacted (Fine-Dare 2002:98), while
+Kansas' Unmarked Burial Sites Preservation Act, applying to both public and private
+lands, and Nebraska's Protection Act are noted for forming the basis of the ideas
+enumerated in NAGRPA (Fine-Dare 2002:100-101, 117). Native American tribes also
+began operating their own CRM and preservation archaeology projects (Ferguson
+1996:69). The Pueblo of Zuni, for instance, is an exemplar of a tribal archaeological
+program that worked to alleviate conflict between the tribe's interests and those of
+outsiders (Watkins 2000:11).
+
+27
+Individual Archaeologists
+Not only was the public apprised of the situation and state law changed, tribal
+struggles for control over human remains also had impacts upon archaeologists
+collaborating with or studying the tribes. T. J. Ferguson, an anthropologist working for
+the Zuni Archaeology Program and Larry Zimmerman, an anthropologist at the
+University of South Dakota, for example, were both significantly affected by their
+cooperative work with the Zuni and the Crow Creek Sioux, respectively. Zimmerman in
+particular was very vocal about his beliefs in the importance of repatriation during the
+1980s, and his advocacy activities in the World Archaological Congress [WAC] and the
+SAA (Zimmerman 1986, 1987, 1989, 1996, 1997, 2002). Occupying the opposite side of
+the spectrum of archaeologists' opinions on repatriation is Clement Meighan, who, above
+his outspoken criticism of repatriation in SAA publications (1992) and books (2002) also
+helped form the American Committee for the Preservation of Archaeological Collections
+[ACPAC], which protests the repatriation of unnamed individuals.
+Pan-Indian Activism
+Suzan Shown Harjo, a Native American activist and writer, sees the beginnings of
+organized pan-Native American efforts to discuss and act upon reburial issues in the late
+1960s. Harjo, one of the members of the unnamed sacred places/reburial/AIRFA
+coalition from its inception, recalls that the term "repatriation" was not in general use
+until the late l 970s when Native Americans, including herself, began seriously meeting
+with government officials (2006). She traces the use of the term "repatriation" to the
+repatriation of those killed in action on foreign soil, noting that the effort extended to
+soldiers should provide an analogy to the desire of many Native American tribes to
+
+28
+rebury their own dead, some of whom were killed in violent interactions with American
+soldiers (Molotsky 1989; Harjo 2006). An explicit goal of the coalition was to enact
+federal-level repatriation law in order to regularize the patchy state laws and standardize
+irregular enforcement.
+Vine Deloria, Jr., a Native American academic and critic, brought the repatriation
+issue into the mainstream with the publication of Custer Died for Your Sins: An Indian
+
+Manifesto in 1969. Followed by other works exploring the relationship between
+archaeology, the academy, and Native Americans, Custer Died for Your Sins was the
+initial open challenge to anthropology, a "scathing attack" that challenged the "validity of
+anthropological intent, method, and product" (Zimmerman 1997:92). The book was
+published for a wide audience, not specialists, and the chapter deriding anthropologists
+was even published slightly before the book, in Playboy (Deloria 1969a). Zimmerman
+sees Deloria's work as part of a larger critique of social or cultural anthropology that led
+to reexamination and a the publication of an ethics guide by the American
+Anthropological Association [AAA] in 1976 which stated professional responsibilities
+toward living subjects but which did not affect archaeology per se (1997:92). The rise of
+more militant organizations, such as the American Indian Movement (responsible for the
+takeovers of Alcatraz and Wounded Knee) and American Indians Against Desecration, as
+well as the more moderate National Congress of the American Indian and the Native
+American Rights Fund, all in the late 1960s and early 1970s, began to focus attention
+upon reburial concerns (Riding In 2002:110; Zimmerman 1997:92). The NCAI, endorsed
+by Deloria in 1969, and NARF, founded in 1970, are seen by James Riding In (2002) as
+taking a more "conciliatory" stance in the 1980s and comprised mostly of law and
+
+29
+political professionals (111). NCAI and NARF, in particular, were jointly involved in
+several activist projects, and there was a high degree of networking between the
+organizations as well as between individuals such as Harjo and Walter Echo-Hawk and
+key political players in the Smithsonian and in Congress.
+Harjo, as a Washington insider having served with the Carter Administration, had
+political ties to both congressmen and, as the executive director of the NCAI in the 1980s
+and the original sacred places/reburial/AIRF A coalition, to Native American leaders
+around the nation. She helped mobilized newspaper editorial campaigns and was
+interviewed for a PBS special, and along with Walter Echo-Hawk, the legal aid ofNARF
+and political consultants, prepared lawsuits on human rights premises against institutions,
+primarily the Smithsonian, that were unresponsive to requests for repatriation (Harjo
+2006, 2007). Changes in the administration of the Smithsonian and the threat of pending
+lawsuits spurred, according to Harjo, meetings with the Secretary that in the end resulted
+in the NMAIA and, with the backing of sympathetic Senators such as Daniel Inouye and
+John McCain, NAGPRA.
+Institutions and Professional Organizations
+Early repatriation efforts were not confined to the activities of Native American
+interest groups. The Society for Professional Archaeologists [SOPAJ, an offshoot of the
+SAA (and now the Registry of Professional Archaeologists) embraced Native American
+input into their codes of ethics, followed by the World Archaeological Congress [WAC].
+Significantly, WAC held a meeting in Vermillion, South Dakota inl989 at the University
+of South Dakota that included Native Americans as well as archaeologists. Organized by
+Larry J. Zimmerman, the WAC outlined an ethical statements and policy guideline called
+
+30
+the Vermillion Accord (Zimmerman 1996, 1997). Seen by some as a more extreme
+approach than that of SOPA, the WAC code of ethics also was the beginning of a shift of
+power to what is called "covenantal archaeology" (Marshall 1989; Zimmerman 1996).
+Covenantal archaeology involves a relationship of trust between archaeology and Native
+Americans with a benefit accruing to those being studied (Zimmerman 2002:301). Six
+defining principles of the Accord explicitly include the "need to respect the wishes of the
+dead and the local community" and concurrently, the "need to respect the scientific
+research value of human remains" (Marshall 1989:1186).
+Zimmerman, influential at the WAC meeting, developed ties with Jan Hammil of
+American Indians Against Desecration, a group that worked toward reburial and
+repatriation (Zimmerman 1987). Zimmerman and Hammil took the WAC code of ethics
+and a message of cooperation to the Society for American Archaeology meetings in 1982
+following the Vermillion Accord, where they were met with well-disguised but deepseated ambivalence and antagonism (Zimmerman 1987, 1989). However, despite the
+initially cold reception by archaeologists at the SAA meetings, Zimmerman sees the
+covenantal archaeology embraced at WAC as a pivotal recognition within the discipline
+that changes were underway. The Vermilion Accord was also a source that directly
+informed Congress that negotiations were possible between Native Americans and
+archaeologist, effectively putting "intense pressure" on the American scientific
+community to come to terms with federal repatriation legislation (Zimmerman 2002:93).
+Clement Meighan, a voice of opposition against widespread repatriation, founded
+the ACPAC based on the fear that once repatriation was underway, there would be no
+
+31
+stopping point and all research collections would be decimated (Marshall 1989: 1186;
+Meighan 1992, 2000).
+The American Anthropological Association [AAA] was not immediately
+embroiled in the repatriation debate, as the professional organization is not focused only
+upon archaeology. However, a committee was created in 1970 that drafted a statement of
+professional responsibility that was adopted by the AAA membership that year as the
+Principles of Professional Responsibility (American Anthropological Association 1998;
+Watkins 2000:25). The Principles embraced the idea that the primary responsibility of
+any anthropologist is to his or her subjects: this means that a study, archaeological or
+ethnographic, that causes harm to the subject must ethically be discontinued. In 1990 the
+AAA voted revisions, but did not include a specific treatment of ethic for anthropology of
+indigenous groups (Marshall 1989:1186; Watkins 2000:27). Nevertheless, the central
+tenet laid out in 1970 of primary responsibility to the anthropologist's subject provided a
+basis for some of the arguments for professional codes of ethics to include references to
+Native Americans, or at least to the populations affected by archaeological study
+(Zimmerman 1989).
+The Society for American Archaeology, however, met early requests for
+repatriation and reburial with recalcitrance. Between 1983 and 1985, Marshall believes
+that the SAA had a distinctively anti-repatriation stance, which was moderated in 1985 to
+encompass a case-by-case stance toward repatriation, with the acceptance of reburial
+primarily for those remains that could be proved to be the predecessors of living lineal
+descendants (1989: 1186). This position was widely touted in the media and by members
+of the organization, with requests for all human remains considered, for the most part,
+
+33
+The Smithsonian, with a repository of about 18,500 Native American remains,
+was a highly symbolic institution in the repatriation issue. Unresponsive to demands for
+repatriation and even requests for meetings, the Smithsonian presented a bulwark of antirepatriation sentiment. Curators such as Douglas Ubelaker, Doug Owsley, and Donald
+Ortner were particularly vocal in newspaper and magazine coverage of the issue, framed
+as an intense debate by the media (Barringer 1989; Browne 1986, 1990; New York Times
+1989; Robbins 1988). For years, argues Marshall (1989), the Smithsonian was "the most
+visible holdout against the movement" (1184). By 1989, however, the Smithsonian
+underwent a "reversal" in their policy and began repatriations (Deloria 1989:2).
+
+Congress and Federal Legislation
+Over 26 different bills were introduced on Capitol Hill in a four-year period that
+attempted to forge a compromise with Native Americans demanding the right to rebury
+human remains, the federal government, and professional and academic interests in the
+study of Native American remains currently in the possession of museums across the
+country.
+Senator John Melcher introduced S. 2952 to create a forum for the resolution of
+disputes over human remains and Native American artifacts in the possession of
+museums and universities, marking a shift in federal legislative intent (Sockbeson, 1990,
+p. 3). S. 2952 was dismissed early in the process due to lack of support. But the Melcher
+Bill was followed by the introduction of legislation from Representative Udall and
+Senators Inouye and McCain over the next four years, which garnered bipartisan support
+
+in both houses. Senator Inouye, in particular, was noted in the press for his sponsorship of
+"Bones Bills" (Spotted Elk 1989). Suzan Shown Harjo (2006) remembers meeting with
+
+34
+Sen. Inouye in his office in Washington D.C. overlooking the Mall, while the Senator
+pointed out the gap between Smithsonian buildings in which he wanted to build a
+museum of the American Indian.
+Out of the twenty-six proposed bills, two laws were created: the NMAIA in 1989
+and NAGPRA in 1990. By 1990, the language of the bill had been hammered out in the
+Senate Select Committee on Indian Affairs and in the House Committee on House and
+Insular Affairs. Testimonies were presented by Paul Bender of the National Dialogue on
+Museum/Native American Relations; Thomas Livesay, Edward Able, and Raymond
+Thompson of the AAM; Keith Kintigh of the SAA; Lynne Goldstein as an interested
+individual; Walter Echo-Hawk and Henry Sockbeson from NARF; Edward Lone Fight
+from the Fort Berthold Tribal Council I North Dakota; Norbert S. Hill, Jr. from the
+American Indian Science and Engineering Society; Jerry Flute and Jack F. Trope from
+the Association on American Indian Affairs; and Martin E. Sullivan of the Heard
+Museum.
+All in all, Congress was not "acting unilaterally ... passage of the bill was
+supported by national organizations representing museums, archaeologists, physical
+anthropologists, cultural anthropologists, preservationists, Indian tribes, civil libertarians
+and eighteen religious denominations" (McKeown 2002: 108). Letters cosigned by the
+AAIA, NCAI, NARF, and SAA were sent to Representative Morris Udall, Chair of the
+House Committee on Interior and Insular Affairs, and President Bush endorsing the final
+draft (Society for American Archaeology 1990). The AAM sent a separate letter to the
+same effect (Ibid.). The only major dissenting voice heard by 1990 was the Department
+of the Interior (Deloria 1989:2; McKeown 2002:108).
+
+35
+In the end, when H.R. 5237 came up for a vote in the House, it passed
+unanimously; in the Senate, a voice count was taken, indicating that the vote was not a
+close one, and it carried in favor of the bill (KcKeown 2002:108). President Bush singed
+the bill into law November 16, 1990.
+Working Together
+These five main groups of actors, individual tribal/state repatriation, individual
+archaeologists and museum professionals, pan-Native American organizations,
+professional organizations, and the U.S. Congress, all informed the actions of the other
+groups. Individuals crossed group boundaries, and individuals within the groups were
+catalysts for group- or organizational-wide changes. Individual instances of tribes
+working with specific archaeological activity and repatriation efforts, such as Zuni or the
+Crow Creek site, became example cases either for Native Americans as repatriation
+victories or for archaeologists as examples of beneficial cooperation. They also raised the
+issue ofrepatriation and burial site protection in individual states and were the impetus
+for state laws on repatriation. The state laws and negative examples from museums and
+historical societies informed the participants in pan-Native American activity that focused
+on repatriation and burial site protection on a federal level. Congress came to be involved
+through the influence of particular representatives and senators. Professional
+archaeological and anthropological organizations, while largely conservative and slow to
+change, eventually moderated their policy and ethics statements once federal repatriation
+was seriously considered in Congress; some, however, embrace repatriation, while others
+decried it. Public sentiment was reported to fall on what was categorized as the Native
+American "side", which had concomitant effects of raising support in Congress.
+
+36
+While deeper-seated changes were afoot, such as who has legitimacy to create
+knowledge about the past, and perhaps as well human rights and an end to differential
+treatment, pre-NAGPRA repatriation discourse deeply involved the comparatively small
+number of professional archaeologists and anthropologists, museums, and spokespeople
+for Native American tribes and individuals. This is demonstrated in the
+interconnectedness of the efforts for and against repatriation.
+
+37
+
+Chapter 6
+Motivation and Discourse
+While much has been written about NAGPRA and its influences in retrospect, the
+debates over repatriation between the groups of actors enumerated above prior to
+NAGPRA and immediately after it became law are important as a means of tracking the
+process of negotiation and to a certain extent the changes made within the discourse of
+the archaeological discipline and museum practices. Publications and statements made by
+individuals in newsprint, magazines, books, peer-reviewed journals, and before Congress
+illuminate a gradual process of acceptance of repatriation that is nevertheless still
+controversial, especially in terms of implementation. Opinions and debates are framed
+within several major categories of argument, discussed below. Major sources for this
+discussion include twenty years of New York Times articles, editorials, and letters-to-theeditor, from 1980 to 1999; SAA materials recently made public on the SAA web
+(www.saa.org) concerning the organization's lobbying efforts, ethical statements, and
+letters of endorsement, dating back to 1983; a general review of scholarly literature; and
+both unpublished and published Congressional Committee hearings and testimonial
+statements.
+Neither proponents of repatriation nor opponents of repatriation were
+homogeneous, nor were they as polarized or incommensurate as media made them
+appear. However, there are certain trends that are apparent and rhetorical strategies are
+generally split between "progressive" and "conservative" views.
+
+Personal and Impersonal
+
+38
+One rhetorical trend is the emphasis on personal experience, which contrasts with
+a trend toward a more universalistic position that removes the individual from the picture.
+These rhetorical strategies map onto Boggs' framework of a paradigmatic shift from
+liberal theory to culture theory.
+Many of the arguments from Native Americans, Native American groups, and
+academics seen by others as linked to Native American causes use a strategy in the
+arguments for repatriation and for federal legislation that relies on an introduction of
+personal background. This background informs their position on repatriation, usually
+motivating them to seek wider acceptance of repatriation.
+For example, Suzan Shown Harjo, who was executive director of the NCAI
+during the 1980s and who was highly involved with repatriation legislation efforts with
+Walter Echo-Hawk and Senator Daniel Inouye, as well as being a Heye Foundation
+trustee, frequently frames her involvement with repatriation in terms of her personal
+background. In an interview May 2006, she spoke extensively of the influence certain
+museums had upon her in visits to collections which informed her decision to become
+involved with repatriation efforts and the sacred places/repatriation/AIRFA coalition. A
+trip to the Museum of the American Indian in New York in 1965 which she describes as
+"a terrible place" at the time, "filled with things that should not have been there,"
+including burial garments that her mother believe she had made for her own grandfather
+(Harjo 2006). She also had relatives killed at the Sand Creek Massacre in 1864, from
+whom crania were amassed by the Army Medical Corps and eventually stored at the
+Smithsonian, a fact that she discovered on the eve of negotiations with the Secretary of
+the Smithsonian over the language ofNMAIA and which influenced her to take a harder
+
+39
+line in negotiations (Harjo 2006). She also mentions in her 2006 interview that educating
+Smithsonian officials about the personal feelings she held helped her negotiations.
+Robert McCormick Adams, the new Secretary of the Smithsonian in the midl 90s, collaborated with Harjo and other museum leaders such as Thomas Livesay of the
+Heard Museum over the language ofNMAIA, which was expanded upon in NAGPRA.
+Harjo recalls that Adams, for most of the negotiations, balked at the NCAI preferred
+language of repatriation that covered tribal affiliation, not just the remains of lineal
+descendants. However, when she brought it to Adams' attention that her relatives killed
+in the Sand Creek Massacre were curated at the Smithsonian, Adams was more amenable
+to more inclusive changes in the language of the bill (Harjo 2006).
+Larry Zimmerman presents another example of a professional archaeologist who
+was influenced by personal experience. His involvement with the Crow Creek Massacre
+site of Sioux in the early 1980s led him to form ties with the AIAD and a pro-federalrepatriation stance. He directly credits his involvement with WAC and the SAA to his
+positive experiences cooperating with Native Americans on excavations (Zimmerman
+1986, 1987, 1989).
+Language to a similar effect is also apparent in many arguments for repatriation in
+the news that utilize ancestors or family. Walter Echo-Hawk, for example, is quoted in an
+interview by People Magazine about the Pawnee remains in the Salina Burial Pit
+referring to a need to rebury the remains, his "ancestors" (Brower and Putnam 1989:43).
+This article also interviews Tom Witty, an archaeologist employed by Kansas State, who,
+with cooperation with Echo-Hawk, had a "change of heart" after his initial "appalled"
+reaction to requests to rebury archaeological evidence (Brower and Putnam 1989:44).
+
+40
+Suzan Shown Harjo also uses a similar rhetorical strategy in interviews with news
+reporters: she questions what readers would do if their own grandfathers were on display
+(Lewis 1986) as well as remarks that her own forefathers were killed in a massacre and
+their skulls collected (Molotsky 1989). Before the passage of the NMAIA, the NCAI and
+the Native American coalition on sacred places/repatriation also waged a media
+campaign in which hundreds of editorial letters were sent to hometown newspapers of
+Congressmen urging federal repatriation legislation. Over 500 papers carried the
+editorials, and PBS also aired a programs that was shown around the country (Harjo
+2007).
+Additionally, in an article seven years after the passage ofNAGPRA, the same
+style of argumentation is used by Melissa Fawcett of the Mohegan Tribe: she remembers
+that as a girl she knew of grave robbing and the theft of sacred objects, including that of
+her direct ancestors, and "wondered how we could get them back" (Weizel 1998). These
+arguments are based on arousing a sense of moral outrage, as those who hear of the
+desecration of family members' graves are implicitly, and in some cases explicitly (Lewis
+1986; Spotted Elk 1989), asked to imagine themselves in the same position. As Harjo
+remarks, "Everyone could understand that something was wrong" when they heard the
+number of specimens in the Smithsonian's collection and that the Smithsonian was
+reluctant to return any of them (Harjo 2007). The moral outrage that Clara Spotted Elk,
+staff member for Representative Melcher, attributes to Melcher when he learned of the
+number of Native American remains housed in the Smithsonian speaks to the power the
+argument can have (Preston 1989:68).
+
+41
+
+The general public, Congressmen, and members of the professional archaeology
+and museum communities were the targets of arguments made for repatriation that
+included personal anecdotes about relatives. Similarly, professionals influenced by their
+own participation with Native Americans seeking repatriation also formed arguments for
+repatriation for their profession using their personal experiences.
+A contrasting rhetorical strategy is that of distinctly impersonal argumentation.
+Many of the opponents of federal repatriation legislation used language that emphasized
+more abstract ideas such as "knowledge", "science", and "professional responsibility"
+that are not grounded in emotional individual accounts. As can be imagined, this type of
+language is more often found in statements of museums and professional or academic
+organizations. Some have commented that the values expressed in these arguments were
+not as persuasive to the general public due to a general distaste for academia as elitist
+(Preston 1989:70).
+During the 1980s, as repatriation legislation loomed in Congress, the coverage of
+the topic in the media included this global-oriented language through interviews with key
+academics and museum professionals. For instance, an editorial by Force (1985) of the
+Heye Foundation in New York City (which later sent much of its Native American
+collections to the NMAI) remarks on the purpose of museums to hold their collections "in
+trust" for the public good. Ortner and Ubelaker, both of the Smithsonian, are quoted in
+the news as opposing repatriation due to responsibilities to study and care for collections
+in the "interest of the Indians as well as the scientists" (Browne 1986) for it is a
+"safeguarding a collection that belongs to all peoples" (Lewis 1986). Douglas Ubelaker
+took a solid anti-repatriation stance for unnamed remains, commenting that with
+
+42
+repatriation, "they're going to destroy them, along with their scientific value" (Robbins
+1988). A 1990 article, just prior to the creation ofNAGRPA as law, reported that "many
+Indian leaders" wanted remains and artifacts back "regardless of the loss to science"
+(Browne 1990). Ubelaker is quoted in the same article, saying that science with
+"inevitably" be the "loser" (Ibid). Similarly, Clement Meighan, a professor of
+anthropology at UCLA, remarked after NAGPRA in 1990 that repatriation will destroy
+all the significant collections and he says, consequently, "you've just wiped out the total
+history of the Indians in North America" (Mydans 1990). These interviews express the
+idea that science as a way of knowing, as well as the history that science reveals, is of
+paramount importance.
+In 1990 committee hearings in the Senate and the House of Representatives over
+the bills that became NAGPRA, there is a tendency for the emphasis on ideals grounded
+in the impersonal. The AAM statement before the Senate Select Committee called for the
+recognition of the nature of scientific study and emphasized that "all research is
+important and all research is beneficial" (Able N. d.). Native American interests are cast
+as narrow interests in comparison to the "broader" scientific and public interest (Kintigh
+N. d.). The Director of the Heard Museum, although generally pro-repatriation, evokes
+the general thrust of most of these global arguments, at least from the museum
+community perspective: museums are fiduciary institutions "incorporated to act in trust
+for the public benefit" (Sullivan N. d.). It is the nature of the public benefit that is
+contested in the hearings. Lynne Goldstein, in her testimony before the House Committee
+on Interior and Insular Affairs, remarks, "the heritage of this country is too important and
+too fragile to leave to proposals that may not be carefully considered by all parties"
+
+43
+(Goldstein N. d.). As above, ideals of heritage, science, and knowledge are prominently
+emphasized alongside the endorsements of case-by-case repatriation (not federal
+legislation) and the limiting ofrepatriation to named remains and stolen objects.
+Post-NAGPRA, peer-reviewed articles also evinced similar global arguments.
+Meighan, for example, insists in The Public Historian that "the public interest in
+sacrificed to special interest groups" because of the loss and destruction ofremains and
+objects allowed through NAGPRA (1992:40). As Klesert and Powell (1993) note, a
+culturally embedded concept informs this discourse, for it is based upon an "appeal to
+science as necessary for the discovery of 'truth'" and that science outweighs cultural
+costs or objections (349). Personal appeals to morality or decency find their counterpoint
+in global, impersonal arguments for the general public trust and the advancement of
+science, from the New York Times to Congress to the pages of scholarly journals.
+Rights and Constitutionality
+
+Rights and freedoms are also the focus of much of the discourse surrounding
+federal repatriation legislation. Religious freedom, academic freedom, human rights, and
+the rights of scientists were four major categories used to frame opinions and moral
+judgments about repatriation.
+"Religious freedom" was a rallying point for much of the pre-NAGPRA
+"progressive" discourse. After AIRF A legislated freedom ofreligious specifically for
+Native Americans, religious freedom was used as a negative example: arguments for
+repatriation were couched in language that endorsed repatriation as the rectification of
+violations of the freedom ofreligion. However, the argument was easily construed in the
+press as a confrontation between religion and science, a topic that has continually
+
+44
+fascinated reporters, the public, and legislators in a variety of settings, from headscarves
+in schools to intelligent design. Freedom of religion was neither frequently mentioned in
+Congressional testimonies nor in academic journals when pro-repatriation stances were
+expressed, and it is not explicitly part of ethics statements, although museums and
+professional organizations do make broad use of the term "respect", which can include
+respect of religious beliefs.
+Similarly, "academic freedom" is not often used to critique repatriation in more
+recent publications on the topic, although the bogeyman of book-burning was frequently
+raised in newspapers pre-NAGPRA. The phrase was not mentioned in congressional
+hearings in 1990, and has not been a recent subject in peer-reviewed literature, except as
+an example of miscast suspicions before NAGPRA was implemented. For example,
+Joyce writes that accusations that repatriation curtailed academic freedom are misplaced,
+as academic freedom means freedom to think and express ideas, not to act (i.e. curate
+human remains or perform research upon them) (2002:99). It seems that this vein of
+discourse proved, for the most part, ineffectual, and so has been dropped from the
+majority of publication on the topic.
+Human rights were almost universally mentioned by Native Americans and prorepatriation individuals and groups. While arguments about personal ties to remains or
+objects curated by museums and the Smithsonian were generally absent from the
+testimonies presented before Congress, human rights were specifically mentioned.
+Human rights were also brought up a significant portion of the time in the context of
+personal narratives as well in news sources and interviews, although the language was
+less formal and the term "human rights" was not always used. However, the general sense
+
+45
+
+in many of these accounts, specifically in newspapers, is that fundamental decencies
+universal to all people were denied to Native Americans. The idea of inequality before
+the law and the rectification of discrimination are two ideas linked to human rights that
+were also frequently used. In academic debates over NAGPRA in scholarly journals, and
+between members of the professional societies in journals, the idea of the violation of
+human rights is used to oppose more conservative stances for narrower, less inclusive
+repatriation policies. Arguments for broad, inclusive repatration legislation were wellgrounded in legal precedent provided by human rights law, which was presented in
+Congress (Echo-Hawk, N. d.; Sockebeson N. d.). Much of the retrospective literature
+treating NAGPRA, published a decade or more after the law passed, cites NAGPRA as a
+mostly successful rectification of human rights violations. The changes in museum
+policies and professional organization ethical statements have come to incorporate human
+rights language, generally implicit, in an example of Zimmerman's observation of
+syncretism over NAGPRA. As NAGPRA seems to have successfully been cast in public
+opinion as human rights law, then the maintenance of an anti-NAGPRA stance connotes
+anti-human rights as well.
+Arguments for the right of scientists-and archaeologists as well-to examine
+human remains and the rights or responsibilities of museums to curate human remains
+and culturally significant objects were frequently made in the 1980s and early 1990s, but
+taper off as NAGPRA is successfully implemented and repatriations are made to tribes.
+While there are still strong elements of insistence upon the importance of research,
+especially concerning Kennewick Man, post-NAGPRA reporting emphasizes a sense of
+loss combined with avowals of the importance ofrespect to the subjects studied/curated
+
+46
+and the idea that the fields of archaeology and museum studies are in fact benefited by
+more responsible relationships with Native American tribes. It would be foolish to
+consider the amended opinions, post-NAGPRA, as merely sour grapes; rather, the fear of
+complete loss of collections and research subjects was proven to be mostly unfounded
+and a gradual "sea-change" occurred in the opinion toward repatriation (Sabloff 2007).
+Joyce, an anthropologist herself, sees this as a change from an emphasis on rights to an
+emphasis on responsibility (2002: I 02). Many museums include in their charters language
+to the effect that they are public trusts. While this fiduciary responsibility was held at first
+to be in opposition to repatriation (or at least, those running museums cast it as such),
+public trust has been re-interpreted to encompass the Native American population (Weisz
+and Adams 2000). Additionally, some museums have seen benefits from the higher
+degree of involvement with Native Americans as the institutions work toward becoming
+"living institutions", as past director of the Heard Museum, Martin Sullivan, puts it
+(Blumenthal 1999; Sabloff2007).
+Zimmerman describes changing attitudes towards repatriation as a "classic
+syncretism" in which archaeologists and Native Americans are brought into partnerships
+with archaeologists (I 997). In an examination of several strains of the discourse
+surrounding the inception ofNAGPRA, it seems that the personalization of repatriation
+and the idea of repatriation as human rights legislation are the two most significant
+factors in this process, not only among professional archaeologists but in the eyes of
+lawmakers and the public as well. Boggs, in his treatment of what he views as a
+"paradigm shift", relegates NA GPRA to an endnote example, but the changes in attitude
+
+47
+
+and in law reflect his statement that there is a shift underway "not away from but within
+science" (2002:600).
+
+48
+
+Chapter7
+Conclusion
+Some have argued that archaeology as an academic discipline can be seen as a
+"culture." If so, I would posit that in the last three decades, archaeology-as-culture has
+dramatically exemplified the cultural anthropological definition of culture as a contested
+process of meaning making. NAGPRA, most spectacularly in its provisions for the
+repatriation of unknown individuals to "culturally affiliated" tribes and the repatriation of
+unassociated, sacred, and cultural patrimony objects, as the federal law NAGPRA
+represents a frozen moment in the process of making meaning.
+Discourse surrounding the conception and the drafting of the law, from a variety
+of sources, shows a general change. An acceptance of the argument that NAGPRA and
+repatriation are human rights efforts comes to dominate post-NAGPRA, while discourse
+about religious freedom, academic freedom, and the rights of scientists are downplayed.
+Important to this change are personal examples demonstrating what can be described as
+human rights violations, or at least violations of basic decency.
+However, while the process by which the law was conceived and drafted may be
+considered a compromise or negotiation between interested stakeholders, the Act is
+exactly that: a legal document. In defining such terms as "Native American", "human
+remains", "sacred objects", and the actors involved, federally recognized tribes and
+federally funded institutions, NAGPRA defines boundaries upon the material world that
+are subject to the interpretation of the American legal system and its courts based on past
+precedent. There is no compromise or negotiation of the law, only the creation of the law.
+
+49
+
+Nevertheless, amendment processes since NAGPRA's passage offer new opportunities to
+redefine or renegotiate these boundaries.
+
+50
+References
+
+Able, Edward H.
+N. d. Submission to Daniel K. Inouye on behalf of American Association of
+Museums, Addition to Testimony delivered May 14, 1990. June 4, 1990.
+Unpublished MS. American Association of Museums.
+American Anthropological Association
+1998 Code of Ethics of the American Anthropological Association. Electronic
+Document. Retrieved May I, 2007 from
+http://www.aaanet.org/committees/ethics/ethcode.htm.
+Barringer, Felicity
+1989 Major Accord Likely on Indian Remains. New York Times August 20,
+I 989: 22.
+Bieder, Robert E.
+2000 The Representations oflndian Bodies in Nineteenth-Century American
+Anthropology. In Repatriation Reader: Who Own Native American Remains?.
+Devon A. Mihesuah, ed. Pp. 19-36. Lincoln, NE: University of Nebraska
+Press.
+Blumenthal, Ralph
+1999 Making Peace With Museums To Celebrate Their Culture. New York
+Times May 13, 1999: El.
+Boggs, James P.
+2002 Anthropological Knowledge and Native American Cultural Practice in the
+Liberal Polity. American Anthropologist 104(2):599-610.
+Brower, Montgomery and Putnam, Conan
+1989 Walter Echo-Hawk Fights For His People's Right to Rest in Peace-Not in
+Museums. People Magazine 32(10):42-44.
+Browne, Malcolm W.
+1986 Smithsonian Bones Reveal Tales of Suffering Long Ago. New York Times
+March 18, 1986: Cl.
+Callahan, Joan C.
+1987 On Harming the Dead. Ethics 97(2):341-352.
+Columbia Law Review.
+1905 Nature of rights in a dead body. Columbia Law Review 5:543-544.
+Delaney, D.
+200 I Making nature/marking humans: Law as a site of (cultural) production.
+Annals of the Association of American Geographers 91 :487-503.
+Deloria, Vine Jr.
+1969a Anthropologists and Other Friends. From Custer Died for Your Sins: An
+Indian Manifesto. Playboy Magazine 16(8):131-132, 172-175.
+1969b Custer Died for Your Sins: An Indian Manifesto. New York: Avon Books.
+1989 A Simple Question of Humanity: The Moral Dimensions of the Reburial
+Issue. NARF Legal Review 14(4):1-12.
+Echo-Hawk, Walter, and Echo-Hawk, Roger
+1991 Repatriation, Reburial, and Religious Rights. In Handbook of American
+Indian Religious Freedom. Christopher Vecsey, ed. Pp. 63-80.
+
+51
+Ferguson, T. J.
+1996 Native Americans and the Practice of Archaeology. Annual Review of
+Anthropology 25:63-79.
+Ferguson, T. J., Anyon, Roger, and Ladd, Edmund J.
+2000 Repatriation at the Pueblo of Zuni: Diverse Solutions to Complex
+Problems. In Repatriation Reader: Who Own Native American Remains?.
+Devon A. Mihesuah, ed. Pp. 239-265. Lincoln, NE: University of Nebraska
+Press.
+Fine-Dare, Katherine
+2002 Grave Injustice: The American Indian Repatriation Movement and
+NAGPRA. Lincoln, NE: University of Nebraska Press.
+Force, Roland W.
+1985 [Letter to the Editor]. New York Times April 6, 1985: 18.
+Goldstein, Lynne
+N.d. Statement for Committee on Interior & Insular Affairs U. S. House of
+Representatives: Hearing on H. R. 164 & H. R. 1381. July 17, 1990.
+Unpublished MS.
+Goldstein, Lynne, and Kintigh, Keith.
+1990 Ethics and the reburial controversy. American Antiquity 55:585-591
+Harvard Law Review
+1896 Nature of the rights in a dead body. Harvard Law Review 10:51-52.
+1940 Criminal law, dead bodies, 'indecent' cremation held a common law
+misdemeanor. Harvard Law Review 53:1047-1048.
+Hinsley, Curtis M. Jr.
+2000 Digging for Identity: Reflections on the Cultural Background for
+Collecting. In Repatriation Reader: Who Own Native American Remains?.
+Devon A. Mihesuah, ed. Pp. 37-55. Lincoln, NE: University of Nebraska
+Press.
+Hubert, Jane, and Fforde, Cressida
+2002 Introduction: the reburial issue in the twenty-first century. In The Dead and
+Their Possessions: Repatriation in principle, policy, and practice. Cressida
+Fforde, Jane Hubert, and Paul Turnbull, eds. Pp. 1-16. One World
+Archaeology Series. London: Routledge.
+J. F.H.
+1926 The nature of rights in a dead body. University of Pennsylvania Law
+Review and American Law Register 74:404-407.
+Joyce, Rosemary A.
+2002 Academic freedom, stewardship, and cultural heritage: weighing the
+interests of stakeholders in crafting repatriation approaches. In The Dead and
+Their Possessions: Repatriation in principle, policy, and practice. Cressida
+Fforde, Jane Hubert, and Paul Turnbull, eds. Pp. 99-107. One World
+Archaeology Series. London: Routledge.
+Kintigh, Keith W.
+N.d. Society for American Archaeology Attachment to the Statement on H.R.
+5237 Native American Grave Protection and Repatriation Act: For the House
+
+52
+Committee on Interior and Insular Affairs July 17, 1990. Unpublished MS.
+Society for American Archaeology.
+Klesert, Anthony L., and Powell, Shirley
+1993 A Perspective on Ethics and the Reburial Controversy. American Antiquity
+58(2):348-354.
+Leone, Mark P., and Preucel, Robert W.
+1992 Archaeology in a Democratic Society: A Critical Theory Perspective. In
+Quandaries and Quests: Visions of Archaeology's Future. LuAnn
+Wandsnider, ed. Center for Archaeologist Investigation, Occasional Paper No.
+20. Board of Trustees, Southern Illinois University.
+Lewis, Peter H.
+1986 Indian Bones: Balancing Research Goals and Tribes' Rights. New York
+Times May 20, 1986: C3.
+Marshall, Eliot
+1989 Smithsonian, Indian Leaders Call a Truce. Science, New Series 245: 11841186.
+McKeown, C. Timothy
+2002 Implementing a 'true compromise': the Native American Graves Protection
+and Repatriation Act after ten years. In The Dead and Their Possessions:
+Repatriation in principle, policy, and practice. Cressida Fforde, Jane Hubert,
+and Paul Turnbull, eds. Pp. I 08-132. One World Archaeology Series. London:
+Routledge.
+Meighan, Clement W.
+1992 Another View on Repatriation: Lost to the Public, Lost to History. The
+Public Historian 14(3):39-45.
+2000 Some Scholars' Views on Reburial. In Repatriation Reader: Who Own
+Native American Remains?. Devon A. Mihesuah, ed. Pp. 190-199. Lincoln,
+NE: University of Nebraska Press.
+Meyers, D. W.
+1990 The human body and the law. 2nd ed. Stanford, CA: Stanford University
+Press.
+Molotsky, Irvin
+1989 Smithsonian to Give Up Indian Remains. New York Times, September 13:
+Al4.
+Moore, S.
+1987 "Federal Indian burial policy-Historical anachronism or contemporary
+reality?" NARF Legal Review 12(2):1-7.
+Mydans, Seth
+1990 Study oflndians' Remains: Science or Sacrilege?. New York Times
+October 19, 1990: Al 8.
+Native American Graves Protection and Repatriation Act: as Amended
+1990 Public Law 101-106, 101 st Congress.US. Statutes at Large 104.
+New York Times
+1989 A Sensible Compromise on Indian Bones. New York Times August 26,
+1989: 22.
+Preston, Douglas
+
+53
+1989 Skeletons in Our Museums' Closets: Native Americans Want Their
+Ancestors' Bones Back. Harper's 278(1665):66-75.
+Riding In, James
+2000 Repatriation: A Pawnee's Perspective. In Repatriation Reader: Who Own
+Native American Remains?. Devon A. Mihesuah, ed. Pp. 106-120. Lincoln,
+NE: University of Nebraska Press.
+Robbins, Jim
+1988 A Fight for Framents oflndian Culture. New York Times October 23,
+1988: Al.
+Sabloff, Jeremy
+2007 [Interview with the author]. January I, 2007.
+Sappol, M.
+2002 A traffic of dead bodies: Anatomy and embodied social identity in
+nineteenth-century America. Princeton, NJ: Princeton University Press.
+Shown Harjo, Suzan
+2006 [Interview]. May 22-23, 2006. University of Pennsylvania.
+2007 [Personal Communication with the author]. April 22, 2007.
+Sockbeson, Henry J.
+1990 Repatriation act protects Native burial remains and artifacts. NARF Legal
+Review 16(1):1-4.
+Society for American Archaeology
+2006 [1990] Native American Graves Protection and Repatriation Act (H.R.
+5237): Letters of Support. Electronic Document. Retrieved November I, 2006
+from http://rla.unc/edu/saa/rpat/.
+Spotted Elk, Clara
+1989 Skeletons in the Attic. New York Times March 8, 1989: A3 l.
+Strickland, Rennard
+1998 The Eagle's Empire: Sovereignty, Survival, and Self-Governance in Native
+American Law and Constitution. In Studying Native America: Problems and
+Prospects. Russell Thornton, ed. Pp. 247-270. Madison, WI: University of
+Wisconsin Press.
+Sullivan, Martin E.
+N. d. Statement Before the Committee on Interior and Insular Affairs, U. S.
+House of Representatives, July 17, 1990. July 17, 1990. Unpublished MS.
+Heard Museum.
+Swain, M. S. & Marusyk, R. W.
+1990 An alternative to property rights in human tissues. The Hastings Center
+Report 20(5): 12-15.
+Thomas, David Hurst
+2000 Skull Wars: Kennewick Man, Archaeology, and the Battle for Native
+American Identity. New York: Basic Books.
+Thornton, Russell
+1998 Who Owns Our Past?: The Repatriation ofNative American Human
+Remains and Cultural Objects. In Studying Native America: Problems and
+Prospects. Pp. 385-415. Russell Thornton, ed. Madison, WI: University of
+Wisconsin Press.
+
+54
+
+Trope, Jack F., and Echo-Hawk, Walter
+2000 Native American Graves Protection and Repatriation Act: Background and
+Legislative History. In Repatriation Reader: Who Own Native American
+Remains?. Devon A. Mihesuah, ed. Pp. 123-168. Lincoln, NE: University of
+Nebraska Press.
+Van de Kamp, J. K.,
+N.d. [Personal Communication, May 21, 1990]. In Appendix B. In Sockbeson, H.
+Testimony of Henry J. Sockbeson, Native American Rights Fund before the
+House Interior and Insular Affairs Committee July 17, 1990.
+Watkins, Joe
+2000 Indigenous Archaeology: American Indian Values and Scientific Practice.
+Walnut Creek, CA: Altamira Press.
+Weaver, Jace
+1997 Indian Presence with No Indians Present: NAGPRA and its Discontents.
+Wicazo Sa Review. 12(2): 3-30.
+Weisz, Jackie, and Adams, Roxana, eds.
+2000 Codes of Ethics and Practice oflnterest to Museums. Washington, D.C.:
+American Association of Museums, Technical Information Services.
+W eizel, Richard
+1998 Mohegans Seek Objects' Return. New York Times February 8, 1998: CTI.
+Zimmerman, Larry J.
+1986 Review: "Tell them about the suicide" A Review of Recent Materials on the
+Reburial of Prehistoric Native American Skeletons. American Indian
+Quarterly 10(4):333-343.
+1987 Webb on reburial: a North American perspective. Antiquity 61: 462-463.
+1989 Made radical by my own: an archaeologist learns to accept reburial. In
+Conflicting Archaeology of Living Traditions. R. Layton, ed. Pp. 60-67.
+London: Unwin Hyman.
+1996 Epilogue: A New and Different Archaeology? American Indian Quarterly.
+Special Issue: Repatriation: An Interdisciplinary Dialogue 20(2):297-307.
+2000 A New and Different Archaeology? With a Postscript on the Impact of the
+Kennewick Debate. In Repatriation Reader: Who Own Native American
+Remains?. Devon A. Mihesuah, ed. Pp. 294-306. Lincoln, NE: University of
+Nebraska Press.
+2002 A decade after the Vermillion Accord: what has changed and what has not?
+In The Dead and Their Possessions: Repatriation in principle, policy, and
+practice. Cressida Fforde, Jane Hubert, and Paul Turnbull, eds. Pp. 91-98. One
+World Archaeology Series. London: Routledge.
+
+

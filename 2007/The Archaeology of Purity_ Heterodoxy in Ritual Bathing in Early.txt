@@ -1,0 +1,1759 @@
+Anthropology Senior Theses
+
+University of Pennsylvania
+
+ScholarlyCommons
+Department of Anthropology
+
+Spring 2007
+
+The Archaeology of Purity: Heterodoxy in Ritual Bathing in Early
+Judaism
+Rachel Anne Adler
+University of Pennsylvania
+
+Follow this and additional works at: https://repository.upenn.edu/anthro_seniortheses
+
+Q
+
+Part of the Anthropology Commons
+
+Recommended Citation
+Adler, Rachel Anne, "The Archaeology of Purity: Heterodoxy in Ritual Bathing in Early Judaism" (2007).
+Anthropology Senior Theses. Paper 93.
+
+This paper is posted at ScholarlyCommons. https://repository.upenn.edu/anthro_seniortheses/93
+For more information, please contact repository@pobox.upenn.edu.
+
+The Archaeology of Purity: Heterodoxy in Ritual Bathing in Early Judaism
+Disciplines
+Anthropology
+
+This thesis or dissertation is available at ScholarlyCommons: https://repository.upenn.edu/anthro_seniortheses/93
+
+THE ARCHAEOLOGY OF PURITY:
+HETERODOXY IN RITUAL BATHING IN EARLY JUDAISM
+By
+Rachel Anne Adler
+A SENIOR HONORS THESIS
+In
+Anthropology
+Submitted to the
+Department of Anthropology
+University of Pennsylvania
+
+Thesis Director: Dr. Clark Erickson
+Thesis Mentor: Dr. Benjamin Porter
+
+2007
+
+Abstract
+
+Anthropologists have only started to investigate purity within the past century. Most research
+has focused on living societies using ethnographic field methods. Surprisingly, very few
+archaeologists have taken up the issue ofpurity in past societies, resulting in a lack of
+knowledge about its import in antiquity. This thesis, therefore, addresses this lacuna in research
+and sets out a broad framework for the archaeological investigation ofpurity in past societies.
+This framework is illustrated using a case study from early Judaism in Roman-period Palestine.
+Between 300 BCE and 200 CE, ritual bathing in early Judaism grew in popularity. Two lines of
+evidence support this claim. First, ritual bathing installations (Hebrew: miqva'ot) were
+constructed throughout Roman Palestine, several hundred of which have been recovered through
+excavation. Second, historical and legal evidence from the period comments on the construction
+and use of these baths in purity rituals. Scholars who have studied this evidence have regularly
+stressed similarities in the physical features of these baths. Examining the size, staircase shape,
+building materials and techniques, water storage, artifacts, and context from three wellexcavated baths.from Jerusalem, the Hasmonean Palaces in Wadi Qelt, and Sepphoris, this
+thesis concludes that there was far more irregularity in bath construction and use than
+previously assumed. The investigation ofpurity in past societies is an example of how
+archaeology can illustrate the contradictions between cultural ideals and practices, linking this
+archaeological study to broader anthropological concerns.
+
+ii
+
+Acknowledgements
+
+I would like to thank the following people, whose support enabled me to write this thesis:
+The Jewish Studies Department at the University of Pennsylvania, the Dorot Foundation, and the
+Rhode Island Bureau of Jewish Education, for funding my field school this past summer, which
+gave me the archaeological background I needed in order to write this thesis.
+Clark Erickson for overseeing this project.
+Katharina Galor and Stuart Miller, for giving me access to their unpublished works, which
+proved invaluable to my thesis.
+Janet Monge for giving me a love of anthropology.
+Gerianne Kauffman Bartocci, for always being helpful and brightening up the museum with her
+cheerfulness. And for the scrap yarn.
+Jessica Blucher for her amazing help in the last stretch of writing the first draft.
+Marnee Klein, for looking up random information for me, even though she didn't need to help
+me. She might have been procrastinating on her own work, but I'm glad she did it in a way that
+was productive to my thesis.
+Gwen McEntee for giving me support in my thesis writing in the form of yarn and roving.
+Andrea Seligman, for keeping me sane while I finished the last draft of the thesis.
+Jenny Jacobs, for providing insights into the world of thesis writing, and general support when I
+got fed up with the whole process and wanted to quit. And for relaying messages to Ben when he
+disappeared from the face of the earth.
+All of my other friends at Penn, Jews in the Woods, Israel, and everywhere for providing both
+local and long distance means of procrastination, and making me take the breaks that I probably
+needed. You are all too numerous to be named here, but know that I appreciate you all.
+(Especially if you took the time to read this thesis!)
+My family, for letting me indulge in the idea of becoming an archaeologist as opposed to
+pursuing a "real" career and for providing me with love and support.
+
+l11
+
+And last, but certainly not least, Benjamin Porter, my advisor and mentor, for providing the
+initial idea for this thesis, and giving me the confidence to pursue it, and for guiding me
+throughout this entire process, from beginning to end, keeping me on track, offering me advice
+and feedback, and giving me all sorts of things to think about that I had never considered before
+as I worked on each part of this thesis. For helping me get past all of my dead ends and episodes
+of writer's block. For giving me a love of archaeology, and making the writing of this thesis an
+enjoyable experience despite how hard it was to write. And for making me realize that I really
+am good at archaeology, and that this is what I want to spend the rest of my life doing.
+
+IV
+
+Table of Contents
+Abstract. ......................................................................................................... ii
+Acknowledgments ........................................................................................... .iii
+Table of Contents ............................................................................................... v
+List ofTable(s) ................................................................................................ vi
+List of Illustrations .......................................................................................... vii
+Introduction: An Archaeology of Purity ..................................................................... 1
+Purity in Early Judaism ............................................................................. .4
+Previous Research on Purity in Early Judaism ................................................... 7
+An Outline of this Thesis ........................................................................... 10
+II. A Methodology for the Study of the Archaeology of Purity in Early Judaism .................... .12
+A Universal Model. ............................................................................................................ 12
+Why Study Judaism ............................................................................. ,............................. 14
+A Methodology for the Study of Archaeology of Purity in Early Judaism .................. 15
+III. A Historical and Legal Background to Bathing in Early Judaism .................................. 18
+Hi/chat Miqva'ot (The Laws of Miqvah Construction) ........................................ 18
+The Ritual oflmmersion ............................................................................ 20
+Purity Beliefs Outside the Temple ................................................................ 21
+Why BuildMiqva'ot.......................................................................................................... 21
+IV. An Archaeological Examination of Ritual Baths in Hellenistic and Roman Period
+Palestine ................................................................................................... 23
+Jerusalem ............................................................................................. 23
+Context ....................................................................................... 23
+The Bathing Installation ................................................................... 23
+M~~ ...................................................................................... ~
+
+Sepphoris ............................................................................................. 25
+Context.. ..................................................................................... 25
+The Bathing Installation ................................................................... 26
+Artifacts ...................................................................................... 27
+Wadi Qelt ............................................................................................. 27
+Context. ...................................................................................... 27
+The Bathing Installation ................................................................... 28
+Phase!. ............................................................................. 28
+Phase II. ............................................................................. 29
+Phase III ........................................................................... .30
+Phase IV ............................................................................ 31
+Artifacts ...................................................................................... 31
+V. An Analysis of the Data Presented ...................................................................... 32
+VI. Conclusion: Towards a Greater Archaeology of Purity: Avenues for Further Research ....... 37
+A Reconciliation the Textual and the Physical Evidence ......................................... 37
+Towards a Greater Archaeology of Purity ....................................................... 38
+Contributions to Anthropology and Archaeology ............................................... 39
+Works Cited .................................................................................................. .42
+Table(s) ....................................................................................................... .45
+Illustrations .................................................................................................. .46
+
+V
+
+List ofTable(s)
+
+Table 5.1 A comparison of the miqva'otin this case study ........................................... .45
+
+VI
+
+List of Illustrations
+
+Fig. 1.1 Map of the Hellenistic Empire .................................................................... 46
+Fig. 4.1 Bottom ofmiqvah L.65 ........................................................................... .47
+Fig. 4.2 Map of Area A, Stratum 6 ....................................................................... .48
+Fig. 4.3 The ashlar collapse ................................................................................ .49
+Fig. 4.4 Area A looking south .............................................................................. 50
+Fig. 4.5 A stone mold found in miqvah L.65 ............................................................ .51
+Fig. 4.6 A stone vessel found in miqvah L.65 ............................................................ 51
+Fig. 4.7 Pottery bowls ........................................................................................ 52
+Fig. 4.8 Plan of the western acropolis at Sepphoris ...................................................... 53
+Fig. 4.9 Sepphoris stepped pool 1 .......................................................................... 54
+Fig. 4.10 Network of channels from different phases ................................................... 55
+Fig. 4.11 Section of the Grand Bypass ..................................................................... 56
+Fig. 4.12 View of ritual bath A(B)64 complex ........................................................... 57
+Fig. 4.13 Plans of the four different phases of ritual bath A(B)64 ..................................... 58
+Fig. 4.14 The two pools in ritual bath A(B)64 ........................................................... 59
+Fig. 4.15 Semi-circular installation in ritual bath A(B)64 ............................................... 60
+Fig. 4.16 Heating chamber A(B)76 ........................................................................ 61
+Fig. 4.17 Northern half ofritual bath A(B)64 ............................................................. 61
+Fig. 4.18 Material finds in ritual bath A(B)64 .............................................................................. 62
+Fig. 4.19 Two intact mortars as found in situ .......................................... .................. 63
+
+Vll
+
+Rachel Adler
+Chapter 1: Introductiou: Au Archaeology of Purity
+Ubiquitous, yet unacknowledged in modem society, purity is a vexing problem. Though
+every culture has distinctions between sacred and profane, pure and impure, western culture
+shies away from delineating them and clearly labeling them as such, claiming that purity beliefs
+are products of the "primitive mindset." But this notion is a fallacy; although purity beliefs may
+lie hidden beneath the surface, practically everyone considers something to be impure. Thus,
+purity is quite deserving of renewed study.
+Anthropologists have only started to investigate the question of purity within the past
+century. Emile Durkheim viewed purity as protecting the sacred from the profane, something
+belong to 'primitive societies' ([1915]1965, p.52). Winick's Dictionary ofAnthropology defines
+'purification' as the process of cleansing oneself, which could involve a ritual of cleansing,
+washing, or sacrifice (1956, p.227). The performance of these rituals is common before
+engaging in certain activities or rites. Dangerous life-cycle events such as bloodshed, birth, and
+death are occasions that necessitate purification in many societies. In some societies,
+purification is necessary in order to restore a state of holiness to an object. Water is the most
+common agent used in purification, but fire, cutting the hair, changing garments, abstinence
+from food and sexual activity, confinement, and painting the body are also found.
+Mary Douglas' 1966 work Purity and Danger is widely considered the definitive
+statement on the subject (1966). She notes that many belief systems consider marginalized,
+ambiguous or anomalous people or things 'impure' (Douglas, l 966, p.4). Such things are
+dangerous, and if allowed into mainstream society, could destroy the separation between sacred
+and profane. Thus, purity plays a structuring role in enforcing a society's beliefs, when the
+threat of impurity is understood as something real and dangerous. Typically, a person becomes
+
+I
+
+Rachel Adler
+impure by eating certain foods, having sexual relations, contracting diseases, or touching dead
+bodies.
+While these general definitions are helpful in the abstract, we encounter two problems
+when investigating purity in particular instances. The first problem is that these general
+definitions often view purity as an ideal state, and impurity as something that is dangerous and
+to be avoided. This notion of purity may be true for many societies, but not in all cases, as we
+shall see throughout this project how purity beliefs in early Judaism differed. In early Judaism,
+impurity was not viewed as dangerous, even if it was associated with dangerous moments in
+someone's life. Nor was impurity a condition to be avoided. For example, becoming impure
+through contact with a corpse was impossible to avoid as burial was a necessity; thus it was
+considered good for a person to contract this type of impurity from performing this mitzvah, a
+religious commandment. 1 Another example where impurities are consciously contracted is
+through sex. Jewish law does not consider sex to be a taboo; rather participants must purify
+themselves afterwards before taking part in certain religious practices. Therefore, it was
+impurity, rather than purity, that was a natural state of being. Purity was only necessary when
+performing religious rituals. This thesis, therefore, seeks to redefine purity in such a way that
+furthers anthropological knowledge of purity, while appreciating the rich historical and
+archaeological data available for the study of purity in early Judaism.
+The second problem we face when investigating purity in particular instances is that
+archaeologists lack a methodology that will help them investigate purity practices and beliefs in
+ancient societies. This lack of a methodology comes from the overall trend of archaeologists to
+
+1
+
+Although many use the word mitzvah colloquially to mean a good deed, I am using the word in its literal Hebrew
+meaning. Mitzvot are commandments or obligations, the set oflaws and rituals Jews have to keep and/or perform in
+obedience to God.
+
+2
+
+Rachel Adler
+avoid the study of ritual. Archaeologists have avoided the study of ritual because the evidence
+for ritual is not transparent in the archaeological record. Many rituals do not leave a physical
+signature, and thus are hard to identify in the archaeological record. Archaeologists also have
+trouble interpreting what evidence they do find, because 1) the ideologies of the people they are
+studying are not available for study, 2) the tradition was not recorded in a way that was
+preserved, 3) there are no living descendants of the people being studied from which to draw
+ethnographic analogies. Though this may be the case in earlier societies, these problems are not
+true of early Judaism, where we do have a physical record of rituals, and historical and legal
+evidence is available.
+Thus, although an archaeological investigation of ritual may be daunting, it is certainly
+not impossible. In fact, a few archaeologists have studied ritual, such as Ralph Merrifield and
+Timothy Insoll. In The Archaeology ofRitual and Magic, Merrifield examines several case
+studies of sites in Europe, and identifies instances of the practice ofritual or magic (1987).
+Examples of this are bent coins found in the bottom of wells, swords that were found underwater,
+and skulls found under buildings. If an otherwise useful item was destroyed for seemingly no
+reason, Merrifield would attribute this destruction to ritual (1987). Merrifield is to be credited
+for being the first person to undertake such a large-scale survey of the archaeology ofritual, and
+also for encouraging other archaeologists to reinterpret previously excavated materials through
+the lens of ritual.
+In a more recent book, Archaeology, Ritual, Religion, Timothy lnsoll presents an
+overview of past studies of the archaeology ofritual and religion (2004). Reviewing the flaws in
+past research, Insoll embarks upon his own case studies, namely the role of emotion and analogy
+in the Yoruba religion, myth as a research aid in the Dogon religion, and the relationship
+
+3
+
+Rachel Adler
+between Islam and other traditional religions (2004, p. IO !).Through this research, Insoll
+demonstrates the complexity of the endeavor of studying the archaeology of ritual and religion.
+Despite his great research, Insoll is pessimistic of archaeology's ability to recover ritual and its
+constituent meanings in past societies. This author does not share Insoll's pessimism.
+Surprisingly, neither Merrifield nor Insoll consider purity when investigating the
+archaeology of ritual. Most anthropological scholarship of purity focuses on contemporary
+societies where purity practices are observed in living contexts. However, this approach is
+problematic for archaeologists, who investigate societies through a combination of historical
+sources and material culture.
+
+Purity in Early Judaism
+Purity begins as a concept in the Torah, the first five books of the Hebrew Bible. Most
+laws appear in Leviticus Chapters 11-15, 18, and 20, though some appear in other books as well.
+A person or an object can be either tameh, impure or tahor, pure. Impurities come from many
+sources, including eating an unclean animal (Leviticus 11), childbirth (Leviticus 12), discharge
+of bodily fluids (Leviticus 15), sexual sin (Leviticus 18 and 20), and contact with the dead
+(Numbers 19). These impurities can be transmitted both directly and indirectly. For certain types
+of impurity, people become impure when they come into physical contact with an impure person
+or object. For example, people who are in the same room as a corpse become impure. Therefore,
+many types of impurity required removal of oneself from the community, so everyone else could
+remain pure.
+In early Judaism, different types of impurity required different cleansing rituals. Many of
+
+4
+
+Rachel Adler
+them involved different types of sacrifices,2 but many of them also involved ritual immersion in
+a miqvah. A miqvah, in the simplest sense of the word, is a gathering of water. The term first
+appears in Genesis 1: I 0: "And God called the dry land Earth, and the gathering together of the
+waters (miqvah hamayim) called He Seas; and God saw that it was good." In order to be ritually
+acceptable in Jewish law for purifying a person, a miqvah was required to have certain
+characteristics, prescribed in the Mishnah, a body of Jewish law compiled around 200 CE. Most
+natural bodies of water were considered acceptable. With an artificially constructed pool,
+however, the water had to come directly from a natural source without being collected by any
+artificially constructed vessel (Mishnah Miqva'of 4:1). Water could not be stored elsewhere for
+later use, because it would immediately be invalidated (Mishnah Miqva 'of 4: I). Water could
+come from springs or from rainwater. There were many loopholes in the halacha (Jewish law),
+but even so, miqva 'of were very hard to build and maintain to halachic standards.
+Purity in early Judaism was not a static cultural practice; it was greatly influenced by the
+historical context of Hellenistic, Roman, and Byzantine Palestine. Changes in purity laws
+occurred in early Judaism and were greatly influence by the spread of Hellenistic and Roman
+cultural practices, starting in 333 BCE, when Alexander the Great invaded and conquered a
+large portion of the Near East including the modem state oflsrael, where Jewish communities
+were concentrated [Fig. I. I]. By 300, the Hellenistic empire had split into two parts- the
+Ptolemys in Egypt, and the Seleucids in Greece, Turkey, and Syria. From 300-200 BCE the
+empire was in Ptolemic control, and from 200-164 BCE Seleucid hands. The border between the
+
+2
+
+For example, the sacrifice required from a person afflicted with tzaarat (a skin disease commonly mistranslated as
+leprosy) is that he bring two living clean birds, kill one, and dip the living one in the blood of the dead one (14:4-7).
+
+After childbirth, a woman was required to bring two types of offerings~ a burnt offering of a lamb in its first year of
+life, and a sin offering of either a young pigeon or a turtle-dove (12:6). See Leviticus chapters 11, 12, 13, 14, 15, 18,
+and 20, and Numbers chapter 19.
+
+5
+
+Rachel Adler
+Ptolemys and the Seleucids cut through the Levant, often drawing communities into regional
+conflict.
+The Hellenistic Empire introduced a powerful cultural force into the Levant that took
+both material and ideological forms. The early Jewish community was not unified in its opinion
+of Hellenistic culture. Many people thought that Hellenism could advance Jewish society.
+However, other Jews felt that Hellenism was a dangerous influence that turned people away
+from properly following Jewish laws. Polytheism, for example, was attractive to many, and thus
+the Jewish community risked losing people to idol worship; and some perceived the death of
+Jewish worship to be an imminent danger. These threats to Judaism became more distinct when
+the Greeks placed idols in the Jewish Temple. In 167 BCE, during the reign of Antiochus IV,
+pious Jews who refused to assimilate into Greek culture, led by the Hasmonean family, revolted
+against the Seleucid Empire. After three years of fighting, in 164 the Jews regained their
+religious freedom. Despite their revolt against the Hellenistic Empire, ironically, the Hasmonean
+rulers still adopted Hellenistic practices (Schiffman, 1991, p.60-79).
+In 66 BCE the Romans gained control of the Levant. Just as Hellenistic culture had
+spread through Palestine centuries earlier, so, too did Roman culture spread. During this period,
+the Jewish community was split into many sects, the four most prominent being the Sadducees,
+the Pharisees, the Essenes and the Zealots. The Sadducees were the priests, including the
+Hasmonean family, who performed the Temple services. They were considerably wealthy, and
+formed an elite class. The Pharisees were a group that separated themselves from the Sadducees,
+the name "Pharisees" coming from the Hebrew "pirooshim" which means "those who separate
+themselves." While the Sadducees stressed the importance of the Biblical law, the Pharisees
+believed in the ability of rabbis to interpret this law. They were the creators of the oral law,
+
+6
+
+Rachel Adler
+which eventually became codified in the mishnah. The Pharisees were opposed to Jewish
+assimilation into Hellenistic and later Roman culture, while the Sadducees were in favor of
+Hellenization and Romanization. Because of this difference, the Pharisees believed that the
+Sadducees were corrupt, and were defiling the Temple.
+The Essenes were a sect apart from the rest of the Jewish community, choosing to leave
+Jerusalem and live in the desert, at Qumran. They bathed in large communal baths before their
+daily activities. Much is known about them through archaeological remains at Qumran and
+through the Dead Sea Scrolls.
+The Zealots were against the Roman occupation, and urged the Jewish community to
+fight against the Romans. Upon taking control of the Jewish community in Jerusalem in 66 CE,
+the Zealots revolted against their Roman rulers. In 70 CE the fighting ended in Jerusalem, 3 with
+the Romans conquering the city and destroying the Second Temple. Jews were displaced from
+Jerusalem, many were taken to Rome as slaves. They no longer had a central place to worship
+and offer sacrifices. This could have meant the end of Jewish worship altogether, but the
+Pharisees had expanded the realm of purity and Jewish worship in general to outside of the
+Temple. They believed that prayer and the study of religious texts could substitute for the
+animal sacrifices that took place in the Temple. Thus, when the Romans destroyed the Temple,
+the Pharisees, and ultimately the rest of the Jewish people, were able to continue to worship
+their God, and Judaism did not die out.
+
+Previous Research on Purity in Early Judaism
+As stated earlier, Mary Douglas is widely recognized as an expert on purity in the field
+3
+
+A small group of Zealots camped at the fortress of Masada fought against the Romans until 73 CE. When the
+group realized that defeat by the Romans was inevitable, they committed mass suicide, rather than be taken captive
+by the Romans (Josephus, War 7:389).
+
+7
+
+Rachel Adler
+of anthropology. In the third chapter of her book Purity and Danger, she examines the enigmatic
+purity laws of Leviticus. On the one hand, she does a thorough job dealing with the different
+categories of animals that Jews are forbidden or permitted to eat, noting that the animals that are
+forbidden are ones that do not fit into specific categories of locomotion, or in the case of land
+animals, either do not posses a cloven hoof, do not chew their cud, or both. However, she errs in
+that she uncritically accepts the Bible's notion ofreward and punishment. She writes as though
+Jews during the Hellenistic period actually believed that God would enact swift punishment for
+the breaking of His commandments. Douglas writes, "From this [quoting of Deuteronomy
+28:15-24] it is clear that the positive and negative precepts are held to be efficacious and not
+merely expressive: observing them draws down prosperity, infringing them brings danger"
+(1966, p.63). Maybe at the time of the laws' creation, which most scholars would place no later
+than the 4tl, century BCE (Soggin, 1987, p. 16), the Israelites believed in an idea of direct divine
+reward and punishment, but this was not necessarily true of later Judaism in the Hellenistic and
+Roman periods. Douglas' conclusions need to be further developed by scrutinizing the legal
+commentaries written during and after the Hellenistic and Roman periods. 4
+Jacob Neusner's work helps us to improve upon Douglas' foundational study. A
+comprehensive examination can be found in his book The Idea of Purity in Ancient Judaism.
+Here, Neusner discusses the differences between views on impurity presented in the Talmud,
+and those from preceding periods. While the biblical rules were more concerned with cultic
+practices, the Talmudic material focused more on how purity related to morality. Neusner sees a
+4
+
+However, Douglas admits in the new preface of her book (2002) that she has made some mistakes in this chapter.
+She wanted to classify the forbidden animals in terms of them being abominations in and of themselves, because of
+their anomalous nature. To touch them would cause one to become impure. But she says, "The most serious
+mistake was to have accepted unquestioningly that the rational, just, compassionate God of the Bible would ever
+have been so inconsistent as to make abominable creatures ... Like the Mishnah and the rabbis, I took it for granted
+that their aborninability was the issue, which made it a case for pollution theory. I now question that they are
+abominable at all, and suggest rather that it is abominable to harm them" (xv).
+
+8
+
+Rachel Adler
+link in the texts between purity and holiness (1973, p 109). The land is holy, and therefore it
+must be kept clean. The land can be profaned, sources of impurity are things which seemed
+loathsome to the priestly writers.
+Responding to Neusner's study, Douglas points out that he discounts the possibility that
+views presented in the Bible could have been the views of the early Jewish community at large.
+Neusner believes that the laws in the Bible are priestly propaganda, the views of priestly editors,
+and could not be the beliefs of the entire Jewish community (1973, p.137). Douglas' point is a
+valid one; Neusner does not go far enough in his search for evidence. While the texts can tell us
+a lot about what early Jews thought about ancient purity laws, unfortunately, they cannot
+provide a complete picture. IfNeusner wants to know what the average person believed about
+purity and practiced, he is looking in the wrong place. Though rabbis may have written these
+laws, we have no guarantee that the public was following them, or even aware of them. The
+majority of the Jewish community in Hellenistic and Roman Palestine was not writing these
+laws, and the beliefs and practices of the early Jewish community as a whole are thus not
+preserved in the texts.
+Therefore, an examination of the archaeological evidence can give us a broader view of
+purity practices in early Judaism, because unlike written records, societies leave behind physical
+residues of their everyday practices that archaeologists can excavate and interpret. A scholar
+who makes great use of the archaeological evidence on ritual bathing is Ronny Reich. Reich's
+doctoral dissertation was foundational in the study of miqva 'ot in ancient Palestine (I 990). His
+study consisted of an extensive survey of all the miqva'ot that had been excavated (at that point)
+in the state oflsrael. He contested the identification of many baths, which previous
+archaeologists had said were not miqva'ot. He concluded that all thefrigidaria (cold baths) that
+
+9
+
+Rachel Adler
+were attached to the hot baths in the Hasmonean and Herodian palaces in Jerusalem, Jericho,
+and Masada were in fact miqva'ot (Reich, 1988). He also argued that there were no miqva'ot in
+use in Palestine after the year 70 CE, the year that the Second Temple was destroyed.
+I posit that both of these conclusions are incorrect, i.e. that not all ofthefrigidaria that
+were attached to the hot baths were miqva 'ot, and that there is evidence of miqva 'ot in use in
+Palestine long after 70 CE. What I do find interesting about Reich's work is his methodology.
+Reich examines the archaeological evidence through the lens of halacha. However, he does not
+take into account the fact that people may not have been observing these laws. He is also much
+more concerned with the identification of miqva 'ot than the way they were used in early
+Judaism. This thesis will expand upon Reich's earlier work by integrating recently discovered
+archaeological evidence.
+
+An Outline of this Thesis
+In the second chapter of this thesis, I will set out general guidelines for a methodology
+for the study of the archaeology of purity. Additionally, I will put forth the specific methodology
+I use to analyze the miqva 'ot under study. In the third chapter I will examine textual evidence
+concerning miqva 'ot, namely Jewish law. Although the main works of halacha were written
+down in the mishnah around 200 CE and in the gemarah around 500 CE, they began as oral
+laws that were in place prior to their codification. Thus, the halacha is a possible indicator of
+what bathing practices were during the period of the Second Temple. The halachot I will
+analyze are those of the construction ofmiqva'ot, and the laws of purity. I will also introduce
+extra-legal historical sources. In the fourth chapter I will be presenting the physical evidence
+from three miqva 'ot: first, a miqvah from the Jewish Quarter of the Old City of Jerusalem,
+
+10
+
+Rachel Adler
+second, a miqvah from the Hasmonean and Herodian palaces on the Wadi Qelt near Jericho, and
+finally a miqvah from Sepphoris, a site in the north of Israel, near the sea of Galilee. In the fifth
+chapter I will compare these three baths, and demonstrate that bathing practices were not as
+homogenous as the texts suggest. In the final chapter of this thesis I will conclude with a
+summary of the presented evidence, and a reconciliation of the texts and the archaeology. I will
+then describe how I think we can move forward with a more extensive archaeology of purity.
+The aim of this thesis, besides examining bathing practices in early Judaism, is to show
+that the study of the archaeology of purity is a worthwhile endeavor. Through my case study, I
+will provide archaeological evidence that reconstructs bathing practices in such a way that
+cannot be discerned through textual analysis alone. Texts can be problematic, and do not always
+provide a complete representation of what people were actually doing. The texts are not always
+accurate. Sometimes there are no texts at all. The archaeological record can provide us with
+concrete evidence of how people observed and carried out purity laws and practices.
+Although this thesis focuses on early Judaism, my vision is to create an impetus for the
+study of the archaeology of purity in other cultures. Although the specific methodology would
+be different for each particular culture, the overall themes stay the same. In every case, we must
+answer the question: what does the archaeological record tell us that the texts do not? Beyond
+that, we can draw cross-cultural comparisons, where similarity in the material record could
+indicate similar beliefs and practices in different cultures. Perhaps one day we can reconstruct
+the past to such an extent that our study of the archaeology of purity will be as insightful and
+revolutionary as Mary Douglas' study of the anthropology of purity.
+
+11
+
+Rachel Adler
+Chapter 2: A Methodology for the Study of the Archaeology of Purity in Early Judaism
+
+While purity may be a broadly shared human phenomenon, it manifests itself differently
+across social and religious traditions. However, it is possible to provide some guidelines as to
+how one would investigate purity. This chapter presents a general outline for the archaeological
+investigation of purity in general, and the archaeology of purity in early Judaism more
+specifically.
+
+A Universal Model
+
+Three main things one should consider in studying purity from an archaeological
+perspective are 1) spatial separation, 2) written sources, and 3) purification rituals. Separation
+relates to the essence of purity as a human social phenomenon. Purity, at its core, is the
+separation and categorization of objects, animals, thoughts, and people. Purity is the desire to
+keep separate those things sacred and profane. Purity involves a physical separation, though in
+religions such as Judaism and Christianity there is also an idea of impure thoughts and behaviors
+(those deemed sinful). Usually this is separate from the realm of physical impurity, but there are
+exceptions. 5 Therefore, one would expect to see spatial separations in the architectural evidence.
+The second aspect to consider is the written sources of a religion or culture, or
+ethnographic analogies from the present, in order to know what separations were important in
+ancient societies. Different cultures vary to the degree that their purity laws and practices are
+written and codified. But why were these laws written down in the cases that they were? When
+purity laws, or even laws in general, are written down, they become official documents, and take
+5
+
+The main example of a community which linked impure thoughts to physical impurity is Qumran, which treated
+
+people who committed certain sins as though they were physically impure. They would have to separate themselves
+
+from the community for a period of time, and only after they had ritually immerses in the miqvah were they allowed
+to rejoin the group. (See Neunser, 1973).
+
+12
+
+Rachel Adler
+on a higher status of authority. An oral tradition is more flexible and dynamic, changing over
+time, but when traditions are written they become standardized and fixed. When written
+traditions are transmitted, they are copied word for word, and there is great import placed on the
+accuracy of the texts. Written texts have the advantage of containing more information, in more
+complex ways. When a body of laws grows too large and complex for people to memorize, they
+start writing them down in order that they not be lost. This movement towards writing down oral
+traditions can come from other sources as well. Commonly, when a tradition is in danger of
+being lost because of outside influences or lack of interest, people will write down this tradition.
+Written texts are also more portable than oral ones because written texts can be copied and
+rapidly disseminated.
+For whatever reason it is transcribed, a written record of laws and practices gives the
+archaeologist a point of reference, from which they can design their research. Whether or not
+people adhered to these laws is not clear from the text alone, but it is a question that can be
+researched through the material record. The texts explain the practices, and the use of specific
+spaces or ritual items that an archaeologist can search for.
+The third aspect that one must investigate in an archaeology of purity is the purification
+ritual. Where purity and impurity are regarded as something that affects the physical being of a
+person, usually the rite of purification will also be something physical. Rituals often require
+specific objects or places in order to perform them correctly. Thus, this may leave an
+archaeological signature.
+Here, spatial analysis is a useful technique. We can learn what type of space a culture
+devotes to the performance of ritual, and analyze the size of the space, the building materials
+and techniques used, and the location of the space in relation to the spaces where non-ritual
+
+13
+
+Rachel Adler
+actions are performed. Also, we should consider whether this space used for anything else, or if
+it exclusively a space for purification.
+
+Why Study Judaism
+
+I would like to posit that Judaism is one of the best religious traditions for investigating
+the archaeology of purity. This is for three reasons. First, Judaism is one of the best-excavated
+religious traditions in the world, even if there has not been much analysis of purity. In the past
+century, archaeologists have conducted hundreds of excavations in the State of Israel, and these
+excavations have uncovered many ancient settlements. 6 Considering that the current Jewish
+population is so small in comparison to the rest of the world, it is remarkable that so much
+archaeology has been devoted to early Judaism. This is mainly because of social, political, and
+economic reasons that are beyond the scope of this work; they have been written about in a
+variety of books and articles (Silberman, 1982; Abu el Haj, 2001).
+Second, Judaism has an extensive code of purity laws that are given in the Bible
+(specifically Leviticus and Numbers)7 and elaborated on by rabbis in the Talmud and subsequent
+halachic works. These works detail what the different sources of impurity are, how these
+impurities are transmitted, what objects can and cannot become impure, how long one stays
+impure, what one cannot do while impure, and how one removes this impurity from himself or
+herself.
+Third, the nature of purity in Judaism is such that we can find much physical evidence
+for the adherence to, or lack thereof, these laws, as we shall see below.
+
+6
+
+7
+
+See Levine 1998 and Chancey 200 I
+See Levine, 1993, Milgrom, 1991 and Milgrom 2000
+
+14
+
+Rachel Adler
+
+A Methodology for the Study of the Archaeology of Purity in Early Judaism
+In the study of the archaeology of purity in Judaism, there are three factors to pay
+attention to: the materials from which artifacts are made, the zooarchaeological evidence, and
+ritual installations and their contexts.
+The first thing is that not every material can become impure in Judaism. Not every
+material can be purified if it does become impure. Stone was a common material that could not
+hold impurity. Therefore, there was a preference for the use of some materials over others in the
+creation of vessels and ritual baths.
+Second, the dietary laws of Judaism, as mentioned above, prohibit the consumption of
+certain animals, and require that animals be slaughtered in a specific way in order for them to be
+
+kosher. Thus, in a Jewish site, we would expect to find a lack of the remains of unkosher
+animals that might be found in neighboring, non-Israelite sites, the most prevalent ones being
+pigs and shellfish. It also may be possible to tell from marks on the animal bones how the
+animal was killed and butchered. Certain parts of kosher animals are also forbidden from
+consumption, and that, too, might be found in the fauna! evidence. However, this would require
+8
+
+a complete fauna! record, as well as an in-depth knowledge of the process of kosher butchery
+on the part of excavators. There also might be evidence of altars, butchery patterns, and whether
+or not these butchers were local, or if it people took their meat outside of the village to
+specialists who knew how to correctly slaughter animals. These studies have not yet been done
+on a large scale, and remain a goal of archaeologists in the future.
+Third, ritual bathing in Judaism, my focus henceforth, has plenty of material evidence.
+The baths themselves remain, and can tell us much about their construction and usage. In order
+8
+
+A complete faunal record is a rarity in the archaeological world. Often excavators tend to throw away animal
+bones, deeming them unimportant, especially in comparison to pottery. People who run excavations are usually
+pottery experts and not archaeozoologists, so there is a bias towards collecting pottery sherds over bones.
+
+15
+
+Rachel Adler
+to study them accurately, one must have at least some basic knowledge of the laws for the
+construction ofmiqva'ot, which I will present in detail in the following chapter. In examining
+the sites, it is very important first and foremost to identify whether or not a given installation is,
+in fact, a miqvah. It must be built out of certain materials (stone and plaster being the most
+common) and must have a water source that contains at least 40 seah of "living water," water
+which comes from rainfall or a spring that flows into the miqvah and is not at any point
+collected in a vessel by humans. Otherwise, the water turns into "drawn water" and the miqvah
+is invalidated until it can be filled with another 40 seah of living water.
+Thus, it is important to inspect the water source, and how water flowed into the miqvah,
+to see whether or not it kept to these standards. If it did not, that does not necessarily mean the
+installation is not a miqvah, but it could show that people may not have been keeping the purity
+laws to the rabbinical standards
+However, this way of interpreting the archaeological evidence can lead to potential
+problems. One of the questions we are trying to answer is whether or not people were observing
+ritual purity in the way defined by rabbinic Judaism. Ifwe use only these guidelines to define
+whether or not an installation is a miqvah, we risk ruling out installations that people may have
+used for ritual bathing, but did not build to the rabbinic standards.
+Additionally, one must examine how a miqvah was used. This can be illustrated by both
+the miqva 'ot themselves, and the context in which they were found. Miqva 'ot could be found in
+either a private setting, such as a house or a palace, or a communal setting. The presence of
+many miqva'ot near each other could signify that they were used quite often, by several people
+at a time as is the case with Qumran (Galor, 2003; Wood, 1984). Their size also shows how
+many people were bathing in these installations.
+
+16
+
+Rachel Adler
+
+Miqva 'ot are also characteristically "stepped pools"- that is, there is a staircase leading
+from the top of the pool to the bottom, so that people could walk in, immerse, and walk out.
+Bigger steps that covered the entire width of the pool are evidence for the miqva 'ot being used
+by many people at once. Also there is sometimes a divider in the staircase itself, so that impure
+people could walk in on one side and walk out purified on the other, and there was less of a risk
+of impure people contaminating the newly purified people.
+When miqva 'ot are found in the archaeological record, artifacts are often found inside of
+them. The question is whether or not these objects relate to the miqvah while in use, or were
+deposited afterwards. And if they were in use before the miqvah was abandoned, was the miqvah
+at that point being used for ritual bathing? In order to be purified by a miqvah, one must
+immerse themselves while being completely unclothed. There were no vessels associated with
+
+miqvah use-in fact, the storage of water in a vessel invalidated that water! So vessels found
+inside a miqvah were probably deposited there while the miqvah was abandoned, or possibly the
+owners of this installation could have converted it for non-bathing purposes.
+Thus, when examining a miqvah, or a purification ritual or place more generally, scholars
+distinguish between primary contexts, that is, the original use of the artifact or feature in
+question, and secondary contexts, a reuse of the artifact or feature for a new purpose. It is up to
+the archaeologist, either in her or his excavation or fieldnotes, to prove what kind of context in
+which the artifact or feature was found.
+
+17
+
+Rachel Adler
+
+Chapter 3: A Historical and Legal Background to Bathing in Early Judaism
+Before we can study the archaeology ofritual bathing, we must scrutinize the historical
+and legal sources. In this way we can create a framework through which we can interpret the
+archaeological evidence. Using these sources, first, we will examine the basic laws of how to
+construct a miqvah in accordance with Jewish law. Second, we will review the basic laws of
+ritual immersion in a miqvah. Third, we will discuss purity beliefs outside of the Temple. And
+finally, we will end this chapter with a discussion of why people built artificially constructed
+
+miqva'ot as opposed to bathing in natural bodies of water.
+In treating religious texts as historical sources, one must always approach the matter with
+a healthy dose of skepticism. While these texts may be documents of law, they do not reflect the
+views of every person in the Jewish community in the time period in which they were
+transcribed. Also important is the fact that the mishnah was not even codified until at least a
+century after the latest of the miqva 'at we are investigating went out of use. There are no postbiblical legal documents that were actually written down in the Second Temple Period.
+
+Hilchot Miqva'ot (The Laws of Miqvah Construction)
+In order to build a bath that was acceptable according to Jewish law, an architect would
+need to follow certain specifications in regards to size, materials, and water sources. First, there
+was size. An artificially constructed miqvah must be at least 1 cubit9 x I cubit and 3 cubits deep,
+or 18" x 18" and 54" deep. 10 It must be able to hold at least 40 seah (288-324 oz) of"living
+
+9
+Heb. Amah. An arm's breadth, or about 18 inches according to modern interpretations. Halachic measurements
+are constantly debated in the rabbinic literature. In modem practice, observant Jews will usually follow whatever
+the most stringent opinion is, which can either be the minimum or the maximum measurement, depending on the
+case. For example, if 3 logim of drawn water can invalidate a miqvah, 3 logim would be interpreted as 36 oz rather
+than 48 oz. If a miqvah must contain at least 40 seah of "living waters," the larger measurement of a seah would be
+used. In this way, everyone will agree that the miqvah is halachically valid.
+10
+About the size of a modem coach-class airline seat.
+
+18
+
+Rachel Adler
+water," 11 without any of the water leaving the pool when a person is immersed (Mishnah
+
+Miqvaat I :7-8). Backflow of water is considered to be "drawn water,"
+
+12
+
+so if there is more than
+
+3 lagim (about 12-16 oz.) ofbackflow, the water in the miqvah is invalidated until it has at least
+40 seah of valid water. A miqvah with more than 40 seah of valid water cannot become
+impurified by drawn water (Mishnah Eiduyat I :3, Miqva 'at 2:4). Ultimately, differing rabbinic
+opinions on what the exact measurement of a seah is give us a range of miqvah sizes from about
+250 to 960 L in volume. There is no maximum size for a miqvah. The floor of the miqvah must
+be big enough for a person to comfortably stand on, which is 50cm by 50 cm according to
+modern interpretations.
+Second, Jewish law dictated that only certain materials could be used to build a miqvah.
+A miqvah could not be made out of any material that could contract impurity (Mishnah
+
+Miqva'at). Thus, most miqva 'at were made out of stone or plaster, which both are immune to
+impurity.
+The final factor that needed consideration in building a miqvah was its water source.
+Because "drawn water" could render a miqvah invalid, the main concern of miqvah architects
+was how to rechannel water without creating a receptacle. Water collecting outside of where it is
+meant to collect would be considered drawn water, and would be considered impure. Thus,
+
+miqvah builders went to great lengths in order to assure that the path from the water to the pool
+was direct and uninterrupted.
+Considering that there were so many requirements for building acceptable miqva 'at, one
+would hypothesize that there needed to be some degree of specialization in miqvah construction.
+
+11
+
+Water that has entered the pool without being diverted or collected by any direct human intervention. Water
+could be directed through aqueducts, channels, or pipes, but if there was a small hole where water would collect
+outside of where it was meant to go, that water would be considered "drawn" and thus invalid.
+12
+Water that has been collected by people.
+
+19
+
+Rachel Adler
+These rules were not necessarily known to the general public, so perhaps only educated people
+could construct miqva 'ot. We will visit this question again in Chapter 5.
+
+The Ritual oflmmersion
+In order for one to become ritually purified by the water of the miqvah, she or he must
+immerse without having anything come between the water and the body that would prevent
+contact (Mishnah, Miqva'ot 9). Thus, a person immersing to purify her or himself would have to
+enter and leave the pool completely naked. It was common for miqva 'ot to have bent accesses to
+ensure the privacy of the person bathing.
+When a person became impure, and wanted to become purified, first she needed to wait
+the appropriate amount of time mandated by Jewish law. If a woman had given birth to a male
+child, for example, she had to wait 40 days before being able to either enter the Temple or come
+into contact with holy items (Leviticus 12:4). She would bring a sacrifice to the gates of the
+Temple, and she would immerse.
+In order to do this, she would enter a room before the actual miqvah itself, where she
+could privately undress. Then she would descend the steps into the water. Making sure that her
+body was completely submerged, she would stay underwater for a few seconds and then
+resurface. She would walk up the steps of the pool, emerging in a pure state, dry herself off, and
+reclothe herself.
+Contact with 3 log (36-48oz.) of drawn water would impurify a person (Mishnah Eiduyot
+
+I :3, Miqva 'ot 2:4). If a person took a hot bath or a swim in a pool, she or he would become
+impure, and would require ritual immersion in order to become pure again (Reich, 1988, p. l 06).
+Thus, one could not take a nice, hot bath to clean off after bathing the miqvah if they wanted to
+
+20
+
+Rachel Adler
+stay pure.
+
+Purity Beliefs Outside of the Temple
+Purity, as described in the Torah, was mostly relevant only to the Temple cult, with the
+exception on forbidden foods and sexual relations. During the Second Temple period, the
+Sadducees controlled the Temple, so one would think that they would have had a monopoly on
+purity. However, this was not the case.
+During this time period, the Pharisees believed in keeping the laws of purity outside of
+the Temple. They held that everyone in the early Jewish community should eat their meals in
+purity as though they were priests, taking the commandment from Exodus 19:6 "you shall be a
+nation of priests" literally (Neusner, 1973, p.65).
+So therefore, the need of ritual bathing was more frequent than might otherwise be
+supposed. If one had to be pure for every meal, and if impurity was so easy to transmit, then it
+was possible that a person would have to bathe before every meal. At this point natural bodies of
+water would not have sufficed.
+
+Why build Miqva'ot
+
+The fact that miqva 'at were built shows that people had enough of a surplus in resources
+to build these artificial installations. People also cared deeply about purity in order to use these
+surplus resources for something as impractical as a miqvah. In later halachic literature, miqva 'at
+were considered of primary importance, and a community was required to build one before
+building a synagogue, a beit midrash (house of study), or buying a Torah scroll (Jachter).
+A miqvah was a way of designating a specific place where one could become pure.
+
+21
+
+Rachel Adler
+Whoever controlled the miqvah had control of the purity of the people who used it. They would
+have the power to regulate when people could or could not become pure. They also could dictate
+exactly how a person was to immerse themselves, what prayer they had to say over it, and
+whether or not the immersion was actually acceptable.
+
+22
+
+Rachel Adler
+
+Chapter 4: An Archaeological Examination of Ritual Baths in Hellenistic and Roman
+Period Palestine
+
+In order to understand the importance ofritual bathing in the time of the Second Temple,
+one must study the ritual baths in which people bathed in that time period. This chapter will
+present three miqva 'ot: Jerusalem miqvah L.65, Sepphoris miqvah SPl, and Wadi Qelt miqvah
+A(B)64.
+
+Jerusalem 13
+Context
+Miqvah L.65 is located in what is now considered the Old City of Jerusalem [Fig. 41]
+(Reich, 2000, p. 88). Specifically, it is located in Area A of the excavation, which was a
+residential area in the Upper City, the wealthy area of town where the priests lived. Even more
+specifically, it was located in square Hof this area, in the 6th stratum. The construction of
+
+miqvah L.65 dates to the late 2nd or early 1st century BCE, during the Hasmonean period [Fig.
+4.2]. Miqvah L.65 was found in Area A, Stratum 6, Square Hl 1 (Reich, 2000, p. 88).
+
+The Bathing Installation
+Miqvah L.65 is built of ashlars, (cut stones) [Fig. 4.3], as opposed to the other walls
+found in stratum 6, which are built of uncut fieldstones (Reich, 2000, p. 88). The blocks of the
+
+miqvah walls were 35-40 cm. wide, 65-70 cm. long, and made of nari limestone. A wide
+foundation trench was dug into the ground, into which the miqvah was inserted, rather than
+n This excavation, headed by N. Avigad, was done in the Jewish Quarter of the Old City of Jerusalem.
+Unfortunately, the entire site could not be excavated, due to the fact that archaeologists were digging in a densely
+populated area that has immense religious significance to Jews, Muslims and Christians alike. Additionally, the
+Israeli government does not have the right to excavate underneath the Muslim, Christian, or Armenian quarters of
+the Old City. Thus, excavations in the Old City were limited to the Jewish Quarter, and only specific areas at that.
+
+23
+
+Rachel Adler
+constructing above ground pools. The miqvah is 2.15 m. wide; the length, however, could not be
+determined because the miqvah was destroyed on the north by a medieval period foundation
+trench. A portion of the western wall was found, measuring 3.8 m. The bottom basin is intact,
+and its measurements are 2.15 by 1.55 m. (Reich, 2000, p. 88).
+A damaged staircase leading into the miqvah was excavated. On the north side of the
+
+miqvah, there is a wide step with a tread of 50 cm. To the north of the step there was a fill of
+loose rubble, which was interpreted as either part of the fill below the staircase, or a pit that was
+created by people who robbed the ashlars for secondary use in other structures. Reich assumes
+that the width of the reconstructed step was narrower than the lowest step (30-35 centimeters)
+and thus, the staircase would have had seven to eight steps (Reich, 2000, p.88). The rise of the
+lowest step would have been 25 cm, and the original depth of this miqvah would have been at
+least two meters. Miqvah L.65 also quite possibly had a barrel-vaulted roof, as ashlars similar to
+those in the walls, were found on the floor of the installation. However, unlike the ashlars in the
+wall, these ones were curved, showing an arch in the ceiling (Reich, 2000, p. 88-89).
+The water source for this miqvah comes from a small tank, L.130 located adjacent to the
+pool [Fig.4.4]. L. 130 measures 55 x 55 x 66 cm, and has a volume of200 liters. Although the
+channel does not directly connect to the pool, L.130 appears to be built against the outer face of
+the western wall ofL.65. Reich believes that the two installations are contemporary, although he
+sees no evidence for them being connected (Reich, 2000, p. 90).
+Channel L.68 is a plastered water channel slightly to the west of tank L.130. The channel
+has an average width of 45-55 cm. At the northeastern end, the channel fonns a larger basin that
+measures 1.05 x 2.5 m. The channel slopes downwards to the north. The area where the channel
+widens at 755.38 m. elevation was destroyed by a medieval trench. No direct connection
+
+24
+
+Rachel Adler
+between installation L.65 and channel L.68 has been found, but Reich believes this channel to
+have fed L.65, as the channel is 1.47 m. higher than the water installation. (Reich, 2000, p. 9091)
+
+Artifacts
+Three artifacts were excavated from Jerusalem miqvah L.65. Artifact 2270 is classified
+as a stone artifact, specifically a casting mould [Fig. 4.5] (Reich, 2003, pl. 8:6:5). Artifact 2270
+is a fragment of rectangular limestone block that measures 5 .5x15.5x13.5 cm, with groove
+marks made to cast a bronze implement. There are dark traces in the groove marks (Reich, 2003,
+288). Artifact number 2468 is a also stone artifact- a small basin, which is made of limestone
+[Fig. 4.6]. The basin is rectangularly shaped, has dimensions of 9 x 12 x 15.8 cm., and is very
+rough and crudely carved (Reich, 2003, pl. 8:6:7). Artifact number 2367 is a wood object, with
+no picture or further description published (Gutfeld, 2003, p. 557). Ceramic vessels,
+
+14
+
+mostly
+
+small bowls or plates, were found in the western part of the installation, underneath the collapse
+of ashlars [Fig. 4.7] (Reich, 2000, p. 89). Many of these bowls are complete, or could be
+reconstructed (Reich, 2000, p. 89).
+
+Sepphoris
+
+Context
+The city of Sepphoris is located in the lower Galilee in Northern Israel, along the TransGalilean roadway that ran east to west, linking the city of Tiberias on the Sea of Galilee to the
+Mediterranean Sea (Meyers, 1997, p. 527). Sephhoris is 29 km to the west ofTiberias and 29
+14
+
+The ceramic vessels found here were similar to the ceramic vessels found in the Wadi Qelt miqva'ot detailed
+below.
+
+25
+
+Rachel Adler
+km east of the Mediterranean Sea (Meyers, 1997, p. 527).
+Sepphoris has miqva'ot dating from 100 BCE until the early Islamic period, circa 700
+CE. Most of these pools went out of use after an earthquake in 363 CE. At that time, the Jewish
+community relocated, and according to Katy Galor's research, this is evidenced both by
+abandonment of most miqva'ot and by the introduction of pig bones (Galor, 2007, p.210).
+The miqvah we will be examining, Sepphoris Stepped Pool I (henceforth SP!), is
+located on the eastern side of the western acropolis of the city (Galor, 2007, p. 209). The
+acropolis itself is located on the city's summit, with the lower city surrounding it (Meyers, 1997,
+2
+
+p. 527). The western acropolis of Sepphoris has 20 pools spread over an area of 3100m [Fig.
+4.8] (Galor, 2007, p.211). This accounts for about 93.5% of the surface area of the site (Galor,
+2007, p.209). Each pool is calculated to have served a domestic space measuring 11.23 x 11.23
+m. (Galor, 2007, p. 209). The pools were supplied by rainwater channeled from the exterior,
+possibly from the roofs of buildings. There are also additional plastered installations in close
+proximity, 40 cisterns in total. These cisterns were used for water storage. According to Galor's
+calculations, these latter cisterns were only used for drinking water (Galor, 2006, p.269).
+
+The Bathing Installation
+SP I was found within Unit I. Unit I is a large rectangular structure built during the
+Seleucid period, (200-150 BCE). It was covered with massive fill during the Early Roman
+Period, possibly in 68 CE. Unit I has thirteen rooms surrounding a central courtyard that
+measures 8.5 x 4 m. The pools are adjacent to a courtyard, and cannot be directly accessed from
+this space. SP! was eventually turned from water storage into work space. (Galor, N.D., p.4)
+SP I is a large pool, measuring 6.5 x 2 m., located in room 0, accessed from the
+
+26
+
+Rachel Adler
+northwest comer, via four narrow steps descending to the south [Fig. 4.9]. From the landing it is
+likely that two additional steps toward the east provided an entrance to the basin, which
+measured 5 x 2 m. The bottom surface of the basin is graded into three platforms oriented on an
+east-west axis. The variance between each level is 22 cm. The greatest depth of the basin was 2
+meters deep. Entrance steps towards the east were later used as a foundation for a north-south
+wall that subdivided the pool, indicating a reuse of the space at a later date for another purpose.
+There were partially preserved ashlar courses built on top of northern basin wall. The curvature
+of the ashlars indicates a vault. The north-south partition did not intrude into vaulted space.
+(Gator, N.D., p 5) This miqvah can be dated to a refurbishing period in 100 BCE (Galor, 2006,
+p.267)
+
+Artifacts
+Unfortunately, information on artifacts found in SPl is unpublished, and thus
+unavailable to this author at the time of writing.
+
+Wadi Qelt
+
+Context
+The third bath that I will examine is a ritual bath found in a complex of palaces and
+pools outside of Jericho on the Wadi Qelt. The Wadi Qelt is located in the Jordan Valley, north
+of the Dead Sea. The Wadi Qelt is in a dry climate, with water supply coming mainly from flash
+flooding. Ehud Netzer identifies the palaces as an elite winter palatial residence belonging to
+first the Hasmonean Dynasty and then to Herod. The specific bathhouse that I will examine was
+built in Stage 6 of the site, during the reign of Aristobolus II (67-63 BCE), and was modified in
+
+27
+
+Rachel Adler
+later periods (Netzer, 2001, p. 3-10). Many ritual baths were found in the Hasmonean winter
+palaces; in the main palace itself, in the smaller palaces, and in the pool complex.
+
+The Bathing installation
+During the reign of Alexander Jannaeus, a large building project was undertaken that
+included the construction of an enormous pool complex, located in the northern part of the tel
+(Netzer, 2001, p. xiii). The water source for the complex was a conduit, called the Na'aran
+Conduit,' that was built beginning at 'Ein Auja and the three springs ofNa'aran [Figs. 4.10 and
+4.11]. The complex included two large pools, and an elaborate "Pavilion" building. (Netzer,
+2001, p.3)
+Ritual Bath A(B)64 was built within a small bathing installation in the Western Garden
+of the Pool Complex (Netzer, 2001, p. 6-7). The bathing installation also included a small pool
+[A(B) 125], and an installation that was either an indoor swimming pool or a miqvah. In either
+Stage 6 (67-63 BCE) or in Stage 7 (63-3 IBCE) a small unit including a ritual bath and various
+rooms around a courtyard was built to the south of the above-mentioned Pool A(L)255 (Netzer,
+2001, p. 6-7) [Fig. 4.12].
+Ritual Bath A(B)64 has four distinct phases [Fig. 4.13]. Initially, the bath consisted of
+two adjacent pools, which were each 170 x 150 cm. These pools were enclosed in a small room
+inside a long hall (Netzer, 2001, p.117).
+
+Phase I:
+At this time Ritual Bath A(B)64 was bounded on the south by wall W326 (size
+undetermined), on the west by a 65-80 cm-wide wall W250-W329, on the north by an 80 cm-
+
+28
+
+Rachel Adler
+wide wall, W285, and on the south by walls W1087 and W325, which were the western
+boundary walls of the Western Garden in the previous stages. Identical rooms flanked the
+northern and southern ends of the long hall, A(B)138 and A(B)79, respectively (Netzer, 2001,
+p.17-9). There are a few possible locations for this phase's entrance to the miqvah: it could have
+been from the bathhouse complex, from pool A(B)l25, through wall W325, or from the outside
+through wall 324 (Netzer, 2001, p.119).
+The original depth of the pool was 1.65 m. The southern pool had no stairs, while the
+northern pool had stairs along the southern and western walls [Fig. 4.14]. There was also a small
+channel connecting the two pools (15 cm wide and 8 cm high) (Netzer, 2001, p.119). This could
+signify different uses for the two pools. The northern pool with the stairs could be for immersing,
+while the southern pool collected the "living water" that poured into the northern pool to purify
+it. The first pool could also have been used as a way of collecting the sediment, so it would not
+go into the second pool. In any case, it was unlikely that people immersed in the stairless pool.
+The pools were coated with ash-lime plaster. Narrow walls separated the pools from the rest of
+the long hall. This allowed for privacy while one was using the pool. The long hall was paved
+with a high-quality, white lime plaster laid on a bedding of small stones. There were also two
+installations in this phase: a rectangular platform base (3.2 x 1.3m), and a semi-circular
+installation (80 cm diameter) that was used to drain water [Fig. 4.15] (Netzer, 2001, p.119).
+Phase II:
+Minor changes were made in this phase because the original blueprint did not work well.
+The level of the rims of the pools was the same as the level of the bottom of their water source,
+which, according to Netzer, led to frequent flooding of both the pools and the long hall (Netzer,
+2001, p.120). Thus, the two pools were raised 40 cm. The raised part was covered with plaster,
+
+29
+
+Rachel Adler
+but the pools themselves were not re-plastered. The eastern wall was replaced, and the floor was
+raised by 10-15 cm.
+In this phase, the whole bathhouse underwent remodeling, which meant that Ritual Bath
+A(B)64 needed a new channel from the Na aran Conduit. This went through wall W250, which
+was to the west of the ritual bath.
+Access to the bath was solely from the outside garden, through room A(B)l38. There
+may have been a door in the southern wall, W326. (Netzer, 2001, p.121)
+
+Phase III:
+In phase III the long hall was divided by a thin wall, W253, which was 30 cm thick. This
+wall ran partially parallel to the hall's wall and partially at a 25° angle. The eastern part became
+a corridor connecting room A(B)l38 in the north with the southern part of the hall, A(B)l41,
+and it also connected to the doorway in the south. The western part remained as a hall. The hall
+now had 3 entryways, one in the north, one in the south, and one that led west into the pool
+room itself (Netzer, 2001, p.121). A new lime plaster floor was laid on the western part of the
+hall, locus A(B)139. This created a difference in levels between the northern and western parts
+that was overcome by a step.
+In this phase a drainage system for the ritual baths was installed. This system started as a
+lead pipe built into W25 l that drained the northern pool, and then continued as a small channel
+built on top of the new floor to the east of and along the hall's western wall (Netzer, 2001,
+p.122). This connected to a newly-built north-south channel that led to the fields in the north,
+thus effectively recycling the used miqvah water for irrigation. There was also an extension
+added to A(B)138 (labeled as the "entrance room") and a minor change to the Na aran Conduit.
+
+30
+
+Rachel Adler
+Room A(B)211 was added to the west of the Ritual Bath Complex.
+Phase IV:
+Heating chamber A(B)76 was added to the north of the room containing the pools [Fig
+4.16]. An area of 2.8 x 2.0 m was isolated from the western part of the hall, and was bounded by
+a narrow wall or fence. The water was heated in a cauldron placed on two stone foundations
+placed on the room's floor. A 10 cm layer of ash was found covering this chamber (Netzer, 2001,
+p.122). A new white lime plaster floor was laid over the western part of the hall, minus this
+heating chamber. A tabun (rounded baking oven) that was 50 cm in diameter was built in the
+northeastern corner of the original hall [Fig. 4.17]. 15 Other baking ovens were found nearby.
+Netzer correctly points out that in this stage the ritual bath was no longer in use (Netzer, 2001,
+p.123).
+
+Artifacts
+The pools yielded a large amount of material finds, mostly ceramic vessels, many of
+which were intact [Fig. 4.18]. A large number of objects were dumped into these pools. The
+pools could have theoretically been filled with water at the time that the artifacts were dumped.
+There were less artifacts found in the northern pool than in the southern. In the southern
+pool, the bottom 40 cm were packed with large storage jars, which had crushed one another. An
+intact drinking horn was found on top of this layer. A complete mortar made of alabaster was
+found nearby [Fig. 4.19]. The northern pool yielded two intact mortars (Netzer, 2001, p.123).
+It is possible that in the destruction phase these pools served as a place to dump garbage
+or a place to hide valuable objects. The objects could have been brought individually or in sacks
+or boxes.
+15
+
+Though this could have theoretically been added in the tentative fifth phase. See (Netzer, 2001, p. 123)
+
+31
+
+Rachel Adler
+Chapter 5: An Analysis of the Data Presented
+Now that we have reviewed the physical evidence, how do we use these miqva'atto
+reconstruct bathing practices in early Judaism? In order to answer this question, we will
+compare the three miqva'at on the basis of 1) size, 2) staircase shape, 3) building materials and
+techniques, 4) water storage (both internal and external), 5) artifacts, and 6) context.
+First, in order to compare the miqva 'at adequately, we must consider size. I would like to
+direct your attention to Table 5 .1. If there were uniformity in bath construction, one would
+expect the miqva 'at to be relatively similar in size. However, in actuality, one finds great
+variance in size. The largest of the miqva'at is Sepphoris miqvah SP!, measuring 6.5 x 2m and
+2m deep. 16 The next largest is the Jerusalem miqvah L.65, measuring approximately 2.5 x 3.8m,
+and at least 2m deep. Finally, the smallest miqvah is Ritual Bath A(B)64 at Wadi Qelt, with each
+pool measuring 1.7 x I.Sm and 1.65m deep. The disparity in size comes from many factors. First
+is the availability of space- the Sepphoris acropolis had much more space available for the
+building of miqva 'ot than the Jerusalem example did. However, there was plenty of space in the
+pools complex at the Wadi Qelt, but this miqvah was the smallest. This is unexpected, but can
+be explained in terms of the greater context that these miqva 'at were found in, which will be
+addressed later in this section.
+The disparity in size of the miqva 'at is related to the second factor we must consider, the
+shape of the staircases. Sepphoris miqvah SP 1 is made up of three descending platforms that
+take up the entire width of the pool. Jerusalem miqvah L.65 and Wadi Qelt miqvah A(B)64, on
+the other hand, have smaller staircases on one side of the pools. The staircase size shows
+
+16
+Volumes (in terms of water capacity) of the miqva 'ot are not included here because calculating the volumes
+requires more than just the multiplication of length, width and depth. The miqva'ot also have stairs, which subtract
+from the total volume of water that can be held, and because the exact volume of the stairs is unknown, an exact
+volume of the miqva 'ot cannot be calculated.
+
+32
+
+Rachel Adler
+whether or not multiple people could descend into and ascend out of the pool at the same time.
+In the Sepphoris miqvah, many people could immerse simultaneously. However, neither L.65 or
+A(B)64 could have had held more than one person at a time.
+The third factor we must consider is the building materials and techniques used in the
+miqvah construction. One would expect to find a similarity here between the different miqva 'ot
+
+ifthere were a centralized industry of miqvah construction in Roman Palestine. But in fact, we
+see the opposite: Sepphoris miqvah SP! and Wadi Qelt miqvah A(B)64 are both made out of
+plaster, though SP I is located under an ashlar vault. Jerusalem miqvah L.65 is made entirely
+from ashlars. Both constructing a miqvah from plaster or from ashlars required a significant
+amount of effort, but the ashlar masonry was a more specialized craft. Specially trained stone
+masons were needed to carve rough stones into rectangular blocks that could be used for
+building. Mixing of plaster was a work-intensive task, but it could be performed by anyone. So
+different miqva 'ot were built with varying degrees of specialization, suggesting that different
+people were employed in the construction of miqva 'ot, and perhaps that they were even locally
+constructed. Altogether, these conclusions suggest that a centralized miqvah building industry
+did not exist.
+The fourth factor we must examine is the water sources of the miqva 'ot. The water
+sources supplying the three miqva 'ot under consideration vary tremendously. Jerusalem miqvah
+L.65 was supplied by water from channel L.68 and installation L.130. L.68 and L.130 were both
+filled by rainwater. The miqvah was located in the basement of a building in order to reduce the
+amount of evaporation. Sepphoris pool SPI was also supplied by rainwater. This pool also was
+located inside a building in order to reduce the amount of evaporation. Wadi Qelt Ritual Bath
+A(B)64 was supplied with water from the elaborately constructed Na' aran Conduit. This water
+
+33
+
+Rachel Adler
+came from flash floods, which happened during the winter. Since the palaces were only used in
+the winter, it was not difficult to maintain water in A(B)64 during that time of year.
+Theoretically, all of these pools could have been used in the manner proscribed by Jewish law.
+In actuality, however, there really is no way of knowing for sure whether or not the owners of
+the miqva 'at ever emptied out stale water and replaced it with drawn water, or did something
+else that might invalidate the miqvah.
+The fifth factor to consider is the artifacts found in relation to the miqva 'at. As stated
+earlier in Chapter Two, vessels were not used in the miqvah ritual. One would therefore not
+expect to find any artifacts relating to the miqva 'at. Yet surprisingly, we do find artifacts. The
+artifacts found in Jerusalem miqvah L.65 were a casting mould, a stone vessel, a wood object,
+and many small ceramic bowls and plates. Wadi Qelt Ritual Bath A(B)64 also had many
+ceramic objects, mostly storage jars, in addition to a drinking horn and some mortars. But there
+was also a tabun present in the final phase of the miqvah. The presence of a tabun suggests the
+miqvah was used for something else, probably a kitchen, after it was no longer useful for ritual
+bathing. The miqvah water could have been used for cooking. At the end of the palace's
+occupation, the miqvah pools served as a place to store valuables. As stated before, the artifacts
+found within Sepphoris pool SPl are unknown, so we cannot yet draw any conclusions about
+the pool's secondary use.
+Overall, the presence of artifacts in secondary contexts illustrates that at some point the
+miqvah was no longer used for the sacred purpose of ritual purification. The miqvah had
+outlived its period of utility, probably because it was such a tremendous use of resources to
+maintain a miqvah, and these resources could be better used as something else, whether it be a
+kitchen, storage facility, or cistern for drinking water.
+
+34
+
+Rachel Adler
+The final factor to take into account, and arguably the most important one, is the contexts
+in which the different miqva'ot were situated. Sepphoris stepped pool SP! was probably a public
+
+miqvah, being used by many people at a time. The construction of SP I, SP2 and SP3 occurs
+during the period when Sepphoris was a Hasmonean city. The building of the stepped pools
+could reflect the takeover of the previously Seleucid building by the Hasmoneans (Galor, 2007,
+p.216). The construction of the building reflects Hellenistic influence, creating a specific
+building for the communal practice of bathing. Eventually this miqvah went into disuse in lieu
+of the smaller private miqva 'ot from the Roman period.
+Jerusalem miqvah L.65, was located within a private residence. The use of ashlars in
+construction suggests that whoever created this miqvah must have had considerable wealth. In
+all likelihood, this miqvah was located inside a house that belonged to one of the Sadducee
+priests, and the miqvah was used for immersion before entering the temple or eating sacrificial
+meals, both practices that the priests would carry out quite often. Its medium size and location
+within a private residence both imply that this miqvah was used on an individual basis.
+Though Ritual Bath A(B)64 at Wadi Qelt is the smallest miqvah, it comes from an elite
+context, specifically a pools complex that contained pools much larger than the miqvah under
+investigation. The pools at this site held an immense amount of water. The small size of the
+
+miqvah suggests that this installation was also used by individuals rather than groups of people
+immersing simultaneously. Proximity to the pools suggests that the bath was probably used for
+purification after swimming. One can be quite certain that the bath was, indeed, a ritual one,
+since its small size does not allow swimming, the stairs in the northern pool indicate that people
+were descending into the bath, and the presence of the southern, stairless pool, indicates a
+collecting point for the water before filling the northern pool.
+
+35
+
+Rachel Adler
+Private miqva 'ot were precious commodities. The advantages of owning one were that
+the quality of water inside the miqvah was much nicer, since less people would be bathing in it,
+there would be privacy for whoever was immersing, and one could immerse whenever he or she
+wanted. However, these private miqva 'ot also required many resources to construct and
+maintain. Only elites had enough wealth to purchase a private miqvah. Public miqva 'ot could be
+used by anyone, and could be built from pooling 17 the community's resources.
+The nature of public and private rituals is also very different. Public miqva 'ot could
+facilitate bonding between the men or women who immersed together.
+
+18
+
+Bathing was a
+
+communal experience. People would immerse at the same time, whenever the communal rules
+dictated it. Private miqva 'ot were more of an individual experience. The priests would bathe
+before performing the Temple services that only they were allowed to carry out. They had a
+unique role in the religion, doing something that the average person could not do. They could
+perform sacrifices that no one else could perform. They could eat sacred foods that no one else
+was allowed to partake. This placed them on the level of the elite, and gave them a certain
+amount of power.
+In an individual miqvah, a person would bathe whenever she or he wanted. A private
+miqvah allowed the bather to focus on her or himself, and the purity that she or he would
+
+achieve by bathing. Perhaps ritual bathing served as a way to wash away the profanity of the
+outside world and focus inward. The manner in which the ritual was performed, and whether or
+not it was in the public or private sphere, is a significant factor to be considered.
+
+17
+
+18
+
+No pun intended
+LE. either men immersing together or women immersing together, but not both in the same miqvah at the same
+
+time, due to concerns for modesty.
+
+36
+
+Rachel Adler
+Chapter 6: Conclnsion: Towards a Greater Archaeology of Purity
+Iu my examination of the miqva'ot at Jerusalem, Wadi Qelt, and Sepphoris in chapters
+four and five, I have shown that bathing practices in early Judaism were not uniform, but in fact,
+demonstrate a degree of heterodoxy.
+Now, in this last chapter, I will compare the textual and the physical evidence, to provide
+a complete picture of bathing practices in early Judaism. Then I will explore possible avenues
+for further research. Finally, I will discuss how the archaeology of purity can make a larger
+contribution to the field of anthropology.
+
+A Reconciliation of the Textual and the Physical Evidence
+The halachic evidence that I presented in Chapter Three of this thesis outlined the basic
+rules of miqvah construction and purity within Judaism. There were many specifications as to
+how a miqvah could or could not be built. Keeping to these laws, especially in a place with such
+little rainfall as Roman Palestine, was very difficult. It is important to understand that these laws
+were the ideal, but they were not necessarily reflective of actual practices at the time.
+The miqva 'ot we've examined, however, are evidence of how people actually
+constructed these artificial bathing installations. Our investigation of these miqva 'ot shows that
+it is possible that people were keeping the halacha, but there is no way of being sure. We run the
+risk of inaccurately projecting present (or at least later) practices back on ancient peoples. So it
+is important to note that these miqva 'ot, especially SP! in Sepphoris, could have been filled with
+drawn water in addition to the living water that collected in them.
+What the different baths do prove, however, is that there was heterodoxy in bathing
+practices in early Judaism during the Hellenistic and Roman periods. We find small elite private
+
+37
+
+Rachel Adler
+miqva 'ot that were used in individual rituals, and big public miqva 'ot that were used
+
+communally.
+The presence of miqva 'ot at Sepphoris that were in use after 70 CE provides proof for
+the expansion of purity practices outside of the Temple cult. Prior to the destruction of the
+Second Temple, miqva 'ot that far away from the Temple would have been impractical for use in
+relation to the Temple cult. When traveling from Sepphoris to Jerusalem, one was bound to
+come across something that would impurify them along the way. There were plenty of miqva 'ot
+in Jerusalem, so one would not need to purify oneself before embarking on the journey.
+Furthermore, the communal nature of the miqvah suggests a different type of usage.
+Though the physical evidence does contradict the textual evidence, this is a forgivable
+contradiction, and not at all surprising. Societies set up ideal visions of how the world should be,
+and how people should behave. However, it is only natural to have a reality that falls short of the
+ideal. There were people in the early Jewish community who tried their best to comply with the
+Pharisaic laws. There were also people in the early Jewish community who did not agree with
+the Pharisees, and thus it would make sense that they did not keep the laws. They had different
+concerns in their purity rituals. So rather than the archaeology being in incongruity with the text,
+or the text being in opposition to the archaeology, the two of them are both parts of a bigger
+picture.
+
+Towards a Greater Archaeology of Purity: Avenues for Further Research
+Although I have accomplished a lot in this thesis in terms of creating and defining the
+idea of studying the archaeology of purity, and although I have provided you with a better
+understanding of bathing practices in early Judaism, this work is only a first step. There is much
+
+38
+
+Rachel Adler
+to learn about the archaeology of purity, and I have barely started this project.
+We can continue this research in two directions. The first direction we could explore is a
+further examination of purity in Judaism. The second is a broadening of our investigation to the
+study of purity in different cultures. Either path would require more than a lifetime of research,
+and both should be open to all interested archaeologists.
+This first direction, towards a better understanding of Judaism, is the direct extension of
+my present work. I have only examined three miqva 'ot in this thesis, but there are hundreds of
+miqva 'ot that have been uncovered in excavations in Israel. The most complete study of these
+miqva 'ot to this date is Reich's dissertation. Reich's work is not currently accessible to the
+
+majority of archaeologists for two reasons: first, because it not widely available to
+archaeologists, 19 and second, because it is in Modem Hebrew. Therefore, I would advocate the
+publication of this foundational study, translated into English, and its widespread distribution.
+Every major archaeological library should own a copy.
+Additionally, there are many excavated sites in Israel that have miqva 'ot and that have
+not published their research yet. For example, although I examine Sepphoris miqvah SPl, my
+work remains incomplete because the official site reports for Sepphoris are not yet published.
+Archaeologists are currently relying on field notes for their research. Another example is a
+miqvah uncovered outside of Alon Shvut, a settlement in the West Bank. Although one can walk
+
+from the settlement to the miqvah and see the excavated miqvah, there are no published site
+reports from this excavation. Beyond that, there are countless other sites without published
+reports.
+Eventually, I would like to create a synthesis of the different miqva'ot in Israel, and
+19
+
+There are two printed copies of the dissertation in Israel, one is at the Rockefeller Museum and the other is at
+Hebrew University. Reich is currently a professor at the University of Haifa, and even U Haifa does not have a
+copy of Reich's dissertation!
+
+39
+
+Rachel Adler
+analyze them all in the same way I did with these three miqva 'ot in chapter five of this thesis. I
+would also like to analyze miqva 'ot through time and across space, and include miqva 'ot from
+all the Jewish communities outside of Israel, and even compare these miqva 'ot to contemporary
+ones.
+There are many sites that remain unexcavated. For example, although the miqva 'ot in the
+priests' houses in the Old City of Jerusalem have been excavated, we do not have any Pharisaic
+miqva 'ot with which to compare them. Not every archaeological site in the State oflsrael is
+
+currently available for excavation, because people's homes are on some of them, but we should
+consider excavating where we can. Currently the Israeli Antiquities Authority is under-funded,
+and their resources are stretched, so I would advocate the undertaking of new excavations
+supported by universities in other countries, such as the United States. Many years ago, the
+University of Pennsylvania was at the forefront of archaeology in the Levant. However,
+However, the University has shifted its focus to New World archaeology, specifically South
+America. I would recommend that Penn return to excavating in Israel, funds permitting.
+Beyond ritual bathing, there are plenty of other purity rituals from early and modern
+Judaism, that can be analyzed from an archaeological perspective, such as ritual slaughter and
+the observance of the laws of kashrut.
+The second direction, a greater archaeology of purity, is one that contains endless
+possibilities. We can examine purity in Hinduism, early Christianity, Islam, sub-Saharan Africa,
+or in Native American tribes. As any of these studies could take multiple lifetimes to complete, I
+would urge fellow archaeologists to join me in the study of the archaeology of purity.
+
+40
+
+Rachel Adler
+Contributions to Anthropology and Archaeology
+
+It is a trend among archaeologists to set up models of how past worlds were, with clearcut ways of categorizing peoples and societies. The lines between band, tribe, chiefdom, and
+state are well delineated, the differences between pastoral-nomadism and sedentary settlements
+are obvious, there are years marking the beginnings and ends of the Stone, Bronze, and Iron
+Ages. While these models are useful in serving as heuristic devices, they rarely depict reality.
+Anthropology, however, sees the rules of a given society, and then observes the people who are
+supposed to be following them. Anthropologists study what really happens when people interact.
+The lines between categories are often blurry. It would do archaeology well to take a lesson
+from anthropology. Present day societies do not fit into these precise categories, so why would it
+be any more likely that past societies did?
+One of my goals in presenting this research is to show how archaeology can illustrate the
+dichotomy between the ideal and the real. I would caution my colleagues against the use of rigid
+models; rather, I advocate the use of more fluid models, which, rather than trying to fit past
+societies into certain categories which they may or may not fall into, allow for a whole spectrum
+of realities, with many peoples and places existing between the categories.
+In this way, anthropological archaeology can move forward as discipline, and continue
+to inform us about our past in a more accurate and complex way.
+
+41
+
+Rachel Adler
+
+Works Cited
+
+Abu El-Haj, N. (2001). Facts on the ground: archaeological practice and territorial self
+
+fashioning in Israeli society. Chicago: University of Chicago Press.
+Chancey, M. and Porter, A. (2001). "The Archaeology of Roman Palestine." Near Eastern
+
+Archaeology, Vol. 64, No. 4., 164-203.
+Douglas, M. ([1966] 2002). Purity and Danger. London: Routledge Classics.
+Durkheim, E. ([1915]1965). The Elementary Forms of the Religious Life. New York: The Free
+Press.
+Gator, K. (2007). The Stepped Water Installations of the Sepphoris Acropolis. In Edwards, D.
+and McCollough, C. (Eds.). The Archaeology of difference: Gender, Ethnicity, Class and
+
+the "Other" in Antiquity. Studies in Honor of Eric M Meyers. (pp. 205-218). Boston:
+American Schools of Oriental Research.
+Galor, K. (2006). Roman and Byzantine Period Ritual Pools on the Sepphoris Acropolis. In
+Wiplinger, G. (Ed.). Cura Aquarium in Ephesus: Proceedings of the Twelfth International
+
+Congress on the History of Water Management and Hydraulic Engineering in the
+Mediterranean Region. (pp. 265-271 ). Leuven: Peeters.
+Galor, K. (2003). Plastered Pools: A New Perspective. In Humbert, J.B. & Charnbon, A. (Ed.).
+
+The excavations of Khirbet Qumran and Ain Feshkha: Synthesis of Roland de Vaux's field
+notes: IA (English Edition ed.). (pp. 291-319). Fribourg, Switzerland: University Press
+Gi:ittingen Vandenhoeck & Ruprecht.
+Galor, K. (ND). Unpublished manuscript of The Stepped Water Installations of the Sepphoris
+Acropolis.
+
+42
+
+Rachel Adler
+Gutfeld, Oren. (2003). Concordance of Finds in Areas A,W and X-2. In Geva, H. (Ed.). Jewish
+
+Quarter Excavations in the Old City ofJerusalem (pp. 553-568). 2 vols. Jerusalem: Israel
+Exploration Society.
+Insoll, T. (2004). Archaeology, Ritual, Religion. London: Routledge.
+Jachter, C. with Frazer, E. (2006). Gray Matter: Discourses in the Complex Halachic Issues of
+
+Today. 2 vols. Brooklyn: Yashar Books.
+Levine, B. (1993). The Anchor Bible: Numbers 1-20. New York: Doubleday.
+Levine, L (1998). Judaism and Hellenism in Antiquity: Conflict or Confluence? Seattle:
+University of Washington Press.
+Merrifield, R. (1987). The Archaeology of Ritual and Magic. New York: New Amsterdam.
+Meyers, C. and Meyers, E. (1997). Sepphoris. In Meyers, E. (Ed). The Oxford Encyclopedia of
+
+Archaeology in the Near East. New Yark: Oxford University Press.
+Milgrom, J. (2000). The Anchor Bible: Leviticus 17-22. New York: Doubleday.
+Milgrom, J. (1991). The Anchor Bible: Leviticus 1-16. New York: Doubleday.
+Netzer, E. (2001). Hasmonean and Herodian Palace at Jericho. Volume I: Stratigraphy and
+
+architecture.3 vols. Jerusalem: Israel Exploration Society.
+Neusner, J. (1973). The Idea of Purity in Ancient Judaism. Leiden, Netherlands E. J. Brill.
+Reich, R. (2003). Stone Vessels, Weights, and Architectural Fragments. In H. Geva (Ed.), Jewish
+
+Quarter Excavations in the Old City ofJerusalem (pp. 256-262). 2 vols. Jerusalem: Israel
+Exploration Society.
+Reich, R. (2000). Hellenistic to Medieval Strata 6-1. In H. Geva (Ed.), Jewish Quarter
+
+Excavations in the Old City ofJerusalem (pp. 83-110). 2 vols. Jerusalem: Israel
+Exploration Society.
+
+43
+
+Rachel Adler
+Reich, R. (1990). Miqva 'ot (Jewish Ritual Baths) in the Second Temple Period and the Period of
+the Mishnah and Talmud. Unpublished Ph.D. Dissertation, Hebrew University of
+Jerusalem (Hebrew).
+Reich, R. (1988). The Hot Bath-House (balneum), the Miqweh and the Jewish Community in the
+Second Temple Period. Journal ofJewish Studies, 39, I 02-107.
+Schiffman, L. (1991.) From Text to Tradition: a history of Second Temple and Rabbinic Judaism.
+Hoboken, New Jersey: Ktav Publishing House.
+Silberman, N. (1982). Digging for God and country: exploration, archeology, and the secret
+struggle for the Holy Land, 1799-1917. New York: Knopf.
+Soggin, A. (1987). Introduction to the Old Testament. Louisville, Kentucky: Wstminster/John
+Knox Press.
+Winick, C. (1956). Dictionary ofAnthropology. New Yark: Philosophical Library.
+Wood, B.G. (1984). To Dip or Sprinkle? The Qumran Cisterns in Perspective. Bulletin of the
+American Schools of Oriental Research, 256, 45-60.
+
+44
+
+Table(s):
+
+Site
+Jerusalem
+
+Miqvah number
+
+Dimensions
+
+Date
+
+water source
+
+context
+
+buildino materials
+
+artifacts
+
+L.65
+
+2.5 x 3.8m (at least 2m deep)
+
+Late 2nd, early 1st century BCE
+
+cistern L.130 and channel L.68
+
+nrivate
+
+ashlars
+
+castina mould, stone vessel
+
+"
+
+"
+
+wood obiect,
+
+"
+
+"
+
+small ceramic boVY1s and olates
+
+Sennhoris
+
+SP1
+
+6.5 x 2m (2m deep)
+
+100 BCE
+
+rainwater
+
+nublic
+
+nlaster (with ashlar roofi
+
+unavailable
+storage jar, drinking horn,
+
+Wadi Qelt
+
+A/8)64
+
+1.7 x 1.Sm /1 .65m deeo)
+
+63-67 BCE
+
+Na'aran conduit
+
+orivate
+
+olaster
+
+mortars
+
+Table 5.1 A comparison of the dimensions, construction dates, water sources, contexts, building materials, and artifact assemblages of
+the miqva'ot in this case study.
+
+45
+
+Adler
+
+Illustrations
+
+Figure 1.1 The Empire of Alexander the Great
+From http://www.math.sfu.ca/histmath/Europe/Euclid300BC/maps.html
+
+46
+
+Adler
+
+Figure 4.1 Bottom of Jerusalem miqvah L.65, after the fallen ashlars and pottery were removed
+(Reich, 2000, p.88).
+
+47
+
+Adler
+
+(
+
+I
+
+/
+
+r
+I
+
+.
+
+-l!.,•.
+
+1
+1
+
+I
+
+,ml
+I
+
+. :!: ...
+
+Figure 4.2 Map of Jerusalem excavation Area A, Stratum 6. Note the proximity of the small tank
+L.130 and channel L.68 to the miqvah L.65 (Geva, 2000, plan 2.3).
+
+48
+
+Adler
+
+Figure 4.3 The ashlar collapse in Jerusalem miqvah L.65 (Reich, 2003, p. 89).
+
+49
+
+Adler
+
+Figure 4.4 Area A of the Jerusalem excavation looking south; water instillation L.130 in the
+center, with channel leading from it, miqvah L.65 is to the left of the small installation (Reich,
+2002, p.90).
+
+50
+
+Adler
+
+Figure 4.5 A stone mold found in Jerusalem miqvah L.65 (Reich, 2003, pl. 8:6:5).
+
+Figure 4.6 A stone vessel found in Jerusalem miqvah L.65 (Reich, 2003, pl. 8:6:7).
+
+51
+
+Adler
+
+Figure 4.7 Pottery bowls, trapped under ashlar collapse in western part of Jerusalem miqveh L.65
+(Reich, 2000, p. 89).
+
+52
+
+Adler
+
+\Cl~{
+
+\{)
+
+'1""'
+..
+\
+
+,.-
+
+)\\
+
+'\_.,,✓""
+
+'\
+
+SP stepped P<J<)l
+C cistern \
+V vat
+S storage
+
+N
+o
+
+mm
+
+Figure 4.8 Plan of the western acropolis at Sepphoris (Galor, 2007, p.209).
+
+53
+
+\
+
+Adler
+
+2m
+
+lm
+
+Figure 4.9 Sepphoris stepped pool I (Galor, 2007, p.210).
+
+54
+
+Adler
+
+Figure 4.10 Network of channels from different phases in the southwestern comer of Wedi Qelt
+Ritual Bath A(B)64 (Netzer, 2001, p.121).
+
+55
+
+Adler
+
+Figure 4.11 Section of the Grand Bypass where it meets the comer of Wedi Qelt Room A(B)138
+viewed from the north. Note the drainage channel emerging from Ritual Bath A(B)64. (Netzer,
+2001, p.126).
+
+56
+
+Adler
+
+Figure 4.12 View of Wedi Qelt Ritual Bath A(B)64 complex from the north (Netzer, 2001, p.
+117).
+
+57
+
+Adler
+
+...
+
+\.~-'ll,11
+
+~-'~jl [J
+_,_,..:, : . . .;.__,. ;.....;.~-~-~
+,
+Ia''---""".
+!
+
+<'-~
+
+~--
+
+l
+J
+f
+•
+I!"
+...___.,
+...d__.__,.._,_,
+
+Figure 4.13 Plans of the 4 different phases of Wedi Qelt Ritual Bath A(B)64 (Netzer, 2001,
+p.118).
+
+58
+
+Adler
+
+Figure 4.14 The two pools in Wedi Qelt Ritual Bath A(B)64 viewed from the north. Note the
+crack in the lower pool on the right hand side where the benches have been eliminated (Netzer,
+2001, p.120).
+
+59
+
+Adler
+
+Figure 4.15 Semi-circular installation in Wedi Qelt Ritual Bath A(B)64, viewed from the east
+(Netzer, 2001, p.120).
+
+60
+
+Adler
+
+Figure 4.16 Heating chamber Wedi Qelt installation A(B)76 built to the north of the pools in
+Ritual Bath A(B)64, viewed from the north (Netzer, 2001, p.122).
+
+Figure 4.17 Northern half of Wedi Qelt Ritual Bath A(B)64 with a late tabun in the northeastern
+corner, viewed from the west (Netzer, 2001, p.123).
+
+61
+
+Adler
+
+Figure 4.18: Material finds as exposed on the floor of the stepped pool in Wedi Qelt Ritual Bath
+A(B)64, viewed from the west. (Netzer, 2001, p.123)
+
+62
+
+Adler
+
+Figure 4.19 Two intact mortars as found in situ on the floor of the northern pool in Wedi Qelt
+Ritual Bath A(B)64 (Netzer, 2001, p. 124).
+
+63
+
+

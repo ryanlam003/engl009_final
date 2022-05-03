@@ -1,0 +1,3611 @@
+Anthropology Senior Theses
+
+University of Pennsylvania
+
+ScholarlyCommons
+Department of Anthropology
+
+Spring 2006
+
+Markers of Identity: A Study of Pennsylvania German Gravestones
+in Berks County, Pennsylvania
+Emily M. Lanza
+University of Pennsylvania
+
+Follow this and additional works at: https://repository.upenn.edu/anthro_seniortheses
+
+Q
+
+Part of the Anthropology Commons
+
+Recommended Citation
+Lanza, Emily M., "Markers of Identity: A Study of Pennsylvania German Gravestones in Berks County,
+Pennsylvania" (2006). Anthropology Senior Theses. Paper 75.
+
+This paper is posted at ScholarlyCommons. https://repository.upenn.edu/anthro_seniortheses/75
+For more information, please contact repository@pobox.upenn.edu.
+
+Markers of Identity: A Study of Pennsylvania German Gravestones in Berks
+County, Pennsylvania
+Disciplines
+Anthropology
+
+This thesis or dissertation is available at ScholarlyCommons: https://repository.upenn.edu/anthro_seniortheses/75
+
+Markers of Identity:
+A Study of Pennsylvania German Gravestones
+In Berks County, Pennsylvania
+
+Emily M. Lanza
+
+Dr. Schuyler
+Thesis Supervisor
+
+Senior Honors Thesis
+For Bachelor of Arts in Anthropology
+University of Pennsylvania
+
+2006
+
+Quiet Dust
+This quiet dust was gentlemen and ladies
+And lads and girls;
+Was laughter and ability and sighing,
+And frocks and curls;
+This passive place a summer's nimble mansion,
+Where bloom and bees
+Fulfilled their oriental circuit,
+Then ceased like these.
+~ Emily Dickinson
+
+Lanza i
+Abstract:
+
+Graveyards and mortuary memorials can reveal not only attitudes towards death but also
+identities and beliefs in life. Seven churchyards in Berks County were surveyed during the
+Summer and Fall of 2005 in order to record and to study the gravestones of a specific
+community, the Pennsylvania Germans. First arriving in the Americas during the later half of
+the seventeenth-century, Pennsylvania Germans settled in southeastern Pennsylvania and
+developed a thriving community and culture. The cemeteries and churchyards of the
+Pennsylvania Germans convey individual and collective social identity and serve as collections
+of "artifacts" that embody their culture and ideology. The survey recorded various aspects of the
+memorials including form, material, motifs, and inscription so that each feature could be
+analyzed in order to determine the function and role each feature possessed in the display of
+identity. With available absolute dates, a chronology of each feature was created in order to
+show the evolution of style and preference as well as the development of the community and
+corresponding expression of identity. The interpretation of the meaning and temporal contexts of
+these features and memorials led to conclusions about gender, age, socio-economic, and ethnic
+identity during the early history of the Pennsylvania German community.
+
+Lanza ii
+Acknowledgements:
+
+I would like to thank Gerianne and Larysa of the Anthropology Department Staff for
+answering all of my numerous questions and offering me support, the Historical Archaeology
+students and staff at the University of York, UK for inspiration, and for Dr. Schuyler, my
+Thesis Supervisor, for reading drafts and providing me with insightful comments,
+suggestions, and advice.
+I would like to thank the staff and parishioners of the churches in Berks County who not only
+welcomed by interest but also provided useful information.
+I also would like thank exceedingly my Father, Mother, and Brother for generously helping
+me survey all of the memorials and for tolerating the heat and humidity while visiting the
+graveyards in the Summer of 2005. I greatly appreciate their continuous love and support.
+
+Lanza iii
+List of Photographs
+
+* All Photographs Courtesy of Emily Lanza
+1. Memorial Form Sixteen in Mohn's Hill Churchyard
+2. Memorial Form One in Alleghany Mennonite Meeting House Churchyard
+3. Memorial Form Two in Plowville Lutheran Churchyard
+4. Memorial Form Twelve in Harmony Methodist Churchyard
+5. Memorial Form Thirteen in Allegheny Union Churchyard
+6. Obelisk, Form Twenty-Four in Allegheny Union Churchyard
+7. Memorial Form Thirty in Harmony Methodist Churchyard
+8. Red Sandstone Memorial in Plowville Lutheran Churchyard
+9. Limestone Memorial in Plowville Lutheran Churchyard
+10. Columns in Harmony Methodist Churchyard
+11. Sleeping Lamb Sculpture in Plowville Lutheran Churchyard
+12. GAR Star in Allegheny Union Churchyard
+13. Abstract Line Motif in Allegheny Union Churchyard
+14. Motif Two in Plowville Lutheran Churchyard
+15. Tulip and Heart Motifs in Allegheny Union Churchyard
+16. Sleeping Lamb Motif in Harmony Methodist Churchyard
+17. Dove Motif in Allegheny Union Churchyard
+18. Motif of Hand Pointing Above the Bible, Allegheny Union Churchyard
+19. Motif Fourteen in Allegheny Union Churchyard
+20. Motif Forty-Five in Plowville Lutheran Churchyard
+21. Motif Forty-Six in Plowville Lutheran Churchyard
+
+Lanza iv
+22. Crescent Moon Motif in Allegheny Union Churchyard
+23. Flying Angel Motif in Harmony Methodist Churchyard
+24. Abstract Tulip Motif in Allegheny Union Churchyard
+25. Closed Bud Rose Motif in Plowville Lutheran Churchyard
+26. Full Bloom Rose lying on top of the Bible in Allegheny Union Churchyard
+27. Motif Fifteen in Plowville Lutheran Churchyard
+28. Crescent Moon, Starts Motifs in Allegheny Union Churchyard
+29. Fraktur Script in Allegheny Union Churchyard
+30. Child's Memorial in Mohn's Hill Churchyard
+31. Bilingual Gravestone in Plowville Lutheran Churchyard
+32. Bilingual Gravestone in Plowville Lutheran Churchyard
+33. "Absent" Inscription German Memorial in Allegheny Union Churchyard
+
+Lanzav
+List of Figures
+1. Figure la: Memorial Form By Decade
+
+2. Figure 1b: Memorial Form By Decade
+3. Figure 2: Material By Decade
+4. Figure 3: Additional Features (Contemporaneous to Headstone) By Decade
+5. Figure 4a: Motif By Decade
+6. Figure 4b: Motif By Decade
+7. Figure 5: Inscription Introductions By Decade
+8. Figure 6: Additional Text By Decade
+9. Figure 7: Language By Decade
+
+Lanza vi
+
+List of Tables
+1. Table 1: Count of Memorial Form By Decade
+
+2. Table 2: Count of Material By Decade
+3. Table 3: Count of Additional Features (Contemporaneous with Headstone) By Decade
+4. Table 4: Count of Motifs By Decade
+5. Table 5: Count of Inscription Introductions By Decade
+6. Table 6: Count of Additional Text By Decade
+
+Lanza vii
+
+Table of Contents
+1. Preface ................................................................................................. .i
+Abstract ........................................................................................ .i
+
+2.
+3.
+
+4.
+5.
+
+6.
+
+7.
+8.
+9.
+
+Acknowledgements ......................................................................... .ii
+List of Photographs ........................................................................ .iii
+List of Figures ................................................................................ v
+List of Tables ................................................................................ vi
+Table of Contents ........................................................................... vii
+Introduction ............................................................................................ 1
+Background Information ............................................................................. 2
+Pennsylvania German History and Background ......................................... 2
+German Identity and Americanization ..................................................... 3
+Historical Background ofChurches ........................................................ 5
+Previous Research and Literature ......................................................... 7
+Theory ......................................................................................... 9
+Methodology ......................................................................................... 10
+Results and Analysis ................................................................................ 14
+Memorial Type .............................................................................. 14
+Material. ..................................................................................... 27
+Additional Features ......................................................................... 30
+Motifs: Central ............................................................................. .39
+Motifs: Border. .............................................................................. 54
+Inscription Script ........................................................................... 55
+Inscription Introductions .................................................................. 56
+Inscription ................................................................................... 58
+Additional Text ............................................................................. 60
+Discussion............................................................................................ 63
+Gender ....................................................................................... 63
+Age ........................................................................................... 65
+Socio-economic Status ..................................................................... 67
+German Etlmic Identity .................................................................... 69
+Community/Cemetery ...................................................................... 79
+Conclusion ........................................................................................... 80
+Bibliography .......................................................................................... 82
+Appendix ............................................................................................. 84
+Survey Sheet.. .............................................................................. 84
+Survey Codes ................................................................................ 85
+Tables ........................................................................................ 94
+
+Lanza I
+
+INTRODUCTION
+Although created to serve as the final resting place for the dead, cemeteries can often
+reflect the lives, the lifestyle, and beliefs of the living. These "communities of death" mirror the
+social-cultural processes of a living community with their organization and displays of status,
+ideologies, and values. The design and placement of memorials represent not only religious
+values and attitudes towards death but also occupations, socio-economic status, and relations in
+life. With this wealth of information, cemeteries can reveal elements of a community beyond the
+basic literature and historical background. The Pennsylvania German community, while still a
+living community today, thrived during the eighteenth and nineteenth centuries. Many of its
+members played important roles in shaping the state of Pennsylvania as well as the young nation.
+Although local histories describe the details of important events, the Pennsylvania German crafts
+which survive today, including architecture, art, manuscripts, and gravestones, display their
+creativity, values, and ideals as a community and serve as the best pieces of evidence for the
+lives of these individuals.
+The study of Pennsylvania German gravestones in Berks County provides an intimate
+perspective of these people who primarily lived and died in the same area. The survey imitated
+an interview with the individuals of the community and gathered information concerning the
+demographics of people throughout the centuries. In addition to the more basic facts, one can
+observe in the cemetery the emotional and intangible aspects of life embodied in the memorials.
+In the past as well as the present, these memorials have served as cultural objects and markers of
+identity. The memorials express, display, and preserve, a person's gender, age, socio-economic
+status, ethnicity, and individuality; moreover, the collective understanding and ideologies behind
+these choices reveal the structure and relations within the community. Creating a community in
+
+Lanza2
+a new country, the Pennsylvania Germans utilized gravestones to mark individual and shared
+identities which evolved in tangent with the development of the community itself; therefore, this
+survey and study seeks to discover and to understand the context and history of these identities
+through time, which the Pennsylvania Germans revealed and preserved in their memorials.
+
+BACKGROUND INFORMATION
+Pennsylvania German History and Background
+The first German immigrants arrived in Philadelphia on the ship the Concord in 1683 and
+settled in southeastern Pennsylvania (Gilbert 3; Graves 61). They came from Switzerland,
+Baden, Wiirttenberg, Alasace, Lorraine, and other countries and states around the Rhine (Gilbert
+1). In their homeland, they confronted continuous threats of war and religious and civil conflicts.
+Although the Thirty Years War had ended over thirty years before 1680, political strife still
+debilitated the small states and principalities throughout central Europe. Religious conflict
+between Catholics and Protestants also divided the land and instigated religious persecution
+(Lichten 5). William Penn, who visited the Rhineland in 1671, offered these people peace,
+religious toleration, fertile farm land, and a new home in his colony of Pennsylvania (Lichten 5).
+The first wave of German immigrants settled in Germantown, PA and continued to arrive and
+spread throughout southeastern Pennsylvania for the next 100 years until the American
+Revolution (Lichten 6).
+Although united by the desire to create a new peaceful home as promised by Penn, the
+German immigrants who arrived in Pennsylvania represented different socio-economic classes,
+religious affiliations, and occupations. Farmers, indentured servants, and members of a more
+educated class came to the New World (Gilbert 4) in addition to parishioners of many religious
+sects such as the Lutherans, Reformed of the United Church of Christ, Mennonites, Amish,
+
+Lanza3
+Moravians, and Communitarians who primarily settled in their established community in
+Ephrata, Lancaster County of Pennsylvania (Gilbert 7; Graves 61). According to their nonGerman neighbors, the Germans were known to exhibit the character traits of being thrifty and
+devout as well as being dedicated to living a simple life and working on their land (Lichten 6).
+The German immigrants also served as excellent soldiers and "church people" (Gilbert 11) in
+their new home.
+These Germans contributed to their adopted community not only economically with
+agricultural production but socially with large population numbers. The 1790 census recorded a
+national population of 3, 172, 444 persons including 257,775 Germans. Likewise, out of the
+423,373 white people in Pennsylvania, 140,983 were of German descent (over 30 %) (Stoudt
+1973 42). The Germans existed as the second largest "ethnic" group next to the English in the
+American colonies (Gilbert 12). Adding to the growing population, the second wave of German
+immigrants began in the 1830's and continued throughout the nineteenth century (Graves 61).
+
+German Identity and Americanization
+
+The German immigrants, while successfully creating homesteads and communities
+throughout southeastern Pennsylvania, did encounter certain prejudices and obstacles against
+their German culture and language especially from their neighbors who were primarily English
+settlers (Gilbert 16). Some Germans appeared to be "dumb" as they steadfastly adhered to their
+German language and refused to speak any English (Gilbert 17). They also favored German and
+religious schools that taught in the German language and actively opposed the "free schools" as
+instituted by the state of Pennsylvania Free School Law of 1834 (Gilbert 23).
+
+Lanza4
+During the nineteenth-century with the growing heterogeneity of American society and
+the strengthening of English as the dominant language, the German traditions and language
+began to decline as they adapted their culture to these changes. More Germans began speaking
+English in order to communicate with their neighbors. People stopped speaking German in
+schools and even in churches (Stoudt 1973 23 7). While a great portion of the older generation,
+raised and taught in German schools, died in the Civil War, the younger generation, taught in
+English state schools, could not continue sustaining the German language during the later half of
+the nineteenth-century (Stoudt 1973 134). Likewise, German Churches began conducting
+sermons in English in order to bring more people into the church. Henry Muhlenberg, the father
+of American Lutheranism, even supported this program which he viewed as an inevitability and
+a necessity to support the survival of the Lutheran churches in a growing English community
+(Graves 88). Following this trend, the last German service in Trinity Lutheran Church in
+Reading was conducted in 1842 (Stoudt 1973 122). In addition to the language, other German
+customs and traditions seemed isolated from American culture and were labeled as old-fashioned
+and outmoded (Stoudt 1973 23 7). In reaction to the growing decline throughout the nineteenthcentury, some German-Americans tried to revive and preserve their German culture. In order to
+save their German language, some devoted members of the German community mass-produced
+German literature (Stoudt 1973 133). German newspapers in cities like Reading and Lancaster
+in Pennsylvania were also established (Graves 88).
+
+During this period of decline and rejuvenation, Pennsylvania German Folk art flourished
+with the production of more crafts, both practical and aesthetic. This style evolved with the
+development of the Pennsylvania German community. Bringing over from Germany ornamental
+styles and skills, the Pennsylvania Germans as a community developed the folk art manifested
+
+Lanza5
+from common ideas and iconography (Stoudt 1948 5). The folk art thrived from practical craft
+production with decorations on houses, barns, pottery, furniture and gravestones (Lichten 7).
+The styles and context of the symbolism of the folk art originates and matures exclusively within
+the community structure. The style of Pennsylvania German Folk Art depends on the strength
+and cohesion of the community; likewise, the Pennsylvania German community utilized folk art
+as symbols of identity, such as the flowers and hearts which will later be discussed as popular
+motifs (Bergengren 181).
+Strains within the German culture and community escalated during the mid-nineteenth
+century with the increase in German immigration. The peak numbers of German immigrants in
+the United States occurred not during the eighteenth-century but in the 1870's and 1800's
+(Graves 61). The "colonial Germans" who arrived in the eighteenth-century conflicted with the
+new German immigrants of the nineteenth century (Stoudt 1973 135). Living in the United
+States for over a century, the descendents of the "colonial Germans" realized that their culture
+conflicted with the Germans who recently arrived from Europe. This survey of gravestones will
+try to observe differences and patterns in time that may correspond with these tensions between
+Anglo-German and nineteenth-century German culture. An "excess" or obvious expression of
+German identity on graves may be in response to threats or acts to suppress German culture.
+
+Historical Background of Churches
+(See Map 1 and 2)
+The seven churchyards surveyed are located in southern Berks County, Pennsylvania
+about 60 miles Northwest of Philadelphia. Berks Country has served as a center of Pennsylvania
+German life and culture for the past 300 years. Each church surveyed represents a different
+denomination, architectural style, and relationship with the secular community contributing to a
+
+---------
+
+------~
+
+Map 1: Berks County Location in Pennsylvania
+
+Map 2: Location of Surveyed Churchyards in Berks County
+Key: 1. Alleghany Mennonite Meeting House
+2. Allegheny Union
+3. Harmony Methodist Church
+4. St. Gabriel's Church
+5. Mohn's Hill Church
+6. Trinity Lutheran Church
+7. Plowville Lutheran Church
+Source: Berks County Government (http://www.co.berks.pa.us/berks/site/default.asp)
+
+Lanza6
+greater variety and representation of religious patterns in the area. Alleghany Mennonite
+Meeting House, located off of Rt. 568 in Alleghenyville, stands as an icon of the colonial
+lifestyle and community which the German peoples created as they first settled the land. The
+small building served as gathering place for families around the area who utilized the meeting
+house as a community center and school in addition to a place of worship for three
+denominations: Reformed, Lutherans, and Mennonite (Horning 1). The small graveyard across
+the road from the Meeting House contains many generations of the same German families who
+have been living and farming in the area since the eighteenth-century. Many descendents of
+those who are buried in the churchyard still return to the Meeting House for worship on special
+occasions (Homing 1). Standing in the graveyard of the Meeting House, one can see across the
+valley to the Allegheny Union Church. The relationship between these two places of worship
+reflects the growth of the German community in the area during the later 18th and 19th centuries
+as the expanding population moved to the later and larger church and churchyard of Allegheny
+Union. Harmony Church, found off of Rt. 10 in Morgantown, provided services for the local
+community who worked on the farms and the iron furnace in the area. During its long history,
+St. Gabriel's Church of Douglassville served as a place of worship for Berks County residents of
+many different ethnicities and religions. Historically, the leaders of the church tended not to
+discriminate against those of different nationalities and operated their cemetery according to an
+"open door" type policy ("Saint Gabriel's"). Although first settled by Swedish Lutherans, the
+congregations of St. Gabriel's were often served by German Lutheran pastors such as Henry
+Melchoir Mulhenberg, the father of American Lutheranism (Bicentennial Committee 2; "Trinity
+Lutheran" 2001). Containing the oldest grave of Berks County, St. Gabriel's cemetery reflects
+this tradition and ethnic variation with gravestones of not only German but Swedish, English and
+
+Lanza 7
+Scottish residents. For this study, some of the gravestones in St. Gabriel's cemetery will be used
+as a comparison between gravestones of German and other nationalities. Like the Alleghany
+Mennonite Meeting House, Mohn's Hill Church and cemetery serve the local community of
+Mennonites, a specific sect of German immigrants; however, the Mohn's Hill community spans
+a larger geographical distance with greater population numbers. The churchyard of Trinity
+Lutheran Church of Reading, the only urban churchyard in the survey, contains the burials of
+important local figures of Pennsylvanian German history. Deeded by Conrad Weiser, Trinity
+Lutheran Church began as a log building built in 1752 on the same site as the modem church
+today ("Trinity Lutheran" 2001) The first cemetery was located under the modem day church
+and was discovered during renovations in 2000 ("Trinity Lutheran" 2005). In 1860, the English
+and German congregations separated; and the English members moved their place of worship to
+another site. Twentieth-century members of the congregation are not buried in the churchyard
+but in separate cemetery outside of the center of the city due to obvious restrictions of space in
+the urban setting ("Trinity Lutheran" 2005). Located about fifteen miles from the center of
+Reading, Plowville Lutheran church predates the American Revolution with the deed issued in
+1767 by the William Penn family. While most of the early worshippers were only of German
+heritage, the church now provides Lutheran services to the remaining German community in the
+area in addition to peoples of various descents. (De Temple 18).
+
+Previous Research and Literature
+A study of gravestones serves an important role in the field of Historical Archaeology as
+an artifact study. Like other artifacts, gravestones reflect religious and aesthetic values as well as
+providing useful information to archaeologists and other interested researchers; however, unlike
+
+Lanza 8
+many artifacts, gravestones "automatically" supply an important element for archaeology:
+absolute dates. The date of death on gravestones allows archaeologists to establish chronological
+trends of styles and form more easily. James Deetz, in his book In Small Things Forgotten,
+addressed the Puritan gravestones in Massachusetts as an archaeological study and expanded
+gravestones studies into the field of Historical Archaeology (Watters 174). Establishing a
+typology and chronology, Deetz approached gravestones as part of a whole cultural system in his
+attempt to establish a "relationship between material culture and cognition" (Watters 174).
+Through chronological patterns of gravestone motifs and styles, Deetz extrapolated specific
+conclusions about local and national culture and history as he aimed "to observe stylistic change
+in material culture and to relate this change to changes in the society that produced it" (Deetz
+89). Through a more Folk Culture perspective, Henry Glassie addresses the problem of analysis
+and interpretation of the meaning of gravestones and any conceptual patterns and underlying
+processes (Watters 176). In his Patterns in Material Folk Culture, Glassie, a folklorist, discusses
+the composition of gravestones by craftsmen who work with a "grammar" or rules and guidelines
+which can be adapted and influenced according to certain demographic factors such as age and
+sex (Watters 178). Harold Mytum of the University of York, UK has accomplished great
+progress and work in developing gravestones studies within the field of archaeology with
+surveys throughout Britain. My participation in one of his survey's at St. Mary in the Wood at
+Morley, UK served as the inspiration for this survey and study of Pennsylvania German
+Gravestones. Moreover, the Association for Gravestones Studies and its annual journal Markers
+served as an excellent source of material for both background reading and comparative studies
+for this survey. The Association's dedication to the study and preservation of gravestones and
+cemeteries is greatly applauded and appreciated.
+
+Lanza9
+Theory
+The study of gravestones, such as this survey and analysis of Pennsylvania German
+memorials, can be approached via various theoretical backgrounds. A cultural-historical
+perspective focuses on the description of each gravestone within the context of local history or
+the most dominant style of that era. This theory treats memorials as pieces of material culture
+through the context of art history (Mytum 2004 5-6). This perspective will be partially adopted
+in order to explain any local variations among the different cemeteries and the role of the
+gravestones in Pennsylvania German Folk Art. A functionalistic approach includes some crosscultural comparisons and highlights social, ethnic, and cultural variation and distribution (Mytum
+2004 7). Marxist theory looks at the production and distribution of memorials as part of the
+economic pattern especially the "outliers" of these trends such as the memorials of the elites.
+While a Marxist approach may neglect certain important aspects and contributions of a
+graveyard study, the theory does highlight the unique and possible contradiction between the
+lives and the memorials of the deceased (Mytum 2004 8-9). For an example, an ostentations
+monument does not always accurately reflect the lifestyle of the deceased. The relatives of a
+poor person could have invested in a large memorial; moreover, the memorial reflects the beliefs
+of the mourners as much as the lifestyle and wishes of the deceased. A person following the
+Structuralist theory would approach a graveyard study with an interpretation of death influenced
+by an unconscious set of rules that are culturally constructed and controlled (Mytum 2004 8). A
+holistic approach would study each element of a gravestone and especially the effect each
+element plays as part of the whole emotional and cultural expression of death. Each gravestone
+is affected by a complex pressures and attitudes including someone's feelings towards death and
+the availability, price, and fashion of gravestones during that specific time period (George and
+
+Lanza 10
+Nelsen 85). Each theory discussed above recognizes that cemeteries and gravestones provide us
+with a cultural resource into past attitudes and lives (Baker and Farber 99). This survey will
+utilize different ideas borrowed from various theoretical approaches.
+
+METHODOLOGY
+Preliminary research on gravestone studies and the history of Berks county and
+Pennsylvania Germans commenced the survey process and provided the necessary background
+information. I chose to limit the survey to seven Berks Country churchyards in order to establish
+parameters for the study and to create a reasonable and practical sample size. Limiting the
+survey to Berks Country churchyards allows the study to address questions concerning the wider
+German community and expression of identity that may have been neglected if the study focused
+on small family plots or private secular cemeteries. After the churches were selected, permission
+letters were sent to the concerned peoples of the churches asking for access and explaining the
+nature and purpose of the study. The letters also stressed the surveyor's respect of the sanctity of
+the setting and of the wishes of any other visitors. Before the survey began, additional research
+of any church or graveyard records was completed. Previous cemetery studies of the selected
+churchyards did not reveal too much information; for the surveys, conducted in the 1930's,
+focused only on surnames and genealogies.
+Upon first arriving at the churchyard, a general survey was taken in order to estimate the
+number of gravestones and the condition of the cemetery and its memorials. A rough sketch of
+the cemetery was completed in order to understand the general history and development of the
+cemetery. Except for the Alleghany Mennonite Meeting House, the smallest churchyard, none of
+the churchyards were 100% surveyed; and only a sample of gravestones was studied in each
+
+Lanza 11
+churchyard. In order to preserve any spatial and temporal patterns, every third gravestone was
+surveyed leading to roughly 30-40% sampling rate. Under time constraints and a limited number
+of surveyors, it immediately appeared to be impractical to survey every gravestone for this study.
+Tombstones displaying a "death date" of after 1910 were also excluded as the modern
+community and preferences are not relevant to this survey concerning the past folk culture.
+Sampling was also exercised due to the lack of "staff' and the nature of the research design
+objectives which required surveying the maximum number of churchyards in order to observe
+any similarities, differences or patterns throughout the greater geographical area of Berks County
+and the Pennsylvania German community.
+For each gravestone, information was recorded according to specific categories as listed
+on the recording form (see Appendix). The recording form was adapted from a recording system
+created by Harold Mytum of the University of York, UK (Mytum 2000 80-81). The form
+allowed all of the pertinent information to be recorded effectively from each gravestone. In
+order to facilitate uniformity and efficiency, certain categories, such as condition and material,
+were assessed according to fixed guidelines. These guidelines were found on a sheet
+accompanying the survey form. In the first category, the surveyor listed the graveyard name,
+each of which possessed its own numerical code for abbreviation and the memorial number
+assigned at the begiuning of the survey. Memorial numbers were also recorded on the rough
+sketch of the graveyard. The next category described the condition of the monument in two
+parts: the stone and the inscription. This category served an important role in the later analysis
+by contributing to an understanding of a lack of information contributed by each memorial of
+poor condition leading to the possible exclusion from the survey. For an example, a memorial
+with a very poor inscription condition would not be included in the analysis of epitaphs if none
+
+Lanza 12
+of the inscription could be deciphered. Moreover, perfect condition for a stone which displays a
+death date in the eighteenth-century can lead to the suspicion that the gravestone may have
+replaced during the modem period and may not accurately reflect the ideals and preferences of
+the date of the original construction.
+The next category entailed dating the stone. Accurate dates for the gravestones provide
+an integral service for this study in determining any temporal trends of Pennsylvania German
+gravestones; however, ascertaining the correct date of a gravestone is a difficult process. The
+definition of a "date" of a gravestone must be first determined. The date of the erection of the
+stone is rarely mentioned on the stone itself. The date of death of the individual may not
+necessarily be the age of the memorial as stones could be carved and erected some time after a
+person's death and burial. For this study, the year of death of the memorialized individual was
+used as the date of the memorial itself and the possibility of elapsed time between death and
+erection of the stone is considered during analysis. Likewise, a stone listing the names and death
+dates of several individuals memorialized should be taken in consideration. In this case, the death
+year of the last memorialized individual is recorded as the date of the stone, although this
+assumption may not be accurate in every case; therefore style and inscription technique should
+be observed for any differences in order to determine and to understand the date of the stone
+more accurately. Due to the complexity of dating the stone, the reason of the date inferred by the
+surveyor always accompanied the estimated date on the survey form (Myturn 2000 127).
+After establishing the date and condition of the memorial, the surveyor then described the
+structure of the memorial itself. First the type of the memorial was recorded by sketching the
+shape of the memorial on the sheet. After the entire survey was conipleted, the sketches were
+compared and distinct memorial types were established and categorized. The material of the
+
+Lanza 13
+memorial was then determined in addition to the orientation of the memorial, the direction which
+it faces. The surveyor determined the orientation with a compass. Additional features such as a
+memorial flag, plaque, or other type of structure that served as part of the memorial, besides the
+stone itself, were mentioned on the form.
+Motifs served as the next description category. The surveyor recorded the motif by either
+writing a simple description or a drawing a sketch if words themselves would not provide a
+sufficient indication. The motif category was divided into two parts: motifs central to the
+memorial or motifs located around the border.
+The last category addressed the inscription or epitaph on the memorial. The features of
+the inscription recorded include script, the shape of the text panel, and transcribing the
+inscription itself. Many of the inscriptions were either partially or completely illegible;
+therefore, substituting for parts of the inscription which the surveyor could not read, an ellipsis
+" ... " was placed as a symbol of illegible text. Inscriptions were transcribed exactly line by line
+so that any peculiarities of the organization and content of the inscription could be preserved and
+studied. Likewise, inscriptions on different faces were noted on the survey form. The survey of a
+memorial concluded with a sketch of the overall shape, motif, and additional features of the
+memorial and a photograph. Photographs of the churchyard landscape were taken as well.
+After the surveys of the seven churchyards were completed, the data from the survey
+were organized into a typology for each category. The survey recorded data from 550 memorials
+in total. The dates of the gravestones ranged from 1719-1910. The different forms or types of
+each feature recorded were assigned numbers, and data was entered into an Excel database so
+that specific features of each memorial could be compared within each cemetery and among the
+
+Lanza 14
+different churchyards. The excel database also facilitated sorting the large amount of data during
+analysis.
+The first part of analysis included comparing the frequency of certain features within
+each cemetery and the overall survey demonstrated through graphical representations. For each
+feature, seriation analysis was completed. Seriation analysis serves as a dating technique
+developed by the archaeologist James A. Ford to observe the increase and decrease in popularity
+of a style over time (Deetz 93). The analysis attempts to show for each feature and style a bell or
+"battle-ship" curve of popularity: starting slowly, growing to a peak and then dying away as
+another style becomes popular. During this part of analysis, the relationship between each type
+or style and its development over time will be examined. For each decade, the count data will be
+converted into percentages to compare which type is the most popular for that period of time.
+The information derived from analysis will be displayed both with graphics and written text.
+Seriation contributes to the understanding of the evolution and the temporal relationship and
+context of the memorial features and may be used to answer questions concerning the factors
+causing the preference and abandonment of a specific style in certain context.
+
+RESULTS AND ANALYSIS
+MEMORIAL TYPE
+Results
+The survey recorded forty-four different memorial structures ranging from simple,
+nondescript pieces of stone to ornately carved sculptures. The following description of the
+results ohhis aspect of the survey will occur according to groupings of memorial forms during
+
+Lanza 15
+analysis based on style similarities in order to condense and to understand more clearly the
+numerous styles of memorial forms and shapes.
+The memorials in Group A all share round tops. Memorial Fonn One displays a rounded
+
+top emerging from the sides as opposed to Form Sixteen \rVhich has straight sides (See
+Photograph 1 and Photograph 2). Forms Two and Three are similar except in the shape of the
+shoulders as Form Two has squared shoulders and Form Three has round shoulders(See
+Photograph 3). Form Thirty-Five displays a square base; however, this base is unlike the
+"additional feature" base discussed in a later section as a separate construction added to the
+headstone. The base with Form Thirty-five is part of the shape of the headstone. Form Twentyone looks like Form Sixteen, but this form has a significantly broader width. This Group
+includes the majority of the memorials recorded in this survey with about 56% of the memorials
+having the traits that qualify for membership into Group A. Moreover, the most popular
+memorial form in this Group and the entire survey as well is Form One. The basic and simple
+shape of this memorial probably constitutes for the reasons of this form being so popular
+throughout the geographical span of the survey as well as through time.
+Group A Forms:
+Form One
+
+Form Two
+
+Form Twenty-One
+
+Form Thirty-Five
+
+,,.r
+
+Form Three
+
+Form Sixteen
+
+Lanza 16
+
+Photograph 1 : Memorial Form Sixteen,
+Mohn's Hill
+
+Photograph 2: Memorial Form One, Alleghany
+Mennonite Meeting House
+
+Photograph 3: Memorial Form Two, Plowville Lutheran
+Group Bis distinguished by memorials with flat tops. Form Five and Form Eight are
+similar with a basic rectangle form except for squared or rounded shoulders. Likewise, Forms
+Twenty and Forty-one in Group B appear very similar with raised flat tops; but their shoulders
+lie in different directions. The shoulders of Form Forty-one are raised while the shoulders of
+Form Twenty lie horizontally. Compared to Group A, memorials in Group B constitute as only a
+small minority of the memorial types in the survey which includes about 6% of the memorials.
+
+Lanza 17
+Comparing these statistics, a certain preferences for round tops exist over flat tops despite that
+i}oth groups display a simple and ba~ic form and design.
+Group B Forms:
+From Five
+
+FonnEigi.1it
+
+Form Twenty
+
+Form Forty=One
+
+r- n
+The memorials that belong in Group C all possess a small semi-circular top, and their
+differences are based on the shape of the shoulders. Form Thirty-one has horizontal square
+shoulders while both Form Fourteen and Form Twenty-seven display "dipped" shoulders. Form
+Thirty-eight also has dipped shoulders but is enhanced with small "extensions" protruding from
+the sides. Only two percent of the memorials recorded have this design.
+Group C Forms:
+Form Fourteen
+
+Form Twenty-Seven
+
+Form Thirty-One
+
+.....---·-
+
+Form Thirty-Eight
+
+Group D contains memorials with pointed tops as opposed to the round tops in Group A
+The differences among the memorials involve the direction and shape of the shoulders
+
+Lanza 18
+supporting the pointed top. Form Four has round convex shoulders while the shoulders of Form
+Ten and Twenty-six are concave. Form Twenty-six, like Form Thirty-eight of Group C, display
+"extensions" protruding form the shoulder. Form Forty-two serves as the only form that does not
+have shoulders in Group D. Group D includes four percent ofthe memorials in the survey.
+Group D Forms:
+Form Four
+
+Form Ten
+
+FormJwenty-Six
+
+Form Forty-Four
+
+The forms in Group E serve as variations of memorials with small "bulges" extending
+from the top of the memorial and flank the round centers. About thirteen percent of the
+memorials have this type of form (See Photograph 4).
+Group E Forms:
+Form Nine
+
+Form Eleven
+
+Form Twelve
+
+Lanza 19
+
+Photograph 4: Memorial Form Twelve of Group E, Harmony
+The memorials in Group F share similarities with those in Groups A and. C, All of the
+memorials in this group, which included Forms Thirteen, Fifteen, and Thirty-six, display
+multiple round-tops on top of the memorial (See Photograph 5). With a similar proportion to
+Group E, Group F contains about 12% of the memorials of the survey. Groups E and F
+respectively include the largest number of-memorials besides Group A.
+Group F Forms:
+Form Thirteen
+
+Form Fifteen
+
+--- -
+
+.....
+
+Form Thirty-Six
+
+Lanza20
+
+Photograph 5: Memorial Form 13, Allegheny Union
+Group G memorials share a completely different shape than those in other groups. Forms
+Seventeen and Twenty-eight appear in the shape of a cube as with Form Seventeen or as a
+rectangle such as those of Form Twenty-eight. Less than I% (count of 5) of the memorials have
+the "box" shape as shared by those in Group G. This form is very popular during the twentiethcentury (Mytum 2000 16); therefore, the survey recorded only the first appearances ofthis type
+of memorial.
+The memorials in Group H include different variations on the ''table-top" memorial in
+which a flat headstone lies on the support of a base. The typical table-top, such as Form Fortythree, lies horizontally while Forms Twenty-nine and Thirty-nine lie at an angle but still have the
+flat top supported by some structure underneath. The inscription always appears on top of the
+"table." Less than 2% of the memorials are "table-tops;" therefore, this form probably acted as a
+symbol of high socio-economic status in the graveyards.
+Group I contains memorials in the shape of an obelisk. A general description of an
+obelisk is a tall, thin monument of four sides that tapers towards the top which is in the shape of
+
+Lanza 21
+a pyramid (See Photograph 6). Each obelisk conforms to these basic traits but with some
+architectural variation. The obelisk not only indicates a greater financial and emotional
+investment by the mourners but also serves as a more ostentatious act of remembrance as it
+shapes and dominates the landscape. Like the table-top memorials, the obelisks constitute a very
+small minority of the survey with only six memorials possessing this shape. The obelisk also
+probably represented those of high socio-economic status.
+
+Photograph 6: Obelisk, Form Twenty-Four, Allegheny Union
+Memorials in Group J appear in the cemeteries as conjoined doubles of memorial forms
+found in other groups. Form Twenty-two appears as a combination of two memorials of Form
+Twenty. Likewise, Form Thirty resembles two memorials in the shape of Form Eleven joined
+together (See Photograph 7); and Form Forty is a union of two memorials similar to Form
+Sixteen. Although it appears two "separate" memorials were united to create one of the
+memorials in Group J, these memorials were not literally constructed by joining two memorials
+together but were deliberately carved as one. These forms, which occur throughout the survey,
+
+Lanza 22
+usually demarcate the burials of young children who were siblings that died around the same
+time period. Group J represents the smallest of the groups with only four memorials recorded.
+
+Photograph 7: Memorial Form Thirty, Harmony
+Group K contains memorials of a miscellaneous shape and style. Form Six resembles a
+triangle, although this shape may have appeared due to an original rectangle shaped headstone
+sinking into the ground. Form Seven resembles a person with arms protruding from the sides
+and around head. The creator of memorial Form Nineteen carved the memorial to resemble a
+stack oflogs; likewise, Form Thirty-four clearly resembles a scroll. Forms Eighteen, Twentythree, Thirty-two, Thirty-three, and Thirty-seven serve as a assortment of memorials of different
+shapes and styles of which are difficult to describe with words. These specific forms occurred
+rarely in the survey and will be observed more closely when necessary. While Group K
+represents about 2 % of the memorials, which is a bigger proportion than other groups, the
+individual forms included in this sub-category represent an even greater minority as most of the
+memorials only appear once or maybe at the maximum occurrence of twice throughout the whole
+survey. These forms certainly represent individual wishes and tastes of the deceased or the
+mourners.
+
+Lanza23
+Analysis/Discussion
+The study of the various styles of form can reveal certain ideals and cultural preferences
+when motifs or a detailed inscription may be absent. The discussion above stated that Group A
+memorials included most of the memorials in the survey. According to raw numbers, Forms
+One, Two, Twelve, Thirteen, Sixteen, and Twenty-one serve as the most popular in the general
+survey and represent Groups A, E, and F, the groups with the highest proportion represented
+(Table 1). Reflecting its high numbers, Group A displays the preference for simplicity and basic
+shapes contrary to the complex design of Groups E and F. Besides personal preference and
+choice, some external reasons may have caused these trends and numbers.
+Group A probably includes the greatest proportion of the memorials due to its simplicity
+and basic design. In certain cemeteries, such as the Alleghany Mennonite Meeting House, Form
+One memorials and other Group A forms represent most of the cemetery (See Photograph 2).
+With the small homogenous community that this cemetery attended, a need to exert one's
+identity or status did not exist; therefore, simple memorial forms achieved their purpose of just
+designating the burial. On the contrary, cemeteries such as St. Gabriel's and Harmony which
+serve a large community including those of various socio-economic status and backgrounds,
+contain a variety of forms especially those of a more complex and unique form and style in order
+to designate an individual's identity more clearly from the rest of the community and to
+accommodate the various tastes and preferences of many individuals.
+This simple distribution between basic and complex design only partially explains the
+differences in distribution of forms among the cemeteries. Only one form, number Thirteen of
+Group F, appears in every cemetery surveyed. Forms Eight, Eleven, Twelve, and Sixteen occur
+in six out of the seven cemeteries (See Photograph 4 and 5). The universal popularity of these
+
+Lanza24
+forms probably does not result from the simplicity of design as forms Eleven, Twelve, and
+Thirteen display some comparatively complex styles. The populations serving these cemeteries
+included in the survey probably obtained the memorial forms from a single carver or shop. The
+uniformity of styles across the survey leads to the conclusion that a single industry produced
+these forms and sold them to the local community of Berks County.
+Seriation analysis shows a distinct developmental pattern of style throughout time (See
+Figures la and 1b ). Memorial Form Two (of Group A) appears earliest in the survey and
+dominates most of the memorial form styles during the eighteenth-century with a few
+occurrences of other forms such as Form Four and Eight first appearing during the 1770's.
+While Form Two peaks in popularity around the decades of 1780 andl 790, Forms One, Eleven,
+and Twelve begin to emerge. Form One, the most popular form throughout the entire survey,
+appears throughout the nineteenth-century into the twentieth-century and peaks around 1880;
+however, Forms Eleven and Twelve are found in the survey only during the first half of the
+eighteenth century. After 1860, they are no longer recorded in the survey and have been
+"replaced" in popularity by Form Thirteen which peaks in popularity during the same decade in
+which Forms Eleven and Twelve discontinue. This pattern differs from the usual style
+development from basic to complex as Form Thirteen seems to be simpler in style than Forms
+Eleven and Twelve. This anomaly can represent a change in industry or collective style
+preference. Forms Eleven and Twelve represent a more Gothic style while Form Thirteen
+resembles a more closely Classical or Baroque; however, these associations do not correspond in
+time with the more universal trends in art and style as the Classical and Baroque Revivals
+typically precede the Gothic. During the rise in frequency of Form Thirteen, Forms Sixteen and
+Twenty-One begin to appear in the survey and continue throughout the rest of the nineteenth-
+
+Figure la:! Memorial Form By Decade
+Form 1 (A)
+
+Form2 (A)
+
+Form27 (C)
+
+Form4 (D)
+
+Form 11 (E)
+
+Form 12 (E)
+
+1910-1919
+1900-1909
+1890-1899
+1880-1889
+1870-1879
+1860-1869
+1850-1859
+1840-1849
+1830-1839
+1820-1829
+1810-1819
+1800-1809
+1790-1799
+1780-1789
+1770-1779
+1760-1769
+1750-1759
+1740-1749
+1730-1739
+1720-1729
+1710-1719
+
+-
+
+-- ,.
+■
+
+I
+
+1111
+Ill
+
+I
+I
+I
+I
+■
+
+■
+I
+
+■
+
+I
+
+I
+
+I
+
+■
+I
+■
+
+I
+
+I
+
+-
+
+■
+,I
+
+--■
+-
+
+1111
+
+Form 13 (F)
+
+Form 21 (A)
+
+•• -••
+--
+
+■
+■
+
+I
+I
+
+I
+
+I
+
+Figure lb: /Memorial Fonn By Decade
+Form 16 (A)
+1910-1919
+1900-1909
+1890-1899
+1880-1889
+1870-1879
+1860-1869
+1850-1859
+
+Fonn 8 (B)
+
+-- -- Ill
+
+■
+
+1840-1849
+
+Fonn 17 (G)
+
+•
+
+Fonn 43 (H)
+
+•
+1111
+
+•
+
+1830-1839
+1820-1829
+1810-1819
+1800-1809
+1790-1799
+1780-1789
+, 1770-1779
+1760-1769
+1750-1759
+1740-1749
+1730-1739
+1720-1729
+1710-1719
+
+• --
+
+--
+
+Fonn 24 (I)
+
+••
+•
+
+Fonn 30 (J)
+
+-
+
+Lanza25
+century. Both these forms adhere to a simple design; therefore, the popularity of Form Thirteen
+probably serves as part of this tendency for the plain and basic. With Forms Seventeen and
+Twenty-One gaining popularity during the end of the nineteenth-century and beginning of the
+twentieth-century, one can predict that had the survey included more memorials dating to the
+twentieth-century these forms would have been the more dominant style and shape.
+
+During the
+
+later half of the 1800's, other forms do appear but at a low frequency; therefore, no distinct
+chronological trends coincide with these forms.
+Some scholars associate certain memorial shapes and trends with contemporaneous art
+styles. The early Forms One, Two, and Three follow the Baroque and Rococo influence of the
+eighteenth-century with curvilinear lines and shapes (Graves 72). In contrast, forms such as
+Eleven and Twelve, do not appear until the beginning nineteenth-century yet remain as the most
+popular forms until the twentieth-century. These types represent the Gothic style prevalent
+during this time period (Mytum 2000 3). Nineteenth-century Egyptian Revival introduced the
+obelisk form, but this style preference does not gain as much popularity as the other revivals
+(Mytum 2000 36). However, this analysis cannot necessarily be applied to the eighteenthcentury gravestones recorded in this study. Usually other Baroque forms of art are more stylish
+and ornate; however, these "Baroque" gravestones are somewhat primitive in execution. The
+gravestone makers may not have intended to carve the curvilinear form as a model of the
+Baroque style (Graves 63). A possible conclusion could address the lack of desire to follow a
+strict style code during the early history of the cemeteries. Difficulty in lifestyle or even the
+situation of establishing a community might have diminished the need of elaborately marking
+graves or remembering deaths. With such a small community, one can easily remember the
+deceased with a simple gravestone. Gravestones do grow in size and complexity during the
+
+Lanza26
+nineteenth century in order to attract attention in growing cemeteries and communities (Mytum
+2000 10). Perhaps high mortality led to a need for an efficiently produced and basic gravestone
+in the early community
+The presence of certain forms represents a display of socio-economic status of the
+individual or his or her own family. The size and shape of forms such as the obelisk and tabletop (Group I and H respectively), symbolize status and prominence in the community. Likewise,
+the financial investment needed to construct these memorial forms indicates a higher socioeconomic place within the community of the cemetery. The table-top memorials in St. Gabriel's
+cemetery mark the burials of the Douglass and Bird family members. According to historical
+plaques placed on the gravestone, the Douglass family owned a stage coach stop and a local
+tavern of historical importance during the Revolutionary War. The local town of Douglassville
+is named after this Douglass family. Likewise, the Bird family operated Hopewell Furnace and
+whose surname serves as the inspiration for the town name of Birdsboro. The height of the
+obelisk also towers over the other forms and monopolizes the image of the landscape for the
+visitor and any mourners (See Photograph 6).
+Besides a person's socio-economic status, memorial form can also represent the age of
+the deceased as certain memorial forms tend to mark the burials of children. The "double"
+memorial form of Group J always designates the burial of children (See Photograph 7). With
+high mortality rates, parents often buried siblings who both died within a short period of time
+from each other; therefore, the "double" memorial designates the burials of two people probably
+during the same funeral ceremony. Likewise, the "high-status" memorials such as the obelisk
+often designate the burials of children. The obelisk in Mohn' s Hill marks the burials of several
+children from the same family while an obelisk in Harmony memorializes only one child. These
+
+Lanza27
+deceased are memorialized with complex forms as the mourners, who in these cases are the
+parents, desire to invest financially and emotionally in a large monument. On the contrary, the
+graves of the elderly who lived to be over eighty or even ninety years old, often have simple
+graves such as those in Group A or B.
+
+MATERIAL
+
+Results
+The survey documented five different gravestone materials. About 20% of the
+gravestones studied during the survey were composed of red sandstone (See Photograph 8). This
+type of stone can be found locally throughout southern Berks County especially in the areas with
+high iron content in the soil. The red sandstone of the memorials never displayed a refined
+finished but appeared crude and coarse. Depending on the age, weathering, and condition of the
+sandstone, the color of the sandstone varied from a deep red to a dark brown. Grey limestone
+comprised of the majority of memorials throughout the survey (See Photograph 9). The
+limestone could appear to be white or even a darker grey; however, most of the, memorials were
+of a light grey color. The less frequent materials include marble and granite. These materials
+illustrated a higher quality and finish than the limestone and red sandstone; likewise, the carvers
+of the memorial did not acquire this material locally. The marble and granite gravestones appear
+in many different hues with black being the most common.
+
+Lanza28
+
+Photograph 8: Red sandstone
+Plowville Lutheran
+
+Photograph 9: Limestone
+Plowville Lutheran
+
+A few of the gravestones serve as a composite of different materials. The table-top
+memorials, located in the cemetery at St. Gabriel's are comprised of both red sandstone on the
+bottom half which supported the "table-top" comprised of limestone. A table-top memorial
+found at Allegheny Union was constructed with a brick base and a limestone top as well.
+
+Analysis/Discussion
+Usually clustered together in the churchyard, the red sandstone memorials stand out
+against the cemetery landscape and the other grayish hue memorials; yet the red sandstone and
+its unfinished appearance project a natural and home-made quality attached onto the stone.
+However, it is difficult to conclude if this was the intention of the mourners and the deceased or
+a modem interpretation of the material and image. The mourners probably utilized local
+materials due to availability and for simplicity and efficiency of the burial process.
+While this material was used throughout the nineteenth-century, red sandstone served as
+the primary material for memorials in the eighteenth-century. Red sandstone usually appeared in
+the memorial forms of One, Two, Three, Four, and Five which represent in the survey the most
+plain and basic memorial types. This relationship between material and style contribute to a
+better understanding of the memorial industry in the eighteenth-century and early nineteenth-
+
+Lanza29
+century. The families themselves probably used local stone to create the memorial for their
+deceased; or local craftsmen, skilled in several other different trades, made the memorials for the
+local community.
+Seriation analysis reveals distinct chronological trends with materials and supports the
+conclusions above (See Figure 2). Red sandstone is the earliest identifiable material present in
+the survey and peaks in popularity around the beginning of the nineteenth-century. The
+Pennsylvania German community during this period probably remained localized and centered
+around the assembly of a few families. The absence of a developed memorial industry at this
+time forced people to seek local materials and craftsmen. Red sandstone was used very rarely
+during the later half of the nineteenth-century with only three recordings in the survey. All of
+these later red sandstone graves appeared in the Alleghany Mennonite Meeting House cemetery
+where people were probably still using local materials and chose not to buy mass-produced
+gravestones.
+Unlike the red sandstone, the grey limestone served as the material for a greater variety of
+memorial forms. The most popular forms including Forms Eleven, Twelve, Thirteen, and
+Sixteen, as discussed in earlier paragraphs, were comprised of this material. Corresponding with
+the higher skill of the carvers for these forms, the material of these memorials also exhibited a
+more refined and finished appearance. This material first appears at the end of the eighteenthcentury and peaks during the second half of the nineteenth-century. This limestone material
+began to be more popular than the red sandstone around the 1830's. The relationship between
+the two materials signifies the development of more uniform and mass-produced gravestones and
+the advancement of the memorial industry in the area. Although the limestone material can be
+
+Figure 2: Material By Decade
+Red Sandstone
+1910-1919
+
+•.Limestone
+
+-··-· ~-'
+1111
+.,
+
+1900-1909
+1890-1899
+1880-1889
+1870-1879
+1860-1869
+1850-1859
+1840-1849
+1830-1839
+1820-1829
+1810-1819
+1800-1809
+
+•-
+
+--
+
+1780-1789
+
+1760-1769
+1750-1759
+1740-1749
+1730-1739
+1720-1729
+1710-1719
+
+■
+
+■
+
+1790-1799
+
+1770-1779
+
+Marble/Granite
+
+■
+
+-•
+- •
+■
+
+■
+
+Unknown
+
+Lanza30
+locally found in Berks County, the use of this material required transportation of the material
+over greater distances requiring a larger industry and clientage.
+The marble material of gravestones does not emerge in the survey until the second half of
+the nineteenth-century. If the survey extended farther into the twentieth-century, then results
+would have probably shown that this material would have taken over popularity from the grey
+limestone. The most cornrnon forms that are comprised of this material are Forms One and
+Twenty-one which are very similar in shape but with a greater thickness for Form Twenty-one.
+The distance to acquire this material indicates a greater investment on behalf of the mourners.
+The material most frequently appears in the cemetery at St. Gabriel's where many members of a
+higher socio-economic class, such as the Douglasses and the Birds, were buried. The graveyard
+also contains a greater variety of ethnic groups than the other cemeteries.
+The composite memorials also indicate a greater investment as the forms were typically
+larger in size than the other memorials in the graveyard. A bi-material gravestone attracts more
+attention especially if two different colors like the gray limestone and the red brick are
+juxtaposed together. Like memorial form and other features, material can indicate investment on
+behalf of the mourners and the carver in addition to contributing to the visual image of the
+landscape with different textures and colors.
+
+ADDITIONAL FEATURES
+Results
+"Additional Features" is a category created to record any graves that have been
+distinguished by an associated object or structure besides the headstone itself. These objects
+have been added to the memorial either contemporaneously of the erection of the headstone or
+
+Lanza 31
+even several decades later. Moreover, this category includes features that are not necessarily
+affixed to the memorial but have been placed in close proximity in order to be associated with
+the headstone of the deceased. Although this category contains a broad range of objects, each
+one enhances the memorial of the deceased and provides more information about the individual
+and burial practice.
+During analysis, this feature category was divided into different groups based on the
+different temporal relationship with the headstone. All of the features in the first group were
+added to the headstone during the same period of the initial construction of the memorial. The
+most common feature in this group and of the entire category is the basic base upon which the
+headstone stands. This base is usually comprised of the same material as the headstone. The
+base of the headstone was recorded separately from the memorial type or form because the
+presence of the base did not consistently appear with a specific memorial type and was
+constructed separately from the headstone. For an example, only about 40% of the memorial
+Form One was observed with a headstone in the survey. Likewise, about half of the recordings
+of memorial Form Sixteen appeared with a base. The popular Forms of Eleven, Twelve, and
+Thirteen rarely possessed a base in the survey.
+Similar to the base described above, some memorials share a base with other memorials
+and usually demarcate the burials of family members; however, only eighteen memorials in the
+survey share this feature. Like the individual base, this large base usually is comprised of the
+same type of material as the headstones that it supports. Although this feature occurs
+infrequently in the survey, it is associated with Form One the majority of the time. The
+memorials sharing a base usually mark the burials of husband and wife symbolizing the bond of
+
+Lanza32
+marriage that survives even in death. In Allegheny Union cemetery, the burials of siblings of
+one family share a common base which similarly indicates the importance of family ties.
+A less common additional feature recorded during the survey is the footstone. This
+feature resembles a small memorial that is placed at the opposite end of the headstone. Some of
+the footstones resemble Form One and Form Sixteen with a rounded or squared top; however,
+compared to these memorial types, the footstones are considerably smaller in size. Often they do
+not display any markings or carvings except for the initials of the deceased, and any inscriptions
+appear on the side of the footstone facing the headstone. In the survey, footstones are associated
+with a variety of memorial forms; however, they do tend to mirror the headstone, of which they
+are placed opposite, in material and generally style and shape. An exception to this trend is a
+footstone in a shape of a tureen that is associated with a memorial in St. Gabriel's cemetery. All
+of the footstones recorded during the survey are present in the cemetery at St. Gabriel's. This
+concentration of footstones will be discussed later in this section.
+One memorial in the survey displays a pair of columns which flanks the headstone as an
+additional feature of the memorial (See Photograph 10). This memorial appears in the cemetery
+of Harmony Church as a part of memorial in the shape of Form Thirty-three. Form Thirty-three
+appears very rarely in the survey as well and exhibits high quality carving with its unique shape
+and design. The columns contribute to the classical design of the headstone and also exhibit the
+possible high socio-economic status of the deceased. With the columns, the memorial appears as
+a substantial monument in the overall cemetery landscape.
+
+Lanza 33
+
+Photograph 10: Columns, Harmony
+Like the columns, a few memorials are distinguished by a piece of sculpture added to the
+headstone. The sculpture typically lies on top of the headstone. In Plowville, a memorial
+displays a sculpture of a book lying open upon the top of the headstone. The shape of the
+memorial in addition to this sculpture resembles an altar (See Photographs 31 and 32). Another
+memorial, in Plowville cemetery, has a sculpture of a sleeping lamb lying on top of the
+gravestone (See Photograph 11 ). A sleeping lamb usually marks the graves of children and will
+be discussed as an important motif in later sections.
+
+Photograph 11: Sleeping Lamb Sculpture, Plowville Lutheran
+One gravestone at St. Gabriel's also exhibited the presence of a kerb in which the burial
+of the deceased is outlined on the surface of the ground with roughly three-inch wide blocks of
+stone. Kerbs visually outline the burial on the surface. Kerbs appear in cemeteries throughout
+
+Lanza34
+the world; however, only one memorial in the survey has been recorded with this feature
+possibly due to the small size of the community served by these cemeteries. A great need does
+not exist to mark off the burials on the ground, for the cemeteries are not crowded and possess
+land to expand and to spread their plots for future generations.
+The other group of features in this category includes objects that have been added to the
+memorial at a different time than the burial or original construction of the headstone. This
+category primarily includes American flags and plaques indicating the deceased's service in war.
+Most of these markers have been placed next to the appropriate graves during a recent period,
+probably within the second half of the twentieth-century; however, the historical society and the
+churches have not kept available records of the actual dates; therefore, observing the good
+condition of most of the flags, it has been determined that they have been placed near the
+headstones rather recently.
+American flags with small plaques attached to the flag pole accompany the graves of
+those who have served in American wars. The plaque usually indicates in which war the
+individual fought; however, many plaques just display the words "SOLDIER." Revolutionary
+war flags and plaques are more elaborately decorated with a relief of a Colonial militia soldier on
+the plaque. Civil War plaques are in the shape of a star with GAR 1861/1865 written in the
+center (See Photograph 12). GAR stands for the "Grand Army of the Republic" which indicates
+the Union army and coincides with the location of the survey being in Pennsylvania and the
+North. There are also a few plaques for individuals who fought in the War of 1812. Although
+these memorials were not recorded, a few plaques and flags did appear in the cemeteries marking
+the burials of individuals who fought in WWII.
+
+Lanza35
+
+Photograph 12: GAR star, Alleghany Union
+Other modem additional features include historical plaques added to the memorial.
+These plaques highlight the lives of famous individuals buried in the cemetery. The cemetery at
+St. Gabriel' s contains the burials of the Douglass and Bird families of local fame. Dr. Bodo
+Otto, the surgeon of the Continental Army at Valley Forge during the Revolutionary War, is
+buried in the cemetery at Trinity Lutheran Church. His grave contains additional memorials
+erected by the DAR, Daughters of the American Revolution. Plaques placed on top of their
+memorials share information regarding the achievements of these individuals.
+
+Analysis/Discussion
+With the wide variety of objects included in this category, it is difficult to conclude any
+broad generalizations about the meaning and use of "additional features" of a memorial.
+Although an object or feature may possess a different meaning, each enhances the memorial of
+the individual either visually by increasing its size or height or emotionally by indicating
+different relationships or beliefs beyond just those expressed by the headstone.
+With its simplicity, the individual base first described in this section can exhibit very
+little additional meaning to the gravestone except a possible increase in financial investment for
+the mourner than if he or she chose not to have a base added to the tombstone. The base does
+add to the height of the tombstone but only slightly. A base does provide a sense of solidity to
+
+Lanza36
+the memorial; however, it does not mean that those memorials without a base (which include the
+majority of those recorded in the survey) do not lack this sentiment.
+A base which is shared by several memorials does indicate some additional meaning. As
+stated in an earlier paragraph, the most of the memorials that share a base indicate the burials of
+husband and wife. This feature serves as one method of indicating marriage and other
+relationships in the burial setting. Although not all married couples share a common base, this
+feature does highlight the meaning of marriage between these individuals and the endurance of
+the relationship even in death. A considerable time span separates the deaths of many of the
+spouses; therefore, the decision of constructing a shared base as part of the memorial was
+probably accomplished by the surviving spouse. This choice could have served as part of the
+grieving process for the surviving spouse as well.
+Less than half of the memorials recorded in the survey exhibit one of the "additional
+features." The scarcity of these features indicates the greater financial investment required for
+some features such as the footstone, sculpture, or kerb or perhaps an exclusive meaning or
+context for these features. These features required more material at the expense of a greater cost
+to the mourner or the deceased. On the contrary, the low proportion of memorials with a
+memorial flag do not indicate a difference in investment but just reflect the small proportion of
+the population who fought in American wars or have been distinguished by the local historical
+groups. These features exist as highlights of specific individuals and do not reflect the entire
+community or population.
+The concentration of footstones in the cemetery of St. Gabriel's and the absence of
+footstones in other cemeteries may be an issue of socio-economic differences across the survey
+and Berks Country or ethnic differences. A footstone may require more financial investment in
+
+Lanza37
+burial and indicate a greater social status. St. Gaberiel' s cemetery includes the burials of many
+famous individuals who were important in their time and held a valuable position in society. It
+may have been necessary for a greater and more obvious indication of status with the footstone
+than in any other cemetery where people may have been members of the same socio-economic
+group such is probably the case in the Alleghany Mennonite Meeting House cemetery. St.
+Gabriel's cemetery also contains the burials of those of many different nationalist backgrounds.
+The footstone may be an ethnic identity marker; however, its presence in cemeteries across the
+world where the populations are somewhat ethnically homogeneous somewhat negates this
+conclusion.
+Certain features also present specific religious or cosmological beliefs and sentiments.
+The kerb and footstone with a headstone contribute to the resemblance of the memorial to a bed
+(Deetz 121). This image compares death to sleep and serves as a typically nineteenth-century
+and romantic view ofloss and sadness. This sentiment may have also provided some solace to
+the mourners. The association of a grave with a "bed" parallels the prominent German epitaphs
+that stress sleep and the body at rest. This correspondence with death and sleep will be discussed
+in following sections concerning inscriptions. Likewise, the memorial in Plowville cemetery that
+resembles an altar with the open book sculpture may emphasize the memorial as a place to pray
+for the dead to ensure their salvation. These features stress the sanctity of the cemetery and the
+importance of remembering death and salvation.
+The twentieth-century additions to the memorials such as the plaques and the various
+soldier flags serve as a unique addition to the memorials and establish the role of memorials in
+modem and society and life. The presence of the flags indicates that the recognition of a
+person's life and achievements may extend beyond the lifespan of the mourners present at the
+
+Lanza38
+time of burial. Moreover, the act of placing the flag contributes to the extension of the life of the
+cemetery as a place of education and of history and its presence in modem society beyond just a
+place of burial.
+Seriation analysis does not reveal any specific trends among the relationship and
+popularity of these features (See Figure 3). One cannot necessarily compare the popularity of the
+individual base with the presence of the American Flag and Soldier's plaque; therefore, this part
+of the analysis will continue studying these features according to the different sub-categories
+described above. The category pertaining to twentieth-century additions follows restricted and
+predictable chronological trends. The frequency of the different soldier's memorials is limited to
+a realistic period after the relevant war.
+This type of analysis did not reveal much information pertaining to the contemporary
+"Additional Features." Besides the footstone, the rest of the additional features did not appear in
+until the nineteenth-century. The individual base, with 130 recordings in the survey, is
+extremely more popular than any other additional features. Moreover, the individual base
+displayed the biggest temporal range by appearing throughout the entire nineteenth-century. The
+shared base gained popularity during the beginning of the twentieth-century. With these results,
+one can conclude that the simplicity of the single, individual base led to its frequency and
+popularity. The other features such as the columns and sculptures required too much financial
+investment from the mourners for these features to appear more frequently and have a greater
+presence in the survey.
+
+- -
+
+Figure 3: Additional Features (Contemporaneous to Headstone) By Decade
+Individual Base
+1910-1919
+1900-1909
+1890-1899
+1880-1889
+1870-1879
+1860-1869
+1850-1859
+
+---
+
+1840-1849
+1830-1839
+1820°1829
+1810-1819
+1800-1809
+1790-1799
+1780-1789
+1770-1779
+1760-1769
+1750-1759
+1740-1749
+1730-1739
+1720-1729
+1710-1719
+
+Ill
+
+Shared Base
+
+1111
+■
+■
+■
+
+•
+
+Columns
+
+■
+
+Sculpture
+
+■
+
+I
+
+Footstone
+
+Kerb
+
+■
+
+•
+I
+
+I
+
+-
+
+I
+
+Lanza 39
+MOTIFS: CENTRAL
+Results
+
+Motifs contribute aesthetic value to the memorial as well as symbolize identity, religious
+beliefs, status and ethnicity; however, only about half of the memorials recorded exhibited some
+type of motif. In a similar fashion with the other memorial forms, the motifs have been
+organized according to groups based on certain similarities (See Appendix). Group A of motifs
+include basic lines and shapes. Motif One is a simple engraved line while Motif Three is a small
+circle. Motif Five resembles two arrows pointing towards each other. Motif Two is a
+combination of two triangles pointing in opposite directions with a circle in the center (See
+Photograph 14). Motif Four appears as a triangle with a concave circle for one of its ends. The
+other motifs included in this group serve as more complex and abstract line designs. Motif
+Twenty-two looks like a figure with several arms and heads. Motif Thirty and Thirty-One may
+have been intended to look like an abstract flowers. Motifs such as Twenty-Six and Thirty-Six
+include other abstract line decorations (See Photograph 13). Group A encompasses the majority
+of motifs present on memorials in the survey. Motif Two, the triangle/circle combination, serves
+as the most popular motif overall in the survey, and this motif is the only motif to be represented
+in every cemetery. Likewise, Motif One is present at all cemeteries except one in the survey.
+''
+
+__..
+
+, :) ti.'. ~ ,• I~ fi ctr
+
+:.' r: f) .-~n n f~ ·l- ~ \.1 ,: (tr r,.
+,
+
+, 1
+
+,....--r \11-.t t·,· ,· ,·1r' r• d f• 1~ ,· '1
+.! :: ii l"l'\ :"l c,1·,; I 7 <, lJ,
+
+n
+
+''"' ifi , 1,:(rrH·l•~n
+,· r n 'l , r n ·• C11 c, ,, (• 1 • :i 'J,
+tr,•,, l~!t I r
+,•1 ..,rin• I ~,:<'n,11,
+
+Photograph 13: Abstract Line Motif,
+Alleghany Union
+
+1"( f l .
+
+1111(
+
+ffJ Jttr,,·
+
+Photograph 14: Motif Two, Plowville
+Lutheran
+
+Lanza 40
+Group B contains motifs that represent flowers or leaves. Motif Ten includes leaves of
+various types while Motif Sixteen is a grapevine. Included in this Group B are also specific
+types of flowers such as Motif Eleven: a rose, Motif Twenty-Four: a tulip, and MotifTwentyNine: a lily. Motifs Twenty-Five and Twenty-Eight are distinguished by either multiple or a
+single flower present respectively. Group Bis the second most popular group behind Group A
+with forty-six of its motifs present on memorials. Motif Eleven serves as the most popular motif
+in this group and occurs in every cemetery except one.
+
+Photograph 15: Tulip and Hearts Motifs, Alleghany Union
+Motifs in Group C are variations around the theme of the "book." Motif Seven is an open
+book with a hand pointing upwards above the book (See Photograph 18). Motif Thirteen appears
+as an open book as well but with a rose. Motif Nine is only an open book without any other
+objects accompanying it. Group C motifs occur a little over twenty times in the survey.
+Group D Motifs are grouped together due to some relationship with an animal. An
+unknown sleeping animal is Motif Twelve (See Photograph 16). Motif Nineteen includes doves
+in various poses and forms (See Photograph 17). Group D motifs do not appear as often as the
+others with only about eleven of these motifs present, and Motif Twelve is the most common in
+this group and was recorded to be present in every cemetery but one in the survey.
+
+Lanza41
+
+Photograph 16: Sleeping Lamb Motif,
+Harmony
+
+Photograph 17: Dove Motif
+Alleghany Union
+
+All of the motifs in Group E are associated with the human hand. Motif Fifteen shows
+human hands holding or clasping each other. Motif Thirty-Three displays a hand pointing up
+similarly to Motif Seven with the hand above the book (See Photograph 18). Motif Forty-Two is
+a hand holding drooping flowers. This motif is placed in Group E and not Group B as the hand
+appears at the center of the motif as the largest and most prominent figure. Group E motifs
+appear rarely with each motif appearing once except for Motif Fifteen which occurs twice.
+
+Photograph 18: Motif of Hand pointing above a Bible, Alleghany Union
+
+Lanza42
+Motifs in Group F include motifs of angels and cherubs. Motif Fourteen pictures angels
+in various poses (See Photograph 19) except for an image of an angel crying falls under Motif
+Thirty-Eight in order to highlight the important emotion associated with this action and motif.
+Motif Forty-One describes cherubs in various shapes and forms . Group Falso does not appear
+often throughout the survey with the motifs only appearing eight times in total. The angel motif
+is the most popular in this group.
+
+Photograph 19: Motif Fourteen, Alleghany Union
+Group G includes only crosses of which is represented just by Motif Forty-Five which is
+a cross and a crown (See Photograph 20). This group serves as the rarest with the motif only
+appearing once.
+
+Photograph 20: Motif Forty-Five, Plowville Lutheran
+
+Lanza43
+Group H includes a wider variety of motifs which share in the theme of face and figures.
+Motif Six shows a profile of a face enclosed in a circle while Motif forty-six includes just any
+version of a face (Photograph 21 ). The gender of this person is unknown. Motif twenty-seven
+appears to be a women reclining on a settee. Motif Forty broadly deals with any figures. Group
+H does not occur as many times as some of the others with only five occurrences.
+
+Photograph 21: Motif Forty-Six, Plowville Lutheran
+Group I includes versions of crossbones. Motif Forty-Three shows skull and crossbones
+while Motif Forty-Four includes just the crossbones. Like Group G, Group I also occurs
+infrequently with only two displays of the crossbones motifs.
+Group J serves as a broader category that encompasses motifs representing a broad range
+of objects. Motif Seventeen is a heart of any size of shape while Motif Thirty-Four is a linked
+chain. The presence of scrolls as a motif is labeled as Motif Thirty-Five while an American Flag
+is labeled Motif Thirty-Seven. Group J appears more than many of the groups with ten
+occurrences. The heart motif and the scroll motif are the most popular in this group.
+Motifs dealing with farming are included in Group K. Motif Eight depicts a sheath of
+wheat and a rake or scythe. Motif Thirty-Two includes just a sheath of wheat alone. Like Group
+I, motifs in Group K were recorded only twice in the survey.
+
+Lanza44
+Group L Motifs share a celestial theme. Motif Twenty appears as a rising sun while
+Motif Twenty-One includes various shapes and numbers of stars. Motif Twenty-three is a
+crescent moon (See Photograph 22). Compared to most of these groups, Group L displays
+higher numbers with eighteen occurrences in the survey.
+
+Photograph 22: Crescent Moon Motif, Alleghany Union
+
+Analysis/Discussion
+Continuing the medieval tradition of icons as practiced in their native land, the
+Pennsylvania Germans applied symbols and allegories across their art and architecture and
+especially their gravestones (R 103). The motifs, described above, symbolize both a spiritual
+interpretation and secular meaning; therefore, the following discussion of motifs will address this
+dichotomy of connotation by first analyzing the various sacred meanings of these motifs and then
+the less obvious secular interpretation.
+Although the location of the memorial and motif already convey some spiritual
+significance, displaying a certain motif on a gravestone serves as an act of proclaiming a specific
+belief of that individual or the collective ideas of the community, for all eternity. In the late
+seventeenth-century and eighteenth-century America, the most common motif on gravestones
+was the skull representing mortality (Deetz 95). The skull, with a grin, hollow eyes, and
+sometimes even with wings, served as a "memento mori," a reminder of death (George and
+
+Lanza45
+Nelsen 86). However, in Pennsylvania German cemeteries, the motif appears very rarely
+(Licthen 130). The survey recorded one grave exhibiting this motif (Motif Forty-Three and
+Forty-Four) belonging to Andrew Robeson in St. Gabriel's cemetery. Although achieving the
+1
+
+notoriety of Berks County's oldest grave dating to 1719/1720 , Robeson did not possess German
+background but had Swedish and English ancestry. Besides this tombstone, the survey did not
+record any other skull and crossbones motif; therefore, the Pennsylvania Germans must have
+been exhibiting other religious sentiments with different methods.
+Throughout the time period covered by the survey, the most dominant religious sentiment
+exhibited by the Pennsylvania Germans is of salvation and joy represented by motifs such as the
+cherub (Motif Forty-One), the angel (Motif Fourteen), and the flower motifs in Group B.
+Cherubs and angels, sometimes pictured with trumpets, proclaim rebirth and resurrection (Hardy
+51) as they fly and lead the deceased to salvation (See Photograph 23).
+
+Photograph 23: Flying Angle Motif, Harmony
+The Bible includes many references to the rose, tulip, and lily (Motifs, Eleven, Twentyfour, and Twenty-nine respectively) when conveying resurrection, hope and faith in addition to
+
+1
+
+Both 1719 and 1720 are listed on the tombstone as Robeson's date of death due to discrepancies between the
+EngUsh calendar and other calendars prior to 1752 (Bicentennial Committee 11).
+
+Lanza46
+expressing a basic joy in religious life (Graves 76). The Pennsylvania Germans utilized many
+different versions of the rose motif on their gravestones. During the early period, roses were
+shown as being geometrical and flat (Hardy 57). However, in the nineteenth-century, the rose
+displayed a more realistic form and usually embodies Jesus and faith (Stoudt 1948 36). A rose,
+depicted on the gravestone as blooming symbolizes the blossoming of the spirit is being
+portrayed (Stoudt 1948 107). The magnitude of the rose blossom varies with age of the deceased
+as children's graves tend to display a small rose with a tightly closed bud while the graves of
+adults picture roses in full bloom (See Photographs 25 and 26). The tulip tends to symbolize the
+Holy Trinity when carved on gravestones as the more abstract and stylized image of the flower
+(see Photograph 24) (Gilbert 46). The lily possesses a wider variety of interpretations as a
+symbol of new age or spiritual passage in addition to a period of rebirth and knowledge (Stoudt
+1948 44, 104). A flower does not uniformly represent salvation and joy as a motif of cut or
+dying flowers (Motif Forty-Two), portrays sadness and death rather than resurrection and hope
+(Graves 80).
+
+Photograph 24: Abstract Tulip,
+Allegheny Union
+
+Photograph 25: Closed Bud Rose,
+Plowville Lutheran
+
+Lanza47
+
+Photograph 26: Full Bloom Rose lying on top of Bible, Allegheny Union
+The motifs in Group C convey an even more religious symbol by portraying the Bible.
+The open book motif (Motif Nine) represents the Bible even if the words "Holy Bible" are not
+written across it as depicted on some other gravestones. Sometimes the Bible is accompanied by
+a hand pointing up (Motif Seven, See Photograph 18) which is reminding and directing the
+audience towards heaven (Patterson 202). With the rose lying on top of the Bible as with Motif
+Thirteen, the ideas of resurrection and salvation are being highlighted as lessons in the Bible in
+order to remind mourners and other visitors of these important doctrines for a source of solace
+and comfort during the period of mourning (See Photograph 26).
+While many motifs included an image of the Bible, one of the more obvious Christian
+symbols, the cross, only materialized once as a motif during the survey. Motif Number FortyFive (See Photograph 20) appears as a cross accompanied by a crown, probably the "crown of
+God" (Mytum 2000 33). The relative absence ofthis important Christian symbol among the
+motifs on the memorials in the survey is difficult to justify and to understand. The prevalence of
+the cross in other religious contexts may have prevented the desire to include the cross on these
+memorials. Also, the Pennsylvania Germans, who predominantly practiced Protestant faiths,
+may have deliberately avoided the Catholic icon of the crucifix. Like the Puritans in New
+
+Lanza48
+England or the neighboring Quakers in Pennsylvania, the Pennsylvania Germans may have been
+"iconophobic" and shunned such icons (Deetz 96).
+The hand in various forms and actions has been accompanying many of the other motifs
+discussed above and can sometimes represent contrasting ideals depending on the context of the
+motif. The hand holding the drooping flowers symbolizes sadness and despair while
+emphasizing the loss of life. On the other "hand," a hand pointing upwards, either above a Bible
+or alone, signifies heaven (Mytum 2004 172) and reminds the mourners of salvation and
+resurrection as a source of comfort instead of emphasizing the loss. Likewise, the clasping hands
+motif (Motif 15) provides a more reassuring gesture accentuating brotherhood, remembrance, or
+friendship and not mourning or separation (See Photograph 27). Linked or clasping hands can
+also symbolize marriage and the endurance of the bonds beyond death (Patterson 191).
+Likewise, the linked chain (Motif Thirty-Four) denotes the same sentiments by emphasizing the
+continuance of relationships and life beyond death while a broken chain would mean separation
+(Mytum 2004 172). This hand motif not only symbolizes the different emotions concerning
+death but also serves as an interaction or an expression of the relationship between the human
+and the divine and the living and the dead. The hand pointing upwards constantly reminds the
+living of heaven and the possibility of a heavenly reunion (Patterson 182, 202).
+
+Photograph 27: Motif 15, Plowville Lutheran
+
+Lanza49
+In the Bible, animals often conveyed important meaning in different contexts. The dove
+has different meanings in the Old and New Testaments. The dove, in the Old Testament,
+represents peace and hope while in the New Testament, the dove symbolizes Christ and the
+descending of the Holy Spirit (Mytum 2004 172; Stoudt 1948 109). On the two memorials with
+this motif, the dove appears to be in flight and may be interpreted according to this later
+meaning. The other animal motif appears on several graves throughout the survey. This motif
+usually occurs on graves belonging to children and is carved sometimes in relief, similar to a
+sculpture, on top of the memorial. The animal always appears to be sleeping as well. Because of
+weathering and the poor condition of some memorials, it was difficult during the survey to
+identity the type of the animal. A comparison of the different motifs among the cemeteries
+concluded that the animal is a sleeping lamb (See Photograph 16). Equating death with sleep can
+also serve as a method of comfort for the parents who are burying their children; likewise, the
+symbol of the baby lamb emphasizes the youth who lived a prematurely shortened life and died.
+The celestial motifs of Group L convey religious meaning as well in the Pennsylvania
+German community. According to Pennsylvania German folk art terminology, the sun, moon,
+heart, and stars are referred as the "trees oflife" (Graves 76). The crescent moon motif
+associates death with night and reminds the mourners of the natural processes oflife and death
+(Graves 76). The rising sun motif (Motif20) on gravestones can symbolize Jesus as interpreted
+as the son or "sun of righteousness" (Stoudt 1948 116), and the rising of the sun refers to the
+resurrection of Jesus and the rising of the spirit (Stoudt 1948 117). Pennsylvania German
+scholars question the direction of the sun and stress the ambiguity of the rising or setting sun and
+the more pagan, non-Christian meaning of the motif. The sun motif represents the German Urbogen, the descending arc of the sun during the winter solstice, a time of death and rebirth
+
+Lanza 50
+(Graves 76). Although this acts as a more "pagan" interpretation of the sun motif, the meaning
+still highlights the journey of the spirit and life. Although not a " celestial" motif, the heart
+emerges throughout Pennsylvania German art and on several memorials in the survey. The heart
+also has a natural association as well as a religious symbolism of God's regard for man (Stoudt
+1948 108). (See Photographs 15, 22, 28)
+
+Photograph 28: Crescent Moon, Stars Motifs, Allegheny Union
+Motifs such as those in Group K can signify a more secular than sacred meaning. While
+many of motifs represent death and heaven, motifs can also depict a person's trade or occupation
+in life (Mytum 2000 39). The sheath of wheat with the scythe may symbolize the deceased' s
+occupation as a farmer in life. The Pennsylvania German economy in Berks County was focused
+on farming, and most of the population participated in some sort of agricultural activity. An
+American Flag motif (Motif Thirty-Seven) emphasizes the patriotism of the deceased. This
+motif appears only once in the survey on a memorial of a man who served in the army. The
+memorial displays his service to the nation with the American flag motif and a written
+description of his history in the army.
+
+Lanza 51
+As Group H motifs occur very rarely, their mearung and context may be difficult to
+interpret. The face and the woman reclining on a settee (Motif Six and Twenty-Seven) may only
+represent a personal choice or preference for this motif. As a piece of art, the motifs may have
+carried a specific meaning for the individual and his or her family. This meaning and context
+may no longer survive beyond the generation of the mourners. These unique motifs signify
+emotions and memories that the mourners ascribed to the gravestone for consolation and
+comfort. Unfortunately, the mearungs of these personal motifs are intangible and do not survive
+beyond personal memory.
+The abstract motifs in Group A do not convey a specific secular or sacred message. The
+motifs such as Motif Twenty-Two, Twenty-Six, and Thirty resemble motifs in Pennsylvania
+German folk art (See Photograph 13), specifically line drawings in the illuminated manuscripts
+called.fraktur (Stoudt 1973 126). Created up until 1850,fraktur manuscripts preserve the
+stylized Pennsylvania German art and script. The survey recorded many "line decorations"
+which were broadly categorized under motif Thirty-Six. Some of these "line decorations" could
+be labeled as rosettes or "hex signs" according to the Pennsylvania German Folk Art style and
+design. Although more famously known to mark barn fronts in Berks County, these "hex signs"
+appear in other forms of art and functioned as an old tradition of style and art that the
+Pennsylvania Germans continued from Germany. Glukstern, the lucky star, is the German name
+for these designs; and they symbolize the wheel of fortune. Associated with "memento mori"
+(Graves 78) with the same ideals and ideological purpose, these motifs represented the cyclical
+pattern of life and death. The presence of these designs in the gravestone motifs probably
+explains the absence of the typical "memento mori," the skull and crossbones, in the survey.
+
+Lanza52
+Motif Number Two appears to be a simple combination of two triangles and a circle;
+however, this motif appears most frequently and in every cemetery of the survey (See
+Photograph 14). This motif does not symbolize any obvious religious or secular sentiment. The
+motif does appear most frequently on the Memorial Forms Twelve and Thirteen which were
+recorded in every cemetery at a high frequency as well. Appearing across Berks County on the
+same type of memorials, this association leads to the conclusion that this motif was the creation
+of a specific carver and served as an identity marker of that specific memorial industry or shop.
+The memorial form with this motif contributes to the overall finished and uniformed appearance
+of the gravestone as a mass-produced product.
+Fortunately, the presence of dates on tombstones provides some temporal context for the
+range of motifs. Only very few motifs were recorded to belong to eighteenth-century graves
+(memorials with a date of death in the eighteenth-century). These motifs include flowers, the
+cherub, and the skull and crossbones. While the flowers appear later during the nineteenthcentury at a higher frequency in numbers, the concurrent appearance of the cherub and the skull
+and crossbones represents an important shift in religious thought. The skull and crossbones and
+other "memento mori" symbols usually do appear during the early part of the eighteenth-century
+as a response to the church's emphasis on death and mortality (Deetz 96). However, with the
+Great Awakening during the l 740's, optimism permeated throughout religious thought; and
+motifs shifted from the skull to more angelic icons such as the cherub (George and Nelsen 87).
+Although small in numbers, the survey results do indicate the presence of these changes in
+religious ideas. In the survey, many of the gravestones did not display a date; however,
+comparing style, material, and other features, one can presume that most of these memorials
+without a date belonged to the eighteenth-century. The most popular motif in this sub-category
+
+Lanza53
+is the crescent moon which usually appears on Form Two of red sandstone memorials. This
+correspondence in form and date leads to the conclusion that this motif represented the early
+German settlers in the area because the motif belonged to the "trees of life" group of icons
+representative of Pennsylvania German Folk Art (See Figure 4a).
+Most of the motifs do not appear until the 1800's (See Figure 4a and 4b). They all follow
+similar trends with a peak in popularity between the period of 1850 and 1880 and resemble
+patterns discovered during other surveys. The flower motifs, which others have concluded to
+signify "remembrance," usually appear during the later half of the nineteenth-century (Graves
+80). This chronological trend corresponds to the Victorian obsession with death and flowers
+(Hobbs 241 ). Motif Two, with the highest numbers, first appears at the very beginning of the
+nineteenth-century and peaks in popularity around 1860. The motif stops appearing on
+memorials after 1880 with one exception in the decade of 1900 (not shown on Figure 4a). This
+abrupt end for this motif was probably due to some changes in the industry as it was concluded
+above that this motif almost serves as a "signature" for a specific memorial business that may
+have declined around the end of the nineteenth-century.
+Motifs provide an important service in the Pennsylvanian German community as method
+and means of distinguishing and emphasizing identity. The community, intentionally or
+unintentionally, agreed on the common ideas and iconography to develop the concepts behind
+these motifs (Stoudt 1948 5). The motifs act as a collective expression of culture and identity;
+and according to a more Structuralist perspective, cultural rules control and enforce the meaning,
+use, and context of these motifs. Each member of the community possessed the knowledge in
+order to interpret the meaning of these motifs. This collective knowledge includes an
+understanding of the Bible in order to recognize and appreciate the Christian motifs such as the
+
+Figurej 4a: Motif By Decade
+(#2)
+
+Sun (#20)
+
+Moon (#23)
+
+Stars (#21)
+
+Heart (#17)
+
+Tulip (#24)
+
+Book & Rose (#13)
+
+Clasping Hands (#15)
+
+1910-1919
+1900-1909
+1890-1899
+1880-1889
+1870-1879
+1860-1869
+1850-1859
+1840-1849
+1830-1839
+1820-1829
+1810-1819
+1800-1809
+
+-- •
+-,_
+-
+
+1111
+
+•
+-
+
+■
+
+•- •
+- -
+
+1790-1799
+1780-1789
+1770-1779
+1760-1769
+1750-1759
+1740-1749
+1730-1739
+1720-1729
+1710-1719
+No Date
+
+1111
+
+■
+
+■
+
+-
+
+'
+
+Figure/ 4b: Motif By Decade
+Rose (#11)
+1910-1919
+1900-1909
+1890-1899
+1880-1889
+1870-1879
+1860-1869
+1850-1859
+1840-1849
+
+Dove (#19)
+
+Lamb (#12)
+
+Lily (#29)
+
+Open Book (#9)
+
+Flowers (#25)
+
+Cherub (#4 l)
+
+Skull and Crossbones (#43)
+
+-I
+-• - 1111
+
+I
+
+■
+
+■
+
+■
+
+■
+
+■
+
+■
+
+■
+
+■
+
+■
+
+■
+
+1830-1839
+1820-1829
+1810-1819
+1800-1809
+1790-1799
+1780-1789
+1770-1779
+1760-1769
+1750-1759
+1740-1749
+1730-1739
+1720-1729
+1710-1719
+No Date
+
+-
+
+- .. -
+
+-
+
+Lanza54
+dove and the rising sun (Stoudt 1948 14). Although in a community where everyone may not be
+literate, the understanding of the motifs is disseminated through cultural knowledge and is
+practiced through the presentation of the memorials.
+
+MOTIFS: BORDER
+Results/Discussion
+Only sixty-eight memorials in the survey displayed motifs around the border of the
+gravestone. These border motifs included duplicates of motifs found in the center of the
+memorial such as leaves, scrolls, flowers, ivy, and tulips. The other border motifs resembled
+architectural features such as engraved columns, a gothic arch, and plain incised edges around
+the memorial. These motifs appear on a variety of tombstones although they appear infrequently
+during the survey. These specific motifs can be interpreted as a more aesthetic feature than the
+other motifs. The columns on the side of the memorial represent a Classical style, popular
+during the 18th century. Likewise, the Gothic arch corresponds to the Victorian and nineteenthcentury preference for the ornate and the revival of this medieval style and may indicate an
+acknowledgement of German heritage. The examination of border motifs and their
+corresponding dates does not reveal any dominant or apparent trends in popularity for a specific
+border motif due to the low frequency for many of the motifs in this category. All of the motifs
+generally appear during the second half of the nineteenth-century. The most popular motif can
+be best described as plain "incised" sides in which the edges of the memorial are carved away
+and the material removed. The simplicity may explain the greater popularity of this motif than
+the other motifs.
+
+Lanza55
+INSCRIPTION SCRIPT
+Results/ Discussion
+Before examining the words of the inscription, the survey observed the style of the script.
+With many slight variations between each script and inscription among the memorials, only a
+few script types will be discussed. The frrst category included scripts written crudely and do not
+have uniform lettering. The inscription appeared to be engraved by an amateur with simple
+tools. This script typically appeared on Memorial Forms One, Two, and Three of the red
+sandstone material. These forms are the earliest memorials; therefore, the communities which
+these memorials served and represented were small yet expanding. The mourners themselves
+probably created the memorial and carved the inscription for the deceased.
+Other scripts presented Roman type characters and appeared on various types of
+memorial forms throughout the period recorded by the survey. The other more conspicuous
+script is Gothic, an ornamental and elaborate script style. All of the German inscriptions were
+written in the Gothic script. This script type requires knowledge and skill in order to carve the
+letters legibly and uniformly (Lichten 132). The script resembles the fraktur, illuminative
+writing, which functions as an icon of Pennsylvania German Folk Art (Gilbert 48). Therefore,
+this script clearly signals German identity and background of the deceased.
+
+Photograph 29: Fraktur Script, Alleghany Union
+
+Lanza 56
+These script types follow a distinct chronological pattern. The crude script appears
+throughout the eighteenth-century and peaks at the beginning of the nineteenth-century. This
+pattern follows the same popularity trend as the red sandstone material; moreover, this script
+always appears on the memorials made of the red sandstone. This correlation further supports
+the conclusions concerning the memorial industry and the amateur production of memorials in
+small communities. As the crude handwritten script declined, the Roman type characters and
+Gothic script emerged and peaked during the later half of the nineteenth-century. This pattern
+corresponds with the greater quality of tombstones during the nineteenth-century compared to
+those in the eighteenth-century.
+
+INSCRIPTION INTROUDCTIONS
+Results/Discussion
+
+In addition to motifs and other features, the inscriptions of gravestones contain a wealth
+of information to contribute to an understanding of the ideology, context, and ritual involved
+with death and memorials. About half of the inscriptions on the gravestones begin with a short
+"introduction" which sets the tone of the memorial and proclaims the attitude towards death of
+the mourners. The most popular introduction centers around the memory of the deceased such as
+"In memory of' or the German equivalent "Zurn Andenken An" which translates as "to the
+
+memory of' (Hardy 4). On a few gravestones "sacred to the memory of' appears providing a
+more religious tone to the introduction. The next popular group of introductions involves the
+body at rest such as "Here Rests" or "Here lies." The German equivalents are "Hier ruhet" and
+"Hier luget" respectively. These introductions acknowledge a greater focus on death and the
+inanimate body while "in the memory of' places more emphasis on the individual and life.
+
+Lanza57
+Another group of introductions does not involve death but focuses on relations in life such as
+kinship titles like "Mother" or "Father." Some introductions read "Children of" or an even more
+sentimental version: "I am the Little Savior of." Obviously, the memorials with these
+introductions mark the graves of children whose parents have made the decision to include these
+introductions on the graves. Less frequent introductions include "SLEEP" or "Sweetly Sleep,"
+"To Testify" and "Peace." Some introductions acknowledge an early death or a long life
+including "In the Bloom of Life" and "I Have Finished My Course," but these introductions
+appear rarely and seem to be a unique wish of the deceased individual or the mourners.
+Due to the overwhelming popularity, over a long period of time, of a few inscription
+introductions, seriation analysis does not reveal any obvious or distinct "battle-ship curves" or
+trends (See Figure 5). "In memory of' occurs throughout the date span of the entire survey from
+the eighteenth-century to the twentieth-century at a rather consistent frequency although this
+introduction type does decline at the end of the nineteenth-century. The next popular
+introduction 'Hier ruhet" appears steadily during the nineteenth-century while the "title"
+introductions happen primarily during the later half of the nineteenth into the twentieth-century.
+The infrequency of the other introductions prevents observing any chronological trends. The
+simplicity of the popular introductions probably affected their popularity. Conspicuously, the
+German version of"In memory of," (Zurn Andenken An) does not correspond with the
+popularity of the English version; likewise, a the correlation in frequency between the English
+version of"Hier ruhet" does not occur as well. For unknown reasons, a difference in preference
+arose between the two language groups.
+
+Figure 5: Inscription Introductions By Decade
+"Here Rests"
+
+"Here Lies"
+
+"In Memory Of'
+
+1910-1919
+1900-1909
+1890-1899
+1880-1889
+1870-1879
+1860-1869
+1850-1859
+1840-1849
+1830-1839
+1820-1829
+1810-1819
+1800-1809
+1790-1799
+1780-1789
+1770-1779
+1760-1769
+1750-1759
+1740-1749
+1730-1739
+1720-1729
+1710-1719
+
+-•
+•
+..
+1111
+-■
+
+■
+
+•
+
+•
+----··
+-·-
+
+"Kinship Relations"
+
+Lanza58
+INSCRIPTION
+Results/Discussion
+
+Following the introduction or beginning the inscription if an introduction is absent
+appears the "vital" or biographical information of the deceased. The most basic inscriptions
+reveal very little information of the deceased beyond the name and date of death. Some
+memorials display only initials or a year. These inscriptions typically appeared on Memorial
+Forms One and Two and were sculpted from red sandstone; moreover, they tend to be carved in
+the crude, "handwritten" script mentioned above. The little skill or training of the carver
+probably limited the amount of information carved on the tombstone. These tombs appeared
+during the l 700's and early 1800's and in small cemeteries such as the Alleghany Mennonite
+Meeting House; therefore, a need to display elaborately the biographical information probably
+did not exist as the community was small and in its early stages. The mourners could
+collectively remember the deceased without the record of the date of birth and death and familial
+relations being displayed.
+Other inscriptions contained more information about the deceased including date of birth
+and date of death. One of the most common inscription formats included an introduction, name,
+date of birth, and date of death in that order. However, the most popular inscription format also
+served as the most complex with the greatest amount of information present. The inscription
+included an introduction, name, date of birth, date of death, age of death, and descriptions of any
+pertinent familial relations such as "wife of... ," "husband of... ,", and "parent of... " including
+many others. These two inscription formats appeared in every cemetery and on a variety of
+memorial forms and types. This additional information compared to the basic inscriptions served
+
+Lanza59
+as a necessary tool for demarcating family plots within large cemeteries and also individual
+identity in the larger communities.
+The most complex inscription included the biographical information of multiple people.
+On eleven graves in the survey, the information relating to multiple people appears on one
+gravestone indicating their burials. These single stone for multiple burials emphasizes the
+importance of family relationships in the community. The mourners must have believed in
+continuing their identity and association with close family members even in death to mark
+several burials with one gravestone. Often these multiple burial stones marked the burials of
+siblings who died within a short time span of each other and were of a young age. This type of
+inscription was most often inscribed on obelisk form and the "double" memorial type. With the
+high mortality rate for children, parents often buried more than one child; therefore, burying the
+children under one marker may have been more efficient with finances and time.
+During analysis, some chronological patterns were exposed with a basic trend appearing
+of the evolution from simple to more complex text formats. Although these memorials did not
+display any dates, one can assume that the inscriptions of only initials or a name date from the
+eighteenth-century. Their location and proximity to early memorials with dates support this
+claim. Likewise, the initials and date format dominates the late eighteenth-century and early
+nineteenth-century. In the nineteenth-century, formats displaying the information: introductions,
+name, relations, date of birth, date of death, and age at death, clearly serve as the most popular
+formats consistently throughout the century with no clear peaks in frequency.
+
+Lanza60
+ADDITIONAL TEXT
+Results/Discussion
+On about 125 memorials, additional text appears underneath the main inscription and
+biographical information. This additional text includes a great variety of details relating to
+religious ideals, the person's life, poetry, and extra information about the memorial itself. This
+additional information contributes to a better understanding of the feelings surrounding death and
+the loss by the mourners or the deceased who chose to include these details engraved forever on
+the tombstone. Although addressed to the memory of the dead, these epitaphs benefit and serve
+the living who usually write the epitaph (George and Nelsen 88).
+The religious text added includes a simple "Amen" underneath the vital information or a
+Bible verse or other phrase relating to religion. The Bible verses are indicated by the Name of
+the Book, Chapter, and Verse and may not include the verse itself. The absence of the text
+indicates that the members of the community had strong knowledge of the Bible in order to
+recognize the verse numbers. Verses from the New Testament tend to be more common, and the
+most popular Book to quote from is John. The verses tend to address issues of resurrection and
+salvation similarly to the symbolism of the flowers, the most popular motifs. As the Bible verses
+appeared on the graves of both children and adults, no distinct patterns according to age and
+other demographics have appeared. In addition to Bible verse epitaphs, the category of religious
+phrase includes a variety of phrases dealing with Heaven, God, and the Resurrection. None of
+the individual phrases in this category appear more than once in the survey; therefore, they were
+probably written by specific individuals in order to preserve the memory and life of that person.
+The phrases probably carried some personal emotion and memory which have not survived. The
+phrase "Meet me at Heaven's Gate" is perhaps the most impersonal of the phrases while "Church
+
+Lanza 61
+is my home" portrayed this individual's dedication to his church during his lifetime. One of the
+gravestones displayed the phrase "Sleep on dearest husband, sleep on until the resurrection- And
+then we will be together- to meet Jesus in the skies." The phrase poignantly portrays the
+bereavement of a wife who lost her husband. Her choice to engrave this on her husband's
+memorial probably consoled her sadness with the hope of meeting her husband again. Some of
+the phrases acknowledge the suffering in life and the hope of peace in heaven such as the phrase
+"While on earth I have suffered. But now I am safe in the arms of Jesus." This phrase marked the
+burial of the girl who died at the age of 16 presumably due to illness as implied by this phrase.
+In addition to sacred phrases, many gravestones include poetry and more secular verse.
+Unfortunately, many of these poems and verses were illegible and unable to be recorded. Those
+that the surveyor could read clearly followed a few distinct themes. The first theme deals with
+"memory" and includes "Gone but not forgotten." Unlike the religious phrases described above,
+this phrase was found verbatim on several graves. This phrase serves as a simple act of
+mourning in which those living can express their loss and memory of the deceased. Other
+phrases and poems address loss and tend to produce feelings of emotion from even the modem
+reader. The mourners of Mary Ann engraved on her tombstone the following poem:
+We miss thy kind and willing hand,
+Thy fond and earnest care,
+Our home is dark without thee,
+We miss thee everywhere
+A poem such as this clearly demonstrates the grief and the loss of Mary Ann's family due to her
+passing. Displaying a poem on a relative' s gravestone clearly exhibits the feelings of
+bereavement and sadness around death and provides a personal touch to the gravestone and aids
+the family's mourning as a form of comfort and solace (George and Nelsen 90).
+
+Lanza62
+Another sub-category within this group reveals additional biographical details in addition
+to the information provided in the main inscription. This will include the particulars about an
+individual's army assignment such as the regiment or his title and position in the army if an
+officer. The tomb of Simpson Ruth, in Mohn' s Hill Cemetery, reveals his army assignment in
+the 167th Regiment of the PA Infantry. Likewise, John M. Hyneman's grave includes his title of
+Adjutant General of the Militia of Pennsylvania underneath his name. Other biographical
+information includes place of birth and place of death. Place of birth is usually included in the
+inscription on the gravestone if the individual was born outside of the United States. Frederick
+Blimline's tomb reveals his place of birth as Bavaria, Germany. Although this individual was of
+German origin as clearly stated on his tombstone, the inscription is surprisingly written in
+English. Likewise, place of death is revealed if the person died outside of the community. For
+an example, Daniel Buckley died while in the U.S. Army in the Battle of Petersburg. Additional
+biographical information such as military information and place of birth and death commends
+individuals for their successes and noteworthy lives in addition to preserving information for
+later generations.
+About fifty gravestones were recorded with the signature of the carver. While several
+cravers created the memorials in the survey, only one carved the signature on the gravestone.
+The signature appeared as "MOERS" or "MORS" on the lower right comer of the memorial.
+Sometimes "Reading" referring to Reading, Pennsylvania, the county seat of Berks County
+appeared underneath "MOERS." The presence of this signature adds more conclusive evidence
+of a local memorial industry in Berks County. Moreover, the signatures usually appear on forms
+Twelve and Thirteen. These memorials were mass-produced by the shop in Reading designated
+by "MOERS" and distributed over the county. These signatures and the memorial industry
+
+Lanza63
+indicate a secularization of the burial ritual as the carvers usually included their signatures for
+marketing and commercial benefits in the form of an advertisement (Kelly and Williams 3;
+Hardy 8).
+Seriation analysis showed that memorials with additional text occur exclusively in the
+1800's (See Figure 6). Signatures and poetry, the most popular features in this category, are
+located on memorials rather consistently during the nineteenth-century. The other types of
+additional text, especially those conveying biographical information, tend to appear during the
+later half of the 1800' s. These trends reflect the growth of the industry and need to express
+individualism and identity as discussed earlier in this section. Additional text serves as a unique
+feature reflecting the specific and individual features of the deceased and/or the mourners.
+
+DISCUSSION
+Previous discussion has focused on specific aspects of memorials and the meaning and
+context of these individual features. Following a more Holistic theoretical approach, further
+discussion will observe the memorial more as a whole and the collective meaning of each feature
+to demonstrate a specific identity.
+
+GENDER
+
+The gender of the deceased marked by a particular memorial is usually determined by the
+name of the deceased and the pronouns used in the inscription. Therefore, the memorials with
+little information besides initials and a date do not contribute much information about gender
+differences. Likewise, the Pennsylvania Germans did not clearly designate a specific design or
+style of gravestones to be associated with either men or women. Both women and men shared
+
+-----
+
+Figure 6: Additional Text By Decade
+Religious Text
+1910-1919
+1900-1909
+1890-1899
+1880-1889
+1870-1879
+1860-1869
+1850-1859
+1840-1849
+1830-1839
+1820-1829
+1810-1819
+1800-1809
+1790-1799
+1780-1789
+1770-1779
+1760-1769
+1750-1759
+1740-1749
+1730-1739
+1720-1729
+1710-1719
+
+PoemNerse
+
+-• -• •
+-•
+•
+■
+
+I
+
+■
+I
+
+■
+
+Biographical Information
+
+Signature
+
+1111
+
+-
+
+---
+
+Lanza64
+the same memorial forms, materials, additional features, motifs, and inscription forms
+throughout the survey. Besides a few exceptions which will be discussed, a clear distinction
+between men and women in the cemetery does not occur.
+Men and women tend to share the same style and design of gravestones; however, certain
+features do only appear on the graves marking burials of men. Obvious gender differences begin
+with additional features. The various types of American flag and soldier's plaque appear only
+with male graves due to the historical tendency of only men fighting in war. Besides the base
+and the footstone which belongs to both male and female graves, the other additional features of
+sculpture, columns, and the tureen footstone belong to male graves signaling a possible bias in
+investment based on gender. However, with the low frequency of these features, one cannot
+conclude the existence of an overall trend towards male graves displaying extra architectural
+features.
+Women may have tried to display their gender through motifs. Certain motifs, such as
+Motif Twenty-Seven, the women reclining on the settee, appear only on female graves probably
+due to the gender of the image itself. The motif creates an image of the deceased being wealthy
+with the motif association ofleisure; however, besides this motif, no other factors clearly signal
+high socio-economic status. A more subtle expression of gender concerning motifs appears in
+the hand motifs. On memorials displaying motifs with hands pointing upwards, the graves of
+females display a left hand while men have a right hand pointing. This simple yet clear gender
+differences provides a simple expression of gender identity and symbolizes a possible difference
+in social roles corresponding with those motif. While it is difficult to confirm or deny any
+possible relationships from this simple difference, the Pennsylvania German community may
+have acknowledged gender role differences.
+
+Lanza65
+In this survey, certain gender differences or associations do not occur according to some
+previous associations or presumptions. Some scholars have labeled the flower motifs, especially
+the rose, with a more feminine meaning due to its values of delicacy and beauty which it may
+represent, in addition to the more sexual associations (Hobbs 242). However, graves belonging
+to both men and women exhibit the flower motifs in relative equal proportions.
+Besides a few differences between graves of men and women, the memorials themselves
+do not indicate any specific gender roles in the Pennsylvania German community of Berks
+County. For the results of this survey, one would conclude that Pennsylvania German men and
+women did not live according to different social rules or possess a certain status based on gender.
+A few distinctions do appear in the memorials indicating that gender may have been
+acknowledged in the community; but any specific gender differences, roles, or meanings did not
+translate onto the memorials.
+
+AGE
+With the high mortality rates during the early history of the Pennsylvania German
+community, many children unfortunately died at a young age and were buried by their mourning
+parents and family members. Unlike the different gender groups, the memorials of children
+(under thirteen years) tend to appear conspicuously different from the rest of the cemetery of
+adults. Strong differences did not exist, however, between the memorials of infants and those of
+older youths. The memorials of infants tended to be smaller with less ornamentation; however,
+the infant memorials did not always follow this style and form. While the memorials of children
+can take a variety of forms, Form One predominantly appears the most frequently; moreover, the
+form tends to be of a smaller size almost like a miniature of the normal memorials belonging to
+
+Lanza66
+adults. In the cemetery landscape, these memorials appear to be only half the size of the other
+memorials and always belong to children. Likewise, Memorial Forms Twenty-Two and Thirty
+of Group J always mark the bnrials of children. Siblings, who died closely in time, are bnried
+together underneath these types of forms. This "efficiency" in bnrial probably aided the parent's
+mourning and adjustment to the loss of two children. Although these motives are certainly
+intangible, the double forms certainly express and preserve in death the relationships in life
+among young siblings. Moreover, about half of the "high-investment memorials" such as the
+obelisk (Form Twenty-Four) mark the bnrials of children. These memorials do indicate financial
+and emotional investment by the parents (See Photographs 6 and 7).
+As some memorial forms only mark the bnrials of children, many motifs are also
+reserved for memorials belonging to this group. The rose motif (Motif Eleven) appears
+frequently on memorials for children. The rose appears in the form of a small bud or blossom to
+symbolize the "young life cut short in blossom" (Hobbs 248). The motif of the sleeping animal
+appears exclusively on memorials belonging to children. The animal, probably a lamb, also
+represents youth and innocence and equates death with sleep and rest. Broken symbols, such as
+a broken chain, sometimes appear on bnrials of children to symbolize a "life cut short" (Mytum
+2000 57).
+
+Likewise, some inscription introductions only belong to memorials for children such
+
+as "Children of', "In the Bloom of Life," "I am the Little Savior of." The wording naturally
+describes the death of children; however, these introductions emphasize their youth, relations
+with parents (as with "Children of' and "I am the Little Savior of') and also the shortness of life
+("In the Bloom of Life").
+
+Age at death serves as an important part of an individual's identity in the cemetery
+community. As discussed above, some features and designs are reserved to designate the bnrials
+
+Lanza67
+of only young children. These memorials also capture important emotions of the parents
+mourning the sometimes unexpected death of their children (Lynch 146). As a comfort for the
+tragedy of a young life lost, the mourners, the surviving family members, emphasize the youth of
+the deceased on the graves and attempt to communicate this personal quality and to immortalize
+the young person (Lynch 149).
+
+Photograph 30: Child's Memorial, Rose Motif, Mohn's Hill
+
+SOCIO-ECONOMIC STATUS
+
+In addition to gender and age, memorials can also demonstrate the socio-economic status
+of the deceased. A high financial investment with the material, size, and complexity of the
+memorial typically indicates a high socio-economic status of the deceased in life. However, a
+contradiction may exist between the image projected by a person's memorial and socioeconomic status in life. A poor person may have saved money to invest in a large memorial and
+to create, in death, an impression of high status in life (Farrell 125); likewise, the mourners may
+have contributed money for the memorial if the deceased could not afford such an ostentatious
+gravestone. Therefore, the projection and interpretation of socio-economic status and investment
+of a memorial must consider these possibilities and ambiguities.
+
+Lanza68
+Low-status burials are usually indicated by plain and low tombstones with minimal
+information given or little ornamentation (Fenza 144); however, with the early tombstones, these
+characteristics may not serve as accurate indicators oflow status as the simplicity of the
+gravestones may have resulted from the size of the community, the dominant style, or the lack of
+availability of materials or skilled carvers. The most obvious form of high financial investment
+appears in the form of the memorial especially Forms Twenty-Four, the obelisk, and Forms
+Forty-Three, the table-top memorials. These memorials probably cost significantly more than
+the simple rounded-top memorials like Form One with greater need of material and skill by the
+carver. With their great size, these memorials also dominate the cemetery landscape and
+symbolize the possible importance of the individual in life. The table-top memorials in St.
+Gabriel's cemetery support this conclusion as many of the table-top memorials are accompanied
+by plaques describing the contributions of the individual to the community and any
+accomplishments in life. The plaques on the Bird burials describe their high status in the
+community as owners of the local iron furnace. Likewise, the additional features such as
+sculpture or additional colunms probably required a greater financial investment and may be
+used to indicate a higher socio-economic status of the individual or the mourners. A memorial of
+a high-status individual usually also has a greater grade of material such as a finer quality of
+limestone or marble due to the higher cost of these materials.
+Motifs do not provide good markers of socio-economic status. Various memorials depict
+a great variety of motifs, and the many meanings and contexts of the motifs usually describe
+religious sentiments or other aspects of identity, not socio-economic status. Moreover, the
+memorials of those individuals with known status, like the Douglasses or the Birds, do not
+exhibit any motifs. The markers of socio-economic status are very complex and not as easily
+
+Lanza69
+deciphered as with other aspects of identity due to the possibility of inconsistencies between the
+life and impressions oflife on the memorial.
+
+GERMAN ETHNIC IDENTITY
+The Pennsylvania Germans utilized gravestones to demonstrate their heritage and "ethnic
+identity" within the community; however, modem interpretation of the role, context, and
+meaning of the German identity and its presence in cemeteries may not appear as visibly or
+obviously defined as other forms of identity such as age and gender. This section will address
+specific features and preferences the Pennsylvania Germans possessed in their cultural repertoire.
+The first part of this discussion will determine which features of the gravestones discussed above
+decidedly portray Pennsylvania German identity or possess German origins. These features will
+serve as primary "markers" of German identity. Some Functionalist perspectives will be briefly
+utilized as presumed German heritage stones are compared to English memorials to determine
+possible ethnic differences and characteristics.
+Inscriptions written in German probably serve as the most obvious indications of German
+identity. In an area inhabited by both English and Germans, a German inscription excludes
+English members of the "audience" of tombstones while reinforcing German identity and
+community boundaries. Usually written in the "fraktur" style lettering, German inscriptions
+reveal the same types of information compared to English inscriptions (Graves 82, 86).
+A few bilingual stones appear throughout the survey with inscriptions written in both
+English and German. The bilingual mixture includes various patterns including just the
+biographical information, kinship terms, family names, epitaphs in German with other features in
+English. Other bilingual tombstones exhibit duplication of the inscription in English and
+
+Lanza 70
+German located on the same face or the reverse. Sometimes one language appears in an
+abbreviated version of the inscription. These two variations may demonstrate different
+conditions within the German community and the relations with non-German neighbors. The
+first version described addresses two different cultures with which the deceased identified.
+Scholars do not believe that this bilingual mixture indicates the community learning one
+language and gradually discarding the other (Graves 89). The version of duplicate inscriptions
+serves family and friends who could only read German and preserves the German language
+during times of threat (Graves 88).
+
+, •..; h.:\" t'U. I]
+
+'''\fiam
+
+m~
+
+G""fi•1 --V91}t
+
+LJ)nm u _')]hw i~
+
+~
+
+''~fl- ti('., f'i.';y~t,,•i.~n
+Cll'f(H l'lto
+
+J!).l_mXr:;
+
+21fN,·
+
+a~ol)•·", 1'X•ln,u,2.•'
+
+~f~{1;f-~t~~~r::-~~:!:,: :;£~ ~.fi;;•:::.' .
+,.1
+
+\.,j
+
+I' ~'!111" G.1••1•1 ,.,,., 2f'(, • ..-,
+
+I;!.;.,,.,
+
+I
+
+t::~t•~.:!~":~.'"1~1•t~•/..r,111,
+
+Photograph 31 and 32: Bilingual Gravestone Duplication oflnscription on Two Faces, Plowville
+Lutheran
+As the German language can serve as a distinct indicator of German heritage, other
+features associated with gravestones exhibiting the German language can provide secondary
+markers of German identity. Some of these features are exclusively used on "German
+gravestones" while other aspects appear on German inscription and non-German inscription
+gravestones. Like the general trends found in the survey, German memorial types include the
+
+Lanza 71
+popular Forms One, Eleven, Twelve, Thirteen, and Sixteen. These forms serve as the main
+memorial types; however, unlike the general survey observations, German gravestones constitute
+a smaller variety of memorial forms. Groups G and J, the box forms and "double" memorials
+respectively are not represented. The most popular "German" form is Form Thirteen which
+constitutes about a third of the forms; and Groups A, E, and F serve as the more frequent German
+forms. While the other groups are represented with German inscriptions, the forms appear too
+infrequently (usually only once in the survey) to contribute to a better understanding of German
+memorials. However, because of the popularity of Groups A, E, and F with non-German
+inscriptions, these form types cannot exclusively indicate German identity.
+With only a few exceptions, most of the German inscription memorials are composed of
+the limestone material. Only one memorial with a German inscription appears as a redsandstone gravestone. This discrepancy represents one problem of attempting to use the German
+language as an indicator of identity. As the red sandstones memorials appear as the dominant
+material during the early periods of the survey coinciding with the beginnings of the German
+community in Berks County, the German settlers must have used this material for their
+gravestones. However, due to many of the red sandstone memorials lacking an inscription, these
+red sandstone memorials are not included in this part of the analysis. Therefore, the role of
+gravestones without inscriptions in the identification of ethnic identity will be discussed later.
+Surprisingly, motifs associated with German language stones do not adhere to any
+outstanding trends different than those of the general survey. The most common motif is
+Number Two which was concluded to be a signature mark of a local memorial industry. Like the
+memorial forms, some motifs do not appear on German gravestones; moreover, the motifs
+mentioned in the discussion above in the results section to have been labeled as typical "German
+
+Lanza 72
+motifs" by other scholars do not appear on the German language gravestones including motifs
+such as the crescent moon, rising sun, and certain abstract line motifs. This absence of
+correlation probably has occurred due to these motifs appearing on early gravestones with which
+the inscription is absent or difficult to decipher.
+Three motifs appear only on memorials with German inscriptions. The first motif is
+Motif Six, the profile of a face inscribed in a circle. This motif only appears in the Alleghany
+Mennonite Meeting House cemetery; therefore, probably serves as an indicator of more
+individual choice then ethnic group identity marker. Motif Twenty-One, stars, occurs on both
+German and non-inscription memorials. The star motif, part of the "Cosmological Group" of
+Motifs does serve as a good indicator of German identity due to its exclusive appearance on
+German gravestones and the association in the scholarship with German heritage and signs of
+nature which appear on other German forms of art. Likewise, Motif Twenty-Six resembles a hex
+sign, an important feature of Pennsylvania German Folk Art.
+With one exception, all of the German inscriptions are written in the Gothic style. As
+discussed in the previous section, this inscription styles resembles the "fraktur" illuminated
+manuscripts of Pennsylvania German Folk Art (See Photograph 29). Moreover, the Gothic style
+oflettering does not appear on English inscription memorials; therefore, this lettering style
+provides a strong marker of identity and German heritage within the community.
+The most popular German inscription introductions are "Hier ruhet" and "Zurn Andenken
+An" which translates as "Here rests" and "To the memory of." The English translations of these
+German introductions do not appear at the same rate in the survey as the German versions. "Hier
+ruhet" appears more frequently than "Here lies;" and correspondingly, "In memory of' appears
+more frequently than the German equivalent "Zurn Andenken An." The introductions written in
+
+Lanza 73
+German focus more on the body while the English introductions address the memory of the
+individual. While these different languages may or may not be representing two different and
+distinct communities, German or English, it cannot be concluded that the Pennsylvania Germans
+were exclusively portraying a specific sentiment through the inscription introductions.
+Moreover, the same trends do occur between English and German inscriptions and the format of
+the text. Therefore, the information portrayed in the body inscription does not vary between the
+two languages and probably did not serve as an indicator of identity.
+Language cannot be used as the only indicator of identity as some German peoples may
+have chosen to write their inscription in English although they belong to the Pennsylvania
+German ethnic group. Moreover, the Pennsylvania Germans did not memorialize their deceased
+with only gravestones that include inscriptions; therefore, the many memorials recorded in the
+survey without inscriptions cannot be ignored in this part of the analysis. The memorials
+recorded not to have an inscription due to poor condition or illegibility will not be included in
+this part of the analysis as these memorials were intended to exhibit an inscription. Some
+memorials do exist that appear not to have had an original inscription and will be discussed here.
+Likewise, the memorials with only a date or initials will be included in this discussion with the
+presumption of a strong possibility of the association of these memorials with the early
+Pennsylvania Germans due to their crude form and motifs. To better ensure the German origin
+of the deceased represented by these ambiguous tombstones, the memorials of the Alleghany
+Mennonite Meeting House, Allegheny Union, and Plowville Lutheran Cemetery only will be
+analyzed due to the historical predominance of Pennsylvania German culture and the high
+frequency of these memorials appearing in these cemeteries compared to others. Because of an
+absence of a need to present a lot of biographical information on a tombstone as discussed in the
+
+Lanza 74
+"Text Format" section of results, many gravestones during the eighteenth-century and early
+nineteenth-century did not have elaborate inscriptions but still can reveal important information
+concerning the early history of the Pennsylvania German community. As the presence of the
+German language on a tombstone cannot be used as a primary indicator of identity in this case,
+the combination of other factors including last names and proximity to other German stones will
+be used as collective indicators of identity. Other surveys have recorded these memorials that
+have elaborately carved motif but no apparent inscription or textual material. The inscription
+area is usually smooth and the motifs deeply carved into the stone; therefore, the inscription
+probably has not weathered away (Graves 74). Some scholars have speculated that these
+gravestones were originally painted and resemble memorials in the Palatinate of Germany
+(Graves 76).
+
+Photograph 33: "Absent" Inscription German Memorial, Alleghany Union
+With the limitations established above, this group of memorials can be analyzed for an
+attempt to conclude a possible German identity marker. Like the German language memorials,
+Form One appears as the most popular form probably due to the simplicity of shape and style.
+Form Two serves as another frequent form without inscription and shares with Form One a
+
+Lanza 75
+rounded top and plain style. These two forms are typically constructed of red sandstone material.
+The presence of the red sandstone material in this group partially explains the absence of the
+material in the previous group of German-language inscription memorials. The minimal format
+of the inscription corresponds in time with the early dominance of the red sandstone material.
+Contrary to the simple shape of the form and the absence of an inscription, many of these
+memorials display complex and intricate motifs and desigu. These motifs primarily belong to
+Groups B (flowers) and Groups L (celestial) in addition to the heart motif of Group J. In the
+previous discussion, these motifs have been compared to Pennsylvania German Folk Art. The
+moon motif appears as the most common motif in this group. Besides a few exceptions, the
+moon motif is found only on this group of memorials (See Photograph 28). With the
+combination of these factors, the simple shape, material, and predominance of Pennsylvania
+German Folk Art motifs, this group of materials with the absent inscription probably represents
+German heritage during the early history of the Pennsylvania German community.
+Seriation analysis reveals distinct trends concerning the presence and role of the German
+language on tombstones (See Figure 7). The first German language inscription appears in 1790,
+and grows in popularity gradually during the early part of the nineteenth-century. During the
+decade of 1810, the German tombstones first outnumber the English tombstones; however, the
+English and German inscriptions remain in equal numbers until after the decade of 1850.
+Although the English tombstones have the high frequency in raw counts, during the decades of
+1860, 1870, and 1890, the German inscription tombstones increase in number as well. However,
+during the decade of 1890, only a very small percentage of tombstones with German inscriptions
+appear and only two tombstones of the survey have German inscriptions in the twentieth-century.
+The basic trend of German inscription tombstones follows the first introduction in 1790; and in
+
+Figure 7:
+
+Language By Decade
+English
+
+German
+
+1910-1919
+
+■
+
+1900-1909
+
+■
+
+1890-1899
+1880-1889
+1870-1879
+1860-1869
+1850-1859
+1840-1849
+1830-1839
+1820-1829
+1810-1819
+1800-1809
+1790-1799
+1780-1789
+1770-1779
+1760-1769
+1750-1759
+1740-1749
+1730-1739
+1720-1729
+1710-1719
+
+---..
+--
+
+------
+
+Ill
+
+Lanza 76
+the first half of the nineteenth-century, German gravestones occur in low numbers but with equal
+proportion compared to English gravestones. During the later half of the nineteenth-century,
+German and English gravestones increase in numbers; but the English gravestones appear at a
+higher frequency than German gravestones although German numbers have also increased. By
+the end of the nineteenth-century and the beginning of the twentieth-century, German
+inscriptions appear only rarely while the German ethnic identity and community dissipates.
+The exclusion of gravestones with only a year, initials, name or deliberate absence of
+inscription from the German language inscription collection of memorials probably explains the
+absence of German gravestones until the 1790' s; for the early tombstones exhibited very sparse
+inscriptions and information on the tombstones. The small size of the community could have
+prevented the need to record biographical information in addition to the strength of the collective
+social memory within the community or possibly just due to the lack of skill of the carvers. With
+previous analysis and conclusions that the combination of factors including the style, material,
+and motifs of these early gravestones represents Pennsylvania German style, we can conclude
+without the presence of the German language that most of these early tombstones of the
+eighteenth-century belonged to those of German heritage. This coincides with the first wave of
+German immigrants arriving in Pennsylvania and the establishment and early history of the
+Pennsylvania German community. In order to exhibit their identity during this early history, the
+Pennsylvania Germans utilized local stone but transferred their German art traditions and
+preference for the natural icons and Rococo forms to the gravestones. These gravestones most
+resemble the style and design of Pennsylvania German Folk Art. The Pennsylvania German
+icons such as the moon and heart appear most frequently in larger cemeteries such as Plowville
+Lutheran and Allegheny Union, for the Pennsylvania Germans displayed these icons and
+
+Lanza 77
+distinguish themselves from their English neighbors. In the Alleghany Mennonite Meeting
+House Cemetery, which served a small and primarily German community during the eighteenthcentury, the early German forms do not exhibit many icons or details but appear to be cruder
+forms. These people may have not sensed any external pressure to exhibit their German identity
+but constructed very crude forms to serve a basic purpose of marking a grave.
+During the beginning of the early nineteenth-century, the Pennsylvania German Folk Art
+motifs no longer serve as the primary indicator of German identity with gravestones. German
+inscriptions appear more frequently than English inscriptions as observed in this survey, and both
+English and German tombstones do not exhibit many motifs and also appear in similar forms.
+The people, represented by these early German memorials, could have spoken only German.
+The eighteenth-century and the early nineteenth-century represent the height of the solidity of the
+Pennsylvania German community. As the nineteenth-century progressed, members of the
+Pennsylvania German community were beginning to experience external pressures to assimilate
+into the wider English-dominated community for economic and social reasons. During the
+1840's, the last services were conducted in German at Trinity Lutheran; and more Germans
+began to learn English in order to communicate, trade, and associate with their English neighbors
+(Stoudt 1973 122).
+During the later half of the nineteenth-century, the numbers of German and English
+inscriptions do increase but at different rates. The German inscriptions no longer represent
+exclusively a community that speaks only German. As external pressures grew to assimilate and
+to minimize displays of Pennsylvania German culture, the members of the Pennsylvania German
+community who have been American citizens now for decades, may have chosen to inscribe
+their mortuary inscriptions in German as an expression of their German culture in defiance of
+
+Lanza 78
+other threats and pressures. The increase in number of the German inscriptions in the later half
+of the nineteenth-century can also represent the second wave of German immigrants who arrived
+in the United States during this period but still remain as a smaller minority group. However,
+these new immigrants do not mark their memorials with German motifs such as the "trees of
+life" category of motifs or those that resemble Pennsylvania German and German folk art. These
+new immigrants pattern their tombstones after the English gravestones in form, decoration, and
+style. This pattern probably occurred to a faster assimilation process during the later half of the
+nineteenth-century compared to the development of the Pennsylvania German community in the
+eighteenth-century. Likewise, other aspects such as of Pennsylvania German culture such as art,
+language, and literature were declining during this time. The practice offraktur illuminated
+manuscripts, on which the Gothic inscription script is based, ends around 1850 (Gilbert 48).
+However, the Gothic script continues to appear on gravestones until the end of the nineteenthcentury. This lingering of the script probably occurred due to the second wave of German
+immigrants or the existence of the memorial industry that perpetuated the script. By 1850,
+scholars have concluded that the Pennsylvania German Folk Art also had died (Lichten 7). This
+decline probably explains the absence of the Pennsylvania German "trees of life" motifs in the
+later half of the nineteenth-century.
+The bilingual stones appear only during the decades of 1840, 1870, and 1880. The
+appearance of the bilingual stones occur during the period in which the Pennsylvania German
+community was gradually declining and experiencing external pressures to adapt to the dominant
+culture. The bilingual stones could have provided different responses to these changes in the
+community. With both English and German inscriptions, the bilingual stones were serving
+family and friends who may were speaking English while many members were still speaking
+
+Lanza 79
+only German. The bilingual stones may have also served a more assertive purpose of
+demonstrating German heritage during a period of decline of German culture and association
+with two cultural groups.
+
+COMMUNITY/CEMETERY
+While previous discussions have addressed trends shared by all the cemeteries, the survey
+revealed some differences among the different communities and churchyards. Upon first visiting
+the cemeteries, the most obvious differences include the spatial organization of the cemetery.
+Alleghany Mennonite Meeting House and Molm's Hill Cemeteries are arranged in long rows
+with the oldest memorials on the Northern end of the graveyard. Likewise, both Harmony and
+Allegheny Union churchyards are organized in rows with the older red sandstone memorials
+scattered throughout the cemetery. The churchyard by Trinity Church includes a few more
+crowded rows due to the limited space in the urban setting. The cemetery at Plowville Lutheran
+Church is located on the hillside with the oldest burials in the center. St. Gabriel's follows the
+most unique spatial pattern with a cyclical organization of the gravestones. Moreover, the
+organization of St. Gabriel's cemetery reflects family structure as the cemetery is divided
+according to dynastic burials. The burials of one family of several generations extend from a
+single burial usually of the founder of the family "dynasty" (F enza 140). St. Gabriel's cemetery
+contains the burials of old families such as the families Jones and Yocum both of which have
+over 50 individuals of nine generations buried in the cemetery ("Saint Gabriel's 2005).
+Besides small and expected differences among the cemeteries, each cemetery shared
+memorials that adhered to a basic format and form. These memorials include Forms Twelve and
+Thirteen constructed in limestone with Motif Number Two. These memorials also display the
+
+Lanza80
+signature "MOERS"; therefore, all of the communities represented by these cemeteries probably
+acquired their memorials from the same industry or shop in Berks County.
+
+CONCLUSION
+During an event when loss and emotion may appear to be personal, the creation and
+erection of memorials in churchyards serves as an act spread across the entire community.
+Specific forms of memorials appear throughout churchyards across Berks County as a few
+industries served the needs and desires of the citizens. The members of the community
+communicated the meaning of their religious beliefs and secular identity through motifs which
+represented the ideals to future generations preserving the social memory and identity. Likewise,
+the inscriptions serve as records of the lives of its inhabitants and provide a demographic history
+of the community as specific features of the memorial were highlighted to mark the burials of
+children, men or women. The memorials of the Pennsylvania Germans evolved and developed
+according to the changes of the community itself. The styles, designs, and forms reflect the
+pressures and threats on their identity and served as tools to preserve their heritage and to portray
+their tastes and values during a period in which the solidity of the community was deteriorating.
+By utilizing concepts practiced in Historical Archaeology, the features of the gravestones
+and the memorials themselves convey a social and cultural history of the Pennsylvania Germans.
+Upon first arriving to America, the Pennsylvania German settlers marked their burials with
+simple memorials oflocal stone ornamented with motifs and decoration styles from their
+homeland. During the beginning of the nineteenth-century, a local memorial industry develops
+and the display of German motifs declines in importance as the Pennsylvania German
+community becomes more assimilated into their new country and lifestyle. An increase in
+
+Lanza 81
+German inscriptions and bilingual stones represents the new wave of German immigrants during
+the later half of the nineteenth-century. However, by the end of the nineteenth-century and the
+beginning of the twentieth-century, the motifs, forms, and other mortuary features associated
+with Pennsylvania German identity and preference do not appear as the community no longer
+feels to express their identity as a dominant and distinct minority group in the Berks county area.
+While this study has exposed an interesting history of the Pennsylvania Germans, the data
+and survey can be supplemented with further surveys and research in order to address other
+questions that have developed during the course of the study. In order to understand the personal
+preference or choices for gravestones and the motifs, wills left by the decedents can be studied to
+reveal any possible personal instruction concerning burial. Broadening the range of the study to
+survey gravestones in neighboring counties and in Germany may yield more conclusions about
+Pennsylvania German identity and cultural history.
+While a churchyard or cemetery may represent individuals and communities of the past,
+these memorials can still provide important services for the modem society and community.
+Like other artifacts, they reveal about past lives and lifestyles that have not survived in the
+documentary record in the same manner and provide important details concerning relations, art,
+cultural history, and the economic aspects of both society and the memorial industry. Likewise,
+they provide an intimate perspective into important events such as life and death shared by all
+people. More importantly, the human emotions embodied by the memorials depicting the loss,
+sadness, and hope oflove ones transcends time and connects the past with the present.
+
+Lanza82
+
+BIBLIOGRAPHY
+Baker, F. Joanne and Daniel Farber. "Recording Cemetery Data," Markers I (1979-1980): 99117.
+Bergengren, Charles. "Folk Art on Gravestones," Markers 2 (1982): 171-185.
+Berks County Government. "Maps." The Government of the County ofBerks, Pennsylvania.
+13 March 2006. http://www.co.berks.pa.us/berks/site/default.asp.
+Bicentennial Committee. The History of the 1801 Chapel and St. Gabriel's Church.
+Douglassville, PA: Bicentennial Committee of St. Gabriel's Church, 2001.
+Deetz, James. In Small Things Forgotten. New York: Random House, Inc., 1996.
+De Temple, Donald D. "Three Robeson Township Cemeteries Overview." Berks County
+Historical Society Archives accessed July 23, 2005.
+Farrell, James. Inventing the American Way of Death. Philadelphia, PA: Temple University
+Press, 1980.
+Fenza, Paula J. "Communities of the Dead: Tombstones as a Reflection of Social Organization,"
+Markers 6 (1989): 137-158.
+George, Dianna and Malcolm H. Nelsen. "Resurrecting the Epitaph," Markers 1 (1979-1980):
+85-95.
+Gilbert, Russell Wieder. A Picture of the Pennsylvania Germans. Gettysburg, PA: The
+Pennsylvania Historical Association, 1962.
+Graves, Thomas E. "Pennsylvania German Gravestones; An Introduction," Markers 5 (1988):
+60-95.
+Hardy, Sandra J. Pennsylvania German and German-American Gravestone Language and
+Symbol Guide. Allentown, PA: Schlechters, 2003.
+Hobbs, June Hadden. "Say it With Flowers in the Victorian Cemetery," Markers 14 (2002); 240271.
+Horning, Henry. The 1855 Alleghany Mennonite Meetinghouse. Reinholds, PA: Alleghany
+Mennonite Historical Association, 1997.
+Kelly, Sue and Anne Williams. "And the Men Who Made Them; The Signed Gravestones of
+New England," Markers 2 (1982): 1-103.
+Lichten, Frances. Folk Art ofRural Pennsylvania. New York: Charles Scribner's Sons, 1946.
+
+Lanza83
+
+Lynch, Gay. "Contemporary Gravemarkers of Youths; Milestones of Our Path Through Pain to
+Joy," Markers 12 (1995): 144.
+Myturn, Harold. Mortuary Monuments and Burial Grounds of the Historic Period. New York:
+Kluewer Academic/Plenum Publishers, 2004.
+Mytum, Harold. Recording and Analysing Graveyards. York, UK: Council for British
+Archaeology, 2000.
+Patterson, Nancy-Lou. "United Above Though Parted Below; The Hand as Symbol on
+Nineteenth-Century Southwest Ontario Gravestones," Markers 6 (1989): 181-206.
+"Saint Gabriel's Episcopal Church Cemetery." Berks County Historical Society Archives
+accessed July 19, 2005.
+"Saint Gabriel's Episcopal Church Cemetery." http://members.aol.com/St. Gabes
+Episopal/cemetery.html. January 22, 2006.
+Stoudt, John Joseph. Pennsylvania Folk Art; An Interpretation. Allentown, PA: Schlechters,
+1948.
+Stoudt, John Joseph. Sunbonnets and Shoofly Pies; A Pennsylvania Dutch Cultural History.
+Cranbury, NJ: Barnes and Co, Inc, 1973.
+"Trinity Lutheran Celebrates 250th ." Reading Eagle. July 9, 2001: 19.
+"Trinity Lutheran Church Cemetery." Berks County Historical Society Archives accessed July
+19, 2005.
+Watters, David H. "Gravestones and Historical Archaeology," Markers 1 (1979-1980): 174-179.
+Williams, Gray. "By Their Characters You Shall Know Them; Using Styles of Lettering to
+Identify Gravestone Carvers," Markers 13 (2000): 162-205.
+
+Lanza84
+
+APPENDIX
+Survey Sheet
+
+Pennsylvania German Graveyard Survey
+Graveyard Name:
+Memorial#:
+Condition:
+Stone:
+Inscription:
+Date:
+Reason for Date:
+Memorial:
+Type:
+Material:
+Orientation:
+Additional Features:
+Motifs:
+Central:
+Border:
+Inscription:
+Script:
+Shape of Text Panel:
+Inscription:
+
+Sketch:
+
+Lanza85
+Survey Codes:
+
+Graveyard:
+1. Alleghany Mennonite Meeting House
+2. Allegheny Union (old)
+3. Harmony
+4. St. Gabriel's
+5. Mohn's Hill
+6. Trinity Church
+7. Plowville Lutheran Church
+Condition:
+1. Excellent
+2. Good (some wear)
+3. OK: inscription partially worn, pieces broken off
+4. Bad: collapsed, inscription completely worn/cannot be read
+Date:
+1.
+2.
+3.
+4.
+
+Date of erection of stone
+Date of death of the only memorialized individual
+Date of death of the last person of a group of individuals
+Other
+
+Lanza86
+Memorial Type:
+1.
+
+Group A:
+-
+
+2.
+
+3.
+
+16. -
+
+21.
+
+35.
+
+GroupB:
+5. -- - - ~ - - .
+
+n
+GroupC:
+14.
+-~
+
+31.
+
+41.
+
+27.
+
+Lanza 87
+Group~:-
+
+4.
+
+-----
+
+10.
+
+25.
+
+26 ..
+
+42.
+
+44.
+
+11.
+
+28.
+
+I
+
+/
+
+.
+
+Lanza 88
+GroupH:
+29.
+
+43.
+Horizontal Table-Top
+
+''LJ
+Group I:
+24.
+Obelisk
+
+40.
+
+Lanza89
+33.
+
+34 .
+.
+
+37.
+
+·
+
+I
+
+{
+
+I
+
+(
+
+-
+
+-- ------
+
+Material:
+
+1. Unknown
+2. Red Sandstone
+3. Limestone
+4. Marble
+5. Granite
+6. Brick
+Additional Features:
+1. On Individual Base
+2. On base with other memorials
+3. American Flag and Soldier's Plaque
+4. American Flag and GAR 1861/1865 Star Plaque
+5. American Flag and Revolutionary War Soldiers Plaque
+6. Pair of Columns
+7. Sculpture
+8. Plaque
+9. Footstone
+10. American Flag Veteran 1812 1814
+11. Historical Plaque
+12. Kerb
+13. Tureen Footstone
+14. American Flag and WWII Plaque
+15. American Flag and DAR Plaque
+
+Lanza90
+Motifs Central:
+Group A:
+
+GroupB:
+
+1. t::=7
+
+10. Leaves
+
+2.c:::Jov
+
+11. Rose
+
+3.
+
+0
+
+16. Grapevine
+
+4.~
+
+18. Wreath
+
+5.
+
+24. Tulip
+
+25. Flowers
+
+28. One Flower
+
+29. Lily
+GroupC:
+
+31.~
+
+7. Hand Pointing up and Open Book
+
+36. Line Decoration
+9. Open Book
+
+13. Open Book and Rose
+
+GroupD:
+12. Lamb
+
+19. Dove
+
+Lanza 91
+
+GroupE:
+
+GroupJ:
+
+15. Holding/Clasping Hands
+
+17. Heart
+
+33. Hand Pointing
+
+34. Linked Chain
+
+42. Hand Holding Drooping Flowers
+
+35. Scroll
+
+GroupF:
+
+37. American Flag
+
+14. Flying Angel
+GroupK:
+38. Weeping Angel
+8. Rake and Sheath of Wheat
+41. Cherub with Wings
+32. Sheath of Wheat
+GroupG:
+45. Cross and Crown
+
+GroupH:
+
+27. Women Reclining on Settee
+
+40. Figures
+
+Group I:
+43. Skull and Crossbones
+
+44. Crossbones
+
+Lanza92
+Motifs Border:
+1. Incised Edges
+2. Leaves and Scroll
+3. Columns
+4. Flowers
+5. Ivy
+6. Gothic Arch
+7. Tulips
+8. Cord
+Script:
+1. Hand/Crude
+2. Print/Type
+3. Gothic
+
+Inscription Introduction:
+1. Hier ruhet
+2. In memory of
+3. Title (Mother, Father etc)
+4. Children of(son of Daughter of etc.)
+5. AtRest
+6. Hier luget
+7. Zurn Andenken An
+8. Sweetly sleep
+9. In the Bloom of Life
+I 0. Meet Me in Heaven
+11. I Have Finished My Course
+12. Sacred to the Memory Of
+13. I am the Savior of Little ....
+14. Here Lieth
+15. To Testify ...
+16. Here lies the body of
+17. Peace
+Language:
+0. German
+1. English
+
+Lanza93
+Text Formatting:
+0. No text seen
+1. Date
+2. Initials
+3. Name
+4. Initials and Date
+5. Name and Date
+6. Beginning, Name, Date of Death
+7. Beginning, Name, Date of Birth, Date of Death
+8. Beginning, Name, Relations, Date of Birth, Date of Death
+9. Name, Age at Death
+10. Name, Date of Death, Age at Death
+11. Name, Relations, Date of Death, Age at Death
+12. Beginning, Name, Relations, Date of Birth, Date of Death, Age at Death
+13. Beginning, Name, Date of Birth, Date of Death
+14. Name, Relations, Date of Birth, Date of Death, Age at Death
+15. Name, Date of Birth, Date of Death, Age at Death
+16. Beginning, Name, Relations, Age at Death
+17. Name Year-span
+18. Multiple People
+19. Beginning, Name, Relations, Date of Death, Age of Death
+20. Name, Date of Birth, Date of Death
+21. Name, Date of Birth, Age at Death
+22. Name, Relations, Date ofBirth, Date of Death
+23. Beginning, Name, Date of Death, Age at Death
+24. Beginning, Date of Birth, Date of Death, Age of Death
+25. Name, Relations, Date of Death
+Additional Text:
+1. Amen
+2. Signature
+3. Army Information
+4. Place of Birth
+5. Poem
+6. Bible Verse
+7. Small Phrase Dealing With Death
+8. Phrase
+9. Religious Phrase
+10. Place of Death
+11. Erected By
+12. Historical Information
+
+Lanza94
+
+Tables:
+. A nnendix for Kev)
+Table I : Count of Memorial Form (Selected'
+, m Bold) By Decade (See Survey Codes m
+21
+24
+27
+30
+43
+16
+17
+11
+12
+13
+4
+8
+Decade
+1
+2
+2
+I
+1910-1919
+4
+1
+3
+I
+1900-1909
+9
+8
+I
+8
+1
+2
+19
+1890-1899
+3
+1
+18
+I
+4
+3
+39
+I
+1880-1889
+1
+I
+13
+2
+8
+4
+28
+1870-1879
+1
+4
+22
+8
+1
+2
+3
+1860-1869
+6
+10
+1
+1
+1
+1
+1850-1859
+2
+2
+1
+7
+6
+3
+4
+1840-1849
+3
+4
+11
+1830-1839
+3
+4
+8
+1
+1
+3
+1
+1820-1829
+8
+I
+1
+I
+1
+2
+3
+1810-1819
+3
+2
+1
+1
+3
+4
+2
+1800-1809
+1
+1
+1
+2
+1790-1799
+1
+6
+1
+2
+1780-1789
+1
+1
+1
+1770-1779
+1
+1760-1769
+1
+1750-1759
+2
+1740-1749
+1730-1739
+1
+1720-1729
+1
+1710-1719
+
+Table 2· Count of Material by Decade
+Red Sandstone
+Decade
+1910-1919
+1900-1909
+1890-1899
+1
+1880-1889
+1870-1879
+1860-1869
+1
+1
+1850-1859
+4
+1840-1849
+1830-1839
+9
+1820-1829
+13
+1810-1819
+8
+1800-1809
+8
+9
+1790-1799
+2
+1780-1789
+1770-1779
+1
+1760-1769
+1750-1759
+1
+1740-1749
+2
+1730-1739
+1
+1720-1729
+2
+1710-1719
+
+Limestone
+12
+29
+61
+48
+50
+21
+23
+15
+12
+7
+3
+4
+2
+
+Marble/Granite
+3
+12
+
+Unknown
+
+11
+
+17
+14
+5
+3
+
+1
+1
+
+I
+1
+1
+1
+
+1
+
+Lanza 95
+
+Table 3· Additional Features (Contemporaneous to Headstone) By Decade
+Sculpture
+Individual Base Shared Base Columns
+Decade
+1
+1910-1919
+2
+12
+1900-1909
+4
+20
+1890-1899
+1
+1
+2
+47
+1880-1889
+2
+5
+32
+1870-1879
+I
+16
+1860-1869
+5
+1850-1859
+2
+1840-1849
+1
+1830-1839
+1820-1829
+1
+1810-1819
+1800-1809
+1790-1799
+
+Footstone
+
+Kerb
+
+1
+2
+1
+1
+
+1
+
+2
+
+1
+
+. A ppenct·IX £or K ey;)
+. B 0 id) By Dec ade (See Survey C odes m
+T able 4 : CountofMotl"fs (S e1ected, m
+21
+23
+24
+25
+29
+17
+19
+20
+12
+13
+15
+Decade
+2
+9
+11
+1910-1919
+1
+2
+1900-1909
+1
+1
+1
+2
+1890-1899
+2
+1
+3
+2
+4
+1
+1880-1889
+5
+1
+1
+2
+6
+1
+1
+1870-1879
+2
+2
+2
+2
+1
+I
+2
+1860-1869
+21
+I
+2
+I
+1850-1859
+13
+I
+I
+1840-1849
+13
+1
+1
+12
+1830-1839
+1820-1829
+3
+I
+I
+1810-1819
+I
+1800-1809
+1
+1790-1799
+1780-1789
+1770-1779
+1760-1769
+1750-1759
+1
+1740-1749
+1730-1739
+1720-1729
+1710-1719
+4
+2
+2
+3
+9
+2
+3
+No Date
+
+41
+
+43
+
+1
+
+I
+
+1
+
+Lanza96
+Table 5: Countofl nscnpt10n Introduct10ns BIV Decad e
+"Here Lies'' "In Memory Of'
+"Here Rests"
+Decade
+1910-1919
+1
+1900-1909
+1
+5
+1890-1899
+6
+14
+12
+1880-1889
+10
+1870-1879
+10
+23
+11
+1860-1869
+11
+5
+1850-1859
+9
+7
+1840-1849
+6
+4
+1830-1839
+5
+3
+1820-1829
+3
+1810-1819
+4
+1
+2
+1
+1800-1809
+4
+1790-1799
+1780-1789
+1
+1770-1779
+1
+1760-1769
+1
+1750-1759
+1
+1740-1749
+1730-1739
+1
+1720-1729
+1
+1710-1719
+Table 6· Count of Additional Text By Decade
+Religious Text
+PoemNerse
+Decade
+1910-1919
+1900-1909
+1890-1899
+1880-1889
+1870-1879
+1860-1869
+1850-1859
+1840-1849
+1830-1839
+1820-1829
+1810-1819
+1800-1809
+
+3
+6
+3
+7
+1
+1
+1
+
+2
+7
+5
+2
+4
+6
+2
+1
+
+"Kinship Relations"
+1
+10
+12
+9
+5
+2
+1
+1
+
+Biographical
+Information
+2
+2
+3
+2
+3
+
+1
+
+Carver's
+Signature
+
+1
+8
+9
+14
+11
+8
+4
+2
+1
+
+

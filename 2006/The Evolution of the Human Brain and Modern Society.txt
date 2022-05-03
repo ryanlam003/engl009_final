@@ -1,0 +1,731 @@
+Anthropology Senior Theses
+
+University of Pennsylvania
+
+ScholarlyCommons
+Department of Anthropology
+
+Spring 2006
+
+The Evolution of the Human Brain and Modern Society
+Simon Tan
+University of Pennsylvania
+
+Follow this and additional works at: https://repository.upenn.edu/anthro_seniortheses
+
+Q
+
+Part of the Anthropology Commons
+
+Recommended Citation
+Tan, Simon, "The Evolution of the Human Brain and Modern Society" (2006). Anthropology Senior Theses.
+Paper 67.
+
+This paper is posted at ScholarlyCommons. https://repository.upenn.edu/anthro_seniortheses/67
+For more information, please contact repository@pobox.upenn.edu.
+
+The Evolution of the Human Brain and Modern Society
+Disciplines
+Anthropology
+
+This thesis or dissertation is available at ScholarlyCommons: https://repository.upenn.edu/anthro_seniortheses/67
+
+The Evolution of the Human Brain and Modern Society
+By
+Simon Tan
+
+In
+Anthropology
+Submitted to the
+Department of Anthropology
+University of Pennsylvania
+Thesis Advisor: Dr. Janet Monge
+
+2006
+
+1
+
+Abstract
+Modem human society is complex. There is no doubt that anatomically modem humans
+(AMH) are the most intelligent creatures on the planet, and our brains are the tool which allow
+for such a complex degree of society. However, having such powerful brains does not explain
+why we have them. By examining the evolutionary path of AMH, we can understand how our
+brains evolved. The brain of any creature, including that of a non-human, is divided into various
+regions. These various regions control different functions of the body. What makes the AMH
+brain unique is the highly developed state of the neo-cortex region. This region controls
+cognitive abilities, and it makes up over eighty percent of the overall weight of the brain in
+AMH. However, brain tissue is metabolically costly, so it requires a great degree of
+maintenance. Nonetheless, evolutionary selective forces chose for a large well-developed brain
+in AMH, so the benefits of having such a relatively large brain must have outweighed the costs.
+The selective forces that affected AMH evolution were social pressures. By examining these
+social pressures, we can understand how our brain evolved and how such a tool made possible
+modern society.
+
+Table of Contents
+I. Introduction 1
+II. Encephalization 2
+a. Evolutionary Theory 5
+b. Our Ancestors 10
+c. The Social Brain Hypothesis 14
+III. AMH Society 19
+a. Our Hands and Tool Use 20
+b. Spoken Language 24
+c. Agriculture 25
+IV. Conclusion 27
+
+I. Introduction
+Anatomically modem humans are the only single species that have managed to reach
+every continent. In the grand scheme of species, we are physically quite puny. Nonetheless,
+despite the fact that we are adapted to bipedal locomotion, we have managed to cross vast oceans
+and fly over tall mountains. This thesis explores how we managed to accomplish such great
+feats with our minds and hands, exposing our ability to build both the boats to cross the oceans
+and the planes to fly over mountains.
+We are the only species capable of creating such inventions. Though chimpanzees are
+biologically our closest living relatives, the most complex tools they use are sticks. Therefore,
+something unique took place in our evolutionary path; our brains grew in complexity and, as a
+result, we became more intelligent. However, just having a powerful brain does not necessarily
+lead to great inventions. The mind collaborates with its surroundings, which nurture its character
+and help it reach its potential. Modem society and the AMH brain are separate objects but that
+they cannot exist without each other. The two developed together, with the brain evolving in
+response to selective pressures, and society modifying itself in response to the brain.
+
+1
+
+II. Encephalization
+Encephalization is the process in which the average brain size of an individual of any
+given species increases in proportion relative to its body weight. In other words, an encephalized
+individual has a large brain for how much it weighs; this concept is applied not to individuals but
+to species as a whole. Encephalization, on its own, is not a significant issue. However, scientists,
+especially geneticists, have always looked for a way to better understand what determines
+intelligence. Genetic studies are still far off from providing any conclusive evidence as to the
+matter. Since genetics have not provided any conclusive evidence, scientists have turned to other
+methods of researching intelligence. However, one fact we do know is that the brain controls our
+cognitive abilities, so there must be some correlation between our brains and our intelligence.
+Therefore, research on encephalization, especially among humans, bear relevance in today's
+society, and encephalization provides tangible evidence about intelligence that can be quantified,
+and thus, studied.
+The brain of an anatomically modem human is a complex tool that requires excessive
+maintenance. This statement needs to be understood from a relative standpoint. In absolute
+terms, a larger brain will require greater maintenance, simply due to the fact that a larger brain
+has a greater quantity of tissue. Blood flow to and from a brain ensures that it obtains an
+adequate amount of oxygen for it to function. If it does not get adequate oxygen, it will die.
+Furthermore, not only are our brains large, they are also large for our body size. As a result, our
+sinuses are also enlarged in order to support extensive blood flow to and from our brains.
+(Campbell 2006: 351) This type of maintenance bears a large metabolic cost. Thus, there needs
+to be some kind of substantial benefit to having such highly developed brains. Modem human
+
+2
+
+society requires that we have highly developed brains capable of solving complex social
+problems.
+Scientists are attempting to understand what about our brains makes them such unique
+and powerful tools. However, at this point in time, the human brain is still not well understood.
+Most studies on the brain are based on correlations, as opposed to cause and effect. (Dunbar
+1998: 180) From a statistics standpoint, the strength ofa correlation is expressed by the variable,
+
+r, and it can have a value between zero and one. The closer this value is to one, the stronger the
+correlation. (McCabe 2006: 123) By graphing out results of various observational studies, we
+can look at correlations between two given variables, such as brain size to bodyweight within
+different species. Such studies were the beginnings of studies on human intelligence. At this
+point in time, we cannot be completely sure that, with the human brain, a causes b, but what we
+can do is piece together various bits of information to get a better picture of what exactly our
+brain does. By piecing together various studies on the brain, scientists have created various
+theories as to how intelligence developed. Why would intelligence be selected for, and not some
+other physical trait? Furthermore, how does encephalization play of role in all of this?
+Furthermore, while encephalization describes a relationship between brain size and
+bodyweight, it is not just simple ratio of brain size to weight. The Encephalization quotient was
+developed in 1973, by Dr. Harry Jerison. The EQ is determined by comparing the brain size of
+each species to the predicted for an average mammal of the same bodyweight. (Campbell 2006:
+346) Thus, the average mammal has an EQ of 1.0. AMH have an EQ of approximately 8.2, and
+we are the most highly encephalized creatures on the planet. However, we do not necessarily
+have the highest brain size to bodyweight ratio. However, we do not have the highest brain size
+to bodyweight ratio. This fact is slightly confusing, but it needs to be addressed, as a mere
+
+3
+
+society requires that we have highly developed brains capable of solving complex social
+problems.
+Scientists are attempting to understand what about our brains makes them such unique
+and powerful tools. However, at this point in time, the human brain is still not well understood.
+Most studies on the brain are based on correlations, as opposed to cause and effect. (Dunbar
+1998: 180) From a statistics standpoint, the strength of a correlation is expressed by the variable,
+
+r, and it can have a value between zero and one. The closer this value is to one, the stronger the
+correlation. (McCabe 2006: 123) By graphing out results of various observational studies, we
+can look at correlations between two given variables, such as brain size to bodyweight within
+different species. Such studies were the beginnings of studies on human intelligence. At this
+point in time, we cannot be completely sure that, with the human brain, a causes b, but what we
+can do is piece together various bits of information to get a better picture of what exactly our
+brain does. By piecing together various studies on the brain, scientists have created various
+theories as to how intelligence developed. Why would intelligence be selected for, and not some
+other physical trait? Furthermore, how does encephalization play of role in all of this?
+Furthermore, while encephalization describes a relationship between brain size and
+bodyweight, it is not just simple ratio of brain size to weight. The Encephalization quotient was
+developed in 1973, by Dr. Harry Jerison. The EQ is determined by comparing the brain size of
+each species to the predicted for an average mammal of the same bodyweight. (Campbell 2006:
+346) Thus, the average mammal has an EQ of 1.0. AMH have an EQ of approximately 8.2, and
+we are the most highly encephalized creatures on the planet. However, we do not necessarily
+have the highest brain size to bodyweight ratio. However, we do not have the highest brain size
+to bodyweight ratio. This fact is slightly confusing, but it needs to be addressed, as a mere
+
+3
+
+comparison of brain size to bodyweight produces results that do not provide strong correlation.
+The AMH brain makes up approximately 2.44 percent of the average individual's bodyweight,
+while the percentage in squirrel monkeys is 3.70 percent. (Campbell 2006: 347) Such a statistic
+is misleading when used in intelligence as such a data point would be an influential outlier, and
+would weaken the value of the correlation.
+Instead of merely looking at how our brains have grown in raw size, we need to look at
+the other aspects of its development. While we do not completely understand the brain, we do
+know that it can be divided into various regions which control different processes. We can gain
+further understanding of our brains by comparing them to those of our ancestors, close relatives,
+and distant relatives. Our brains are shaped differently than those of other species. We want to
+know, what about these morphological differences accounts for our greater cognitive abilities.
+This study is still a study of encephalization because it does measure relative brain growth, as
+one species may have better developed neo-cortex than that of another species. However, it is
+not just the size of a particular region of the brain that matters. Instead, scientists also study the
+specific shaping of such regions, along with their degrees of neuro-connectivity. Nonetheless,
+the AMH brain did not merely just appear one day; instead, as the following section suggests, it
+evolved over millions of years.
+
+4
+
+Ila. Evolutionary Theory
+To better understand how our brains evolved, we need to take a look at evolutionary
+theory, as proposed by Charles Darwin. His theory is based on three postulates. (Boyd 2003: 6)
+They state:
+1) The ability of a population to expand is infinite, while the resources available to
+sustain said population are finite. This dynamic causes a struggle for
+existence among individuals as they compete for resources.
+2) Organisms vary in their physical qualities; these variations allow some
+members to reproduce more successfully than others.
+3) These variations are inherited by offspring from their parents.
+These postulates form the basis of evolutionary theory. AMH followed a specialized
+evolutionary path, in which intelligence was particularly favored. Therefore, by looking at our
+brain development from this type of standpoint, we see that necessity, as opposed to random
+chance caused our brains to grow. We also need to accept that encephalization and intelligence
+share a positive relationship. There are different theories on the selective pressures that caused
+our brains to grow and develop. Nonetheless, evolution occurs as a response to the surrounding
+environment. Encephalization is just one of many ways in which species can evolve. For
+example, cheetahs are the fastest creatures on land, and can sprint at speeds up to sixty miles per
+hour. This type of adaptation is a specialized one, as the entire body frame of a cheetah is based
+around moving at such high speeds. However, cheetahs can only move on the ground, and they
+lack the ability to carry objects with their hands. Furthermore, their sharp teeth indicate a diet
+highly concentrated on meat. In other words, cheetahs specialize in speed, which enables them
+to hunt their prey. In other words, our evolutionary path is quite different, as we lack such
+specializations. Ultimately, evolutionary theory clarifies how the AMR brain may have
+
+5
+
+developed as our own form of specialization. Our brains became specialized in cognitive
+capacity, which eventually led to the formation of modem society.
+Humans are primates, and the term. primates is derived from the word primitive, which
+refers how we retained many of the primitive features of our earliest mammal ancestors.
+(Fleagle 1999: 345) These features are commonly known as generalized features. Specifically,
+we have not developed any specialized evolutionary features (other than our brains). This
+concept is quite easy to understand. One of these features is our generalized dentition, which
+allows us to eat a wide array of foods, including both plant and animal products; our incisors
+allow us to tear apart meat, while our molars enable us to chew harder products such as tubers.
+We have five digit finger pads with nails, as opposed to claws. We can grasp with our hands,
+and climb into trees ifwe have to, while also being able to walk on land. We can even swim in
+the water. However, we are not the most effective at any particular form of locomotion, nor are
+we the best adapted to any specialized diet. In other words, we are generalized. Interestingly,
+we are physically generalized, but are the dominant species on the planet.
+Our dominance at first seems counterintuitive. How could a species that is not lacking
+specializations be the best? The fact is that remaining generalized adaptations give a species the
+ability to adapt to a wide array of environments. In other words, such a species is
+environmentally mobile. This flexibility is, in and of itself, adaptable, as we can depend on a
+wider array of resources. An example of how such an adaptation is adaptable is to look at
+famine and droughts. During such times, many species will dwindle, as the resources upon
+which they depend become less plentiful. However, by being able to use a wider array of
+resources, we can divert our needs and overcome such hardships. Despite the fact that humans
+are described as having generalized adaptations, we are actually quite specialized in one
+
+6
+
+particular area. Our brains are specialized, as we are the most encephalized creatures on the
+planet. They are highly developed organs which give us unique cognitive capacities, surpassing
+those of all other species. Nevertheless, merely having a large brain does not ensure intelligence.
+Instead, the complexities within the brain itself are what determine intelligence.
+However, the brain is a costly organ to maintain. Brain and stomach tissue are,
+metabolically, the two most costly body tissues. Thus, there has to be a significant advantage to
+having a large brain, or nature would have selected against it. On average 2.44 percent of the
+body mass of an AMR is brain tissue. However, this 2. 44 percent of the body accounts for
+twenty percent of overall metabolic costs. (Campbell 2006: 350) Selective pressures had to be
+strong enough so that increased cognitive benefits would outweigh the large metabolic cost of
+the brain. As result, scientists have created various theories as to which selective pressures
+caused the brain to develop. There are four classes of such hypotheses: epiphenomena!,
+developmental, ecological, and social. (Dunbar 1998: 178) However, not all of them are correct.
+(Dunbar 1998: 180) The epiphenomena! theory is actually incorrect, as it purports that brain
+development is simply a result of the organization of the biological growth process. As we know,
+such a development is impossible, as brain growth does not just take place arbitrarily, but has to
+be selected for.
+The developmental theory of brain growth pertains to pre-natal brain growth. This theory
+asswnes that most of our brain development takes place inside the womb. (Dunbar 1998: 179)
+In other words, only so much brain development can take place outside of the womb. This
+theory is not incorrect, but it only explains the brain development which takes place before
+growth. Our brains are so large, that there a plethora of problems associated with childbirth. In
+addition to high metabolic costs, AMR also experience what is known as the "obstetric
+
+7
+
+dilemma," which describes the problems human females have with giving birth, as a result of our
+very large heads. Basically, by performing a statistical comparison of adult brain size to
+gestation period, we can come to the conclusion that all human babies are born prematurely. In
+order for our brain to be as developed upon birth as those of other species, human females would
+have to remain pregnant for twelve, as opposed to nine months. However, such a development is
+impossible, as the AMH female birth canal is not wide enough to fit such a large head.
+Furthennore, our hips could not grow any wider, as such a change would offset the weight
+balance on our knees, and make efficient bipedal locomotion impossible. Nonetheless,
+developmental theory only explains developmental growth, not what caused it. We can gain
+insight into issue of the selective pressures themselves by studying the origins of encephalization.
+The ecological theory of brain development explains brain development as a response to
+our surroundings. (Dunbar 1998: 178) Frugivorous primates tend to be more encephalized than
+folivorous ones. Fruits are less plentiful and more unevenly distributed than leaves; thus, they
+require greater foraging to find. However, foraging involves greater cognitive capacities than
+just grabbing and eating the nearest leaf A creature must be able to remember a terrain and how
+fruit is distributed within it. A specific example which supports such an argument is a
+comparison between spider and howler monkeys. Spider monkeys are frugivorous and more
+highly encephalized than the folivorous howler monkeys, who have more highly developed
+gastro-intestinal sacs. A better developed brain allows spider monkeys the cognitive capacities
+to forage for the foods they need, while a better developed gastro-intestinal tract allows for
+howler monkeys to eat whatever leaf is at hand. (Strier 2003: 342) This theory makes sense, as
+it showcases selective pressures and evolutionary responses to them. Furthermore, we can
+extrapolate from this theory that the more encephalized an individual, the better its foraging
+
+8
+
+capacities. The ability of an AMH to forage is much greater than that of a howler monkey.
+However, the ecological theory can only explain encephalization to a limited degree. The fact is
+that these cognitive abilities exist in non-human primates. Furthermore, AMH and New World
+Monkeys are separated by approximately 30 million years of evolution. Therefore, such
+cognitive capacities were developed well before we became human. We need to look as
+cognitive abilities that only we possess. We need to look at human culture and society.
+
+9
+
+lib. Our Ancestors
+AMH possess a level of culture and society that is unsurpassed on the planet. Culture is
+knowledge that is passed on from one individual to another, and it is our brains which make such
+our culture and society a possibility. In other words, our brains became more encephalized as a
+response to societal adaptive pressures. Nonetheless, this detail does not mean that other species
+lack culture and society; instead, some primates possess a much lesser degree of it. This point is
+the junction where physical and cultural anthropology blend together. What is so amazing about
+human culture is that it feeds off of itself AMR possess the unique ability to take knowledge
+that we have and improve it. Other animals may develop some culture, but they will never
+advance beyond what they have. While we assume that our very distant ancestors may have had
+culture, we need evidence to back the claim. Unfortunately, time destroys evidence, and we
+cannot witness the culture of our ancestors like we can witness culture in chimpanzees. The
+oldest fossil evidence we have of culture in humans is found through the fossil species Homo
+
+habilis. Archeologists have found stone tools along with butchered and fragmented animal
+bones in sites where these creatures lived. These ancient remains date back over two million
+years ago and mark the beginning of complex tool use. (Fleagle 1999: 530)
+
+Homo habilis was quite a different creature than we are. It did not have nearly the degree
+of encephalization that we possess. Nonetheless, it did give rise to all the various lines of the
+genus Homo. Even though the remains left behind by H habilis are the oldest dated remains,
+culture did not begin with this species. Instead, by looking at culture in our closest living
+relatives, we can assume that culture has a much earlier origin. This type of analysis pertains to
+ancestral traits, or traits that were shared with a common ancestor. This type of study is usually
+applied to morphological traits, as we can compare similarities in bones structures of various
+
+10
+
+different species. For example, all hominids lack tails. Therefore, we can assume that the
+common ancestor of all hominids also lacked a tail. This standpoint can also be applied to
+culture and society. Thus, the fact that all primates have culture means that the common ancestor
+of all primates must also have had culture. However, going this far back in time is arbitrary, as
+we are studying culture in AMH.
+We will start with H. habilis since it is the oldest human species to have left behind
+material remains of its culture. We will study how this species gave rise to all the various
+lineages of Homo, and how these creatures would eventually lead to the highly encephalized
+AMH. Our encephalization is a relatively recent occurrence, despite the fact that AMH are the
+smartest creatures on the planet. One point that needs to be clarified here is what exactly a
+"human" is. Everyday people constantly use term "human." However, they are referring to
+anatomically modem humans (AMH), or humans that exist today, as opposed to our humanoid
+ancestors. When these paleoanthropologists use the term, "human," they refer to a much larger
+group than just the species Homo sapiens. However, exactly to who they are referring depends
+on which researcher to whom one is talking.
+There is an ongoing debate between paleoanthropologists as to where to draw the lines on
+human speciation. Human evolution is a largely controversial topic in many aspects. For one, it
+goes against religion, and concepts such as "intelligent design," which still hold power in
+countries such as the USA. However, religion aside, even among anthropologists, human
+evolution is still a controversial topic. Furthermore, religion is an irrelevant topic to
+paleoanthropology. Specifically, some scientists claim that AMH are a distinct biological
+species, and that we are incapable of breeding with our other human relatives, such as the
+neanderthals. Other paleoanthropologists believe that the various human populations throughout
+
+11
+
+the world did interbreed. However, either statement cannot be proved or disproved because of
+one sole reason; we cannot test the biological definition of species among these various humans,
+as we are the only surviving lineage.
+While all these separations and groupings may seem irrelevant to the topic of our degree
+of encephalization, we still need to briefly address them. The problem is a window of time in
+which many events occurred. Specifically, our encephalization occurred at the same time that
+many supposed human speciations took place. Nomenclature becomes very confusing when
+dealing with the various human lineages. Some anthropologists prefer to classify various
+populations under one species, while other anthropologists attempt to separate each population
+into a separate species. The debate grows even more confusing with the concept of subspecies.
+Even though there are two main models of human evolution, both camps rely on the same
+general body of evidence to support their differing claims. General evidence shows that there
+was a human migration out of Africa approximately 1.8 MYA (Klein 1999: 257) The evidence
+for this claim is found in Dmanisi, Georgia, in which archeologists found hominid remains. Due
+to nomenclature debates, it is hard to assign a specific species name to these creatures.
+Nonetheless, they bear a resemblance to the various species referred to as Homo erectus (Asia),
+Homo ergaster (Africa), and Homo heidelbergensis (Europe). Supposedly, these Georgian
+
+hominids, upon leaving Africa, populated what is now known as Europe, the Middle East, and
+Asia. Later on in time, approximately 100 KYA, a group of AMH left Africa and once again,
+populated the world. (Klein 1999: 275)
+One side of the debate over human evolution is comprised of individuals who support the
+"multiregional" model of human evolution, championed by Dr. Milford Wolpoff. These
+individuals believe AMH evolved from different human populations who, in separate waves, left
+
+12
+
+Africa and populated the world in various stages. They believe that even though there were two
+waves out of Africa, genetic continuity maintained by interbreeding held together all these
+various population, and that they evolved together into AMR. (Boyd 2003: 370) The other
+group supports the "replacement" model of human evolution, put forth, in large part, by Dr.
+Richard Klein. In this model, a distinct lineage of AMR evolved in Africa. This group
+eventually left Africa approximately l 00 KYA and replaced all the other human populations
+throughout the world. (Boyd 2003: 3 71)
+
+13
+
+Ile. The Social Brain Hypothesis
+Now that we understand some of the problems surrounding the field of
+paleoanthropology, we can finally address the issue of encephalization. Instead of focusing on
+each species or subspecies of humans, we will focus on general trends in the larger picture. We
+will look at and examine the events that occurred around the time of our encephalization.
+Society as we know it would not be possible without our special brains. In 1998, Dr. Robin
+Dunbar published a paper titled The Social Brain Hypothesis. His theory is that the brain
+increased in complexity as a response to increased social complexities. (Dunbar 1998: 178)
+Instead of the brain just being a tool for merely complex foraging and hunting, Dunbar describes
+the brain as a tool used for competition within a species. As humans grew in complexity, solving
+problems within the environment became much easier, but in turn, problems at home increased.
+Ultimately, the Social Brain Hypothesis looks at encephalization as a response to cultural
+changes.
+Dunbar focuses on the neo-cortex region of the brain and how it has developed through
+time. According to Dunbar, there is a positive correlation between the relative size of the neocortex and group size in primates. (Dunbar 1998: 180) As social groups grow in size, social
+problems increase in both quantity and complexity. However, these problems are not the only
+ones. As group increases in size, the number of individuals living in a specific niche will
+increase in concentration. As a result, this unit will require greater resources while resources
+remain constant. (Boyd 2003: 6) Our well-developed brains are the tools that enable us to
+discover solutions to these issues. These types of problems are some of the dilemmas that
+humans living in large social groups face. It would seem that expansion beyond a certain
+concentration level would be impossible, as resources cannot naturally expand beyond a certain
+
+14
+
+point. However, population rates in cities such as Tokyo seem to say otherwise. There is
+something about our brains, which we do not yet completely understand that makes them so
+special.
+Modem society is a recent occurrence and we need to understand when in time we
+became modem. We can look at material remains left behind by all the various human
+populations. Based on the Principle of Superposition, by Charles Lyell, we can assume that
+undisturbed archeological layers represent a specific period of time. Furthermore, the layers
+below layer A are older than layers above A. (Marshak 2005: 380) Therefore, if the bone
+remains of a single human species are found on layer A, any human manufactured tools found on
+the same layer can be associated with that specific species. This concept is simple and can even
+be used to understand encephalization in humans. We can use stone tools as an example of
+material remains left behind. These stone tools will represent the level of culture that their
+makes possessed. Therefore, the more complex the stone tool, the higher the level of culture.
+However, as explained before, greater degrees of culture and society require increasing levels of
+encephalization. Specifically, the neo-cortex region of the brain should be relatively greater and
+possess greater complexity in folds, as culture increases.
+Before giving specific examples of stone tools with their makers, we need to look at stone
+tools and their classifications. The first example of stone tools is known as the Oldowan industry,
+and these tools are associated with the species H. habilis. (Cameron 2004: 98) They consist of
+mainly crudely hammered pebbles known as choppers. This industry is followed by Acheulian
+industry, which is generally associated with H. erectus (ergaster and heidelbergensis).
+(Cameron 2004: 162) These tools consist mainly of flakes and bifaces, and are more complex
+than Oldowan tools, as they require more steps to make. Next is the Mousterian industry, which
+
+15
+
+is associated with H. neanderthalensis. This industry consists mostly of flakes, along with
+bifaces, Levallois cores, and even bladelets. (Cameron 2004: 218) These tools are even more
+complex than those of the Acheulian industry. In order to create such tools, humans needed a
+mental template to visualize the final product. A mental template comes from stored information
+that is passed on from one individual to another. In other words, culture is necessary to pass on
+such information. Thus, it makes sense that the smarter the individual, the more complex a
+template that person can store.
+AMR are associated with multiple stone tool industries. All the previous industries pale
+in comparison to the stone tool technology possessed by AMR. Therefore, we can see a positive
+correlation by comparing the complexity of the tools with the degree of encephalization of the
+species who made them. H. habilis has an EQ of approximately 4.3, H. erectus has an EQ of 4.4,
+and the trend continues with AMR and their EQ of 8.2. (Campbell 2006: 346) While the
+difference in EQ between H. habilis and H. erectus is not very large, the difference between H.
+erectus and H. sapiens is enormous. Therefore, we need address what such a large difference
+accounts for.
+As stated before, encephalization describes how the brain grows in proportion to body
+size. Furthermore, as the brain is a complex organ, it possesses various regions which control
+various processes. Therefore, the brain may increase in overall size, such growth may not be
+reflective of overall brain growth, but of the growth ofa specific region. The region on which
+we are going to focus is the neo-cortex. Once again, a comparison of brain size to body weight
+is not how encephalization is calculated. Therefore, instead of just looking at how the AMR
+neo-cortex grew in size, we also need to look at other aspects of its development. Nonetheless,
+we can start off with the fact that AMR neo-cortex makes up the largest percentage of the brain
+
+16
+
+of all species on the planet. It is eighty percent of the AMH brain. (Dunbar 1998: 180) So
+while our brains grew in proportion to our bodyweight, the bulk of this growth was in the neocortex, as opposed to other regions of the brain. Furthermore, this region also increased in the
+number of convolutions (or folds) that it possessed. On top of that detail, it developed a greater
+degree ofintemeuron-connectivity. (Campbell 2006: 348) As the channels between brain
+tissues increased in connectivity, the brain could more efficiently transmit information. Thus, we
+can understand how such developments led to increased cognitive abilities/intelligence.
+Nonetheless, such a development must bear a great metabolic toll.
+As mentioned before, brain tissue is metabolically costly. Therefore, if having a large
+brain did not provide a significant benefit, such a trait would have been selected against. In
+order to maintain such an organ, our ancestors would need to find adequate sources of nutrition.
+Such a source of food was made possible by the creation and use of stone tools, which enabled
+our ancestors to hunt. They now had access to animal products which are rich in fats, and thus,
+are highly caloric. In other words, this diet modification may have been a key event in allowing
+for encephalization to occur, as our ancestors now had adequate resources to support this
+development in the brain.
+Now that the brain could grow, it allowed our ancestors the flexibility to adapt to new
+social problems that would arise. Living in large social groups allows the storage and exchange
+of large amounts of information/culture. However, the culture that our recent ancestors
+exchanged was much more complicated than what goes on between a group of chimpanzees.
+Therefore, we needed to develop a method of transmitting this information. Now that our brains
+were more complex, we developed a sophisticated way of exchanging information, language.
+(Dunbar 1998: 349) Language is the grease that lubricates the gears of society. By developing a
+
+17
+
+complex system of spoken and eventually written language, we made it much easier for
+ourselves to transmit and exchange ideas. As a result, society grew and flourished at an
+astonishing pace.
+By looking at the evolutionary path of our ancestors, we can see the various ways in
+which our brain grew and developed. We have used our brains to develop methods of
+overcoming our various shortcomings (in other words, generalized adaptations). In fact, we have
+more than compensated for them and have gone beyond anything else in the animal kingdom.
+What other species on the planet can boast travel to outer space. Still, we do not yet completely
+understand our brains. Despite the fact that studies have shown correlations between certain
+aspects of brain development and intelligence, we have a long way to go. We are just beginning
+to understand how our brains work. Eventually, when genetics studies become advanced enough,
+we may be able to pinpoint specific codings in our genomes that account for our intelligence. On
+the other hand, we can use culture to better understand our minds, and use society to better
+understand our culture.
+
+18
+
+ID. AMR Society
+AMR society is a complex network. No other species on the planet possess nearly the
+level of culture and society that is ours. However, despite the fact that our society is so complex,
+it can be broken to its most basic elements, the three pillars which hold it together. The most
+important of these three pillars is spoken language, as it is the cement which bonds us together.
+The second pillar is the ability to create and manipulate tools. Finally, the last pillar is
+agriculture. While our evolutionary path largely took place before the development of
+agriculture, modern society could not exist without it. Without agriculture, we would still be
+hunter-gatherers, living together is small populations that were always on the move. By
+developing agriculture, we were able to settle down into a sedentary lifestyle. As a result, AMR
+culture could then develop to the degree it has today. The last element to this thesis lays out the
+different aspects of our highly developed society, showing how the demands of today's existence
+have forced our brain to develop into its present state.
+
+19
+
+ma. Our Hands and Tool Use
+Even though our evolutionary path is largely based on behavioral selection, we do have
+one physical trait that sets us apart from the rest of the animal kingdom. Despite being a
+physical trait, this trait is also strongly tied in with our behavioral evolution. This section
+examines the use of hands and tools to overcome our physical shortcomings. Our hands are finetuned instruments, capable of manipulating the most intricate of tools. The combination of
+having such a powerful brain and such useful hands enables us to create and use the most
+complex of inventions. We are not the only species on the planet with opposable thumbs, but
+what makes our hands unique is the proportion of our thumbs in relation to the rest of our digits.
+When all the fingers are bent, they come together at a single point, which can be used for
+grasping and manipulating fine objects and tools. With our hands, we can make two different
+types if grips, the precision grip, and the power grip. The precision grip is achieved by using the
+tips of all fingers, while the power grip is achieved by using all fingers with equal force.
+(Campbell 2006: 82) Just on their own, our hands are not particularly special, but when
+combined with our inventiveness, they make us the most powerful beings on the planet.
+Nonetheless, we need to take a look at how such a development occurred. Our ancestors were
+not all bipedal. In fact, we only became bipedal in the last few million years. Genetic studies
+indicate that humans and chimpanzees, our closest living ancestor, share a common ancestor
+dating back to approximately 6 MYA. (Boyd 2003: 302)
+The common ancestor of both humans and chimpanzees is known as the "missing link."
+The reason for this nomenclature is that fact that researchers have not yet found the fossil
+remains of such a creature; we just have genetic and fossil evidence which indicates that our
+common ancestor dates back to approximately 6 MYA. Nevertheless, this creature gave rise to
+
+20
+
+the australopithecines, or the first hominids. The australopithecines were our first bipedal
+ancestors. (Campbell 2006: 242) Therefore, we need to examine what evolutionary forces
+caused these creatures to become bipedal. There are various theories on what those pressures
+were. The predecessors of the australopithecines were arboreal quadrupeds, which means that
+they lived in the trees and locomoted by walking on all four limbs. (Campbell 2006: 76)
+However, their descendants would eventually leave the trees and begin to inhabit the forest floor.
+By entering a new niche, these creatures had to start looking for new food sources. They also
+had to adjust to new predators, such as lions, as they eventually migrated into the grassy
+savannahs. Scientists say that by becoming bipedal, the australopithecines changed to a form of
+locomotion where they moved on two legs. (Campbell 2006: 76) As a result, they were able to
+free up their arms and hands for various uses such as provisioning fruit and brushing aside tall
+grass to get a better view of what lay ahead. Furthermore, bipedal locomotion is metabolically
+more efficient than quadrupedal locomotion. (Campbell 2006: 242) However, while all these
+theories are valid, the strongest theory explains the ability to use tools as the origin ofbipedality.
+Tool use does not just begin at stone tools. There are many other objects which can be
+used as tools. Sticks and bones are some of the most basic tools. Tool use is simply using a
+foreign object to achieve a goal. The goal could be knocking fruits off the branch of a tree that is
+too high for you to reach, or killing a potential predator. In fact, many non-human species make
+use of tools. Chimpanzees use sticks to extract termites from termite mounds, and capuchins
+have even used branches as weapons to kill pythons. (Boinsky 1988: 177) The problem with
+such tools is that, in time, they will decay, and no remains of them or their use will be left behind.
+We can only note such tool use if we observe it. We cannot observe the australopithecines and
+how they interacted with their environments for one sole reason; they no longer exist. While we
+
+21
+
+do not have physical evidence of tool use in the australopithecines, it is possible that they did use
+tools. (Campbell 2006: 215) Furthermore, of the australopithecine species gave rise to H.
+
+habilis, the first hominid associated with stone tool technology. Even though H. habilis is the
+first hominid associated with stone tool use, this detail does not mean that the australopithecines
+did not use stone tools. Instead, what is possible is that the tools they may have created using
+stones were too crude to be indisputably recognized as stone tools. What may have been a tool
+to them was a just a rock that they used for various purposes, but not a tool that required much or
+any preparation.
+The stone tool industry of H. habilis is known as the Oldowan industry, and it is
+comprised on pebble choppers and cores. (Cameron 2004: 98) These tools are very rough and
+basic and do not require much preparation. Nonetheless, such objects do not occur in nature, and
+thus, were deliberately broken by hominids. It is quite possible that the australopithecines may
+have may stone tools, but tools that were so crude and simple that they could have occurred in
+nature as a result of two stones hitting a breaking each other. H. habilis used the tools they
+created to butcher meat off the bones of carcasses. (Cameron 2004: 99) Thus, these tools
+overcame the inability of their hands to effectively tear meat off bone. This tool usage is an
+example of the brain and the hand working together to overcome a problem. The creation of any
+tool requires the ability of foresight and planning. An individual needs to be able to visualize the
+end result in its head with what is known as a "mental template." (Campbell 2006: 254) H.
+
+habilis' descendant, H. erectus, also used stone tools, and these stone tools were more complex
+than those of its ancestor. Unsurprisingly, the proportions of the hands of H. erectus were more
+humanlike and less apelike than those of H. habilis. (Campbell 2006: 281) Thus, while the
+hands and the brain of any given AMR are separate features, our hands evolved in relation to our
+
+22
+
+brains, and our brain evolved in relation to society. Our hands would be useless without a brain
+powerful enough to use them to their full potential.
+
+23
+
+illb. Spoken Language
+Tool use is not the only pillar of AMH society, While tool use is very important in our
+evolutionary path, there is another aspect that ties us all together, spoken language, Spoken
+language is a behavior that allows us to modify our thoughts into comprehensible speech for our
+listeners. (Boyd 2003: 411) It is first important to understand that AMH evolution is largely the
+result of behavioral selection. (Campbell 2006: 439) The selective pressures of evolutionary
+forces select for traits, behavioral or physical, that enhance the fitness of any given individual.
+Society is and has been a great selective pressure in AMH evolution. Spoken language is the
+force that ties together our society. It serves as a way of lubricating our communication, making
+easier for us to communicate more efficiently, and in greater depth.
+AMH are not the only species on the planet to possess "spoken language." For example,
+birds communicate through chirping. Nevertheless, even though other species have spoken
+language, no other species on the planet possesses such a complex degree oflanguage as we do.
+However, despite the fact that our ability to speak is cognitive, it also has a physical root Our
+throats are specially adapted larynx which allows for us to make such a wide variety of noises.
+(Boyd 2003: 412) Spoken language is what allows all ofus to function in our society. Under
+normal circumstances all AMH are born with the cognitive capacity to learn our spoken language.
+Since our society revolves around such a basic ability, virtually all AMH have a great chance at
+successfully competing in our society. The constantly growing population of AMH on Earth
+supports this assertion, as individuals are not weeded out as in other species.
+
+24
+
+me.
+
+Agriculture
+
+The discovery of agriculture eliminated the problem of a fixed food supply. Our ability
+to have children was no longer limited by how much food we could find. Instead of our
+population reaching a natural equilibrium, it continues to expand. (Boyd 2003: 461) In the vast
+majority of species, most individuals will die without achieving reproductive success. What
+separates AMH from the rest of the planet is our level of parental investment. Most births in
+AMH are single child births. (Fleagle 1999: 480) Humans do not lay millions of eggs, of which
+only a few hatchlings will survive, or give births to litters, as do dogs. Instead, single child birth
+norms mean that all the parental investment goes into one offspring. By investing in a single
+child, that child will have the greatest chance of survival into adulthood, and eventually,
+reproductive success. Such a degree of investment ties down parents, and makes it unfavorable
+to have too many children, as with each next child, they will have to decrease the amount of
+investment per child. (Relethford 2005: 445) Nonetheless, the AMH world population
+continues to expand.
+We can look at the expansion from a basic numerical perspective. It takes two
+individuals to have one child. If all individuals only had one child, the AMH population of the
+world would decrease by half in the next generation. On the other hand, if all couples had two
+children, the AMH population of the world would remain fixed in the next generation. Therefore,
+since the world population of AMH is increasing, couples, on average are having more than two
+children. However, such a situation was not always possible for us. Back when we were huntergatherers, we depended on a limited food supply. We depended on nature to provide us with
+food. (Relethford 2005: 445) Furthermore, time had to be devoted to hunting and gathering our
+food. They also had to move between different environments when food resources began to
+
+25
+
+become depleted. As a result, we had much less free time to invest in our children. Therefore,
+such people were faced with greater constraints on the number of children they could
+successfully have and raise. (Relethford 2005: 445) Then, approximately 10,000 years ago,
+AMH discovered agriculture. (Campbell 2006: 444)
+Agriculture is the third pillar of AMH society. It also gave our ancestors control over
+their food supply and allowed for them to settle down into a sedentary lifestyle in one specific
+location. As a result, AMH had much more free time, as they no longer had to hunt and gather
+their food. (Campbell 2006: 446) With food readily available, parents possessed adequate food
+resources with which they could provide for both themselves and their children. (Campbell 2006:
+446) Thus, they were able to have more children, and we now understand how it was made
+possible for AMH to expand in numbers as it they have and still do. However, increased
+population growth potential is not the only aspect of the benefits provided by agriculture. With
+agriculture, people had more free time, but not all free time needs to be devoted to raising
+children. Instead, more free also meant greater cultural development. People now had time to
+experiment, and these experiments led to the various discoveries and creations. These
+discoveries and creations rest on the three pillars of language, tool use, and agriculture,
+comprising the rest of AMH society.
+
+26
+
+IV.
+
+***
+
+Modern society cannot survive without the AMH brain, and our brains cannot survive
+without modern society. They evolved together in little baby steps, with which we have reached
+world dominance through technology. The list of discoveries we have made is endless, but one
+particular discovery stands out, the development of written language. Written language has
+allowed an even greater degree of the sharing and spread of ideas than spoken language could
+ever provide. This phenomenon, while, itself a discovery, made possible countless resultant
+discoveries. No other species on the planet possess written language. This development is one
+behavioral phenomenon that makes us unique. Nonetheless, written language could not have
+occurred without the support of our powerful brains. Spoken language ties us together, but
+written language provides even greater support to hold us together. With written language, we
+do not have to be right next to each other to communicate. Nonetheless, even though we can
+now communicate through writing, we are gregarious creatures and are naturally inclined to
+associate and communicate with other members of our species. With modern technology, we
+can live together in populations of extremely high density. As a result, we face a great deal of
+social issues. Our powerful brains are the tools which help us to solve problems that result ofus
+living together.
+
+27
+
+Bibliography
+
+Boinsky, S. Use of a Club by a Wild White-Faced Capuchin (Cebus capuchinus) to Attack
+a Venomous Snake (Bothrops asper). American Journal of Primatology 14 (1988).
+Boyd, Robert, Joan B. Silk. How Humans Evolved. New York: W.H. Norton and
+Company, 2003.
+Cameron, David W. and Colin P. Groves. Bones, Stones, and Molecules. USA: Elsevier
+Academic Press, 2004.
+Campbell, Bernard G., James D. Loy, Kathryn Cruz-Uribe. Humankind Emerging. USA:
+Pearson Education, 2006.
+Dunbar, Robin I.M. The Social Brain Hypothesis. Evolutionary Anthropology (1998).
+Fleagle, John G. Primate Adaptation and Evolution. California: Elsevier Academic Press,
+1999.
+Klein, Richard G. The Human Career. Chicago: The University of Chicago Press, 1999.
+Marshak, Steven. Earth: Portrait of a Planet. New York: W.N. Norton and Company, 2005.
+McCabe, George P., David S. Moore. Introduction to the Practice of Statistics. USA: W.H.
+Freeman and Company, 2006.
+Relethford, John H. The Human Species. New York: McGraw-Hill, 2005.
+Strier, Karen B. Primate Behavioral Ecology. USA: Pearson Education, 2003.
+
+

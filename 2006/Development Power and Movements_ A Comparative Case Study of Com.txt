@@ -1,0 +1,1233 @@
+Anthropology Senior Theses
+
+University of Pennsylvania
+
+ScholarlyCommons
+Department of Anthropology
+
+Spring 2006
+
+Development, Power and Movements: A Comparative Case Study
+of Communities and Empowerment
+Lisa Patterson
+University of Pennsylvania
+
+Follow this and additional works at: https://repository.upenn.edu/anthro_seniortheses
+
+Q
+
+Part of the Anthropology Commons
+
+Recommended Citation
+Patterson, Lisa, "Development, Power and Movements: A Comparative Case Study of Communities and
+Empowerment" (2006). Anthropology Senior Theses. Paper 70.
+
+This paper is posted at ScholarlyCommons. https://repository.upenn.edu/anthro_seniortheses/70
+For more information, please contact repository@pobox.upenn.edu.
+
+Development, Power and Movements: A Comparative Case Study of
+Communities and Empowerment
+Disciplines
+Anthropology
+
+This thesis or dissertation is available at ScholarlyCommons: https://repository.upenn.edu/anthro_seniortheses/70
+
+DEVELOPMENT, POWER AND MOVEMENTS:
+
+A COMPARATNE CASE STUDY OF COMMUNITIES AND EMPOWERMENT
+
+By
+
+Lisa Patterson
+In
+
+Anthropology
+Submitted to the Department of Anthropology
+University of Pennsylvania
+Thesis Advisor: Dr. Paula Sabloff
+
+2006
+
+ABSTRACT
+
+In the effort to uncover how certain development strategies succeed, a comparative case
+study of two community development organizations is presented. Using ethnographic fieldwork,
+analyses of the Urban Nutrition Initiative and of a community-supported agricultural garden are
+used to describe the organizational underpinnings of development agencies through a publicpolicy framework. The relationships of power between advocates and clientele are discussed in
+the context of social service networks. Through participant observation and interviews, the
+paper demonstrates how power transitions in development schemes are the markers for social
+movements in communities. These movements are defined as indicators of successful strategies
+through the community empowerment model.
+
+Lisa Patterson
+
+Senior Thesis
+
+TABLE OF CONTENTS
+
+Introduction .................................................................................... 3
+
+Section I: Community Development ..................................................... 8
+
+Section II: Power and Social Movements .............................................. 19
+
+Conclusion ........................................................................... ...... ... 36
+
+References ... ................................................................................ .. 39
+
+3
+
+Lisa Patterson
+
+Senior Thesis
+
+INTRODUCTION
+
+Looking through the lens of a critical observer concerned with encroachment and
+entitlement in regards to development, it becomes clear that flexible methods for approaching
+and affecting disadvantaged communities must be advocated. Speaking through advocacy,
+anthropology occupies a uniquely pivotal position between the science of policy and the
+knowledge of theory. This "public-policy anthropology" uses traditional fieldwork that acts as a
+modus by which development strategies may be designed. My thesis will seek to understand the
+impact of power in terms of development, and the process by which power may become
+empowerment. Also discussed is the relationship between power transitions and social
+movements; to describe this power transition, a main case study and comparison case will be
+referenced. Using traditional ethnographic techniques and ethnologic analysis, I have underlined
+the theoretical framework with site evaluations from a policy-perspective. My research focuses
+on the status of organizations whose aims are to develop the communities in which they operate
+through social services.
+For the purpose of this paper, power is understood as a concept of function rather than a
+definitive source. It is power relations with which community development is concerned, and,
+by the mechanism of power, social movement occurs. Conventionally, social movements have
+related to workers' struggles for equal representation (Marx 216). In the past few decades,
+however, groups' political and educational actions have been defined as such. It is within this
+broadening of the expression that I apply my usage-from Wallerstein's observation that
+movements are "based on membership activity,"-and define social movements as the transition
+of imposed power by foreign advocates to empowerment by community members (Wallerstein
+
+4
+
+Senior Thesis
+
+Lisa Patterson
+
+97). This definition dismisses the notion that movements are spatially or temporally fixed; the
+transition should not be thought of as a one-time event, but rather a continuation of reactions
+based on the motions set forth by advocates with the idea of development in mind. By
+description, a social movement cannot be static as it relies on the individuals who generate its
+power through their meaning and purpose.
+To explore the idea of movements as shifting power relations, community development
+may seem like an obvious choice for case studies. My lack of both understanding and education
+on the subject had me arrive to this conclusion completely backwards. Interested in community
+development, I spent my summers working at different organizations whose general connection
+was the concept of community-based development. Although their missions were different and
+cultures dissimilar, the organizations shared a collective purpose. I found the term "community
+development" to be used in some fashion by each of the organizations, be it in literature,
+interviews or observation. To me, as an intern watching the organizations interact with their
+clients, the anthropological question of why seemed needless in the face of how the organizations
+worked above and within their respective communities. And so, to determine what development
+meant, I combined the fundamentals of how the phrase was employed. I took "development" to
+mean the positive growth or representation of an area in terms of economic, political, social,
+infrastructural and environmental conditions. In keeping with the theme of social betterment
+through community mobility, I believe using the terms as described by the people with whom I
+interacted is important for legitimacy. However, to set a theoretical foundation, the 1963
+observation by Ward Goodenough of the beginning of a new profession in reformation-"or
+(development), to use the now fashionable term"-by groups either creating desired situations to
+suit themselves (landscaping) or changing themselves to accommodate circumstances
+
+5
+
+Senior Thesis
+
+Lisa Patterson
+
+(organizing) is still the best explanation (Goodenough 15). In this comparison of case studies
+and examination of power transitioning, it became clear that both the mechanisms of landscaping
+and organizing are relevant and interrelated.
+When searching for a clear definition of community, the answers I received were quite
+varied from global perspectives to precise geographic locations. Borrowing terms of location
+from Trouillot's Global Transfromations, a community may be considered a locality by the
+individuals who define themselves as members. Communities determined by agencies to be in
+need of development are, thus, defined as locals (Troulliot 123).
+My main case study research spanned the summers of2003 and 2005, as well as the
+winter and spring of 2005. Although the organizations were quite different in both their missions
+and overall approaches to development, I chose the sites based on their uniqueness and my
+personal interest in them. In May of 2003, I was hired as a summer intern for the educational
+facility of a large international nonprofit organization headquartered in the southern US.
+Working at the largest of their three educational outreach ranches, I was immersed in not only a
+huge sub-organization whose fundraising goal was to teach visitors about its parent organization,
+but also into the southern culture of the "Bible Belt" region.
+In the summer of 2005 I had the opportunity to volunteer with the Urban Nutrition
+Initiative (UNI) of West Philadelphia, thanks to the Penn Program for Public Service (PPPS)
+fellowship I was awarded that year. The PPPS award is a yearly program carried out by Penn's
+Center for Community Partnerships with the intention of immersing 20 recipients into a serviceoriented research project by working with local community groups of their choice. UNI operates
+as a youth development program teaching students from elementary to high school about
+nutrition, health and well-being. They do this through integrated lessons in West Philadelphia
+
+6
+
+Senior Thesis
+
+Lisa Patterson
+
+schools as well as a summer camp for students. As a summer volunteer, I worked in UNI's
+'flagship' school, University City High School, where many of the original programs had started
+over ten years ago. Being a summer camp instructor, I taught nutrition lessons as well as helped
+to manage the student garden and farmer's market. The most multifaceted of case studies, UNI
+required intense participant observation to balance the simultaneous roles of educator, intern,
+counselor and researcher.
+The success of a study of this kind is contingent upon the motivations backing it. My
+longtime interest in community relations stirred my early volunteer work and later my decisions
+regarding higher education and jobs. Before understanding these cases as a researcher, I
+appreciated the organizations both as a volunteer and an advocate. I have had the privilege of
+working with people whose dedication to either their community or outside causes, and in some
+cases both, was as remarkable to me as it was in my first volunteer experience as an adolescent.
+It has always seemed to me that people will put more effort into a project that directly
+affects them, although marvelous exceptions do exist of those individuals who do it simply
+because they care. My study of anthropology has enabled me to format these very basic
+observations into something more concrete as I hope to convey, as well as helped me to
+understand how development strategies succeed. "I guess it means it works when the problems
+are fixed," replied a Philadelphia high school student when I asked him how UNI succeeded in
+his community. Alleviation of the problem is certainly a requisite for the accomplishment of any
+mission, but how it succeeds as a movement is quite different and requires close examination of
+the concepts that surround a strategy. To borrow Foucault's view of political struggles as
+conversions of power relations, it is my intention to portray the following case studies as I
+
+7
+
+Senior Thesis
+
+Lisa Patterson
+
+witnessed them without resorting to universals of subjectivity, and with particular attention to the
+social dynamics that were shaped by the concepts of development (Rabinow et al. 6).
+
+8
+
+Lisa Patterson
+
+Senior Thesis
+
+SECTION I
+COMMUNITY DEVELOPMENT
+
+Through research and participant observation of successful development programs, it
+becomes clear that patterns exist within legitimate strategies. These often emerge in the
+relationship between communities and social service networks, the power base from which
+development strategies are directed. When the power to define objectives and to launch projects
+is shifted from the advocate practitioners of care to the people for whom they aim to benefit,
+communities are developed more successfully. The transcendence of power to empowerment is
+paramount to a legitimate and ultimately worthy community strategy of improvement for its
+members.
+Community development is a multi-layered process. Most often, the initial influence of
+power comes from foreign advocates, and by utilizing the knowledge and resources of
+professionals, improvement of targeted communities can occur.
+Development through community partnerships is not a new concept. International NGOs
+and aid agencies have understood the benefits of decentralized strategies that enable projects to
+become permanent solutions. Organizations dealing with impoverishment and world hunger
+such as Mercy Corps and Heifer International base their policies on teaching people how to carry
+out long-term solutions to their problems (Patterson 2). Both focus on training and education for
+their clients so they may be independent in their decisions and ultimately self-reliant in their
+progress. In fact, Heifer International uses a particularly appealing approach to solidifying their
+commitment to empowerment of the subaltern-called "passing on the gift," the expression
+refers to when recipients of Heifer's livestock aid program are able to provide another poor
+
+9
+
+Senior Thesis
+
+Lisa Patterson
+
+family with the offspring of their donor animals ("A Living Chain of Giving"). This practice is
+considered essential to their purpose of helping to create sustainable communities through
+grassroots development.
+Through examination of these large-scale development projects, successful models for
+partnerships between agency and clientele are visible. The stakeholder model is perhaps the
+most recognizable; by the agencies' acknowledgment of multiple social positions and different
+ways of problem solving in their target areas, those on the periphery of society are more likely to
+be included in the policy process. In smaller scale situations, such as community-based projects
+like the educational ranch or UNI, the stakeholder model holds similar merits. However, like
+shareholders to a corporation, stakeholdership is inherently tied to the agency that offers the
+stakes. The framework, designed by the agency, runs the risk of being simplistic to a fault, with
+the stakeholder communities assumed to be homogenous and objective in their own decision
+making. Kim Fortun, an anthropologist who specializes in information technology and
+environmentalism, claims that "the stakeholder model can't seem to tolerate much complexity."
+By respecting citizens' "frame of reference," she says that a true partnership must take into
+account the "subjective, intuitive, and experimental" nature of social dynamics. This observation
+lends further credence to the empowerment model where a total shift, or movement, of power
+relations allows for natural adjustment to community leadership within a development scheme.
+Through recommendations by charitable friends and family, I came to know an
+organization called the Ark of Hope Foundation whose mission it was to end hunger and poverty
+through what they called sustainable community solutions. Their history intrigued me~begun
+by Church of the Brethren members after World War II, Ark of Hope broke from their faithbased roots to be a nondenominational institution to help impoverished populations from a
+
+10
+
+Senior Thesis
+
+Lisa Patterson
+
+cultural perspective. After speaking with past volunteers, I applied for an internship at their
+Arkansas educational ranch where groups came to learn about Ark's mission, worldwide hunger
+and poverty, and to take part in service learning projects. Because of Ark's sheer organizational
+magnitude and the scale of what they were trying to accomplish, I found it fascinating that they
+operated educational facilities which were financed by their marketing department. Upon
+reading their annual report, I discovered that unlike many charities who determined their
+accountability according to the amount of dollars spent on actual programs, Ark was more
+focused on results. Consistently listed by charity monitoring groups as highly reputable, Ark's
+was committed to building over 96% of their endowment with individual and group donations.
+Still supported primarily through church groups such as United Methodist and religious
+individuals, Ark chose not to accept government or corporate funding except for less than two
+percent of their management costs. Enticed by the organization and interested to see what an
+educational ranch was like, I traveled to Arkansas to spend the summer of 2003 living next to a
+camel named Raja.
+An hour and a half drive from Little Rock, the town of Todd, Arkansas, was 300 people
+deep and six miles long. This figure, I was told matter-of-factly by a ranch hand, nearly doubled
+during the summer because of the ranch. From the airport, I'd been picked up by a man dressed
+as only people who chose their garments for how long they'll last do. In tow were his five little
+brown-haired daughters, clad in long cotton twill dresses that reminded me of Amish girls. As
+we drove down the private road to the ranch, a painted wooden sign greeted me: "Welcome to
+the Ark of Hope Ranch." Beneath in italics were words I'd only heard in church: "Blessed are
+the peacemakers, for they will be called sons of God," (Matthew 5:9).
+
+11
+
+Lisa Patterson
+
+Senior Thesis
+
+I thought maybe I was in the wrong place. Soon though, a young woman about my age
+appeared and offered to take me for a tour of the ranch. Petite with a quick smile and thick
+glasses, Brandy had enough energy, to run the 1200 acre ranch by her self. Driving me around in
+a visitors golf cart, she pointed out the main buildings and areas: visitors center ("Er'body calls it
+the VC"), lodges, show-barn, maintenance shed (in reality a huge barn), and various classrooms
+and pavilions. It was professional-looking in a summer-camp way. I received a wave from
+every person we passed and an introduction from everyone within 20 feet of the road. I went on
+to enjoy southern hospitality for the next three months, although it took me more than a week to
+understand that when drivers waved to you, it didn't necessarily mean your lights were on.
+Because of my cultural studies background, I was assigned to the education group, one of
+five main groups with which the thirty-plus college interns were placed. I spent my days
+developing and teaching curriculum about people, poverty and the environment. I quickly came
+to see that the Ranch was not a place to publicize the Foundation or to secure funding. Most of
+the groups who visited were long-time supporters and were there to have a good time and do
+some community service. This took any pressure off from solicitation and I was able to enjoy
+my position while conducting my thesis research. An organization with almost too many aspects
+to adequately study, the Ranch had several specialized programs. One that caught my attention
+early on was their community-supported agricultural (CSA) initiative, and by hanging around
+enough and offering to help with the weeding, I got to know just what a CSA garden was and
+how it impacted the community.
+The Ark CSA was a garden consisting of eight acres of valley land and yielding enough
+produce to feed 110 local families throughout the year. The garden crew who ran it was unique
+from the other Ranch staff groups. Comprised of five interns, the leader was a young person
+
+12
+
+Senior Thesis
+
+Lisa Patterson
+
+who was not a Ranch manager like the other crew leaders. Six foot three with a red beard down
+to his shoulders, Aaron looked like Paul Bunyan in the flesh. He explained communitysupported agriculture as food produced for local people at fair prices. Todd was located in one
+of the poorest counties in Arkansas, the third poorest state in the nation, and the Ark CSA
+provided inexpensive, organic food for hundreds oflow-income people ("United States and
+States: Median Household Income 2004"). Each week, a small truck was loaded with the
+produce and it was taken to one of the local Baptist churches for distribution. Any leftovers?, I
+wanted to know. Aaron was proud to say there were-the leftover produce was sold at a large
+farmers market on Fridays in downtown Little Rock. From the looks of the lush fields and
+abundant vegetables, it was easy to see how eight acres expertly cultivated-Aaron was a trained
+horticulturalist and his crew consisted of experienced gardeners-could yield so much food.
+I wanted to know more about how community-supported agriculture developed a
+community. I could see the obvious nutrition benefits of cheap, healthy food, but could CSAs
+actually feed a neighborhood or, moreover, pull a community out from poverty? The question
+stayed with me until the fall of2004 when I first volunteered with the Urban Nutrition Initiative
+to complete the service component to an academically-based community service (ABCS) course
+I took that semester. While working with 8th graders at Sayre Middle School, I caught a glimpse
+of the UNI garden program at University City High School (UCHS) and took the opportunity to
+volunteer there the following summer through the PPPS internship.
+When studying the Ark CSA garden I held the role of researcher; this contrasted with my
+totally integrated identity as a UNI staff member while working at UCHS. I was given more
+access to the clientele and intra-organizational events, although these privileges significantly
+increased my level of responsibility to UNI. Located at 36th and Filbert Streets in West
+
+13
+
+Senior Thesis
+
+Lisa Patterson
+
+Philadelphia, the high school possesses a relevant past involving Penn development and the
+community. According to long-time residents of West Philadelphia, UCHS was designed to be a
+secondary school for the children of Penn professors and only after protests by the community
+was it redirected as a public high school for West Philadelphia children. This history of what
+many people in the area call "Penntrification" is a cause of town and gown resentment towards
+the university over the displacement of residents through the years ("The Black Bottom
+Community"). To address the crisis, the Center for Community Partnerships was founded in
+1992 from the idea of assisting the public schools with the resources of higher education and
+Penn's stated commitment "to focus its resources and energy on the revitalization of West
+Philadelphia" ("CCP History").
+Like its parent organization, UNI faces a similar task in the effort to heal the damage of
+Penn's expansion over the last sixty years. During my ten-week work as a staffer, I helped to
+maintain the half-acre school garden as well as assisted with classroom instruction and projects.
+The program was run similar to a day camp with students who enrolled based on their merit in
+school and came Monday through Thursday to work in the garden and take part in a two hour
+class for which they were given academic credit. The theme for that summer was food justice
+and topics included urban gardens, corporate food systems and international politics. Our group
+was large with thirteen students, a UNI coordinator, two interns including myself, and a UCHS
+teacher. Students from the Youth Works Program, a federally-funded youth development group,
+maintain the garden year-round, thereby gaining solid work ethics and valuable horticultural
+skills. The produce from the garden is then sold at farmers' markets in West Philadelphia and
+Rittenhouse Square~it is here where the students learn business skills and entrepreneurism by
+running the markets with a little help from teachers or UNI staff.
+
+14
+
+Lisa Patterson
+
+Senior Thesis
+
+My first week as a staffer involved trainings and curriculum planning. Jo, the UNI
+coordinator with whom I would be working, introduced me to the other group members who
+included Aubrey, a Penn undergrad and year-round staffer, and Mr. Bruce Polson, a UCHS
+history teacher. The students ranged from 15 to 17 years of age and were all students at UCHS.
+Although I was not surprised that we had the most boys since the other classes focused on
+cooking, I found it interesting that we were not the largest group since our students split the
+proceeds from the sale of produce, thus earning more money than the cooking groups.
+Depending on their individual levels of participation with the markets, they split the profits of
+each week's sales. This gave the garden crew incentives to not only work hard growing food,
+but to be salespeople as well.
+As a customer, I'd visited the Wednesday farmer's market on Penn's campus before and
+bought food from the UNI stand. It wasn't until I was part of the garden crew that I ventured to
+the big Saturday market, located on 37 th and Powelton Streets in West Philadelphia. I was
+curious to see how the cool high school students acted around customers-I knew from invoices
+that the Saturday market was the most successful and that the students did everything from
+harvesting at seven a.m., price setting through market research, designing their displays, and
+representing UNI. Approaching the market, I was instantly impressed with the professional look
+of their stand. Row after row of fresh vegetables, all labeled and priced, were set against a
+backdrop of baskets, earthy cartons and bundled herbs. For a half acre garden, the space was
+used quite efficiently by rotating beds and continual fertilization from on-site compost piles.
+Displayed that day were several types of tomatoes, lettuces, greens, legumes, squash, fruits and
+four kings of beans, as well as a dozen different herbs. As enticing as this spread looked, the
+students' mannerly approach was what I believe drew the customers. In class and outdoors, the
+
+15
+
+Senior Thesis
+
+Lisa Patterson
+
+kids' behavior was like a roller coaster: many times very good, but enough times exhaustingly
+unruly. At the market, it was a different story. Yes, ma 'ams, no sirs and thank you, please come
+again, were the words I heard. Gone were headphones and cellphones, and in place were smiles
+
+and offers to carry bags. When the kids saw me, they waved and suddenly I was back at the Ark
+ranch.
+As I complimented them on an excellent presentation, it occurred to me that I should
+have expected this all along. Obviously people will behave better and go out of their way when
+the results directly affect them. The kids had everything to benefit from selling their produce
+and they knew exactly how to act in order to do it. The Urban Nutrition Initiative had taught
+them well, and it was becoming clear how an organization that had begun from a concern over
+the nation's obesity crisis could transition into a youth development scheme.
+
+According to the Children's Nutrition Research Center, an estimated one in four children
+in the United States is at risk of becoming overweight which is measured by having a body mass
+index (BMI) in the 85 th percentile. Eleven percent of children are in the 95 th percentile, making
+them overweight by BMI standards (Nicklas and Yang 9). However, UNI's main concern falls
+with the racial divide that overlaps obesity in America. Nationwide, 40.4% of African-American
+females between the ages of 12 to 19 years old are overweight, while 23.6% are obese. This
+contrasts sharply with the percentages of European-American females in the same age group
+whose overweight and obesity levels are about half of their African-American counterparts
+("Childhood Obesity").
+In West Philadelphia, the problem of childhood obesity is a serious threat to the mostly
+African-American population. University City High School is over 92% African-American with
+
+16
+
+Senior Thesis
+
+Lisa Patterson
+
+88.5% of families qualifying as low-income ("School Profile: University City High School").
+Penn anthropology professor and UNI founder, Dr. Francis Johnston, cites the results from the
+US National Health and Nutrition Examination Survey, carried out in the early l 990's, which
+evaluated 396 West Philadelphia females between the ages of five and fourteen and found 32.2%
+of the thirteen and fourteen year olds to be obese (Johnston 2005). These figures led to Dr.
+Johnston's compelling needs assessment which became the chief element in UNI' s primary goal
+of increasing food access and security in the area ("UNI Programs"). How to supply low-income
+residents with affordable, healthy foods is a challenge, both economically and culturally. The
+city is plagued by what Dr. Johnston calls "a culture of obesity," with staples such as
+cheesesteaks and Tastykakes®, and wildly popular events like the yearly Wing Bowl, the
+obesogenic crisis is one of the worst in the nation (Johnston 2004). According to Men's Fitness
+magazine, Philadelphia is ranked second as the fattest city in the country for 2005 and third from
+last in people who run for exercise ("America's Fattest City 2005").
+This growing public health crisis is what many UNI staffers say is the reason for the
+increasing influence on nutrition within recent health discourse. America's departure from
+locally-grown food, even from what it was 20 years ago, is cause for concern in terms of both
+health and economics. The nearly perfect coordination of packaging, marketing and distribution
+by food corporations has infiltrated virtually every avenue of food consumption in the United
+States. As the co-director of the Urban Nutrition Initiative, Danny Gerber says that "no one
+knows where food comes from anymore. When people start pioneering work (like that of
+UNI's), they start believing that it is a really great youth development strategy."
+Bushy-haired wearing an oxford button-down and sandals, Danny looks like any other
+anthropology undergraduate, despite having graduated from Penn in the 90' s. I spoke to him one
+
+17
+
+Senior Thesis
+
+Lisa Patterson
+
+afternoon in his office at the UNI headquarters. Entry to the building is in an alley behind some
+stores and restaurants, and through a door that looks like a locker room entrance or possible
+storage space. Down a dark hallway, the door to the UNI offices was brightly decorated with
+handmade signs from the elementary school students. Like the quintessential nonprofit
+organization office, it was messy with old computers, hand-me-down chairs, motivational posters
+on the walls and a young, idealistic staff.
+I wanted to speak to Danny about what I was noticing with the Initiative, how it seemed
+to me more of a movement these days with the students learning more than nutrition by taking
+leadership positions in the programs. My observations were showing that the experience UNI's
+youth gained by growing their own food was highly beneficial to their development as
+individuals and to their relationship to their community. I saw confidence building in my
+students as their knowledge of nutrition and health increased, along with their interpersonal and
+professional skills. Danny agreed that this was indeed happening and that it was a goal to
+eventually pass the reigns to members of the community. "In the long term, we're turning out a
+lot of kids who have gardening knowledge and it's possible that someday, they will be the
+community gardeners running the plots .. .I think that could prove to be a real impact on access."
+I understood the present state of the Urban Nutrition Initiative to be development in
+practice. I recognized the model of empowerment being used by UNI as a mechanism for youth
+development; most importantly, I identified this case of youth development as a burgeoning
+social movement to community development in West Philadelphia. The transition of power
+relations was the hinge upon which the organization's accountability and legitimacy depended.
+For UNI as a university association, legitimizing their efforts of partnership with the
+marginalized West Philadelphia community is essential for success as a development strategy.
+
+18
+
+Lisa Patterson
+
+Senior Thesis
+
+This process is understood by the organization's accountability which is gained by the increase
+of decision-making by community members.
+In light of accountability, which is complicated in the nonprofit sector, many disputed
+models have been used to measure the results of service organizations. As a reaction to the
+classic model which relies on board members prohibiting the distribution of funds, alternative
+paradigms have gained popularity with nonprofits and more resemble the structures of businesses
+rather than that of traditional foundations. One reason for this shift in policy may be the
+possibility of greater inclusion these accountability-driven models offer. Evelyn Brody,
+professor at the Chicago-Kent College of Law at Illinois Institute of Technology, credits the
+convoluted arrangement of relationships that exist between nonprofits, business, government and
+the public. By involving "a variety of stakeholders, each with its own needs and desires,"
+problems of"standards and adherence to best practices" arise (Salamon 475). These dilemmas
+are no less familiar to community development agencies. And in the case of subsidiary groups
+working within the nonprofit framework, such issues can be the ultimate management challenge
+or an opportunity for powerful social relationships to form based on advocacy-inspired
+movements.
+
+19
+
+Senior Thesis
+
+Lisa Patterson
+SECTION II
+POWER AND SOCIAL MOVEMENTS
+
+During one particularly long week of work at the Ark ranch, a visiting clergyman decided
+to say a few words at dinner where everyone-workers, volunteers and visitors-gathered daily
+to eat together. This man was the head of congregation from San Antonio and had brought his
+church youth group to take part in the service learning lessons offered by the ranch. Unlike most
+groups who were respectful and interested in Ark of Hope, this group's conduct left something to
+be desired. During a cam.pout earlier that week, the kids had destroyed a Tibetan prayer pole that
+had been given to the ranch by Buddhist monks. They never apologized and their preacher did
+not think it a big deal-he was apparently more concerned with the women garden volunteers
+having unshaven legs. So when this man stood and asked to say a few words about the ranch,
+everyone held their breath. He started by describing his church's relationship with Ark of Hope,
+their financial contributions over the years and their dedication to Ark's mission. Having visited
+the ranch in the past, he was having a difficult time with how the ranch had changed, how it
+seemed to have strayed from its Christian roots and become a "hippie-land" (quoted) for college
+students. He did not understand some of the new initiatives-of which he did not specify-with
+communities that were decidedly not Christian. He ended his rant by saying that we-meaning
+the ranch workers and volunteers-were not upholding the Foundation's heritage and were all,
+therefore, "false prophets." As everyone in the room sat, stunned, the ranch's education manager
+stood and took the microphone from the preacher. This man--a former teacher-thanked the
+preacher for his comments and said, 'however, just to clarify, Ark is actually nonprofit."
+
+20
+
+Lisa Patterson
+
+Senior Thesis
+
+In Ark's effort to cast itself as a development agency that provided sustainable solutions,
+it was forced to alter its profile to legitimize the new programs. From being known as a
+Christian group that sent animals to poor people, it transitioned to an international NGO that
+provided solutions for communities. The general strategy behind each solution was simple and
+elegant: show people how to build their own economy so they can help themselves. Ark of
+Hope's entire mission revolves around power-the power it possesses to help a community and
+the power it enables the community so they become empowered to change their situations. Not
+always will everyone agree on how power shifts should occur-in Ark's case, they may have
+sacrificed some donors' checks to further their cause, but movements happen regardless of if we
+want them to and the best strategy is to guide the movement as suitably to one's cause as
+possible.
+In terms of power, Foucault's metaphor of the concept of social justice is applicable to
+this process. He describes justice as a societal invention that is used "as an instrument of a
+certain political and economic power or as a weapon against that power" (Rabinow et al. 6).
+Fighting against political violence is, therefore, not adopted in the name of justice necessarily,
+but instead to alter power relations. Foucault believes we are constantly engaged in political
+struggles and must define how we are political, not if we choose to be. This post-structural
+approach is the framework upon which power transmission is built. Rather than mold a
+development theory around the social movement that was present during my fieldwork, I applied
+Foucault's concept of power relations in an effort to uncover the interactions instead of
+attempting to invent them through rigid constructs of functionality. When it comes to political
+violence, Foucault understands how critique can be used to reveal seemingly benign operations
+in the process of social altercation (Rabinow et al. 6).
+
+21
+
+Lisa Patterson
+
+Senior Thesis
+
+UNI began with a class taught by Dr. Frank Johnston in 1991 regarding nutrition and
+body weight. The TA for the class, Penny Gordon-Larsen, now a professor of nutrition, and the
+undergraduate students began a project which involved doing height and weight measurements
+of children at Turner Middle School. Measurements of students' triceps to determine body fat
+percentages were also conducted along with dietary recalls. Four years later, an anthropology
+undergraduate student named Tamara Dubawitz expressed the feeling that Penn was using
+Turner as a research lab with the students being treated as subjects rather than participants in a
+problem-solving program.
+During an interview with Danny Gerber, director of the Urban Nutrition Initiative, he
+elaborated on this program turning point:
+
+"She (Tamara) didn't really feel the kids were involved in problem-solving, which
+is kind of the under-pinnings oflra (Harkavy's) work at the center (CCP). We look at
+John Dewey as kind of our patron saint, and she didn't see that happening and she was
+
+very concerned about the dynamic of Penn students going out and working with largely
+African-American, low-income students. You know, who's choice was it that they were
+having their skin folds measured. She didn't think that was an idea generated by Turner
+students, and it wasn't." 1
+
+Danny went on to say that others like him and Tamara took issue with Penn students
+teaching invasive nutrition classes and reinventing curriculum. He and the other undergraduates
+decided to restructure the program as more action-oriented with the goal being for Penn students
+
+1 Gerber,
+
+Danny. Personal interview. August 3, 2005.
+
+22
+
+Lisa Patterson
+
+Senior Thesis
+
+to help to empower Turner students: "The idea was, there's a problem out here, what are we
+going to do to solve it?"2
+UNI's present philosophy became formulated around Dewey's theory of inquiry, and the
+new curriculum centered on the idea that students will learn about nutrition by attempting to
+solve the problems of improving their own nutritional state (Gouinlock).
+
+"We kind of approached it as a research question, but we were also trying to get
+the kids to ask questions. 'How can we improve diets, what are the problems with the
+diets, what are the problems with the food in the neighborhood.' We also thought about
+other issues that kids were concerned about. " 3
+
+A survey conducted in the middle school showed that the students were concerned about
+nutrition, violence and drugs. However, Danny admits their concern for nutrition may have been
+prompted by the nutrition classes they were receiving each week. A resulting peer education
+program was begun and the sixth graders at Turner decided to run an after-school fruit stand.
+The opportunity to fully implement Dewey's philosophy presented itself, Danny said.
+
+"It was an opportunity to research lumber yards and figure out how we build a
+
+fruit stand. Where does the fruit come from, where are some successful fruit markets in
+Philadelphia (were some of the questions we ask.) So we took them down to the Reading
+Terminal Market (and) a field trip to the Italian Market, and it became kind of a
+neighborhood exploration project. They learned about Italians in South Philly, the
+Reading railroad and Pennsylvania history. It was this nice, small integrated project that
+the kids then ordered lumber, figured out what they needed, designed a fruit stand, built
+
+2
+3
+
+Gerber, Danny. Personal interview. August 3, 2005.
+Gerber, Danny. Personal interview. August 3, 2005.
+
+23
+
+Lisa Patterson
+
+Senior Thesis
+
+the fruit stand, painted the fruit stand-it was a really crappy, rickety fruit stand, but it
+was completely thrown together by kids." 4
+
+Danny describes the change in the nutrition program as being more grassroots and an
+important departure from the laboratory-approach by Penn students in the past. The Turner
+students' ownership of the fruit stand project was a marked point in their transition from research
+subjects to participants in a social service program. UNI was beginning to take the form of a
+movement, and its direction was increasingly being decided by West Philadelphia youths.
+With the success of the fruit stand, Penn students were inspired to continue their
+outreaches and began recruiting for more volunteers to provide service in other schools. The
+combination of the students from the Penn Program for Public Service Internship and year-round
+volunteers began what Danny calls "an innovated nutrition education program" that served as a
+more democratic approach to UNI's objective.
+
+"There's a big debate about community-school partnerships-just because you're
+partnered with the school, does it mean you're partnered with the community? Many of
+the teachers are not from the community and there's very limited participation of
+community members in the public schools. Just because the university is partnered with
+the school, I don't necessarily think it is a community partnership." 5
+
+Civic acceptance of and participation in a community objective is the challenge many
+agencies find themselves faced with when attempting to implement a development strategy. On
+the other hand, community members deal with the imposition of outside forces and motivations
+as the target for such development. Whatever the mechanism is that drives the development
+4
+
+5
+
+Gerber, Danny. Personal interview. August 3, 2005.
+Gerber, Danny. Personal interview. August 3, 2005.
+
+24
+
+Senior Thesis
+
+Lisa Patterson
+
+project, its power base must be carefully handled to remain inclusive and accountable. For the
+Ark of Hope Foundation's CSA garden, this base is firmly situated with the gardeners who
+singly run the program. What is provided to the garden's clients-the local community
+members-is decided by the gardeners-the non-local providers. In contrast, UNI's historyis
+built from a concern over the imposition of Penn into West Philadelphia-stemming from both
+the original anthropology class's invasive research and the University's historical intrusion in the
+area-and their overall objective is to foster decision-making within their clients-the youth
+whom UNI aims to empower.
+As a critique of Weber's structural definition of politics as an expression of strategic
+domination, Angus Stewart instead proposes viewing political processes as strategic actions and
+treats domination and power as "conceptual antonyms." This dichotomy, he argues, allows for
+the "politics of empowerment" to be distinct from the "politics of domination," (Stewart 6). By
+invoking this theory regarding power balances, I identify two types of power in regards to the
+relationship between community development and social movements. First, there exists imposed
+power that is based from outside forces upon targeted groups, for various objectives. Second,
+when, and if, this power is successfully transferred to the group to continue the objective(s), the
+imposed power becomes empowerment. This transfer is a social movement and may continue to
+change as development happens, needs shift, and objectives evolve.
+This shift in power is paramount to the successful alleviation of a problem and builds
+upon Dewey's theory of inquiry by updating the problem-solving model to one of empowerment.
+Program goals are central in determining how power transitions will occur and, ultimately, how
+the project will succeed. In the case of Ark's CSA garden, the program goals were to provide
+local community members with affordable food. The term "community-supported agriculture"
+
+25
+
+Lisa Patterson
+
+Senior Thesis
+
+implies community involvement, although in Ark's case, the clientele's level of involvement was
+limited to buying the produce. The real base of power from which the garden was directed came
+by way of the gardeners' motivation for earning profits from the weekly farmers market.
+Although undoubtedly the gardeners possessed good intentions in wanting to provide lowincome residents with healthy food, the CSA supported them with surpluses to gain profit shares.
+In this way, the development intended by the program was stagnant and resembled that of a
+charitable welfare contribution by Ark to local residents. I use the word stagnant because unlike
+a social movement which transitions power, this particular CSA only transitioned the commodity
+of food to a wholesale market.
+The Urban Nutrition Initiative, however, embodies the concept of social mobility. With
+their empowerment approach, they legitimize their imposition of programming through
+accountability of their actions. Like Stewart's view of politics as conscious actions, UNI's
+motivations lie in implementing projects that can transition power successfully to their clients.
+The first UNI garden was begun in 1998 at Turner Middle School, followed by the
+garden at University City High School in 2000. Considered the flagship school, UCHS's garden
+has become a central fixture of UNI' s holistic education of producing, preparing, selling and
+enjoying whole food.
+
+"We see the garden as really central to all our work and an opportunity for kids to
+be involved with something really positive in their neighborhood. It's also a great way to
+expose kids to healthy food." 6
+
+6
+
+Gerber, Danny. Personal interview. August 3, 2005.
+
+26
+
+Lisa Patterson
+
+Senior Thesis
+
+He related to me a comment that was made by a woman who, after seeing the garden and
+its influence, stated that throughout her thirty years of working as a nutritionist it had never
+occurred to her that to understand why people chose certain foods, you must understand what
+types of foods are grown and the larger agricultural system. UNI places importance on teaching
+about food systems in the effort to engage young people in positively changing their own food
+systems. The peer-to-peer educational model upon which UNI is structured encourages the
+students to teach others about nutrition. In this way, Danny calls it "a young person's movement
+to deal with an issue that is of critical importance to young people."
+
+"We hope that we're learning as much from the young people and that we take
+their ideas into consideration as much as they learn from the folks at the university. We
+want to give a good opportunity for the kids to develop leadership (skills). We also view
+our overall goal is to advocate for the kids-kids need to be involved in coming up with
+the solution. You can't just impose a solution on the kids. Here are some young people
+who are doing heroic work to improve nutrition (and) change their own diets, (while)
+trying to improve the diets of other people. Public health officials need to consult them
+when they're considering a ban on something in the schools." 7
+
+Danny goes on to say that a simplistic ban on unhealthy foods by adults upon young
+people is useless. The ideal is to have the students themselves organize to ban unhealthy foods
+in their community: "It would mean they're fed up with (unhealthy food). They're into drinking
+water, they're into other things. I'm not sure you could merely impose legislation telling people
+what to eat. They need to experience it for themselves."8
+
+7
+8
+
+Gerber, Danny. Personal Interview. August 3, 2005.
+Gerber, Danny. Personal Interview. August 3, 2005.
+
+27
+
+Senior Thesis
+
+Lisa Patterson
+
+He acknowledges that UNI and other organizations, perhaps the healthy food movement
+itself, will probably never have the advertising budget ofMcDonalds or Coca-Cola. A more
+valuable asset exists however-the young people themselves whose messages and time serves as
+direct contact with the community. UNI presents itself as being part of a larger movement that
+consists of consumers regaining control of their food systems from the corporate food industry.
+
+"It's not just in Philly, it's not just UNI-it's young people taking control of their
+food systems in different cities. They're building local agricultural projects and
+community projects-California, Chicago, Hartford, St. Louis. " 9
+
+As an example of a development strategy, UNI is transitioning to a social movement due
+to the recent shifts of power from the middle-class advocates who began the program to the West
+Philadelphia youth who are now working as staff in the organization. As more community
+members become both stakeholders and providers, the chance for success grows exponentially.
+In UNI' s case, their mission has the opportunity to be spread more effectively by the community
+members who are now helping to manage the agency's direction. Because community members
+have automatic legitimacy (in terms of status) with their fellow neighbors, they are equipped to
+integrate cultural considerations within an organization's programs more effortlessly than an
+outside advocate.
+As an organization, UNI is a program belonging to the University of Pennsylvania and
+managed by the Center for Community Partnerships. It runs like a stereotypical nonprofit group,
+complete with young idealistic staff members who, with the exception of individuals from the
+community, are middle-class advocates. During my placement, I heard my own thoughts voiced
+
+9
+
+Gerber, Danny. Personal interview. August 3, 2005.
+
+28
+
+Senior Thesis
+
+Lisa Patterson
+
+by others who regarded this setup as potentially alienating to the West Philadelphia community.
+Aubrey McCulley is a Penn undergraduate, majoring in anthropology, who has been working at
+UNI since her freshman year of college. As a work-study student, she has gained invaluable
+training in social policy and practical organization. Her current position includes managing the
+Saturday farmers' market and assisting the UCHS coordinator.
+Aubrey and I spoke one afternoon outside of the Lesbian, Gay, Bisexual and Transgender
+Center on Penn's campus where UNI meetings were often held in the building's spacious
+conference room. I asked Aubrey about her impressions of the UNI staff and how she felt the
+West Philadelphia community perceived us. Aubrey's casual demeanor made interviewing her
+easy and so when her eyes grew serious at my question, I assumed that she had previously
+speculated on the topic.
+
+"Well, when I first started, I thought, 'Wow, what a bunch of hippies'. I actually
+brought this to their attention at one of the staff meetings. Everyone laughed because, at
+the time, I probably looked the most hippish. They were all into organic food, some of
+them were macrobiotic eaters ... some of them were even raw foodists, which I think is
+just bullshit. It's a liberal organization and they're into social activism. I think this kind
+of makes them out of touch with the community. They used to make food and teach
+recipes that no one had heard of and that were expensive (to make). When Flip (a UNI
+staff member and community member) came around, he started this thing called
+AHEAD 10 which dealt with using food that is accessible and affordable. " 11
+
+By hiring within the community, the Urban Nutrition Initiative not only accounts for its
+goals of empowerment, it gains social perspective from its resident staff. This is vital to the
+
+JO "AHEAH: Affordable, Health, Easy, Accessible, Delicious." Shopping Tutorial. The Urban Nutrition Initiative,
+2005.
+11 McCulley, Aubrey. Personal interview. August 5, 2005.
+
+29
+
+Lisa Patterson
+
+Senior Thesis
+
+success of the project as well as the nutrition social movement as a whole. Enhanced mobility of
+nutritional awareness can only increase the influence of nutrition within health discourse. Most
+importantly, however, is the inclusion of youths in youth development strategies. UNI's projects
+affect its young clients in ways not many other initiatives can. The experience that a young
+person has when growing their own food is one that cannot be recreated in another activity. It
+builds confidence while vastly increasing knowledge about nature and nutrition. The theory to
+practice method is so subtle that students do not feel as though they are being instructed at all; to
+them, it seems as though they have been shown how to accomplish a tangible result, a process
+that is sadly undervalued and overlooked in public education.
+
+"In the long term, we're turning out a lot of kids who have gardening knowledge,
+and it's possible that someday they will be the community gardeners running the plots.
+There's a big concern in Philadelphia that we are not replacing our aging gardeners.
+Most tend to be senior citizens who grew up in the South and who, after retirement, went
+back to what they know best, which is gardening. They may not have enjoyed their
+agricultural jobs as children, but now that they are retired that's what they're doing. I
+feel like there's a hope that our young people will go back to gardening when they are
+older. I think that could prove to be a real impact on access." 12
+
+Increased food access and security is a primary goal of the Urban Nutrition Initiative.
+How to supply low-income residents with affordable, healthy foods is a challenge, both
+logistically and economically. The after-school fruit stands, an enormous success, have been the
+guiding light for UNI' s belief that if you provide the right food, the people will love it, says
+Aubrey.
+
+12
+
+Gerber, Danny. Personal interview. August 3, 2005.
+
+30
+
+Lisa Patterson
+
+Senior Thesis
+"The Wednesday farmers market on 36th and Walnut was originally intended to
+
+sell the foods at the smaller gardens at the schools, but they don't really produce enough.
+Now, the UCHS garden is the one that is providing for the Wednesday market as well.
+The problem is getting customers from the community to the farmers market. Most of
+the people are white, upper-middle class ... who travel there and can afford to get local,
+organic food." 13
+
+UNI is in the process of purchasing an EBT (Electronic Benefit Transfer) system for
+people who use food stamps. Such devices are used in farmers' markets in California and will be
+necessary if UNI wants to continue increasing access to healthy foods for lower-income
+residents. The initial $1,000 investment in the system and another large fee to connect it
+electronically has hampered the initiative, but Aubrey says UNI is going ahead with
+implementing EBT. Although some staff are doubtful that the system is viable for UNI' s market
+simply because of the small size of the stand, many agree that it would be beneficial for
+increasing the customer pool.
+Another project in UNI' s access agenda is the highly anticipated "A Little Taste of
+Everything" mobile co-op, which was intended for launch at the beginning of the 2005 summer,
+but was delayed due to licensing issues, and is scheduled to operate in six locations throughout
+West Philadelphia. The idea is based on a project in Berkeley, California called the "People's
+Grocery" whose mission it is to find creative solutions to the food needs of residents in West
+Oakland ("Healthy Food for Everyone!"). Originally, UNI students wanted a store front where
+they could sell their produce in West Philadelphia. This turned into a mobile food truck that
+would actually come to the people, thus increasing access and affordability. The kids did
+
+13
+
+McCulley, Aubrey. Personal interview. August 3, 2005.
+
+31
+
+Senior Thesis
+
+Lisa Patterson
+
+everything themselves, from applying for grants to purchasing and refurbishing the truck. Danny
+enthusiastically described the new project.
+
+"I'm really proud of' A Little Taste of Everything' because it is a really youthdriven project. The kids wrote all the grants and raised $26,000 themselves. I got a letter
+from a lady at one foundation saying, 'What is up with this proposal? I've heard good
+things about your work but this proposal is really sloppy.' I called the woman and was
+like, 'Yeah, if you'd read the cover letter, you would have seen that this was entirely
+written by sophomores and juniors and seniors at University City High School. You
+might not be familiar with the state of education in Philly schools, but it's actually fairly
+impressive.' And it was-there were misspellings, we edited it, but we left it how it was.
+I told the kids to use spell checker. They ended up getting funded by that foundation
+which I thought was great." 14
+
+The fruit stands are by far the most accessible forms of healthy food that exist among
+UNI's initiatives. The combination of the student-run business venture and the purchasing
+power of children who are able to make independent choices regarding their nutrition is a
+powerful youth development strategy. The empowerment is two-fold in this peer-to-peer
+outreach, and by remodeling children's eating habits early on, the chances of nutritious longevity
+greatly increases.
+
+"This is a really important model because I don't think we can afford to have kids
+who spend the first eight years of their purchasing lives only buying junk food. After
+that, you're hooked, you form bad habits, you consider junk food as a normal snack.
+Fruit isn't even an option because it's not available on a large scale." 15
+
+14
+
+15
+
+Gerber, Danny. Personal interview. August 3, 2005.
+Gerber, Danny. Personal interview. August
+
+32
+
+Senior Thesis
+
+Lisa Patterson
+
+The response to surveys by UNI regarding residents' eating habits are concerning. Many
+families purchase take-out food multiple times per week, some as many as 5-7 times. By
+teaching recipes that are affordable, healthy, easy and tasty, UNI hopes to change people's
+attitudes toward cooking.
+
+"It's changing the perception that it's cheaper to get five burgers at McDonalds
+that are 99¢ each, or that it's cheaper to get take-out food because I don't have oil in my
+kitchen, I don't have the things that I need to prepare food. Buying the staples (such as
+olive oil) are initially expensive, but you only get them every month and a half. So
+making rice and beans and kale is cheaper per person in the long run." 16
+
+Teaching these practical lessons has a far reaching affect for many of the students. Based
+on surveys and follow-ups, UNI staff knows that students are using the recipes they learned in
+school at home. Some students are responsible for cooking their family's dinners, and Danny
+has received numerous calls from parents thanking the organization for the healthy recipes and
+for teaching their children how to prepare them. This positive influence of changing what foods
+people chose to buy may have a counter-affect on food accessibility: instead of providing foods
+with the hopes that residents will purchase them, community members are buying different foods
+that, in time, may affect the marketing demographics of what is available in West Philadelphia.
+By increasing the demand for healthy foods, the community gains more accountability by having
+a larger stake in its food system and UNI as an organization gains legitimacy in its avocation for
+nutritional change. The whole foods movement gains greater overall authority as the people for
+whom change is intended take ownership of their food systems.
+
+16
+
+Gerber, Danny. Personal interview. August 3, 2005.
+
+33
+
+Lisa Patterson
+
+Senior Thesis
+"I feel like, if we want to revert back to local agriculture, it's going to take more
+
+than some community gardens. On small scales, it works, but on a large scale, it would
+take a huge partnering between the government and farms and I feel like it would be a
+really big undertaking. At the same time, I see UNI making its way throughout the city
+and making an impact." 17
+
+During the six week summer camp, the garden crew took a field trip to a well-known
+CSA garden in West Philadelphia called Aspen Farm. The garden is run by local community
+members, each with their own plot of land, and is managed by Mr. Hayward Ford, an avid
+gardener and community leader. Speaking with Mr. Ford, I learned of the garden's history as a
+once-vacant lot that residents turned into a thriving half-acre garden in the 1970's. Looking
+around, it was obvious Aspen Farm was cultivated by gardeners with many years of experience.
+Although the UCHS garden was impressive for high school students, this plot was chock full of
+several species of every vegetable I knew, including corn stalks, as well as numerous flower
+beds, a fish pond and picnic pavilion. An irrigation system, professional murals and expert
+fencing showed off the time and expertise the residents had invested into their garden.
+The gardeners told me that students from area middle schools often helped out in the
+summers and weekends with the work and that they produced an abundance of crops, allowing
+Aspen Farm to donate to local families and organizations like MANNA, a food service agency
+for people living with AIDS, and PhilAbundance, a hunger-relief organization ("[MANNA]
+About Us" and "[PhilAbundance] About Us").
+Comparing Aspen's structure with those of my case studies, immediate differences
+became apparent. Whereas the Ark CSA garden provides discounted produce for its clients,
+Aspen is run by its members and their donations to others come from the surpluses which are
+17
+
+McCulley, Aubrey. Personal interview. August 5, 2005.
+
+34
+
+Lisa Patterson
+
+Senior Thesis
+
+grossed voluntarily, not from the desire to generate a profit. Furthermore, the community
+surrounding Aspen Farm, called Mill Creek, was significantly different than that of Todd,
+Arkansas. Although the median household income in West Philadelphia is $16,157 as opposed
+to Todd's rate of $29,596, Mill Creek looks richer, both aesthetically and socially. Despite the
+friendliness of the citizens, Todd had the look of a dilapidated town. Community members
+credit Aspen as their source of inspiration, and the garden's website describes the blocks of
+homes around the farm as "a well-cared for island surrounded by vacant lots, deteriorating
+buildings, and poorly-maintained public housing," ("Aspen Farm Community Garden").
+Through its citizens' management over the garden, the power of Aspen Farm had empowered
+and mobilized the community to change their neighborhood for the better and utilize the garden
+as a community center.
+The obvious parallels between Aspen and UNI are plentiful. Although UNI is a youth
+strategy and Aspen focuses on Mill Creek residents, their approaches to management and
+empowerment are highly similar. Aspen Farm serves as a blueprint for UNI in their
+determination in being a community-based organization by hiring more former youth workers
+from the public schools in staff and leadership positions. Although perhaps not part of UNI' s
+direct mission, the organization wishes to work as collaboratively as possible in supporting more
+community-based solutions to food insecurity, especially in the development of farmers' markets
+that are free of large scale food purveyors. This decidedly more democratic approach to food
+selling is in UNI's interest, even if their stance is from a sideline perspective as their focus
+remains in youth development.
+
+"The biggest question is: how do we make organic, local food affordable to poor
+people? Until there's an over-supply, you're not going to see the prices go down that
+
+35
+
+Lisa Patterson
+
+Senior Thesis
+
+much. We need more supply and I think that UNI is pretty good at creating decentralized
+networks. We have a church out in Broomall who started a garden this year, and their
+service project is growing food and donating it to UNI. Our kids are then, in turn, selling
+it at cheap prices at our farmers' markets. I can imagine a decentralized network of 300
+church gardens all over the suburbs of Philadelphia, all over the nation, kind of like the
+old-school victory gardens that will battle obesity and that will help take back our food
+system." 18
+
+When asked where he would like to see UNI go, Danny talks about using the current state
+of food systems to bolster interest in the organization's message. Applying the ultimate
+optimists' concept that when something is so bad it can only improve, UNI can use our nation's
+degraded nutritional condition to show how it may be improved by community gardens and
+youth education. By being more self-sufficient with funding and resources, UNI is in a position
+to advocate for and involve itself with community development and local garden initiatives.
+There is talk about creating more gardens and even healthy vending machines.
+
+18
+
+Gerber, Danny. Personal interview. August 5, 2005.
+
+36
+
+Lisa Patterson
+
+Senior Thesis
+
+CONCLUSION
+
+In my effort to understand how successful community development strategies work, I
+stumbled upon one of the ways social movements happen. Sometimes these types of events do
+not register with people, depending on how it affects them, and social movements go undetected
+by individuals who are, for the most part, uninvolved. It can be difficult to spot a movement if
+you are not looking for it; however, from seeing the utter dedication by those with whom I
+worked, I believe it may be more difficult to start a movement if you do not know where to
+begin. While conducting my fieldwork, I asked myself many questions to which even now,
+almost three years after I began this research, I still do not know. Likewise, I have much data
+that I did not add to this paper for other reasons, still-more time and more insight through
+experience will allow me to continue with the work.
+Some questions that stick with me revolve around the structure of social movements.
+Although I believe I see how they can begin, I wonder how they are maintained. In her book, Of
+
+Myths and Movements about the Chipko social movement in India during the 1970' s, Haripriya
+Rangan explores the conceptual framework of movements through memory and analysis of
+cultural landscapes. Her work chronicles not only Chipko, but the process by which movements
+transform through power struggles and reemerge as myths (Rangan 2000). To combine these
+theories with qualitative analysis methods-such as those which deal with linguistics--could be
+a worthwhile venture in progressing with this idea.
+There lies in some people a desire to improve conditions, even if those conditions are not
+one's own. The various disciplines of social science have much to say in regards to outside
+intrusion, speaking for the subaltern and stepping in to cultural conflict. As a student of
+
+37
+
+Lisa Patterson
+
+Senior Thesis
+
+anthropology, I am familiar with these concerns and share them with my predecessors.
+However, anthropology is one of the few social sciences where its scientists get to theorize,
+experiment and advocate-many times, all within the same research paper. This is why it
+possesses some of the greatest potential for bettering the human condition and why it is my
+favorite social science. I enjoyed my time immensely while studying these sites. As always, I
+took much more than I gave, this is always the case with community service it seems, but I
+walked away knowing I helped to some extent. Community development, as I witnessed it, was
+a jumble of events, people and goals, all so complex, even for one neighborhood or one agency.
+The Ark of Hope Foundation is one of the most brilliant international hunger and poverty
+relief organizations in the world. Their educational ranches are beautifully adopted into their
+quiet fundraising method and I appreciate their independence from government sourcing. UNI,
+as a young organization, is rightly concerned with spreading out to fasten themselves and their
+mission to the culture and education of Philadelphia's youth. I believe the Ark ranch has taken
+the good ideas of community-supported agriculture and misapplied them through the best of
+intentions. Theirs is a charity, not a community-solution. In the spirit of their international
+projects where, undoubtedly, they produce achievements in sustainability and empowerment
+regularly, it would be in their best interests-in other words, the interests of the community-to
+revitalize the program and make their hometown just another one of the Ark's success stories.
+Power is the key to all of these events. It is the driving force and agent of change in
+successful development schemes through the transitioning of power relations and as the action of
+social movement. In reference to social movement, I believe there are two specific types: social
+movement/mobility and social movements/mobilization. These are intrinsically related and can
+be easily confused, but a difference does exist. When speaking about social mobility, it is a more
+
+38
+
+Lisa Patterson
+
+Senior Thesis
+
+present action that encompasses various events; the example here is the Urban Nutrition
+Initiative's progression from a university project to a community-based solution managed by
+residents of West Philadelphia. On the other hand, social mobilization may be defined as the
+effects of power transitions in communities. How UNI will change from its progress as a social
+movement and through its accomplishments as a community development program will be
+demonstrated through the social mobilization the organization manages to empower.
+
+39
+
+Lisa Patterson
+
+Senior Thesis
+
+REFERENCES
+
+"A Living Chain of Giving." Heifer International. 2006.
+<http://www.heifer.org/site/c.edJRKQNiFiG/b.201549/>
+"About Us." MANNA. 2004.
+<http://www.mannapa.org/frameset.asp?>
+"About Us." PhilAbundance. 2005.
+<http://www.philabundance.org/aboutus/>
+"America's Fattest Cities 2005." Men's Fitness. 2006.
+<http://www.mensfitness.com/rankings/3 04>
+"Aspen Farm Community Garden." West Philadelphia Landscape Project. 1997.
+<http://web.mit.edu/wplp/plan/aspen.htm>
+"The Black Bottom Community." BlackBottom.org. The Palmer Foundation, 2003.
+<http://www.blackbottom.org/blackbottom/history/index.html>
+"CCP History." Center for Community Partnerships, University of Pennsylvania. 2005.
+<http://www.upenn.edu/ccp/about/history.shtml>
+"Childhood Obesity." American Obesity Association. May 2, 2005.
+<http://www.obesity.org/subs/childhood/prevalence.shtml>
+Goodenough, Ward Hunt. Cooperation in Change: An Anthropologic Approach to Community
+Development. New York: Russell Sage Foundation, 1963.
+Gouinlock, James. "Dewey, John." Routledge Encyclopedia ofPhilosophy. 1998.
+<http://www.rep.routledge.com/article/DDO 16SECT4>
+"Healthy Food for Everyone!" People's Grocery. 2006.
+<http://www.peoplesgrocery.org/mission.html>
+Johnston, Francis E. "Nutritional Anthropology." University Museum, University of
+Pennsylvania. Fall semester, 2004.
+Johnston, Francis E. "The Urban Nutrition Initiative: Bringing Academically-Based Community
+Service to the University of Pennsylvania's Department of Anthropology." The Urban
+Nutrition Initiative. 2005.
+<http://www.urbannutrition.org/UNI/documents/files/servicelearning.html>
+Marx, Karl. "Wage, Labour and Capital." Marx-Engels Reader. 2nd ed. Ed. Robert C. Tucker.
+New York: W.W. Norton, 1978. 203-17.
+
+40
+
+Senior Thesis
+
+Lisa Patterson
+
+Nicklas, Theresa et al. "Eating Patterns and Obesity in Children: The Bogalusa Heart Study."
+American Journal of Preventive Medicine. (2003): 9-16.
+Patterson, Lisa. "Heifer International and Mercy Corps." Undergraduate paper. University of
+Pennsylvania, 2005.
+Rabinow, Paul, ed. "Introduction." Foucault Reader. New York: Pantheon, 1984. 3-29.
+Rangan, Haripriya. Of Myths and Movements: Rewriting Chipko into Himalayan History.
+London: Verso, 2000.
+Salamon, Lester M., ed. The State ofNonprofit America. Washington, D.C.: Brookings
+Institute, 2002.
+"School Profile: University City High School." School District of Philadelphia. 1995.
+<http://partners. upenn. edu/wp/k 12/uchs/pro file.html>
+Stewart, Angus. Theories of Power and Domination. London: SAGE, 2001.
+Trouillot, Michel-Rolph. Global Transformations: Anthropology and the Modern World. New
+York: Palgrave, 2003.
+"UNI Programs." The Urban Nutrition Initiative. 2005.
+<http://www.urbannutrition.org/programs.html>
+"U.S. States and States Median Household Income." U.S. Census Bureau. 2004.
+<http://factfinder.census.gov/servlet/GRTTable?_bm=y&-geo_id=04000US05&- box_head_nbr=R2001&-ds_name=ACS _2004_EST_GOO_&-_lang=en&redoLog=false&-format=US-30&-mt_name=ACS _2004_EST_GOO_R2001 _US30&sse=on>
+Wallerstein, Immanuel. World-Systems Analysis: An Introduction. Durham, North Carolina:
+Duke University, 2004.
+
+41
+
+

@@ -1,0 +1,1206 @@
+Anthropology Senior Theses
+
+University of Pennsylvania
+
+ScholarlyCommons
+Department of Anthropology
+
+Spring 2007
+
+Dental Attrition and the Third Molar
+David DiPaola
+University of Pennsylvania
+
+Follow this and additional works at: https://repository.upenn.edu/anthro_seniortheses
+
+Q
+
+Part of the Anthropology Commons
+
+Recommended Citation
+DiPaola, David, "Dental Attrition and the Third Molar" (2007). Anthropology Senior Theses. Paper 91.
+
+This paper is posted at ScholarlyCommons. https://repository.upenn.edu/anthro_seniortheses/91
+For more information, please contact repository@pobox.upenn.edu.
+
+Dental Attrition and the Third Molar
+Disciplines
+Anthropology
+
+This thesis or dissertation is available at ScholarlyCommons: https://repository.upenn.edu/anthro_seniortheses/91
+
+David DiPaola
+
+Dr. Janet Monge
+Senior Honors Thesis
+Dental Attrition and the Third Molar
+May 6, 2007
+
+Abstract
+
+The third molars, or the 'wisdom teeth' as they are known commonly, are a set of
+teeth that develop and descend later in a human's life. Third molars are not exclusive to
+present-day humans. They are found in almost all anatomically modem humans, with
+some exceptions, including those from times well before any form of dental care is
+known to have existed. This leads to the main question addressed within this paper:
+What differences between ancient humans and modern humans may have allowed ancient
+humans to readily accept the third molar into their dentition, as compared to the issues
+faced by modern humans?
+The main theory analyzed here will be the proposed idea that dental attrition in
+ancient humans would have provided room to allow the third molar to grow in relatively
+pain-free. In this project, I analyzed 50 skulls (a combination of maxilla and mandibles)
+from a combination of the Tepe-Hissar Collection (representing an 'ancient' population),
+the Morton Collection, and a handful of others (representing a 'modern' population),
+measuring values of length, width, tooth spacing, toot diameter, attrition, and presence of
+third molars. Through this comparative study, it was determined that there is strong
+evidence for higher attrition in the Tepe-Hissar skulls, and a far lower percentage of
+complications involving third molars in skulls that had third molars in Tepe-Hissar,
+32.14%, then in the Morton, 57.14%, or the others, 75%. This shows that there may
+indeed be an inverse relation with dental attrition and third molar-related incidents.
+
+11
+
+Table of Contents
+Title Page
+Abstract
+
+ii
+
+Table of Contents
+
+iii
+
+Problem Statement
+
+1
+
+Context
+
+2
+
+Methodology and Process
+
+4
+
+Results
+
+6
+
+Analysis
+
+11
+
+Maxilla and Mandible Sizes
+
+11
+
+Third Molar Eruption and Complications
+
+12
+
+Dental Attrition and Spacing
+
+13
+
+Dental Size
+
+16
+
+Conclusions
+
+17
+
+Appendix
+
+19
+
+Bibliography
+
+23
+
+111
+
+Problem Statement
+The third molars, or the 'wisdom teeth' as they are known commonly, are a set of
+teeth that develop and descend later in a human's life. On average, the third molar
+erupts between the ages of 15 and 21 in modern humans (Byers, 222), and is often
+accompanied by a great deal of pain or discomfort. According to Byers, "the pain is
+caused by the crowns of these teeth bumping against bumping against the second molars
+due to a lack of space in both the upper and lower jaws" (Byers, 57).
+Third molars are not exclusive to present-day humans. They are found in almost
+all anatomically modern humans, with some exceptions, including those from times well
+before any form of dental care is known to have existed. This leads to the main question
+addressed within this paper: What differences between ancient humans and modern
+humans may have allowed ancient humans to readily accept the third molar into their
+dentition, as compared to the issues faced by modern humans?
+The main theory analyzed here will be the proposed idea that dental attrition in
+ancient humans would have provided room to allow the third molar to grow in relatively
+pain-free. Through the comparative analysis of a modern collection, and an ancient
+collection, the validity of this theory will be tested.
+
+I
+
+Context
+
+Humans grow teeth at different rates, and the focus for this study is the third
+molar. Typically, a human will have, including 3'd molars, 16 permanent teeth in their
+maxilla, and 16 in their mandible. The teeth grow in the pattern displayed in Figure 2-1.
+
+It has also been asserted that, on average, jaw size of present-day humans does not differ
+far from that of ancient humans.
+Figure 2-1: Human Dentition (Dr. Gold, Online)
+
+The collections selected for this are based on availability and pertinence to this
+study. On average, humans of European descent have smaller faces than those of other
+decent. Because of this smaller size, the problems with the eruption of the third molar
+are much more prevalent in peoples of European descent. Towards this end, I elected to
+use two skull collections from the University of Pennsylvania's collections. The Morton
+collection provided me with a range of fairly modern (within the past 100 or so years)
+skulls to analyze from varying descent. From these skulls, I selected mainly those
+marked as having been adults of European-descent.
+
+2
+
+For the ancient population, I used the skulls available from Tepe-Hissar. TepeHissar is a site that was continuously inhabited from the fifth to the second millennium
+BCE. (Gursan-Salzmann, Online). It is located in present-day North-Eastern Iran (see
+figure 2-2), and while not directly in Europe, it is used to represent an ancient European
+population. The University of Pennsylvania Museum has a wide selection of specimens
+from Tepe-Hissar, and thus I was able to form a good basis for analysis and comparison
+on these two collections. Within this subset, I selected for mainly age; preferring to use
+only the skulls from fully-matured humans.
+In addition to these skulls, I took a few samples from collections whose names I
+am unaware of, or skulls from non-European areas. Some of these samples were taken
+as comparative samples: something more to look at in light ofmy data, while many were
+taken simply as further representations of modern humans. Here again, I selected based
+on age, preferring those skulls that had been adults with near-fully to fully erupted
+dentition.
+
+3
+
+Methodology and Process
+
+For this study, I measured 50 samples from the bone storage room of the
+University Museum. A 'sample,' as defined here, is a specific skull, or skull and
+mandible combination. Of these 50 samples, 15 came from the Morton collection, and
+an additional 6 came from other modem collections, for a total of approximately 20
+modem samples. The rest of the samples came from the Tepe-Hissar collection, giving a
+30 sample representation of 'ancient' skulls.
+The main point of study for this paper is the dental attrition, and the presence of
+the 3rd molar, thus a number of observations were made to compliment measurements
+taken with a dial caliper. The data collected fell into a pair of classifications: general
+comparison, and molar attrition. Under general comparison, I conducted measurements
+of the length and width of the maxilla and mandibles available. The length was defined
+as the inner distance between the third molars (or the back-most portion of the maxilla or
+mandible). The width was defined as the distance from the back of the front teeth to the
+midpoint of the third molar (to give a sense of the original depth of the mouth). These
+measurements give a general basis for comparison of specimens, and for testing the
+assertion of size stability over time.
+The molar attrition measurements were much smaller, more specific ones. In
+particular, the spacing between the 2nd and 3rd molars of each specimen was measured,
+taking measurements for both the right and left of the mandible and maxilla. In this
+study, "Right" is considered the right side of the sample from the sample's view, and left
+is similarly defined. This was taken as the maximum distance between the two adjacent
+teeth, which usually occurred at the base of the tooth. In a few cases, where the third
+
+4
+
+molar is missing and it was impossible to estimate its previous location (if indeed it had
+been there to begin with), the distance between the 1st and 2nd molars was taken instead.
+Secondly, the diameter of each second and third molar present, as well as those which
+had left enough evidence to estimate their diameter, was measured.
+The series of observational data recorded dealt with measuring apparent attrition
+based on cusp-wear, the presence of the third molars, and the apparent 'fit' of the mouth
+(how well the teeth fit together, or if there were any misalignments). The scale I used for
+attrition was a generalized Low to High scale, with Low meaning virtually no attrition,
+Medium meaning that the cusps show a bit of flattening but still retain their shape, and
+high meaning that the cusps are completely flattened. As a corollary to this observation,
+I also noted the 'depth' of the enamel in the notes on a number of specimens, as the
+differences in this characteristic became apparent after working with many skulls.
+Additionally, the simple observation as to whether or not the third molars were present
+and what condition they were in were recorded to ease in analysis. Finally, the tooth
+position was accounted for when it was remarkable, such as the misalignment of teeth, or
+crowding, etc.
+
+5
+
+Results
+The results to this study are presented in table form in the appendix section, as
+Table A-1. This table represents the compilation of the recorded data, sorted by
+collection, with those from the unknown collection presented first, followed my the
+Morton collection samples, which are in turn followed by the Tepe-Hissar samples. The
+mandible and maxilla are denoted as lower and upper, respectively, and this classification
+is used to separate measurements. Skulls with both pieces were simply recorded and
+entered twice: once for the mandible, once for the maxilla. To compile and analyze the
+data, the averages of each feature (i.e. spacing or length) were taken across each
+collection (and the 'Other' and Morton collections were averaged together). The original
+compilation of averaged data is presented in the appendix as Table A-2. Furthermore, I
+have also presented the original difference between the feature values in Table A-3 of the
+appendix, allowing for further comparisons.
+In addition to these tables, side-by-side comparison charts provide a good
+graphical representation for comparison: Figure A-1 of the appendix presents the original
+comparison between collections of the general characteristics (length and width), while
+Figure A-2 presents a side-by-side view of the width, spacing, and tooth diameter.
+Finally, Figure A-3 presents a graphical representation of the difference between the
+Tepe-Hissar site and the other sites: this is an analysis of the values obtained from TepeHissar minus those obtained from the other collections.
+Upon inspecting my data, I have also found a number of 'reference' skulls and
+skulls that may unjustly misbalance the data. These skulls are those taken from the
+Morton Collection and used in general cross-culture analysis, and one juvenile taken
+
+6
+
+from the Tepe-Hissar collection (evidenced by the presence of deciduous teeth). I have
+provided the corrected tables and graphs here as Table 4-1, The Corrected Averages,
+Table 4-2, The Corrected Differences, Figure 4-1, The General Values' graph, Figure 4-2,
+The Width-Spacing-Diameter Values' graph, and finally Figure 4-3, The Corrected
+Differences Graph.
+Table 4-1: Corrected Averages
+
+Length
+
+Width
+
+Spacing
+
+M
+
+0
+
+MO
+
+TH
+
+Averages
+
+Morton
+
+Other
+
+M+OAverage
+
+Tepe-Hissar
+
+Upper
+
+1.695357
+
+1.7058
+
+1.700578571
+
+1.698391304
+
+Lower
+
+1.7213
+
+1.82065
+
+1.770975
+
+1.773375
+
+u
+
+1.630964
+
+1.58192
+
+1.606442143
+
+1.566978261
+
+L
+
+1.39564
+
+1.5708
+
+1.48322
+
+1.420575
+
+U Right
+
+0.09782
+
+0.0949
+
+0.09636
+
+0.095111111
+
+0.077589
+
+0.09126
+
+0.084424444
+
+0.137111111
+
+LR
+
+0.1006
+
+0.1155
+
+0.10805
+
+0.098125
+
+LL
+
+0.10407
+
+0.1355
+
+0.119785
+
+0.142184211
+
+UR2"'
+
+0.319
+
+0.294625
+
+0.3068125
+
+0.309021053
+
+UL 2"'
+
+0.316429
+
+0.30275
+
+0.309589286
+
+0.307075
+
+UR 3rd
+
+0.26816
+
+0.25866667
+
+0.263413333
+
+0.27431875
+
+UL 3''
+
+0.271133
+
+0.26366667
+
+0.2674
+
+0.281184211
+
+LR2"'
+
+0.385
+
+0.36
+
+0.3725
+
+0.3165
+
+LL 2"'
+
+0.365
+
+0.346125
+
+0.3555625
+
+0.340222222
+
+LR 3''
+
+0.372
+
+0.372875
+
+0.3724375
+
+0.356735294
+
+LL 3''
+
+0.391
+
+0.39225
+
+0.391625
+
+0.342058824
+
+U Left
+
+Diameter
+
+7
+
+Table 4-2: Corrected Differences
+
+Length
+
+Width
+
+Spacing
+
+Diameter
+
+Differences
+
+TH-M
+
+TH-O
+
+TH-MO
+
+Upper
+
+0.003034
+
+-0.00741
+
+-0.00219
+
+Lower
+
+0.052075
+
+-0 04727
+
+0.0024
+
+u
+
+-0.06399
+
+-0.01494
+
+-0.03946
+
+L
+
+0.024935
+
+-0.15023
+
+-0.06265
+
+U Right
+
+-0.00271
+
+0.000211
+
+-0.00125
+
+U Left
+
+0.059522
+
+0.045851
+
+0.052687
+
+LR
+
+-0.00248
+
+-0.01738
+
+-0.00993
+
+LL
+
+0.038114
+
+0.006684
+
+0.022399
+
+UR2"'
+
+-0.00998
+
+0.014396
+
+0.002209
+
+UL 2"'
+
+-0.00935
+
+0.004325
+
+-0.00251
+
+UR 3''
+
+0.006159
+
+0.015652
+
+0.010905
+
+UL 3''
+
+0.010051
+
+0.017518
+
+0.013784
+
+LR 2"'
+
+-0.0685
+
+-0.0435
+
+-0.056
+
+LL 2"'
+
+-0 02478
+
+-0.0059
+
+-0.01534
+
+LR 3''
+
+-0.01526
+
+-0.01614
+
+-0.0157
+
+LL 3"
+
+-0.04894
+
+-0.05019
+
+-0.04957
+
+8
+
+Figure 4-1: General Values
+Averages
+2
+
+1.8
+1.6
+14
+
+;g:
+
+El Morton
+
+•
+
+Ill Other
+
+1
+
+f
+
+DM+OAverage
+□ Tepe-Hissar
+
+<
+
+0.8
+0.8
+04
+0.2
+0
+U Length
+
+UWidth
+
+L Length
+
+LWidlh
+
+Feature
+
+Figure 4-2: Width-Spacing-Diameter Values
+Averages
+0.45
+
+04
+
+0.35
+
+0.3
+
+[
+
+•
+
+l!li! Morton
+
+0.25
+
+Ill Other
+
+~
+
+~
+
+>
+
+"
+
+□
+
+0.2
+
+M+O Average
+
+□ Tepe-Hissar
+
+0.15
+
+0.1
+
+0.05
+
+Feature
+
+9
+
+Figure 4-3: Differences
+Differences
+0.1
+
+0.05
+
+0
+
+~
+
+IG!ITH-M
+IIITH.Q
+
+~
+
+jDTH-MO_
+
+§ -0.05
+
+i5
+-0.1
+
+-0.15
+
+-0.2
+Features
+
+The Differences in Figure 4-3 may possibly show changes over time. In this case,
+a negative value represents an increase in size over Tepe-Hissar. While, a positive value
+means that the Tepe-Hissar values are larger than those of the more modern samples.
+In addition to these results, it was found that 4 of the 6 'Other' skulls showed
+signs of having erupted 3'd molars, with 3 of them exhibiting some form of complications
+(mainly tooth skewing). 14 of 15 Morton skulls showed signs of having erupted 3'd
+molars, with 8 of them exhibiting some form of complications (mainly tooth skewing and
+crowding again, with one example of actual non-development of 3 3'd molars), and 2
+additional skulls exhibiting reduced size of the 3'd molar. Finally, 28 of 30 Tepe-Hissar
+skulls showed evidence of 3'd molars; with 9 of them exhibiting some form of
+
+10
+
+complications (mainly intradontal carries pathologies, with only 3 examples of
+skewing/spacing issues).
+
+Analysis
+Maxilla and Mandible Sizes
+To begin with, an inspection of Figure 4-1 shows that, at least for the
+samples studied, the Tepe-Hissar samples are consistently smaller than the other
+samples. Rather than size reduction over time, the modern samples appear to be
+larger than the ancient samples in every aspect (length and width of the maxilla
+and mandible). This is important to note, as it seems almost contrary to what
+would be expected if it were reduction in size that were causing the increased 3'd
+molar issues.
+This issue may be explained through a number of factors. First, there
+could indeed be an increase in jaw size over time: this would certainly explain the
+values. Despite this seemingly straightforward explanation, however, there are a
+number of other possibilities. Perhaps the most dominant of these is that the
+skulls are simply from different locals. While close to European civilizations,
+Tepe-Hissar is considered near-east. The conditions there may have long
+effected human development, as compared to locales further North in Europe, and
+thus caused a reduction in size of the mandible and maxilla that was never
+paralleled elsewhere. Additionally, the skulls I selected from the Morton
+Collection, while mostly European, had great variability in terms of time and
+locale of origin. This second explanation seems to be the most feasible one.
+
+11
+
+Third Molar Eruption and Complications
+Perhaps one of the most significant results, in terms of validating my
+research, were those presented at the end of the Results section: the results
+regarding the presence of the third molar, and complications within all of the subpopulations of the study. From the "Other" Category, 66.66% showed evidence
+of third molar eruption and of those 75% showed complications, mainly
+represented by tooth-skewing.
+Furthermore, while 93.33% of the Morton samples examined showed
+signs of third molar eruption, 57.14% of those showing the third molars showed
+some a problem within their dentition. Again, this was mainly a problem with
+spacing and alignment, but a few intradontal cavities were observed, as well as
+the interesting sight of a skull that had only erupted a single third molar, and
+showed no sign of the other molars (erupted or not erupted). This one, in
+particular, may be a sign of a further 'evolutionary step' away from the
+development of the third molar.
+Finally, 93.33% of the Tepe-Hissar samples showed evidence for having
+third molars. Of these, only 32.14% showed any signs of issues that could be
+linked to the third molar. Many of these issues were simply intradontal cavities
+which, while linked to the third molar (mainly because many of them occurred on
+the third molar), may not be caused by the appearance of said tooth. It is very
+likely that dental care at Tepe-Hissar was not at a very high standard, if there was
+actually any at all. Also, given the time-periods of occupation, and that it was an
+urban center the main meals of the inhabitants ofTepe-Hissar would likely have
+
+12
+
+consisted of a few meats, sticky breads/grains, and likely more than a few rockparticles from the tools used to grind the food. It is well known that, as humans
+moved to sedentary life-styles, the number of cavities apparent in any one sight
+increased (this is suspected to be caused by the change in diet: to more sticky
+breads, etc.). Therefore, it is likely that these cavities were not a result of the
+third molar erupting, but rather one of poor diet and lack of dental care.
+What these results imply is that, while the number of occurrences of the
+third molar may have decreased slightly over time, it seems apparent that the rate
+of complications regarding this has increased a fairly large deal over the time.
+While there are arguments against this conclusion, this somewhat validates the
+statement made that in modem times, there are more issues with the third molar
+than there were in ancient times.
+
+Dental Attrition and Spacing
+One interesting point to note in this section is that, in general, the attrition
+level of the mandible seemed to be at least a few steps higher than that of the
+maxilla for any particular sample. This is likely an effect of gravity: the
+remaining foodstuffs and any other particles (as in rock dust), would naturally
+gravitate to the bottom of a person's mouth, and thus could cause a myriad of
+problems, such as many more cavities. This observation is simply a point that
+may warrant further investigation, though, as it has only a little bearing on the
+questions presently under investigation.
+
+13
+
+For this comparison, one of the most important data to analyze is the
+information about spacing of the molars. As dental attrition increases, the size of
+the teeth should decrease. It follows from this that the spacing between teeth
+should increase as well. Looking at Figure 4-2 shows a number of interesting
+factors: The spacing on the right side of the samples seems to be almost the same
+on average between each collection, varying by less than 0.003" in either
+direction from the Tepe-Hissar values for the maxilla values, and about 0.0 I" at
+max for the mandible values. This small variation can likely be accounted by
+sample variability and taxonomy (post-depositional deterioration of the samples).
+When one looks at the left spacing values, however, the comparison is
+much different. For the maxilla, the Tepe-Hissar values are nearly 0.05" above
+the other values. Similarly, the mandible values are almost 0.03" above the
+Morton samples, and 0.22" larger than the Morton and Other samples combined.
+While it is possible that these values are caused by sample variability, it seems
+unlikely that there would be enough outliers to skew my collected data so far.
+It is interesting that this great of a difference is only apparent in the left
+
+side of the samples, and while this may have cultural significance, again the
+theme of this report is dental attrition and the third molar. This large of a
+difference does seem to suggest an increase in intradontal room in the TepeHissar samples. Corroborating with this observation are a number of
+observations of the enamel of the teeth. In general, the enamel of the TepeHissar teeth does not extend as low as that of the Morton samples. In fact, many
+of the Morton samples had nearly full enamel, while most of the Tepe-Hissar had
+
+14
+
+only the top halves of their teeth still covered in enamel. This loss of enamel
+again can be caused by site taphonomy, and various post-mortem stresses on the
+remains, but, given the regularity of its occurrence (nearly every Tepe-Hissar
+sample showed a loss of enamel), and its magnitude (at least 1/3, to 3/4 of the
+enamel missing in some cases), I would say that it is likely that much of this
+enamel was worn away while the person was still alive, likely through the process
+of dental attrition. Figure 5-1 displays a picture of a 'reduced enamel' tooth
+besides a non-reduced tooth. How on the left, each tooth has almost the same
+thickness down to its base, as well as the same coloration. In the right picture,
+notice the variable thickness and the color gradation; this is a sign on teeth for
+eroded enamel.
+Figure 5-1: Enamel Comparison Picture
+
+15
+
+Dental Size
+One final question remains in this analysis: How does one explain the
+increase in dental problems associated with the third molar in modern-day
+populations when the modern population seems to have seen an increase in
+maxilla and mandible size? I believe that this question may be answered, or at
+least partially explained by once more returning to Figure 4-2 and inspecting the
+recorded molar sizes. It appears that, in most cases, the samples from more
+recent times have also shown an increase in molar size.
+Inspecting the graph shows that the maxillary second molars are a little
+larger than the Tepe-Hissar second molars (about 0.009" at most). Looking
+further will show that the Tepe-Hissar samples' Maxilla's third molars are
+actually a bit larger than those of the other sections (by about 0.01" at most).
+Beyond these small differences, however, are the differences in the Mandible's
+second and third molars. In these two areas, the values obtained from the TepeHissar specimens are much smaller than from those of the 'present-day' samples.
+This difference is at its max at the right second molar and the left third molars, at
+about 0.0685," and 0.05," respectively.
+Once again, the difference in the data is so great that it is likely an effect
+that is seen throughout the whole population, rather than simply a proliferation of
+outliers, and thus this observation is likely to be significant. If jaw sizes have
+indeed increased over time, then it appears that tooth-size has, in general, also
+increased over time. Since the change in tooth-size does not necessarily match
+pace exactly with the change in jaw size, it may cause one of three things to
+
+16
+
+occur: First, if the rates do match each other, no net change will occur. However,
+the combined change may allow for more room in the jaw, should the jaw be
+growing faster than the teeth. Conversely, if the teeth have grown slightly faster
+than the jaw, this would explain some of the overcrowding and third molar-related
+complications, as the space in the mouth would thus be limited.
+
+Conclusions
+From the data analyzed in this study, there is a good case in favor of dental
+attrition assisting in allowing for the complication-free eruption of the third molar. Both
+the increasing size of teeth in the modern human samples, and the comparatively large
+between-teeth spacing in the ancient human samples seem to implicate at the very least
+that there was indeed more attrition occurring in ancient times. Beyond this, the
+comparative analysis showed that the complications related to third molars show up far
+less frequently in the ancient samples than they do in the modern samples.
+There are a few major issues, though, that face my assertion. One major issue is
+that this relationship, the linking of these two events, does not necessarily prove a causeeffect relationship. There may be other factors that cause the problems I have deemed as
+associated with third molar complications, and thus may have confounded a number of
+my measurements and conclusions. In addition to this, I faced the issue of limited
+sample availability: while I had wanted to focus mainly on people of European descent, I
+had to limit myself to the materials at hand: The best collection representing an ancient
+population presently available to me was the Tepe-Hissar Collection.
+
+17
+
+In order to further solidify my claims, I would have to conduct further research on
+a much larger population size. To eliminate a number of uncertainties, working closely
+with a dentist, or someone better trained in the analysis of teeth would be very helpful as
+well. Working with such a person would help in determining oddities in the samples,
+and in more accurately taking observational notes (i.e. being able to properly tell when a
+tooth is impacted). Additionally, working with a much larger sample size would likely
+help a great deal: it would allow me to see if the averages I had obtained were correct, or
+deviations. Simply put, having a larger sample size allows a researcher to grow closer to
+the true value, as large sample sizes tend to normalize distributions. In association with
+the need of a larger population size, having an ancient population and a modern
+population from the same geography would eliminate much of the uncertainty in
+variations in development that were mentioned in the analysis section.
+In conclusion, the third molar is a tooth that originally, before dental care, had the
+purpose of providing an extra tooth later in life, after the original permanent teeth have
+somewhat decayed. From this reasoning, it appears that there is validity in the theory
+that dental attrition is the major factor that allowed ancient, anatomically modem humans
+to be able to handle the eruption of the third molar with little pain or side effects
+presently associated with this event. The data, as I have presented it, supports this theory,
+and the next steps towards fully affirming it is simply to continue this research.
+
+18
+
+Appendix
+Table A-1: Daf Compilation
+
+,
+
+I
+
+•
+$
+
+!'
+
+i
+t
+
+i
+
+f
+
+t•
+
+il
+f
+
+I
+
+19
+
+Table A-2: Original Averages
+
+Averages
+Length
+
+u
+L
+
+Width
+Spacing
+
+Diameter
+
+u
+L
+UR
+UL
+LR
+LL
+UR2
+UL2
+UR3
+UL3
+LR2
+LL2
+LR3
+LL3
+
+M
+Morton
+1.695357143
+1. 728666667
+1.630964286
+1 .469616667
+0.09782
+0.077588889
+0.10658
+0.107558333
+0.319
+0.316428571
+0.26816
+0.271133333
+0.37725
+0.37025
+0.408
+0.391
+
+0
+Other
+1.7058
+1.82065
+1.58192
+1.5708
+0.0949
+0.09126
+0.1155
+0.1355
+0.294625
+0.30275
+0.258666667
+0.263666667
+0.36
+0.346125
+0.372875
+0.39225
+
+MO
+M+O Average
+1.700578571
+1. 77 4658333
+1.606442143
+1.520208333
+0.09636
+0.084424444
+0.11104
+0.121529167
+0.3068125
+0.309589286
+0.263413333
+0.2674
+0.368625
+0.3581875
+0.3904375
+0.391625
+
+TH
+Tepe-Hissar
+1.698391304
+1.773375
+1.566978261
+1.420575
+0.095111111
+0.137111111
+0.098125
+0.142184211
+0.309021053
+0.307075
+0.27431875
+0.281184211
+0.3165
+0.340222222
+0.356735294
+0.342058824
+
+Table A-3: Original Differences
+Differences
+
+TH-M
+0.003034
+0.044708
+-0.06399
+-0.04904
+-0.00271
+0.059522
+-0.00846
+0.034626
+-0.00998
+-0.00935
+0.006159
+0.010051
+-0.06075
+-0.03003
+-0.05126
+-0.04894
+
+TH-O
+TH-MO
+-0.00219
+-0.00741
+-0,04727 -0.00128
+-0,01494 -0.03946
+-0.15023 -0.09963
+-0.00125
+0.000211
+0.045851 0.052687
+-0.01738 -0.01292
+0.006684 0.020655
+0.014396 0.002209
+0.004325 -0.00251
+0.015652 0.010905
+0.017518 0.013784
+-0.0435 -0 05213
+-0 0059 -0.01797
+-0.0337
+-0.01614
+-0.05019 -0.04957
+
+20
+
+Figure A-1: Original General Values
+Average Comparisons
+
+El Morton
+II Other
+0 M+O Average
+□ Tepe-Hissar
+
+Upper Length
+
+UpperWidlll
+
+Lower Length
+
+Lower Width
+
+Feature
+
+Figure A-2: Original Width-Spacing-Diameter Values
+Skull Averages
+0.45
+
+0.4
+0.35
+0.3
+
+•a
+
+~
+
+GI Morton
+
+0.25
+
+II Other
+□
+
+0.2
+
+M+O Average
+
+□ Tepe-Hissar
+
+0.15
+0.1
+0.05
+
+0
+,;,f.:-6.,
+
+, _~••
+v
+
+c,{::,°"'
+
+0<"
+-c,v
+
+c,$"6.,
+
+s•
+
+'c-0
+v
+
+Feature
+
+21
+
+Figure A-3: Original Differences
+Differences
+0.1
+
+0.05
+
+0
+
+g
+
+lii:ITH-M
+
+~ -0.05
+
+!a
+
+□ TH-MO
+
+C
+
+-0.1
+
+-0.15
+
+Feature
+
+22
+
+Bibliography
+Byers, Steven N. Introduction to Forensic Anthropology. 2nd ed. New York: Pearson,
+2005.
+Gold, Dr. Ronen. "Oral Surgery - Westfield NJ - Referring Doctors." Referring Doctors.
+2007. Oral & Maxillofacial Surgery of Westfield, NJ. 4 May 2007
+<http://www.ronengold.com/referring-doctors.html>.
+Edwards, Michelle J., Mark R. Brickley, Rebecca D. Goodey, and Jonathan P. Shepherd.
+"The Cost, Effectiveness and Cost Effectiveness of Removal and Retention of
+Asymptomatic, Disease Free Third Molars." British Dental Journal 167 (1999): 380384. 20 Mar. 2007.
+Guerrisoli, Danilo M., Rusiel A. Souza, Manoel D. Sousa Neto, Ricardo G. Silva, and
+Jesus D. Pecora. "External and Internal Anatomy of Third Molars." Brazilian Dental
+Journal 9 (1998): 91-94. 18 Mar. 2007
+<http://www.forp.usp.br/bdj/Bdj9(2)/t0492/t0492.html>.
+Hicks, E P. "Third Molar Management: a Case Against Routine Removal in Adolescent
+and Young Adult Orthodontic Patients." Journal of Oral Maxillofacial Surgery 57
+(1999): 831-836.
+The Shelby White-Leon Levy Program for Archaeological Publications. 9 June 2006.
+Harvard University. 4 May 2007
+<http://www.fas.harvard.edu/~semitic/wl/digsites/lran/TepeHissar_ 02/index.htm>.
+Silvestri, Anthony R., and Iqbal Singh. "The Unresolved Problem of the Third Molar."
+The Journal of the American Dental Association 134 (2003): 450-455.
+Teaford, Mark F., Moya M. Smith, and Mark Ferguson, eds. Development, Function and
+Evolution of Teeth. Cambridge: Cambridge UP, 2000.
+
+23
+
+

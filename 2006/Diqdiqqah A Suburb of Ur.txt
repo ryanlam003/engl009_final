@@ -1,0 +1,1329 @@
+Anthropology Senior Theses
+
+University of Pennsylvania
+
+ScholarlyCommons
+Department of Anthropology
+
+Spring 2006
+
+Diqdiqqah, A Suburb of Ur
+Justin Bracken
+University of Pennsylvania
+
+Follow this and additional works at: https://repository.upenn.edu/anthro_seniortheses
+
+Q
+
+Part of the Anthropology Commons
+
+Recommended Citation
+Bracken, Justin, "Diqdiqqah, A Suburb of Ur" (2006). Anthropology Senior Theses. Paper 78.
+
+This paper is posted at ScholarlyCommons. https://repository.upenn.edu/anthro_seniortheses/78
+For more information, please contact repository@pobox.upenn.edu.
+
+Diqdiqqah, A Suburb of Ur
+Disciplines
+Anthropology
+
+This thesis or dissertation is available at ScholarlyCommons: https://repository.upenn.edu/anthro_seniortheses/78
+
+DIQDIQQAH, A SUBURB OF UR
+By
+Justin Bracken
+
+AN UNDERGRADUATE THESIS
+In
+Anthropology
+
+Submitted to the
+Department of Anthropology
+University of Pennsylvania
+
+Thesis Advisor: Dr. Richard Zettler
+
+2006
+
+Abstract
+The site of Diqdiqqah existed as a suburb located about one and a half kilometers
+from the ancient city of Ur in Mesopotamia, and is known to us through the excavations
+at Ur performed by Sir C. Leonard Woolley from 1922 to 1934. The site shows evidence
+of occupation from the Third Dynasty of Ur through the Persian Period. The only
+archaeological evidence remaining at the site was one corner of a building, dubbed the
+"Treasury of Sin-Iddinam" by its excavator Max Mallowan, and numerous artifacts
+strewn across and just below the surface. Over the course of the excavations, about 1600
+artifacts were recovered from the site, all of them without any provenience or
+stratigraphic information, as none could be provided. Analysis of the artifacts and
+inscriptions upon some of them, as well as of the ancient course of the Euphrates River
+and the many canals in the region, indicates that the site may have been a significant
+location for overseas trade coming in from the Persian Gulf. Perhaps most noteworthy
+about the objects found there is the great number of te1rncottas, a number that smpasses
+those found even at Ur. Further investigation into the site may reveal an important node
+in shipping and trade, and possibly even as the "Harbor District" which has never been
+satisfactorily located at Ur.
+
+List of Figures
+Figure 1: Contour map of Ur and the surrounding region, including Diqdiqqah. The
+sketched triangle shows the probable site ofDiqdiqqah (from Woolley and
+Mallow an 197 6 :Plate 115)
+Figure 2: Satellite image of Ur and the surrounding region, including Diqdiqqah (from
+Google Earth)
+Figure 3: Plan of the Treasury of Sin-Iddinam (from Woolley and Mallowan 1976:88)
+Figure 4: Satellite image of probable outline of walls of Treasury of Sin-Iddinam, rotated
+for comparison with Figure 3 (from Google Earth)
+Figure 5: Principal sites in and between Mesopotamia and the Indus (from Possehl
+1996:Figure 1)
+
+11
+
+List of Appendices
+
+Appendix 1: Complete list of objects from Diqdiqqah from the Ur Catalogues
+Appendix la: Scanned sheets from the Catalogue for reference
+Appendix 2: List of terracottas published in the Ur Excavations volumes
+Appendix 3: Dr. Legrain's unpublished manuscript, "Ur Terracottas"
+
+iii
+
+Introduction
+
+"A mile and a half NE. of the ziggurat [at Ur], between the main railway line and
+the Nasiriyah branch, there is a patch oflow-lying ground, occasionally cultivated, which
+the natives call Diqdiqqeh" (Figure I; Figure 2) (Woolley and Mallowan 1976:23). With
+these words we are introduced to the site ofDiqdiqqah by Sir C. Leonard Woolley, in an
+article published in 1923. The site, apparently a suburb of Ur, is known to us through his
+excavations of the ancient city of Ur, which took place from 1922 to 1934. Though likely
+occupied for over 1000 years, the site is characterized (or at least was at the time Woolley
+was there) by an abundance of ancient artifacts, mostly pot sherds but with many other
+types of artifacts as well, strewn across the surface, from which the name of the site
+derives. Woolley writes later that the term is "used for stone ballast or gravel in a stony
+country, and which can by analogy be applied to the contents of such a scrap-heap as
+this" (Woolley and Mallowan 1976:81-82). In the first excavation season at Ur, that of
+1922-1923, the commute to and from the site for a number of the workmen would take
+them on a walk directly across Digdigqah, and they would pick up some of the better
+objects from the surface each day and bring them in to Woolley for a small
+compensation, to which he referred as "baksheesh" (Woolley and Mallowan 1976:82).
+The numerous objects brought to him from the site made it seem that it would be
+worthwhile to pursue excavation there, and on January 4th of 1924, in the midst of the
+second season, a crew set out to do just that. After two days, the excavation was called
+off, as it was determined that the site had been almost thoroughly denuded, and that any
+objects there were loose in the soil, most likely having been shifted from their original
+context by years of plowing the soil (Woolley 1924). Woolley notes that some wall
+
+foundations were found just below the surface, "a few tattered remains ... not yet
+destroyed by the plow, but those were very few and insignificant" (Woolley and
+Mallowan 1976:82) No stratigraphy was present at all, and it was decided that the
+previous system of allowing the workmen to "treasure hunt," being cheaper and
+providing the same amount of information, could be reinstated (Woolley and Mallowan
+1976:82). Thus all of the objects from the site ofDiqdiqqah come with no provenance
+information at all, only the knowledge that they came from near the surface at the site.
+Despite the lack of stratigraphy, a rough chronology of the occupation periods of
+the site, as well as the relative intensity of occupation at the different times, can be
+determined with some degree of certainty from the styles of and inscriptions upon certain
+objects that were recovered there. First amongst these objects are cylinder seals, of
+which 213 were recovered and catalogued from Diqdiqqah. A more in-depth
+interpretation of the cylinder seals appears later in this text, however it is worth noting a
+few details relating them to the chronology of the site. Of the 213 cylinder seals
+recovered from Diqdiqqah, 140 can be assigned with some certainty to a particular time
+period. Ifwe take this sample to be representative of the overall collection of seals, then
+we can make some assumptions based upon them. Of these 140, 95 are attributed to the
+Third Dynasty of Ur, clearly a majority of the seals. Surprisingly few came from the
+Isin-Larsa period (six of them), and 33 of the rest were made pre-Third Dynasty, while
+the last five belong to the late 2nd Millennium. According to this data, if intensity of
+occupation can be guessed at through the number of cylinder seals recovered from
+individual time periods, it would appear that Diqdiqqah grew suddenly from a small town
+or uninhabited site to its greatest prominence at the same time as the rise of the Third
+
+2
+
+Dynasty. The seals dated to before the Third Dynasty could have possibly been
+heirlooms that people brought with them when the intense occupation ofDiqdiqqah
+began, but also probably represent the site existing with less intense occupation pre-Ur
+III. The sudden drop in the number of cylinder seals in moving forward from Ur III into
+the Isin-Larsa period could be interpreted as an equally drastic reduction in the
+population of the site, but other evidence (discussed later) appears to contradict such an
+interpretation. As for the latest batch of cylinder seals, the evidence seems to support the
+interpretation of the low number found as representative of reduced occupation at the site.
+Most importantly, the extraordinary percentage of the cylinder seals found belonging to
+the Third Dynasty strongly suggests that that time period was a highly significant part of
+Diqdiqqah's history.
+Though he does acknowledge the cylinder seals in passing as helpful in dating the
+site, Woolley focuses more upon inscriptions on objects and pottery styles. He states that
+the site began operating in earnest at the time ofUr-Nammu, the first king of the Third
+Dynasty who began his reign in 2112 BC, and bases this interpretation on inscriptions on
+clay cones which mention the building of canals through the site. Further discussion of
+the canals as means of transport of goods which meet at Diqdiqqah appears later in this
+report, but it does appear that the construction of a number of canals which met at
+Diqdiqqah by Ur-Narnrnu led to the site's rise in prominence very shortly thereafter.
+Therefore the rise of the site corresponds closely with the rise of the Ur III dynasty.
+Earlier it was mentioned that cylinder seal production dropped drastically once Ur III
+gave way to the Isin-Larsa period, and that one interpretation of that drop could be a
+corresponding drop in population at the site. However, as the city of Ur remained a
+
+3
+
+powerful force through this time period, it appears that so did Diqdiqqah. First among
+the arguments in favor of this idea is the continuing production ofterracottas, discussed
+later in the terracottas section. Secondly, the construction of the imposing structure of the
+Treasury ofSin-Iddinam at the site sometime after 1850, discussed in the following
+paragraph, means that the site must have still been important and most likely significantly
+populated at that time. Finally, Woolley notes that of the pottery forms found there, "the
+majority belong to the Larsa period," clearly indicating an active town at that time period
+(Woolley and Mallowan 1976:84).
+As the workmen continued prodding through Diqdiqqah in search of objects, one
+of them came to discover the intact foundation ofa large building at the north of the site
+(Figure 3; Figure 4). He reported his discovery to the Ur Expedition leaders, and upon
+inspection they determined the remains to be worthy of excavation. Sir Max Mallowan
+directed the excavation there in December of 1926, and determined that the remaining
+structure comprised only one corner of the original building. The structure was given the
+name "The Treasury ofSin-Iddinam" based upon the presence there of pavement bricks
+with inscriptions that seemed to attribute sponsorship of the building to Sin-Iddinam, a
+Larsa king. Originally thought to be a mortuary chapel for Sin-Iddinam due to part of the
+inscription on the pavement bricks which said that the structure was built "for my father's
+life and for my own life," later investigation showed that this was merely a formulaic
+phrase during that period (Woolley and Mallowan 1976:87). In addition, the presence of
+similar bricks in other structures indicates that it is equally likely that the bricks in
+question were reused, and the inscriptions don't refer to this building at all. SinIddinam's reign lasted from approximately 1849 until 1843 BCE. Though it is uncertain
+
+4
+
+as to whether he ordered construction of the site, we know by his name on the brick that
+the building must have been constructed after his ascendance to the kingship; hence the
+building has a terminus post quern of 1849 BCE. In Mallowan's discussion of the
+structure, he notes that remains present would have "formed one end of a building with a
+great central court" (Woolley and Mallowan 1976:89). The remains contained a hall
+about 20 meters long, and the walls were extraordinarily thick and deep, running "six to
+eight courses below pavement level" (Woolley and Mallowan 1976:89). Along with
+"piers in the shape of a Greek cross," the thick, deep walls almost certainly were built to
+support a vaulted roof. The name itself, which properly is the "Nig-ga-ra-na of SinIddinam," signifies (according to Mallowan) some sort ofrepository (Woolley and
+Mallowan 1976:92). He guesses that it functioned as a repository for a god's treasures,
+but there is very little evidence from the excavation there to lend certainty to any
+interpretation of what may have been stored there. Certainly, though, we can say that the
+large amount of enclosed space that the building had was meant for some sort of storage
+of goods. The terminus post quern of the structure is indicative of the site ofDiqdiqqah
+still being important to the Larsa kings of the mid- to late-19 th century BCE.
+
+The Objects
+Due to the nature ofDiqdiqqah as an archaeological site, a large bulk of the
+information available to us about life at the site comes from the objects recovered from it,
+bearing in mind that no contextual information was or could have been recorded for any
+of them. In addition, the set of objects recovered from the site can by no means be said to
+be complete or even fully representative of the objects that would have been found there
+
+5
+
+during its occupation. The prominence of the remains of the site, observable to any
+casual passer-by, makes it probably that the objects which remained there until the 1920's
+represented only the ones inspected and rejected due to having little perceived value. The
+few objects recovered there by the Expedition that would have had high perceived value
+to looters probably represent the few that were overlooked. To further underscore this
+point, a number of burials were discovered there under the floors of houses, and all but
+one of them had been looted completely (Woolley and Mallowan 1976:84). However
+unfortunate the loss of all of these objects is, we can be thankful that the objects
+discarded as "worthless" by looters turned out to be archaeologically valuable artifacts.
+In addition to their usefulness in helping to date the site and determine the relative
+settlement intensity at different time periods, the cylinder seals also give insight into
+iconography of the time and bear motifs that show similarities to images on terracotta
+plaques. Other interesting objects found at the site include duck weights, amulets, tools
+such as adzes, and molds for making figurines. Of all the types of objects recovered from
+Diqdiqqah, however, the most notable are those made of baked clay or terracotta,
+henceforth referred to as "terracottas". A discussion of them begins below.
+
+The Terracottas
+Perhaps the most noteworthy information to come from Diqdiqqah was the
+abundance of terracottas present there, especially due to the fact that the number from
+this relatively tiny suburb was far higher than the number found in the excavation of the
+entire city of Ur. From my database of objects from Diqdiqqah in the Ur Catalogues, I
+found 514 objects listed as being made of terracotta, though I would consider 498 to he a
+
+6
+
+more accurate number of"terracottas," objects both made of terracotta and being
+figurines or reliefs of some sort as opposed to other objects, such as molds or cylinder
+seals made of terracotta. However, it appears that not all of the objects which can be
+classified as "terracottas" are listed as being made of terracotta. There are many
+variations within the materials listed in the objects descriptions that essentially mean
+terracotta, examples being "baked clay" or "drab clay". Thus, a more comprehensive
+calculation that takes into account all of the small figurines or reliefs found at the site
+yields an approximate figure of 866 total objects that could be classified as "terracottas".
+Part of the reason for the approximation comes from instances where a single catalogue
+number is assigned to a collection of objects; it follows that the actual number of such
+objects is likely higher than the total of 866 given.
+According to Woolley and Legrain (Woolley and Mallowan 1976:171; Legrain
+n.d.:l), over 2600 terracotta figurines were accumulated in the course of the excavation.
+No indication as to how many of those 2600 ended up being included in the Ur Catalogue
+is given, but Woolley does write that "the large majority of the terracottas came from the
+confused and unstratified site ofDiqdiqqah" (Woolley and Mallowan 1976:171). This
+relationship is reflected in the terracottas that were published in volumes VII, VIII, and
+IX of the Ur Excavations series. A total of313 terracottas appear in those three volumes,
+which cover the time from the "Old Babylonian Period" (Volume VII, which begins with
+the Third Dynasty) through the "Neo-Babylonian and Persian Periods" covered by
+Volume IX. This time period roughly corresponds to the time of occupation at
+Diqdiqqah. Of those 313 terracottas, 222 are from Diqdiqqah, a ratio of over 7 out of
+every 10 terracottas having been found at the suburb. An approximate dating sequence
+
+7
+
+for the terracottas has been established by Woolley based upon those recovered from the
+site of Ur itself, which provided statrographic as well as contextual information for the
+objects. Stylistic comparison of the provenanced objects with those from Diqdiqqah has
+enabled attribution of an approximate date to each of the terracottas from the site. Of the
+222 terracottas from Diqdiqqah published in the Ur Excavations volumes, 189 belong to
+the Old Babylonian Period, while 24 belong to the Kassite period and nine to the NeoBabylonian and Persian Periods. As with the cylinder seals mentioned earlier, the count
+overwhelmingly shows intense occupation early in the 2nd millennium, followed by a
+drop off in population, or at least production. The distinction here is that the high number
+in the Old Babylonian period represents both the Ur III and Isin-Larsa periods. In the
+case of the terracottas, it appears very likely that a substantial number were from the
+Larsa time, and that the site was still as lively in that respect as during the Ur III period
+(Legrain n.d.; Woolley and Mallowan 1976:171-172).
+The terracottas show stylistic progression through time. Earlier figurines are all
+handmade, mostly in what is referred to as the "snowman" technique, a very crude style
+with only very basic features. According to Dr. Legrain in his unpublished manuscript
+(Appendix J), the snowman technique is characterized by figures with "pinched noses
+and pellet eyes ... the sex is sometimes dubious ... and the legs are not divided"
+(Legrain n.d.:3-4). In a more elaborate description, van Buren says that in the snowman
+technique, "bit after bit is added to the original lump to mould the limbs and features, one
+dab is stuck on for the nose, others for the eyes, two rolls for arms and so forth" (van
+Buren 1930:xlii-xliii). It appears that at some time around the rise of the Third Dynasty,
+which seems to closely correspond to the increased occupation ofDiqdiqqah, molds were
+
+8
+
+introduced as a means of production. With molds, multiple copies of a figure could be
+created easily, and indeed most of the examples from the site represent mold-made
+figures. In addition, the new technique enabled more intricate modeling than the earlier
+snowman style. Distinguishing between the figures created in a mold requires analysis of
+the subject matter and motifs used; Legrain did just that, and was able to establish a
+stylistic sequence without any knowledge of the stratigraphic context of the different
+types. Later, when stratigraphic evidence was available, Woolley established a sequence
+based upon that, and when he compared it to Legrain's stylistic sequence, he found that it
+matched up quite closely (Woolley and Mallowan 1976:172),
+The scenes represented by the terracottas tend to fall under one of a few general
+categories. Human figurines are very common, none more so than the nude female, often
+depicted with her hands clasped under her breasts (see U.18052, amongst many others).
+Regarding this category of figurines (as well as similar objects depicting nude female
+goddesses, discussed later), there appears to be the typical association between the female
+and fertility, although it is debatable as to whether the nude females represent mother
+goddess figures. Van Buren mentions Parthian slipper-coffins which bear the image of
+the nude female holding her breasts, "an allusion to the mystery of regeneration and
+renewed fertility" (van Buren 1930:xlix). The emphasis on the sexual attributes in the
+form of large breasts and exaggerated pubic area is noted especially in the earlier
+examples, though also through the entire sequence. In additional support of this idea,
+Dales quotes multiple sources who make similar claims about the association of the
+female figurines with fecundity and rebirt.h applied to nature as a whole. V. Gordon
+Childe is quoted there making the claim that the female figurines represent "the greatest
+
+9
+
+forces in nature-fertility and the birth of life," and E.O. James agrees, adding that despite
+whatever erotic element inherent in such a depiction, the emphasis is not on the act of
+lovemaking but on childbirth" (Dales 1960:251 ). In reference to later figurines, van
+Buren notes additionally that "she [the figure] holds her breasts to symbolize the
+bounteous supply of nourishment, one hand or both cover her womb to typify her
+maternal functions or she suckles a child (van Buren xlix). Though van Buren clearly
+agrees with this viewpoint, she also references one particular style of nude female
+figurines shows the subject in the early Sumerian gesture of prayer, "the hand held before
+the breast, the left clasped in the right" (van Buren 1930:1). Such an interpretation
+contradicts the concept of fertility and mother-goddess representations, and instead
+reduces the image to a simple representation of a person praying.
+Many scenes depict gods and goddesses, some identified by name by Woolley
+and Legrain and others known to be such by their style of dress or associated symbols.
+Some of these symbols include the flounced (kaukanes) dress, the homed headdress, and
+a mace, as well as various star and bird symbols (Black and Green 1992:96-97). Notable
+also is that some goddess depictions have the goddess appearing nude, distinct in style
+from the aforementioned nude female figurines but undoubtedly closely related. It is
+likely that most, if not all, of the nude goddess images represent Islar, the goddess of sex
+(Black and Green 1992: 144). The prevalence of scenes depicted on plaques showing
+what are unmistakably divine figures brings to mind van Buren's claim that "a very
+important point to remember about the terra-cottas from Babylonia and Assyria is that
+they all, without exception, had a religious significance" (van Buren 1930:xlviii).
+Though it may be more difficult to agree with such a definite assertion regarding some of
+
+10
+
+the other terracottas, the scenes of gods and goddesses are naturally the clearest example
+of this concept. As might be expected, the images upon the plaques carry meaning
+beyond the exact scene shown thereon. That is to say, not only are there additional
+connotations to the depiction, but also that the scene as it is presented is meant to be a
+shorthand version of a more elaborate scene depicted elsewhere. An example of this is
+the "Presentation Scene," (or, as van Buren refers to it, the "Introduction Scene"), often
+depicted in its entirety on cylinder seals and occasionally on plaques (van Buren
+1930:lxviii). The Introduction Scene in full shows a worshipper being led to "the
+presence of an enthroned god by his patron goddess," and later depictions reduced it to
+just the worshipper and the patron goddess, or even just the worshipper alone (van Buren
+1930:lxviii). The limited space of the typical plaque would have required the artist to
+reduce the scene to a few essential and easily recognizable elements. The resulting
+depiction, one assumes, would be recognizable to the intended viewers at the time as
+representative of the larger scene.
+The god Puzuzu is named by Woolley in the general catalogue as appearing in
+many different depictions on various types of objects found at the site. The full list of
+such objects includes 10 amulets, 4 terracotta masks, 2 pendants, 18 Puzuzu heads, and a
+clay mold for making beads. Most of the heads are made of stone, but some of shell and
+fut are also present. The attribution of the image as the god Puzuzu is given in the Ur
+Catalogues, but it is possible that the representation is really that ofHumbaba. Puzuzu is
+an "Assyrian and Babylonian demonic god of the first millennium BC," according to
+Black and Green, and thus would post-date the objects on which he ostensibly appears
+(Black and Green 1992:147). Though descriptions in the general catalogue name the god
+
+11
+
+as Puzuzu, the descriptions of the terracottas published in the Ur Excavations volumes
+(and appearing in Appendix 2) cite the god represented as either Puzuzu or Humbaba. In
+the story of "Gilgamesh and Huwawa [Humbaba]," Gilgamesh and his servant kill
+Humbaba, who is the guardian of the Cedar Forest (Black and Green 1992:89). Humbaba
+is typically represented as "a human-bodied figure with lion's claws for hands, a
+monstrous face, long hair and whiskers" (Black and Green 1992: 106). One terracotta,
+U.16496, clearly shows this depiction. Though it is likely that many of the images
+attributed to being Puzuzu may indeed be Humbaba, it is less certain as to why he was
+depicted so frequently.
+In addition to the terracottas themselves, molds which were used to make some of
+the terracottas were recovered from Diqdiqqah as well. A total of 19 different molds
+were found there, and they were made of material such as clay, limestone, terracotta, and
+black steatite. The presence of molds at the site, some of which have been successfully
+matched to figurines that they produced, is a clear indication that many of the terracottas
+were made on-site (Woolley and Mallowan 1976:86). In fact, Woolley was of the
+opinion that Diqdiqqah was "mainly inhabited by craftsmen who sought easy access to
+water and clay" (van de Mieroop 1992: 25). The idea of Diqdiqqah as a production
+center for terracottas is compelling, and would perhaps begin to explain why so many
+more were found there than at the site of Ur itself.
+
+Cylinder Seals and Other Seals
+As mentioned previously, 213 cylinder seals were recovered from the site of
+Diqdiqqah. In addition to these, a group of objects (U.16927) was found together which
+
+12
+
+represent the tool kit of a maker of cylinder seals, and separately a few incompletely
+carved cylinders (U.17824, U.16994) were found there as well. As with the terracottas,
+the large number of cylinder seals and the presence of the tools used to create them
+strongly suggest that manufacture took place on-site at Diqdiqqah. Thanks to analysis of
+the cylinder seals from Diqdiqqah petformed by Dr. Zettler, I have been able to provide
+the distribution of the number found from each time period at the site, which is discussed
+in the second paragraph of the introduction with regards to the chronology of occupation
+at Diqdiqqah. As they are personal relics, the cylinder seals may be able to provide
+information about the individuals who lived at Diqdiqqah. Dominique Collon writes that
+"illiterate cultures were generally poorer or technologically less advanced, so their seals
+were often made of soft, easily available stones and showed little variation in design from
+period to period" (Collon 1990: 18). Her statement here may bear some significance to
+the group of cylinder seals found at Diqdiqqah. By my count, 113 of the cylinder seals,
+or slightly over half, were made of steatite, with an additional 8 made out of the similar
+soapstone. Of the harder stones, 14 of the cylinder seals were made of limestone, and
+only 2 were made of haematite. As for design elements, Woolley notes that "the vast
+majority of the cylinders repeat with only minor differences of detail the 'presentation
+scene' wherein the owner is led by his patron god into the presence of one of the great
+deities of the Sumerian pantheon" (Woolley and Mallow an 1976: 169-170). Dr. Zettler
+made a similar point, noting also that "whereas most Ur III seals are inscribed, few from
+Diqdiqqah are inscribed," and that the seals "appear to belong to a lower stratum of Ur's
+population" (Richard Zettler, personal communication 2006). It seems clear that the
+group of cylinder seals from Diqdiqqah are distinct from those discovered at the site of
+
+13
+
+Ur itself, or cylinder seals in general, in being made of softer stone and having little
+variation in design, and by Collon's criteria this indicates a population that is possibly
+illiterate or perhaps just poor.
+In addition to the information they give about the individuals who owned them,
+the seals have economic significance. Dominique Collon writes that the act of sealing
+"guarantees authenticity, marked ownership, indicated participation in a legal transaction,
+or protected goods against theft" (Collon 1990:11). Along with the cylinder seals, it is
+worth noting here the other seals found at the site, those not cylindrical in shape. A total
+of 21 other seals were found, and attributed the following categories in their catalogue
+description: one cone seal, three flat seals, ten seals, six stamp seals, and one stone seal.
+It is likely possible to compress these into three or so categories, but I will leave them as
+
+they have been described in the catalogue. The presence of a variety of seals at the site,
+especially those which can be traced to foreign origin, may give strong evidence for the
+site being a node in long distance, perhaps overseas, trade. More extensive discussion of
+Diqdiqqah in relation to trade takes place in the next section, but it is worth noting here
+one seal which shows definite foreign origin. That seal is U.7683, a "flat seal" of grey
+mottled steatite. It is characteristic of Indus style seals, though it is "either a local
+imitation, made at Ur, of a foreign type, or, more probably, a product of some place under
+the influence of both the Indus and of the Sumerian civilizations" (Gadd 1932: 194). This
+seal, along with all the rest of the cylinder seals and other seals, strongly suggest the
+presence of economic activity at the site, with the possibility as well that foreign
+merchants traveled to the site itself and traded there.
+
+14
+
+Other objects (Weights)
+The remainder of the objects recovered from the site tend to be more utilitarian in
+function, and includes objects such as bowls (24 of them), saucers (6), jars (18), vases
+(64), and goblets (4). While these objects are of interest for various reasons, I will pass
+on discussion of them in order to focus upon the weights found there, which may shed
+some light on what role trade may have played in the ancient city. By my count 52
+weights were unearthed at Diqdiqqah. Twenty of these are duck weights, which are
+weights shaped like ducks, and they are made of a number of different types of stone or,
+in one instance, silver. The others also represent a number of different materials, though
+haematite appears to be the most prevalent. A number of them are inscribed, and their
+weights according to the base measurement of "grains" in use at the time have been
+determined and are included in their description. Some were found as sets, with one set
+of two, one of three, one of four, and one of six all discovered at the site (U.17668,
+U.17924, U.17785, and U.17925, respectively). Barring some abnormal circumstance, it
+is safe to assume that the presence of these 52 weights there represents some sort of trade
+occurring on-site, which will be discussed in the next section.
+
+Trade and the Canal System
+Ur's location on the Euphrates in the south of Mesopotamia, near the Persian
+Gulf, put it in a prime position for trade upriver as well as with cities around the Gulf and
+beyond. In addition,
+Southern Mesopotamia itself was an agricultural and cattle-raising land
+which produced almost nothing else. No metals, no stones or ores, no
+
+15
+
+good timber or other products of trees were to be found there and,
+therefore, these articles must have figured among the most necessary
+imports. As materials for exchange the soil of southern Mesopotamia
+could only offer its agricultural produce such as barley, dates, and sesame,
+or the products of cattle-raising such as butter, cheese and leather
+(Leemans 1960:114).
+Exporting native goods upriver would have been wasteful, for such goods as they could
+offer were already available locally there. Instead, Ur sailors brought their local goods
+south to various sites, though primarily Dilmun, which is modem-day Bahrain (Possehl
+1996:135). A text most likely dated to the early 2nd millennium BCE tells of Ur sending
+barley, sesame oil, precious and exquisite clothes to Dilmun (van de Mieroop 1992: 196).
+In return, it appears that Dilmun sent up large quantities of copper to Ur, making Ur the
+point of entry for copper to the rest of Mesopotamia. Other items sent from Dilmun to Ur
+include lapis lazuli, carnelian, shells, ivory, and "fish-eyes" (probably stones of banded
+agate that resemble eyes) (van de Mieroop 1992: 195). These trading relations of course
+changed over time; Leemans notes that "copper was imported into Ur from Magan during
+the Third Dynasty of Ur and, in large quantities, from Tilmun [Dilmun] in the time of the
+early Larsa kings and the time of Rim-Sin" (Leemans 1960: 121). It appears that trade
+between Ur and Magan during the Third Dynasty was of a very similar nature to the trade
+between Ur and Dilmun described above, which occurred later. It is clear that Ur traded
+the copper acquired from overseas trade upriver to sites in northern Mesopotamia through
+the canal system, though it seems less certain what they obtained in return (van de
+
+16
+
+Mieroop 1992: 198). Further discussion of these southern regions appears in the next
+section.
+
+The Canal System and the "Sea"
+Though the shifting terrain of southern Mesopotamia has made it difficult to
+analyze in the present day, the Euphrates River once ran right along the city of Ur, and an
+elaborate series of canals branched off of the river in the area to irrigate the surrounding
+region (Jacobsen 1960:174). Ancient texts recovered from the area leave us with records
+related to the construction of the canals, often commemorating their completion (Gadd
+and Legrain 1928:Nos. 42, 45, 56, 50). A good number of inscriptions from Diqdiqqah
+mention work on canals in some way, and with good reason: it appears that four canal
+branches met at the site. According to Thorldld Jacobsen, this many canal branches
+meeting at a single point "in a pattern of gravity irrigation can mean only one thing: a
+weir with the fan of branch canals which it serves" (Jacobsen 1960:182). The
+construction of the canals dates to the reign of Ur-Narnmu, who reigned from 2112 to
+2095 BCE. It hardly seems accidental that the completion of the canals appears to
+coincide almost precisely with the beginning of the greatest flourishing of the site of
+Diqdiqqah. The fact that multiple canals met at the site, canals which Woolley cites as
+part of the "irrigation and transport system" that Ur-Nammu did plenty of work to
+establish, does a good amount to explain the sudden interest and population growth there
+(Woolley and Mallowan 1976:83). Though it means little for agriculture at the
+immediate site, the confluence of the canals there meant that it would have been a trading
+crossroads. Although the only building remains found there were those of the Treasury
+
+17
+
+of Sin-Iddinam, loose bricks suggest other buildings having been present that were quite
+probably storage houses. Woolley surmises that they existed on the mounds at the
+northwest of the site, for "store-houses would be needed for goods in transit and the
+waterside would attract industries of various sorts" (Woolley and Mallowan 1976:83).
+Arguments have been made that the Persian Gulf early in the second millennium
+BCE stretched far north of its present-day boundary, potentially as far north as Ur itself.
+Inscriptions on clay cones found at Diqdiqqah (U.2520, U.2701, U.6019, and U.7722)
+from the time of Ur-Narnmu refer to the site as being located on the "Sea" (Jacobsen
+1960:184). Some maps (Leemans 1960:2) even depict the ancient shoreline of the Gulf
+to be only a short distance south of Ur. However, it appears that most experts on the
+region (Jacobsen and van de Mieroop, e.g.) agree that marshes stretched from the Gulf
+coast and Lake Hammar to Ur. "The [Persian Gulf] coastline was somewhere near
+modem-day Basra, and the area in between the Gulf and Ur was covered with large
+marshes and lakes, such as Lake Hammar" (van de Mieroop 1992:21). Though still far
+from the Persian Gulf itself, it appears that the marshes mentioned above were sufficient
+for overseas transport to originate at Ur and make it into the Gulf. Jacobsen notes the
+likelihood that "[Lake Hammar] and the marshes to the South were considered by the
+ancients part of the Persian Gulf with which they connected," which explains their
+reference to the "Sea" that Ur bordered (Jacobsen 1960: 185).
+Two clay cones mentioned at the beginning of the preceding paragraph also
+mention "the ships of Magan" in addition to Ur-Nammu's construction of the temple of
+the god Nanna (Frayne 1997:39-42, inscriptions E3/2.1.1.17-18; Gadd and Legrain
+1928:no. 50). To the ancient Mesopotamians, Magan refen-ed to "a land beyond Dilmun
+
+18
+
+which was located on both sides of the Straits of Hormuz, and it is known that copper
+was its main export to southern Mesopotamia (Figure 5) (Possehl 1996: 136; Leemans
+1960:19). More so than Magan, there is abundant evidence for strong overseas trading
+connections between Ur and Dilmun, with the implication that the ships sailed the all the
+way up to Ur itself (Oppenheim 1954). Thus, although the marshes didn't actually
+represent a part of the Persian Gulf, they did constitute a navigable connection between
+the Gulf and Ur. The flat seal mentioned in the section of this paper entitled "Cylinder
+Seals and Other Seals," though probably not from the Indus but in the style of that region,
+probably shows some trading connection between the Indus and Ur. Possehl writes that
+Meluhha was most likely the ancient name for the Indus region (Possehl 1996: 136).
+Dilmun, Meluhha, and Magan are referenced together often in what Possehl refers to as
+"Dilmun trade" (Possehl 1996: 138). Though trade occurred between Ur, as the gateway
+to the rest of Mesopotamia, and the three regions mentioned, it appears that the primary
+point of contact between them and Ur was Dilmun, which as the closest of the three to Ur
+acted as an entrep6t (van de Mieroop 1992:194). That is not to say that trade only
+occurred between Dilmun and Ur; certainly different routes dominated to varying degrees
+at different times, and routes between Ur and Dilmun, Magan, and Meluhha all were in
+use at some point, as attested by the inscriptions.
+
+Diqdiqqah's Role in Trade
+There is mention in an inscription on a clay cone (U. 7704) of Amar-Suena of the
+"Watchtower of Ur," which Woolley interprets as applying to the site ofDiqdiqqah
+(Woolley and Mallowan 1976:83). It seems plausible that ships entering Ur had to pass
+
+19
+
+Diqdiqqah as they navigated the canal system which led from the marshes into the site
+itself. In a map (Jacobsen 1960:Plate XXVIII) showing the canal system of
+Mesopotamia, it is clear that although Diqdiqqah was located to the Northeast of Ur and
+the ships were arriving from the Southeast, the trip may have required looping north past
+Diqdiqqah en route into the city. Van de Mieroop interprets a previously-mentioned
+clay-cone inscription (Gadd and Legrain 1928:no. 50) as evidence that "access to the
+Persian Gulf was located in the canal system north of Ur, and not in the continuation of
+the Euphrates river east of the city" (van de Mieroop 1992:26). It is also possible that
+such an an-angement was intentional, with Diqdiqqah functioning as a sort of customshouse, regulating movement of goods into and out of the city. With regards to the claycone inscription recently mentioned, the reason that van de Mieroop interpreted it as he
+did was because of the mention on it of "ki-SAR" and "ki-SAR-ra" (Frayne 1997:40).
+The meaning of these terms is not entirely clear, but they appear to refer to a place
+"where ships from the Persian Gulf are tied up," or alternately "a mooring place for ships
+where traders exchanged their goods," and it appears likely that they refer to the site of
+Diqdiqqah (Frayne 1997:40). In addition, there is a connection between the ki-SAR and
+Ningal, the goddess of sailors. If these inscriptions do indeed refer to Diqdiqqah, they
+could tell us a lot about the site. It would imply that the deity of the site was Ningal, and
+that ships docked there so that people could trade with each other. Such an arrangement
+would imply the existence of storage buildings there as well. The impressive size most
+likely attributable to the Treasury of Sin-Iddinam could be interpreted as the building
+being a large store-house of some sort, perhaps for goods moving through the site.
+However, the Treasury dates to approximately 250 years after the construction of the
+
+20
+
+canals mentioned on the inscriptions, but it is possible that it is the successor to earlier
+buildings similar in nature.
+Of the objects found at Diqdiqqah, the texts mentioning trade as well as the
+weights strongly suggest that the site played some role in trade. For better evidence, one
+could establish which of the objects recovered from Diqdiqqah bear a foreign origin.
+Even then, however, it would be difficult to argue that the object arrived directly at
+Diqdiqqah on the way in to Ur as opposed to just being obtained from Ur later. It is
+possible, though, that Diqdiqqah served as a major marketplace for the city of Ur. Van
+de Mieroop notes that "in many Mesopotamian cities, among them Ur, a commercial
+district existed outside the city walls in an area designated in Aldrndian as karum" (van de
+Mieroop 1992: 188). One problem with the interpretation of Diqdiqqah as the karum for
+Ur is its distance from the city; surely people wouldn't want to travel a kilometer and a
+half from the city to trade when a karum could be built right outside it. However, three of
+the definitions of karum given by van de Mieroop are "harbor district, city quarter
+destined for traders and sailors," "harbor, trading station, community of merchants," and
+"embankment, quay-wall, mooring place" (van de Mieroop 1992: 189). In addition, the
+harbor district of Ur has been mentioned in texts such as housing contracts and known to
+have existed, but has never been located. If the "lei-SAR" mentioned earlier is indeed
+meant to apply to Diqdiqqah, I would say that there is a possibility that Diqdiqqah is the
+harbor district to which these texts refer.
+
+21
+
+Conclusion
+In conclusion, despite the lack of stratigraphy and the haphazard means of
+acquiring artifacts from the site of Diqdiqqah, the evidence available to us indicates that
+for a few hundred years from the Third Dynasty through the Isin-Larsa Period, the site
+appears to have been of some importance as a suburb of Ur. As the meeting point of a
+number of canals at a weir there, it functioned as a crossroads of trade, perhaps even as
+the karum of Ur. Further investigation into the inscriptions found there, as well as
+analysis of the complete catalogue of objects discovered at the site (Appendices 1 and la)
+will, I believe, be able to establish Diqdiqqah as a significant location for trade, perhaps
+even as the primary location where trade between ships from the Persian Gulf and Ur
+took place. Further investigation into the terracottas may provide more insight as to why
+so many more were discovered here than at the site of Ur itself, and along with its
+possible importance in trade give a clearer picture of the character of Diqdiqqah as it
+functioned at its greatest florescence. Woolley mentions a number of mounds just to the
+north of the plain on which the site sits and that when a trench was dug through them for
+a new railroad in 1919, at least one ancient artifact was recovered (Woolley and
+Mallowan 1976:82-83). If further work at Ur is ever undertaken, it may be worthwhile to
+excavate some of them, as it is likely that more artifacts lie undiscovered below them.
+
+22
+
+REFERENCES CITED
+Black, Jeremy and Anthony Green
+1992 Gods, Demons, and Symbols of Ancient Mesopotamia. University of Texas
+Press, Austin.
+Collon, Dominique
+1990 Near Eastern Seals. University of California Press, Berkeley and Los
+Angeles.
+Dales, Jr., George F.
+1960 Mesopotamian and Related Female Figurines: Their Chronology, Diffusion,
+
+and Cultural Functions. Ph.D. dissertation, University of Pennsylvania. Museum
+Library of the University of Pennsylvania, Philadelphia.
+Frayne, Douglas
+1997 Ur III Period (2112-2004 BC). The Royal Inscriptions of Mesopotamia,
+Early Periods Vol. 3/2. University of Toronto Press, Toronto.
+Gadd, C.J. and Leon Legrain
+1928 Royal Inscriptions. Ur Excavations: Texts, Vol. I. The Trustees of the
+British Museum and of the Museum of the University of Pennsylvania, London.
+Gadd, CJ.
+1932 Seals of Ancient Indian Style Found at Ur. Proceedings of the British
+
+Academy XVII:191-210.
+Jacobsen, Thorkild
+1960 The Waters of Ur. Iraq 22:174-185.
+
+23
+
+Leemans, W.F.
+1960 Foreign Trade in the Old Babylonian Period: As Revealed by Texts from
+
+Southern Mesopotamia. E.J. Brill, Leiden.
+Legrain, Leon
+(n.d.) Ur Terra-Cottas, Catalogue. University of Pennsylvania Museum
+Archives; Ur, Iraq - Legrain Research.
+Oppenheim, A.L.
+1954 The Seafaring Merchants of Ur. Journal of the American Oriental Society
+74:6-17.
+Possehl, Gregory L.
+1996 Meluhha. In The Indian Ocean in Antiquity, edited by Julian Reade, pp.
+133-208. Kegan Paul, London.
+van Buren, E. Douglas
+1930 Clay Figures of Babylonia and Assyria. Yale Oriental Series Researches
+Vol. 16. Yale University Press, New Haven.
+van de Mieroop, Marc
+1992 Society and Enterprise in Old Babylonian Ur. Dietrich Reimer Verlag,
+Berlin.
+Woolley, Sir C. Leonard, and Sir Max Mallowan
+1976 The Old Babylonian Period. Ur Excavations, Vol. VII. The Trustees of the
+British Museum and of the Museum of the University of Pennsylvania, London.
+
+24
+
+Woolley, Sir C. Leonard
+1924 Unpublished letter to British Museum of January 31. Manuscript on file,
+University of Pennsylvania Museum Archives, Philadelphia.
+
+25
+
+0
+
+CJ
+
+\'
+
+a
+
+\
+~
+
+~))
+
+~~~~~/ /
+
+$""-~' :'
+I
+
+(Detail on Pl. 129)
+CO'lTOUR PLAS OF THE SITE Of UR
+
+Figure 1: Contour map of Ur and the surrounding region, including Diqdiqqah. The sketched triangle
+shows the probable site of Diqdiqqah (from Woolley and Mallowan 1976:Plate 115)
+26
+
+Figure 2: Satellite image of Ur and the surrounding region, including Diqdiqqah (from Google Earth)
+
+27
+
+tx1s11r<O
+fll.)R~T
+-""'"-"
+0~ ~R\C,!'-5 ·£';)<'\') ,,oq M
+
+A t·Wl,iT~·sR~
+
+\-{.CLl'[G
+
+f--'~I',
+
+S C A L
+
+t.
+
+OP
+
+M E: T R l': 5
+
+Fig. 24. Plan of the building at Diqdiqqah.
+
+Figure 3: Plan of the Treasury of Sin-lddinam (from Woolley and Mallowan 1976:88)
+
+28
+
+1· e-A".
+
+i 91.
+
+7·
+
+@nmD~~
+
+Figure 4: Satellite image of probable outline of walls of Treasury of Sin-lddinam,
+rotated for comparison with Figure 3 (from Google Earth)
+
+29
+
+2.:
+
+'Tu
+
+•
+
+--·-·· - ·•'-
+
+>\ "Q
+
+•
+
+,--,·
+
+.. J
+
+dJ" I,_
+?
+
+.. ·-
+
+------·--\.-r'-- .. -.
+
+.-----
+
+~
+"
+
+1·
+
+?~
+
+.
+
+.,
+
+-·cs,
+0
+
+--··.
+-._ -·
+
+)
+a
+
+-\
+...-- -··
+
+I
+
+;;:,,,
+
+('=
+° \_ -~.
+=-
+
+Mari
+
+U)
+
+;:o
+
+,.J
+
+----_r'•J')
+
+'--.
+
+__;
+
+IRAQ
+"--
+
+·-\.."'Altin Tepe
+
+/
+
+! Kish
+
+L ..,.-,,
+
+,
+
+• N1ppqr
+UrUk 0 Tell
+
+)
+
+!RAN
+
+,
+
+'1,9_
+
+i--0,
+
+5\-'\r
+
+~~
+
+Shahdad
+
+:-<j /")-~
+
+ll
+
+c.,.\ \\
+
+\.1~-;:;
+
+:. .:.:, .- _~'
+
+h,."(\\:'
+
+-. Q:·~':'·:•.··. '. \
+· · V:
+/· ,
+
+<)h
+~A_
+~½0
+
+·.<•.·_ .("~~- ·./:···' '. ~;
+
+re:\;--
+
+'\
+
+... '·
+
+Vrnm
+
+•Tepe Yahya
+
+1
+
+Bampur
+
+'-1/1.
+--· V
+
+af\
+
+#
+
+e r
+H.,. i..::
+
+·-. . . . . .. . . _ Jf;,-'
+
+-..
+Muscat
+
+-- · •~i
+) -7
+
+·.:__-_ :::-
+
+Ra -al-Junayz
+
+'.·";_:. _· ·.:
+f)}j-:-:·-
+
+--•·.;-,_.
+
+·
+
+AFGHANISTAN
+
+I"'
+
+/
+
+r
+
+::!"!'=+;:::is
+l.O
+C
+
+ro
+
+O a. ro
+3 C Vl
+Vl
+
+"1J
+
+o
+
+~
+
+(1)
+
+7
+
+"'
+"'
+0
+
+s·
+
+::!"!
+
+OJ l.O
+::I C
+
+.gOO'"U"J
+a. ro
+
+..-t ro ••
+O.l..-t""O
+
+3 :a: :::,,
+
+-·
+
+::i
+
+Q)
+
+(D
+(D
+
+pU
+
+:::, -0
+
+:::,
+0..
+
+:::,(1)
+
+0.
+pU
+
+V>
+
+;::.·
+
+(1)
+V>
+
+'- ..
+
+___ '-..
+
+·,
+
+,,- . -
+
+/
+
+.
+
+\
+
+~
+
+/
+
+"'·-
+
+··-,
+
+0
+
+.,
+
+Mund,gal, •
+
+r~.-t·0
+
+q--· .a,Kandaho/
+
+..JV
+
+~Mogilul Ghundat
+1
+.6 Ouetta
+
+,.
+
+0 (1
+
+V
+
+Penano
+Ghunda1
+
+M \
+M~henjq-qar~
+.
+E
+L
+Meh•t) H
+TfnPo
+Kullio
+Sotka Koh
+
+Harapria
+
+~ibri
+
+_
+
+\....-. /
+
+IND!A
+
+•.,
+
+.:~'""1""1""''-""."".=""""""'
+
+-.,
+
+\
+
+'
+
+/·.
+
+/
+
+Ko! D;;;
+
+oNmdowan
+
+·--.-;,,
+
+.
+
+Q
+
+bv'? t-.....-, _ . .,)
+
+;;;'
+
+-'';;1,
+-<::-
+
+----
+
+~
+
+'-
+
+.
+
+/:::
+
+ic_,'
+
+"Surkotada ..::
+
+r,,,,~
+
+', '.r· 'Rangpur"'
+ARABIAN SEA
+
+.,I
+
+.J/'>.._
+
+'-.....-'?'..:..__,_..,,-·.....,... ...J
+
+a,
+
+-:\
+
+"Ro1d1
+
+- .: ~ '
+·,, •. ,.,,-cc.•.-
+
+'-
+
+-
+
+~
+
+r
+
+'-'--'
+
+r
+
+I
+J
+
+(.
+
+\
+
+'-~PAKISTAN ';rfn;ora
+
+Shahi
+
+FC~;:r,,~,
+
+I
+,.--- :,....··-;)
+
+,.,. < --"7.r'
+_,. . .. --··:,:..,_ __ ')
+
+r
+
+\
+
+~
+
+CHINI\
+
+I
+
+cs..
+
+\,
+
+'"11-"-·
+7_,,,_ :
+
+--..,
+
+'la
+
+Zah1danLi,
+
+41 ,_ . ~r-,""".. ,:,.
+SAUDI ARABIA
+
+i
+\
+
+Kerman.6, Shahr-1-Sokhta ,,,/'
+Ta!I-Hbllsv
+\)._\
+~
+
+'1' .',
+
+c,;
+
+_J
+
+c, Dashli
+
+;.feratli
+
+··._·Al Ubaid~ Ur
+(
+
+\.
+
+:::,
+
+r
+·-.r··
+
+'
+,., J
+Short~al
+
+Ll. Kabul
+
+"·'<·-....-··-\
+-. . . ,/
+
+r/~
+
+_/
+
+Ii'( ~--
+
+~
+
+~
+
+--
+
+1
+
+s Sialk
+
+.
+
+y,,
+
+0 GeoksJur
+
+0
+
+t::,. Hamad an
+
+~aqt\Jiad
+
+Jemde1 Na r
+",,_
+
+ll>Hissar
+
+b. Tehran
+
+50,/\ __ /
+
+er"'°
+
+0
+
+\o,,
+
+Wt"_~,;ai_•
+
+"
+
+'-..
+
+·." ·tep1<.
+
+l\lamazga
+
+)
+
+T l Asma! ,: ~II A grab
+
+-.
+
+C
+
+\
+
+/.,-··/ &1
+
+GI
+
+----- • •
+
+<~
+
+,J
+
+Teti Brak
+
+~,/
+
+-~
+
+,.
+
+~-
+
+2
+
+Lo!hal
+
+Narmada R.
+-
+
+

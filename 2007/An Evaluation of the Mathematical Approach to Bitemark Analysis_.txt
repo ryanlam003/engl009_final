@@ -1,0 +1,1396 @@
+Anthropology Senior Theses
+
+University of Pennsylvania
+
+ScholarlyCommons
+Department of Anthropology
+
+Spring 2007
+
+An Evaluation of the Mathematical Approach to Bitemark
+Analysis: Do Teeth Really Tell It All?
+Cara Bergamo
+University of Pennsylvania
+
+Follow this and additional works at: https://repository.upenn.edu/anthro_seniortheses
+
+Q
+
+Part of the Anthropology Commons
+
+Recommended Citation
+Bergamo, Cara, "An Evaluation of the Mathematical Approach to Bitemark Analysis: Do Teeth Really Tell It
+All?" (2007). Anthropology Senior Theses. Paper 92.
+
+This paper is posted at ScholarlyCommons. https://repository.upenn.edu/anthro_seniortheses/92
+For more information, please contact repository@pobox.upenn.edu.
+
+An Evaluation of the Mathematical Approach to Bitemark Analysis: Do Teeth
+Really Tell It All?
+Disciplines
+Anthropology
+
+This thesis or dissertation is available at ScholarlyCommons: https://repository.upenn.edu/anthro_seniortheses/92
+
+An Evaluation of a Mathematical Approach to Bitemark
+Analysis: Do Teeth Really Tell It All?
+Cara Bergamo
+ABSTRACT
+Bitemark analysis is one aspect offorensic science that has been contested since its appearance in the
+late nineteenth century. Its use is based on two main assumptions made by forensic dentists- that human
+dentition is indeed unique to each individual and that this uniqueness is able to be replicated in a bitemark.
+The procedures used to identify the varying characteristics of bitemarks in human skin and other materials
+cover such a range of analytical methods that is it not surprising to find experts reaching different
+conclusions. In addition, a majority of these methods lack a solid scientific background as support. The
+purposed method is a mathematical approach using angles and lengths between the anterior maxillary and
+mandible teeth to attempt to determine uniqueness of dentition. Fifty post-orthodontic dental casts from
+mostly young (15-43 years, mean~ 17. 74 years) individuals, formed the primary source for the evaluation
+of this method. While the results indicate that angles are good indicators of individuality among bitemarks,
+lengths do not provide such valuable evidence. In addition, IO casts' lengths and angles were re-evaluated
+for a comparison to the original trial as evidence of the method's reproducibility. Only one comparison
+out of the 20 values proved to be statistically different, allowing the assumption that the method gives
+consistent results upon reproduction.
+
+INTRODUCTION
+In the forensic field, many variables can help identify individuals involved in a
+particular crime. From biological evidence such as DNA to physical evidence such as
+clothing material, forensics has developed many new techniques to ensure the
+identification of the correct perpetrator. Contrary to the growth and acceptance of these
+methods, the analysis of bite marks is one aspect of forensics that is still in dire need of a
+universally accepted and accurate identification method.
+
+BITE MARK OVERVIEW
+Definition
+A bite mark is a dental impression left in a distortable surface. It can appear in
+anything, ranging from human skin to food and has the possibility to identify an
+individual. Often, a bite mark in skin and other materials consists of imprints from the
+
+1
+
+anterior teeth. Their forward position in the mouth provides them the ability to bite
+surfaces more efficiently than molars and is probably the reason behind why the front
+teeth are used most often. This property is advantageous because the front teeth provide
+the best evidence due to unique shape and pattern of biting edge. 1 These tooth marks are
+usually rectangular, representing the incisors, or first fourth teeth, and triangular,
+representing the canines. 2 According to a compilation of various studies, at least four or
+five of these tooth injuries must be present to conclude a positive identification. 3
+Fortunately, these front teeth are usually visible in many cases.
+Bitemarks can occur for many different reasons. Conflicts between children can
+result in bite marks, though this is one instance that is usually not used in forensic cases.
+A more prominent and useful event is when a victim bites as a form of defense. These
+marks are usually found on the arms of the attacker and provide evidence of the
+attacker's presence at the crime scene. The most prevalent type of bitemark found and
+used in a forensic investigation and subsequent trial is found on the victim. The attacker
+usually bites the individual as a form of dominance or rage in a sexual act or form of
+control in a struggle. Women during these sexual acts are usually bitten on the breasts
+and legs, while men are bitten on their shoulders and arms.
+
+4
+
+Similar to the defense
+
+marks, these marks provide evidence that an individual was present at the crime scene,
+but also provide information of the malicious intent of that individual. These analyses
+
+1
+
+Thali MJ, Braun M, Markwalder 1H, et al. Bite mark documentation and analysis: the forensic 3D/CAD
+supported photogrammetry approach. Forensic Science International. 2003: 135; 115-121.
+2
+Sweet D, Pretty IA. A look at forensic dentistry -Part 2: Teeth as weapons of violence- identification of
+bitemark perpetrators. British Dental Journal. 2001; 190: 415-418.
+3
+Strom F. Investigation of bite-marks. J Dent Res. 1963;42:312-316
+4
+Sweet & Pretty
+
+2
+
+usually have a controversial, but significant impact in trials, and are used throughout the
+United States and world as evidence to identify suspects in criminal cases.
+History
+
+The idea of bitemark uniqueness is not a modem concept, but a rather old one.
+There has been evidence of the use of teeth as a form of identification for at least a
+millennium. In the mid 11 th century, William the Conqueror used his dentition as a way
+to authenticate his documents. Instead of using a stamp in hot wax to seal his letters, he
+would bite into the wax to ensure the receiver that the document was indeed from him.
+Another example, recorded many years later, shows this same idea of using teeth as a
+type of signature. Debtors, sentenced to servitude in America, would sign agreements by
+biting the seal. The mark was believed to be authentic to the individual and therefore
+gave validity to the sentence given. This action is one speculation as to why they were
+called indentured servants. 5
+However, bite marks were not used as evidence in criminal cases until 1870, in
+the case of Ohio vs. Robinson. The court charged Ansil Robinson for murdering his
+mistress, using bite marks found on the victim's arm as evidence. Mr. Robinson was
+acquitted of the charges despite the support ofbitemarks. Nevertheless, this case initiated
+the use of bite marks in human skin as a way to identify a criminal and over the next
+century, the use of bitemarks as evidence in trials began to flourish. Some of the first
+cases include Doyle vs. State in Texas, which used a bitemark in cheese as valuable
+evidence, and Illinois vs. Johnson, which used bitemarks to convict a criminal of rape.
+
+5
+
+Rothwell BR. Bite Marks in Forensic Dentistry: A Review of Legal, Scientific Issues. JADA. 1995; 126:
+223-232.
+
+3
+
+To date, one of the most prominent cases that used bitemarks for a conviction was
+the trial of the serial killer Ted Bundy. Over the years 1974 to 1979, Ted Bundy killed
+between 33 and 100 women. His method of attack was to pose as a man with a broken leg
+that needed help with his boat or car. When he was able to convince a woman to help
+him, he would rape and kill them. However, the murder that led to his conviction was
+done in a sorority house at Florida State University. He raped and bit a young woman on
+both her nipple and her buttocks. In the courtroom, these bitemarks proved to be the
+major evidence that led to his conviction of her murder as well as countless others.
+A forensic dentist, Dr. Richard Souvinor, was the expert witness that proved
+Bundy's connection with the young woman's murder. He began by explaining the
+significant anomalies of Ted Bundy's dentition such as chips, the size of his teeth, and
+sharpness of his bicuspids and lateral and central incisors. With this information, he went
+on to lay a transparency of Bundy's teeth over the bitemark left on the victim. The direct
+match of the two proved the connection between Bundy and the murder unquestionable.
+This evidence as well as biological evidence found at scenes of other crimes led to the
+incarceration and subsequent death of Ted Bundy in1989.
+
+6
+
+Basis of Identification
+The ability for courts to use bite marks rests on the scientific explanation of how
+and why teeth formation and arrangement in the mouth are different among individuals.
+The concept of the uniqueness of dentition comes from the notion that the emergence of
+teeth from the mandible and maxillary cavity and gums produces a distinctive
+
+6
+
+Bergamo C. Biting Isn't Nice: What Ted Bundy Should Have Learned As A Child. NURS: 334: Forensic
+Science I. University of Pennsylvania. March 2004.
+
+4
+
+arrangement within the mouth. 7 After this eruption, the genetics and lifestyle of the
+individual further the dentition's individuality. According to forensic dentists, attritional
+wear, congenital malformations, missing, broken or chipped teeth, displaced or rotated
+teeth, diastemas, extent of shoveling of the maxillary incisors, presence and angulations
+of impacted teeth, restorations, caries, prosthodontic appliances, bone level, and dental
+anomalies are all important features that can appear in bite marks and increase the
+likelihood of a correct identification. 8 For example, if an individual is genetically
+predisposed to larger teeth, their teeth marks will have a unique size, while an individual
+inclined to grinding their teeth will have a characteristic dullness. The degree of either of
+these components is also an important part of the variability of tooth marks, with every
+individual varying on how big their teeth are or how much they grind their teeth.
+Additionally, the treatment of teeth is an important factor in uniqueness. If one is more
+prone to eating sweet food or chewing on harder foods, the dentition might be
+overwhelmed with filled, chipped or rounded teeth, while an individual with impeccable
+dental hygiene will have an almost perfect imprint. In effect, the more anomalies an
+individual has in their dentition, the more successful an accurate identification becomes
+and the easier it is to convince a jury of guilt or innocence.
+In addition to the idea that dentition is unique, there is a second assumption made
+for bitemark analyses. This supposition centers on the principle that skin accurately
+portrays the dentition as it is in real life. This issue is two-part, in that, it relies on both
+the skin's ability to correctly portray and preserve the bite mark and on a bite's ability to
+
+7
+
+Sweet & Pretty
+Delattre VF, Stimson PG. Self-Assessment of the Forensic Value of Dental Records. J Forensic Sci.
+1999; 44: 906-909.
+
+8
+
+5
+
+produce a replicate of the individual's dentition. 9 These two issues are directly related to
+the non-uniform properties of skin. Skin's varying layers, uneven surface and elasticity
+have a good probability of producing ill-defined tooth marks.
+
+10
+
+This idea goes hand in
+
+hand with the fact that individuals are bitten in different places on the body, which each
+have its own specific uniqueness that needs to be taken into account.
+
+11
+
+A bitemark on a
+
+leg with highly developed muscle will not produce the same imprint as a mark on the
+breast or other fatty tissue. The muscle is not as distortable and proves to be a harder
+surface than fatty tissue, which will move under the pressure of a bite. This difference in
+skin composition can lead to very different marks.
+Skin is also prone to bruising and distortion with the applied pressure of the bite,
+making both the identification of the mark as originating from a tooth and the delineation
+between the tooth mark and the bruise a very difficult endeavor.
+
+12
+
+An additional
+
+characteristic of skin that proves an obstacle in analyzing a bite mark is its ability to heal
+itself. When a bitemark is not analyzed quickly enough in a living victim, it has the
+capacity to heal itself. If the victim is dead, rigor mortis deforms the mark. Due to these
+abilities, impressions, pictures, and other analyses of bitemarks need to be done as soon
+as possible after a crime has occurred. 13
+Aside from the imperfections of skin, the act of biting is a highly dynamic
+process. It involves the movement of two systems, the upper and lower teeth 14, known as
+
+9
+
+Thali, Braun & Markwalder
+Thali, Braun & Markwalder
+11
+Al-Talabani N, Al-Moussawy ND, Baker FA, et al. Digital Analysis of Experimental Human Bitemarks:
+Application of Two New Methods. J Forensic Sci. 2006: 51; 1372-1375.
+12
+Sweet D. Parhar M, Wood RE. Computer-Based Production of Bite Mark Comparison Overlays. J
+Forensic Sci. 1998; 43: 1050-1055.
+13
+Sweet & Pretty
+10
+
+14
+
+Thali, Braun & Markwalder
+
+6
+
+the mandible and maxillary teeth. 15 This process can cause a scraping mark or uneven
+imprints due to changing pressure and the elasticity of the skin. In addition, the amount
+of force and angle at which it is applied can have a profound effect on the visibility and
+recognition of individual teeth within the mark. The larger the force the more
+pronounced the separate tooth marks will be in the skin, making the analysis somewhat
+easier. At the same time, if an angle other than 90° to the skin is taken, the teeth that are
+imprinted may be shifted toward the angle at which the force is applied. It can also
+distort the skin toward that side of the mouth and angle, making an impression and
+subsequent analysis very difficult.
+Due to this problem of skin and bite mark variability, bite mark evidence is a lot
+more valuable in eliminating suspects than in identifying them.
+
+16
+
+This concept is based
+
+on the idea that if a bitemark shows a particular anomaly, such as a missing tooth, and the
+suspect has all of his or her teeth, then that individual can be omitted from questioning.
+Additionally, elimination can be used the other way around. An individual with a
+missing a tooth cannot be matched to a bite mark where the tooth is present. In this way,
+it is a lot easier to look at the key identifying factors found in both the individual's
+dentition and in the bite mark to eliminate suspects than it is to analyze the bitemark and
+its distortions to match it to one person.
+
+The Court System
+Although, there have been many cases, starting in the late 1800s that have used
+bitemarks as a major piece of evidence in a trial, the dentitions ability to correctly
+
+15
+16
+
+Bowers CM. Forensic Dental Evidence. San Deige: Elsevier, 2004: p.13.
+Sweet & Pretty
+
+7
+
+distinguish between the identity of individuals has never been scientifically proven.
+Surprisingly, this issue has never been a problem in the courtroom. Juries trust and rely
+on the inductive, experienced based testimonies of experts rather than the deductive,
+mathematical and scientific presentation of evidence.
+
+17
+
+In other words, people would
+
+rather trust a dentist that works with teeth and identifies bite marks for a living, than have
+confidence in mathematical facts concerning the ability to identify bitemarks.
+One major problem with the acceptance of dentists' experience over a scientific
+format, is the presence of human bias in observing bite marks. In a case from Illinois,
+People vs. Milone, the prosecution's experts claimed that the defendant left the bite mark
+while four experts from the defendant's side claimed it could not possibly belong to
+Milone. Regardless of this blatant inconsistency with the method of bite mark
+identification, the testimonies of the experts of both sides were allowed.
+
+18
+
+Instead of
+
+calling for a re-evaluation of the methods used by each expert, the judge decided it was
+up to the jury to delineate between the evidence provided by both sides. The expert's
+opinions were said to have added a supportive element to each side's argument and
+should be taken into account when reaching a decision. After this decision, bite mark
+evidence was accepted routinely in several sites across the country.
+As can be seen from this case, bitemark identification lacks a true and un-biased
+method to evaluate the evidence to arrive at an unquestionable conclusion. In routine
+suspect identification processes, there is usually a line-up of individuals either in person
+or photographs in a book, and the victim picks the criminal from the line. The accuser is
+not simply given one person or photograph of the suspect and asked if it is him or her.
+17
+
+Kieser JA, Bernal V, Waddell JN, et al. The Uniqueness of the Human Anterior Dentition: A Geometric
+Morphornetric Analysis. J Forensic Sci. 2007; 52: 1-7.
+18
+Rothwell BR
+
+8
+
+They are expected to be able to pick them out of a randomly selected group if individuals
+to validate that they truly know who the individual is. This is not the case in bitemark
+analysis. Instead of using a group of dentition casts or replications to compare to the
+bitemark, the dentist is only given that of the suspected criminal. This procedure in itself
+provides a bias. 19 In turn, the validity of the comparison and overall evaluation is
+compromised because the expert may feel inclined to find similarities that are not there.
+On the other hand, the American Board of Forensic Odontologists does have a
+procedure outlined to collect and analyze bite marks for use as evidence in a trial. The
+process for the bite mark analysis is as follows:
+1. Swab surface for DNA
+2. Obtain photographic evidence
+3. Make impressions according to American Dental Association
+guidelines
+4. Obtain tissue samples
+Swabbing the surface of a bitemark for DNA is usually the medical examiner's duty, but
+is up to the odontologist to ensure that it has been done. This collection should happen as
+soon as possible because DNA can degrade over time.
+
+20
+
+The photographic evidence
+
+must be taken with and without a scale to evaluate the bitemark on the surface as well as
+the exact size of its measurements. It should be taken up close and at an angle that
+provides the least distortion. If possible, impressions should be taken in accordance with
+the American Dental Association's specifications to match to any dental information the
+suspects may provide. Lastly, if the individual with the bitemark is deceased the
+bitemark tissue should be removed and preserved to allow for the possible necessity of a
+future analysis.
+19
+
+Rothwell BR
+Sweet D, Shutler GG. Analysis of Salivary DNA Evidence from a Bite Mark on a Body Submerged in
+Water. J Forensic Sci. 1999;44:1069-1072.
+
+20
+
+9
+
+The ABFO also has guidelines concerning retrieval of dental information from the
+suspected biter. Dental records and any dental history should be obtained to allow for a
+better understanding of the individual's dentition. The odontologist should also take
+extraoral and intraoral photographs of the individual, as well as do an in person
+examination of both. The extraoral examination is useful to note any specific factors that
+may influence the biting pattern, such as deviations in opening or closing of the mouth,
+facial asymmetry, and any occlusal deformities. Facial hair should also be noted in case
+it does appear in the bitemark. The intraoral examination is beneficial for missing teeth
+and any abnormality in the size of the tongue. Saliva should be retrieved to have a DNA
+comparison to any biological material found at the crime scene and to compare to any
+saliva that may have been recovered from the bite mark. In addition, impressions should
+be taken as well as sample bite marks to allow for a comparison. The impression will
+allow for the possible formation of a cast to use as a reference when analyzing the
+bitemark.
+Furthermore, descriptions of the bitemark are mandated by the ABFO in order to
+use a bite mark as evidence in court. The imprint must have identification data such as
+the case number and examiner. It must describe the location of the bitemark in reference
+to the skin surface, body part and tissue characteristics. It should also include the size,
+shape, color, type of injury (abrasion, convulsion, etc.), and any another unique
+information that can be obtained from the bite mark. Together, all this information
+provides a brief and concise description of the mark in simple terms for lawyers, judges,
+and juries to understand.
+
+10
+
+The overall acceptance and weight of the evidence provided is left to the
+discretion of the judge and jury. These two parties usually know very little about tbe
+science of tbe provided bite mark evidence and are only able to take it at face value. To
+complicate this lack of knowledge further, different experts use different methods, and
+each one can give a slightly different result. This problem is the reason behind the need
+for a standardized and scientific method that shows little bias and can be well-understood
+by the court. In the end, the decision makers of the court have the liberty to decide what
+is credible and what is unlikely, and the more agreement there is on bitemark analyses,
+the more likely they will be able to validate its effectiveness. 21
+
+METHODS
+Various Methods in Use
+
+Regardless of the doubt of bite mark identification methods present in courts and
+in the forensic field, forensic science still uses bite mark identification with its basis upon
+the idea that every individual's dentition is unique and that this uniqueness transfers to
+the skin when bitten. 22 This foundation is evaluated through countless methods, most of
+which are accepted in court because the ABFO does not mandate a specific method of
+analysis. 23 Some of the methods used are Styrofoam impressions, scanning electron
+microscopy, hand-traced outlines, wax impressions, xerographic images, computer
+imaging, and computerized axial topography. One study by Bowers and Sweet, selected
+five of the most popular methods to determine which one identified bite marks with the
+best accuracy. Out of the computer-overlays, radiopaque impressions, and hand-traced
+21
+
+ABFO Bitemark Methodology Guidelines. 21 April 2007. http://www.abfo.org/ 25 April 2007.
+Kieser, Bernal & Waddell
+23
+Rothwell BR
+
+22
+
+11
+
+representations from stone casts, wax impressions, and xerographic images, the
+computer-based method ranked highest for both representation of the area and rotation of
+the teeth in the bitemark.
+The computer-based approach used the upper and lower casts for identification
+purposed. The casts were placed on a flatbed scanner with a scale alongside it. The
+upper six and lower six teeth were selected to use for area and rotation evaluation. The
+image then was downloaded into the software program NIH Image. This program
+recorded the area of each tooth in millimeters and the angle of rotation in degrees. It was
+compared to the measurements taken from the hand-traced and radiopaque methods, and
+was the method that reproduced the bitemark with the most accuracy.
+
+24
+
+As is expected,
+
+the computer-based method is the leading practice used in the field, and is continuously
+undergoing improvements in the overall quality of the picture and program functions to
+highlight important identifying features.
+
+Method in Question
+One method that has not been extensively studied is a mathematical analysis of
+bitemarks. In the article "A Method for Mathematically Documenting Bitemarks,' James
+McGivney and Robert Barsleyput forth the hypothesis that a bitemark could be broken
+down into lengths and angles through measuring the centroid of each tooth injury in a
+bite mark. He proposed this approach to be the needed mathematical component behind
+bitemark identification.
+
+24
+
+25
+
+Sweet D, Bowers M. Accuracy of Bite Mark Overlays: A Comparison of Five Common Methods to
+
+Produce Exemplars from a Suspect's Dentition. J Forensic Sci. 1998; 43: 362-367.
+25 McGuivney J, Barsley R. A Method for Mathematically Documenting Biternarks. J Forensic Sci. 1999;
+44: 185-187.
+
+12
+
+In this method, the centroid is calculated as the square root of the summed
+squared distances from each landmark in the configuration in question.
+
+26
+
+In other words,
+
+it is the center-most point of an object or shape taking into account all characteristics of
+its size and figure. The centroid is located through an imaging program, as points on a
+grid, giving its value in X and Y coordinates. The centroids are then connected to the
+centroid of the next tooth by lines to form lengths between individual teeth. Then starting
+at the endmost tooth, the angles between the teeth are calculated as well. These
+measurements yield important information about the bite. Large lengths can mean a
+missing tooth or gaps, while small lengths are indicative of overlapping or small teeth. A
+sudden change in angle means the tooth is misaligned in the mouth, or the dentition is
+curving in its uniform arch.
+
+If this information is retrieved from both the suspects bite pattern and the bite
+mark itself, a comparison would prove to be extremely valuable in identification. It
+might be able to single-handedly revolutionize the way bitemarks are evaluated by
+introducing a scientific basis to the previous inductive presentation of bitemarks. The
+combination of these two components would increase the validity of bite mark analysis
+and identification to an unquestionable science.
+Unfortunately, McGivney does not provide experimental data to show whether
+this is truly feasible. He provides a detailed description of how it could be done, but
+there lacks any data of an actual experiment being performed. For this reason, this paper
+focuses on this method and uses an experimental format to determine whether it is
+applicable to the forensic field.
+
+26
+
+Kieser, Bernal & Waddell
+
+13
+
+MATERIALS AND METHODS
+For this experiment, 50 post-orthodontic dental casts (male=l9) of mostly young
+adults (15-43 years, average 17.74 years) formed the primary source. These dental casts,
+made of plasticine, were obtained from the archives in the Museum of Anthropology at
+the University of Pennsylvania. Post-orthodontic casts were selected because they are
+more likely to provide less variation, making the analysis more convincing. In addition,
+the presence of at least eight teeth that would make an impression (4 maxillary and 4
+mandible) was compulsory. This qualification was mandated due to the previous
+knowledge that at least four teeth on each arch must be present for a credible
+identification. The literature also commented on the individuality and prominence of the
+front six teeth on both the mandible and maxillary in bitemarks, so both were used for
+imprints. Other selective criteria included the minimum age of 15, because teeth are
+mature at that age, and casts that were in perfect condition, because unwanted chips or
+missing aspects due to inappropriate handling would alter the impression made.
+The 50 chosen casts then were pressed individually into a 7x7xlcm piece of
+plasticine. This material was chosen because it has the elasticity of skin and can maintain
+the imprint indefinitely. 27 The pressure applied to the upper and lower jaw of each
+individual varied due to the human application of the force. This is advantageous
+because not all bitemarks show the same pressure.
+The impressions were then scanned using an HP scanjet 4600 scanner. The photo
+was copied into NIH's Image J software program. In order to allow analysis of the
+different tooth marks, the picture had to be adjusted to an 8-bit photo and the threshold
+
+27
+
+Bowers
+
+14
+
+was changed to see the imprints in black with the background white (Figure 1 & 2). This
+allowed for easier identification of the individual tooth marks.
+
+Figure 1: Scanned Picture
+
+Figure 2: Mark with Threshold Alterations
+
+In a counterclockwise patter, the individual tooth marks were outlined with the
+tracing tool and then analyzed to obtain their centroids. The coordinates given were used
+to draw a line between the centroid of the first tooth to the centroid of the next (Figure 3).
+In all cases, this connecting started with the upper right canine's centroid to the upper
+right lateral incisor's centroid and continued around the arch from there until reaching the
+left canine. This counterclockwise analysis was continued in evaluation of the bottom
+teeth, in that the starting tooth was the left canine and the ending tooth was the right
+canine. The lines were then analyzed for length and angle (Table 1).
+
+15
+
+Figure 3: Connection of Centroids
+
+Angle
+
+Label
+
+2
+3
+4
+5
+
+94
+94
+94
+94
+94
+
+Length
+
+136.22
+150.02
+-178.36
+-145.78
+-131.19
+
+0.33
+0.3
+0.35
+0.3
+0.32
+
+Table 1: Nm Image J Analysis Graph
+
+This chart is a duplicate of the one formulated by the NIH Image J program. The
+numbers on the left side correlate to the lines formed between the centroids of the teeth in
+a counterclockwise direction. In other words, number I is equal to the line and angle
+between the right canine and right lateral incisor, while number 5 represents the values
+between the left lateral incisor and left canine. The label is the identification number
+given to the dental cast. The angle is measured in degrees and the length is measured in
+inches.
+These measurements were then analyzed for differences between each other to see
+if the lengths and angles of bite marks are unique to each individual. The lines and
+angles of all 50 impressions for every upper right canine to every right lateral incisor
+were compared to each other and an average and standard deviation was calculated. This
+continued on for all the upper and lower teeth, producing a total often different analysis
+of lengths and angles between the teeth. The accuracy of the test itself was also
+evaluated by re-tracing and calculating the lengths and angles of IO dental casts. The
+
+16
+
+second trial was compared to the first trial using a paired T-test to establish whether the
+two were statistically different from each other.
+
+RESULTS
+Not all dental casts reproduced each individual tooth in its anterior dentition. This
+outcome was due to a missing tooth or the inability for the tooth to make an impression
+because of its relative size to the rest of the teeth. One example had both the maxillary
+lateral incisors missing and produced a unique bitemark (Figure 4 & 5). In actual trials,
+this type of anomaly would only help the identification process of an individual.
+
+,,
+
+•
+
+Figure 5: Mark with Threshold Alterations
+
+The actual number of dental casts that were able to produce lines and angles for each
+tooth are shown through then value in Tables 2 and 3 respectively. It shows that there
+are more missing teeth and disproportional qualities between teeth of the upper jaw than
+those of the lower. More specifically, there seems to be a slight trend between upper
+canines and lateral incisors missing or being smaller than the rest of the dentition, in that
+the n value is less for these measurements (44 and 46 compared to 48 of the central teeth
+and 50 of the lower teeth). In this population of casts inspected, 11 individuals provided
+evidence of upper teeth that did not scan, meaning that one of the teeth was not able to
+make a mark due to the larger quality of the teeth around it or missing teeth. Only, two
+individuals showed evidence of bottom teeth that could not be scanned. This data
+provides evidence that the maxillary teeth have more anomalies than the bottom teeth,
+and may be more indicative of a certain individual than the teeth of the mandible.
+
+17
+
+Table 2: Lines (measurements in inches)
+
+Between*
+Maxillary
+
+Mandible
+
+Standard Minimnm
+Deviation
+0.034
+0.25
+
+Maximnm
+
+RCtoRLI
+
+44
+
+Average
+(inches)
+0.32
+
+RLI to RC!
+
+46
+
+0.33
+
+0.064
+
+0.25
+
+0.69
+
+RC!to LC!
+
+48
+
+0.34
+
+0.033
+
+0.27
+
+0.41
+
+LC! to LL!
+
+46
+
+0.31
+
+0.064
+
+0.22
+
+0.66
+
+LL! to LC
+
+46
+
+0.32
+
+0.073
+
+0.22
+
+0.76
+
+LC to LL!
+
+49
+
+0.24
+
+0.031
+
+0.18
+
+0.33
+
+LL!to LC!
+
+50
+
+0.22
+
+0.027
+
+0.16
+
+0.27
+
+LC! to RC!
+
+50
+
+0.21
+
+0.025
+
+0.15
+
+0.26
+
+RC! to LC!
+
+50
+
+0.22
+
+0.024
+
+0.17
+
+0.29
+
+RLltoRC
+
+49
+
+0.24
+
+0.031
+
+0.18
+
+0.32
+
+*Key
+Right Canine: RC
+Right Lateral Incisor: RU
+Right Central Incisor: RCI
+
+N
+
+0.39
+
+Left Canine: RC
+Left Lateral Incisor: LU
+Left Central Incisor: LCJ
+
+In addition, each bitemark obtained was analyzed and the average, standard
+deviation, and range for each line and angle were calculated. The lengths between each
+individual tooth shows evidence that the upper teeth are larger in comparison to the lower
+teeth due to larger lengths between the centroids of each tooth. Similarly, the standard
+deviation is also larger for the maxillary teeth. A surprising result is the similarity
+between lengths of all the teeth for the upper as well as the lower. The maxillary teeth
+have an average between 0.31 to 0.34 inch, and the mandible teeth have an average
+between 0.21 and 0.24 inch. Both only had a 0.03-inch range. Regardless of these
+similarities, the minimum and maximum values of each group as compared to the overall
+standard deviation shows the wide range of possibilities for each length. For this
+population, the upper tooth marks lengths ranged over 0.22 to 0.76 inch with an average
+of 0.32 inch, while the lower tooth marks ranged over 0.15 to 0.33 inch with an average
+of 0.22 inch.
+
+This statistic shows that the lengths may provide some individual
+
+18
+
+character to the dentition but do not hold significant individuality. They do cover a range
+of possibilities, but the range is small.
+In the following table, the angles between neighboring teeth are demonstrated in
+the same format as the lengths.
+Table 3: An!!les {measurements in °\
+
+Maxillary
+
+Mandible
+
+Standard
+Deviation
+7.31
+
+Minimum
+
+Maximum
+
+122.62
+
+151.39
+
+RCtoRLI
+
+44
+
+Average
+(°)
+136.09
+
+RL!to RCI
+
+46
+
+156.81
+
+9.21
+
+141.84
+
+180.00
+
+RClto LCI
+
+48
+
+182.64
+
+7.11
+
+168.02
+
+213.69
+
+LCI to LLI
+
+46
+
+208.33
+
+9.62
+
+180.00
+
+237.09
+
+LLlto LC
+
+46
+
+228.39
+
+8.34
+
+212.62
+
+228.39
+
+LC to LLI
+
+49
+
+-28.45
+
+10.50
+
+-50.19
+
+-4.97
+
+LLito LC!
+
+50
+
+-15.864
+
+9.01
+
+-33.69
+
+10.78
+
+LC!to RC!
+
+50
+
+3.54
+
+10.19
+
+-21.80
+
+30.26
+
+RC! to LC!
+
+50
+
+22.24
+
+12.12
+
+0
+
+68.20
+
+RLltoRC
+
+49
+
+34.94
+
+17.27
+
+-29.05
+
+72.26
+
+Between*
+
+N
+
+In this table, the arch-like quality of the teeth is represented in the maxillary by the steady
+increase in angle, and in the mandible by the decrease and then increase in the angle. The
+maxillary does not provide negative angles because the values past 180° were given
+positive values to aid in the calculation of averages and standard deviations. For
+example, two numbers in the same length category would be 178.23° and then -177.36°,
+which when averaged, did not give a number that truly represented the mean between the
+two angles. Therefore, the negative number, -177.36°, was convert to 182.64°. On the
+other hand, the bottom angles were able to be kept as they were calculated because the
+average of the angles was representative of the actual mean. For example, two possible
+numbers were -3.4° and 4.5°, and the average truly represented the mean of the numbers.
+
+19
+
+As for the statistical analysis of the angles, the standard deviation is relatively
+large compared to the overall range of each angle, meaning that the angles truly had a
+significant difference between each other. Opposite to lengths, the ranges and standard
+deviation of the angles were larger for the bottom teeth than for the top. This difference
+provides evidence that the bottom teeth are less uniform in their arrangement to each
+other than the top. Along the same line, the standard deviation for the angles covers more
+of the range of each tooth mark than the standard deviation for the lengths. This
+difference further indicates that the lengths from tooth to tooth in bite marks are not as
+unique to each individual as the angles. Mathematically this makes sense, because a
+length can be rotated 360° representing every possible angle, while an angle is more
+static and revealing of the actual orientation. The following two graphs represent the
+dispersal of values for the lengths and angles between the central incisors of the
+maxillary. The lengths are more concentrated between a 0.14-inch range, while the
+angles spread over a 45° range.
+
+Lengths
+0.6
+
+••
+•••••
+♦•
+
+0
+
+♦ • • •♦•
+
+10
+
+•
+
+•••
+•
+
+♦♦ • •
+
+20
+
+♦
+
+♦
+
+♦
+
+• •♦•♦•
+••
+
+♦
+
+♦
+
+♦♦ • • •
+♦• • • • ♦
+
+30
+
+40
+
+50
+
+60
+
+Dental Cast Number
+
+Graph 1: Length Dispersal
+
+20
+
+Angles
+215
+210
+
+♦
+
+0 205
+
+t
+
+200
+C) 195
+~ 190
+
+-
+
+°E,
+C
+
+185
+
+♦
+
+180
+175
+
+,,: 170
+165
+
+♦
+
+...
+
+••
+
+♦
+
+♦
+
+•••• ••• ••
+♦
+
+♦
+
+♦
+♦
+
+♦
+♦
+
+♦
+
+♦
+
+♦
+
+♦
+
+♦
+
+•• ••
+
+♦
+
+♦
+
+♦
+
+••••••
+
+♦
+
+♦♦
+
+♦
+
+♦
+
++-----------~-------------10
+
+0
+
+20
+
+30
+
+50
+
+40
+
+60
+
+Dental Cast Number
+Graph 2: Angle Dispersal
+
+In addition to showing an association with lengths and angles to the uniqueness of
+human dentition, the method also was tested for its ability to be replicated to
+continuously reproduce the same results. This task was completed by recreating the
+measurements of IO analyses. The IO casts were randomly selected and exposed to the
+same procedure for calculation of centroids and analysis of the angles and lengths
+between teeth. The second trial length and angle measurements were then compared to
+the first trial's calculation using a paired T-test (Tables 4 & 5). For every individual
+length and angle except for one (giving a strong evaluation of 19 out of20), the
+comparison proved to be statistically insignificant, with p-values over the accepted
+significance indicator of0.05. This result means that the second trial was not different
+from the first, proving the method's ability to reproduce the same results.
+Table 4: Comnarison of Lines
+
+Teeth
+
+Maxillary
+
+Line (inches)
+Avera.,.es
+Trial 2
+Trial 1
+
+T-test values
+
+RC to RLI
+
+0.30
+
+0.3 I
+
+0.23
+
+RL!toRCI
+
+0.31
+
+0.31
+
+0.42
+
+RCito LCI
+
+0.34
+
+0.33
+
+0.14
+
+LCI to LL!
+
+0.30
+
+0.31
+
+0.02
+
+LL! to LC[
+
+0.32
+
+0.31
+
+0.28
+
+21
+
+Mandible
+
+LC to LL!
+
+0.23
+
+0.23
+
+0.22
+
+LL! to LC!
+
+0.19
+
+0.21
+
+0.06
+
+LC! to RC!
+
+0.21
+
+0.20
+
+0.06
+
+RC!to LC!
+
+0.22
+
+0.22
+
+0.44
+
+RL!toRC
+
+0.23
+
+0.23
+
+0.39
+
+Table 5: Comnarison of An!lles
+
+Teeth
+Maxillary
+
+Mandible
+
+Angle ( 0 )
+Averaves
+Trial 2
+Trial 1
+
+T-test values
+
+RCtoRLI
+
+137.51
+
+136.83
+
+0.04
+
+RL!to RC!
+
+161.49
+
+161.73
+
+0.72
+
+RC! to LC!
+
+183.89
+
+183.83
+
+0.34
+
+LC!to LL!
+
+205.36
+
+203.63
+
+0.07
+
+LL! to LC!
+
+230.04
+
+231.79
+
+0.13
+
+LC to LL!
+
+-28.17
+
+-27.85
+
+0.80
+
+LL!to LC!
+
+-17.61
+
+-15.93
+
+0.08
+
+LC!to RC!
+
+-2.21
+
+-1.89
+
+0.57
+
+RC! to LC!
+
+17.04
+
+18.46
+
+0.07
+
+RL!to RC
+
+41.56
+
+40.82
+
+0.22
+
+DISCUSSION
+
+In total, the mathematical approach to bitemark analysis has proven that the
+angles between teeth are different on a person to person basis, while the lengths do not
+provide as substantial evidence. The larger standard deviation and ranges of the angles
+compared to the smaller standard deviation and ranges for the lengths support this
+conclusion. When a value has a large standard deviation, it means that the values of the
+group being analyzed have a wider spread, making the individual values more unique.
+Therefore, the angles are more indicative of an individual person, while the lengths may
+be able to provide some support, but are not as unique.
+
+22
+
+The result of this analysis of the mathematical approach to bitemark identification
+has the possibility to be very useful to forensic dentists and the forensic science field
+overall. It can add a scientific and mathematical analysis to their testimonies in addition
+to their already established experience-based knowledge on bitemarks. A scientific
+approach that is based on math will add an unbiased variable to bitemark identification,
+giving a more credible and less controversial result to every expert's analysis of teeth.
+The judges and juries will also be more convinced of identification because not only will
+their favored deductive representation be present, but there will also be a solid scientific
+basis to it.
+Additionally, this method can be duplicated with accuracy, which adds to its
+overall credibility as an analytical technique. As seen in the reproduction of 10 of the 50
+upper and lower bitemarks measurements, there was only one significantly different
+result between the two trials. This quality is important in forensic science because many
+individuals will have to use the method for many types ofbitemarks, and the ability for
+each analysis to produce an accurate measurement is extremely important. More notably,
+the ability for another forensic dentist to arrive at an identical result proves the method's
+credibility and consequent ability to convince a jury of an identification.
+Despite the mathematical analysis' ability to show the uniqueness and
+individuality of a bitemark, it cannot be the sole assessment of a bitemark. The visual
+evaluation needs to remain present to obtain the best conclusion of identity. A
+mathematical analysis gives numbers and can provide a good basis, but if the numbers
+are not given in context of the bitemark and its individual qualities, it will be lost in a
+courtroom.
+
+23
+
+For instance, one of the casts made a 0° angle between the lower central incisors.
+
+If simply given this information, one might be led to believe that the teeth are perfectly
+aligned. However, this particular cast had centroids of the two front teeth that were on
+the same X coordinate, but the actual teeth were angled in a parallel manner that might
+leave a significant imprint (Figure 6).
+
+Figure 6: Reason for Visual Observance
+
+In this case, the experience-based visual approach would probably be more valuable to
+the identity of the individual than knowing the angle between the two teeth.
+Nevertheless, having the mathematical background supply the information that both the
+individual's dentition and the bitemark in question are 0°, would provide a solid
+foundation behind the visual representation.
+To further the credibility of the experience-based approach, a standardized
+evaluation method needs to be implemented. Presently, there are many different methods
+used, ranging from computer overlays to wax imprints, that visually match bitemarks to
+suspects. More research needs to be done to prove which method is the most accurate, so
+that it can become the standard application. With this improvement, the differences in
+outcomes and controversy over human bias should decline substantially and in turn,
+increase the credibility of the method's conclusions.
+At the same time, more research needs to address the way skin responds to
+bitemarks. The knowledge of how this elastic and very dynamic material responds to
+
+24
+
+particular bites will provide an immense insight into both the way the victim was bit and
+the details of the person's dentition that did the biting. It should also focus on the way
+bitemarks heal or settle overtime. Some bitemarks are not identified immediately after
+they occur, and can deteriorate or heal overtime. The knowledge of this process will
+increase the amount of time allowed before a bitemark is no longer able to be analyzed.
+Ultimately, the presentation and acceptance of information in court is the crucial
+indicator of the evidence's value. The explanation ofbitemark analyses in terminology
+that is understood by those less scientifically inclined can make a case significantly
+stronger in one direction or the other. In time, this combination of mathematical and
+experience-based methodology along with knowledge of dentition's uniqueness and
+skin's response to bitemarks will make bitemark identification extremely credible and a
+major force in the courtroom. With sufficient research, it may even one day rival that of
+the fingerprint.
+
+25
+
+

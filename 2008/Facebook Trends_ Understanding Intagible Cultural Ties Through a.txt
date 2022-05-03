@@ -1,0 +1,1621 @@
+Anthropology Senior Theses
+
+University of Pennsylvania
+
+ScholarlyCommons
+Department of Anthropology
+
+Spring 2008
+
+Facebook Trends: Understanding Intagible Cultural Ties Through
+a Virtual Community
+Jessica Palay
+University of Pennsylvania
+
+Follow this and additional works at: https://repository.upenn.edu/anthro_seniortheses
+
+Q
+
+Part of the Anthropology Commons
+
+Recommended Citation
+Palay, Jessica, "Facebook Trends: Understanding Intagible Cultural Ties Through a Virtual Community"
+(2008). Anthropology Senior Theses. Paper 94.
+
+This paper is posted at ScholarlyCommons. https://repository.upenn.edu/anthro_seniortheses/94
+For more information, please contact repository@pobox.upenn.edu.
+
+Facebook Trends: Understanding Intagible Cultural Ties Through a Virtual
+Community
+Disciplines
+Anthropology
+
+This thesis or dissertation is available at ScholarlyCommons: https://repository.upenn.edu/anthro_seniortheses/94
+
+University of Pennsylvania
+Office of Regulatory Aff£1irs
+Yvonne Higgins, Director Human Research Proleclions
+Emma Meagher, MD, IRB Executive Chair
+3624 Market SI., Suite 301 S
+Philadelphia, PA 19104-6006
+Ph: 215-573-2540/ Pax: 215-573•9438
+
+INSTlTUTIONAL REVIEW BOARD
+(Federalwide Assurance# 00004028)
+19-Mar-2008
+
+Clark El'ickson
+University Museum
+University of Pennsylvania
+
+33rd and Spruce Streets
+Philadelphia, PA 19104-6398
+cerick,so@sas.upenn.edu
+ATIN: Jessica Palay
+jpalay@sas.upenn.edu
+PRINCJPAL!NVESTIOATOR: CLARK ERICKSON
+TITLE
+: Foo.book Trends [SPI.: Jessica C. Palay}
+SPONSORING AGENCY
+: NO SPONSOR NUMBER
+PROTOCOL#
+: 807736
+REVIEW BOARD
+: lRB#8
+
+Dear Dr Erickson:
+The above-referenced research proposal was reviewed by the Instlwtlonal Review Board (IRB) on 19-Mar-2008. It has
+been derennined that the proposal meets eJigibJUty criteria for ffiB re-view exemption authorized by 45 CFR 46.101,
+category 2.
+
+This does not necessarily constitute authorir.ation to initiate the conduct of a human subject research study. You
+are responsible for assming other relevant committee app~ovals.
+The IRB exemption for thls study ls limited to three (3) yenrS, nfter which nn application for continuing review will be
+necessary if the stu(ly is to be continued. During I.he 3~year exemption period you nre required to notify the lRB if any
+changes are proposed in lhe study tlmt might oiler its lRB exempt status or HlP AA compliance status.
+You will be sent a notice of expiration for this proposal before 18-Mar-2011.
+lt is the responsibility of the principal investigator to keep the IRB apprised of any and a11 changes in the research thal
+may have an impact on the IRB review mechanism needed for a specific pn>po$ul. New procedures that may hove un
+impact on the risk-to-benefit ratio cannot be initiated until Committee approval has been given.
+If this protocol involves cancer research with human subject.'>, biospecimens, or data, you may not begin the research
+until you have obtained approval or proof of exemption from the Cancer Center's Clinical Trials Review aud
+
+Monitoling Committee,
+If you hnve any questions about the information in this letter, pfoase contact the lRB adminlstratlve staff. Contact
+information is available at our website: hUp://www,upenn.cdu/regulatoryaffairs/Contact.htm1.
+Thank you for your oooperation,
+
+I ~
+
+i\dministrator
+
+FACEBOOK TRENDS:
+UNDERSTANDING INTAGIBLE CULTURAL TIES
+THROUGH A VIRTUAL COMMUNITY
+By
+Jessica Palay
+In
+Anthropology
+Submitted to the
+Department of Anthropology
+University of Pennsylvania
+Thesis Advisor: Dr. Louise Krasniewicz
+
+2008
+
+Abstract
+Community is an important component to human life, creating the social bonds
+necessary for society to function. Yet communities come in many shapes and forms.
+With the advent of technology, virtual social networking sites have gained in popularity,
+such as Facebook. The question becomes, is Facebook a community and if so, is it the
+same as a physical community? To answer this, the theory of gift giving as a way of
+forming social bonds and therefore communities was employed to determine if such
+things occurred on Facebook. Three different forms of exchange were examined: gift
+giving, poking and wall writing. Through interviews and observation, the data suggests
+that these virtual behaviors acted on the same principles of reciprocity exhibited in
+physical communities. Thus, Facebook is a community as much as a small town in
+Indiana is. Despite changes in technology, human behavior essentially remains the same.
+
+Jessica Palay
+Thesis
+Facebook Trends:
+Understanding intangible cultural ties through a vittual community
+Introduction
+Humans are social animals. As such, we form communities in which we live our
+lives and interact with others. Yet, what exactly defines a community? This question has
+consumed anthropologists for decades as they have observed group behavior. By
+entering into specific social groups and observing from the inside, they have tried to
+understand what makes a community. Since the late 1800s, the beginning of academic
+anthropology, anthropologists have studied societies in attempt to understand how
+different communities work (Barrett 1984:4). As Richard Barrett explains, "When an
+anthropologist writes about a people, it is with the assuredness that comes with intitnate
+association" (1984:3). From these close observations, anthropologists have defined and
+continue to define what formulates a community.
+A community, first and foremost, is defined by its own self perception. Anderson
+Benedict explicates, "Communities are to be distinguished, not by their
+falsity/genuineness, but by the style in which they are imagined" (1991 :6). Communities
+exist because their members recognize them as an entity. They therefore must be
+evaluated in their own terms. The physical community cannot exist without the cultural
+meanings within the members' heads. Community, or social capital, as Robert Putnam
+calls it interchangeably, has to do with social connections (2000:21 ). To him, social
+capital consists of the amount and types of relationships that one has with others; how
+one creates networks. These networks are based on reciprocity; for the "norm of
+generalized reciprocity is so fundamental to civilized life that all prominent moral codes
+
+1
+
+contain some equivalent of the Golden Rule" (2000: 135). The idea to do unto others as
+you would have them do unto you is the cornerstone of building a community. Since
+social ties outline the bonds of a community, it is important to maintain healthy
+relationships.
+
+Community and the Modern World
+Community is a loaded term. While it implies a group of people bonded together
+by a common denominator, it allows for a plethora of definitions and groupings.
+Traditionally, a community defined itself by locality and interactions between people
+within a distinct physical space. With the advent of technology, however, this has started
+to change. Air travel enables people to traverse the globe in hours while cell phones and
+email make communication instantaneous and readily available. The internet, in
+particular, has shaped this transformation. In today's terms, it means that a person can
+belong to multiple communities: by location, education, religion, hobbies, lifestyles and
+more. Electronic mail, instant messaging, online phone services like Skype and
+networking sites provide venues to make and maintain connections. Networking sites are
+the most noteworthy in their attempt to create communities outside the physical sphere,
+creating a virtual space for people to interact. A lot of attention has been paid to these
+webpages, sparking debates over the "authenticity" of such sites: are they truly a
+community or simply a substitute for the physical ones that people live in?
+Whether replacing one's physical community with a virtual one is socially healthy
+or not, websites such as MySpace and Facebook have been gaining in popularity in terms
+of both users and media attention. Facebook especially commands much attention
+through its membership growth and constant innovation. But while the media focuses on
+
+2
+
+its profitability and amazes over its popularity, the mechanisms behind Facebook's
+success has not been properly studied. The question becomes not what makes Facebook
+so successful but why? From an anthropological perspective, this means determining
+whether Facebook is a community. That is, does it represent and encompass its own
+unique and sustainable community? And if so, is it the same as a physical community?
+Many different elements come together to form a functioning community: a
+prevailing social structure, division oflabor, forms of communication and prescribed
+modes of relationships. More recently overlooked is the role of gift-giving and
+reciprocity in creating and maintaining social bonds. As our society shifts toward a more
+virtual world, such practices should move as well. While traditional exchange involves
+the passing of tangible objects from one to the other, anthropological theory has long
+contended that it is the invisible meanings, obligations and associations attached to the
+gift that create relationships. The classic example of lending a neighbor a cup of sugar
+illustrates this point. While one gives the sugar freely, it is implied that at some point, the
+neighbor will lend you something in return. On Facebook, pixels, gestures and words are
+exchanged, which possibly carries the same meanings that a cup of sugar does. Three
+options on Facebook will be used to explore this idea: gift giving, poking and wall
+writing. I hope to prove that each of these actions is done with specific social intentions
+and requires some sort of response on behalf of the recipient.
+So is Facebook just as real of a community as a small African village? By
+studying the role of reciprocity on Facebook, I hope to determine whether it exhibits the
+same sorts of exchange in the virtual world as found in the physical.
+
+The Gift: The Theory Behind It
+
+3
+
+The theory of gift-giving was codified by Marcel Mauss in his 1925 work, The
+Gift: Forms and Functions ofExchange in Archaic Societies. While he focused on
+
+reciprocity in archaic societies, his ideas can be applied to behaviors exhibited on today.
+
+In applying it to his own time, he writes that, "The theme of the gift, of freedom and
+obligation in the gift, of generosity and self-interest in giving, reappear in our own
+society like the resurrection of a dominant motif long forgotten" (Mauss 1967 :66). This
+idea again today has been overlooked despite its significance to community-building.
+Commonly used in social interactions, its frequent employment numbs people from
+realizing its importance. That is why it is crucial to highlight how it functions in society
+today. Yet before delving too deep; it is important to understand Mauss' theory and how
+it works to explain social interactions.
+On the surface, giving a gift serves little practical purpose. It is costly, both in
+time and resources, and warrants no immediate return or benefit to the donor. Despite
+this, gift giving occurs across time and culture from the ancient Greeks' xenia
+(hospitality) to an American child's birthday party. In studying culture, there are few
+things that all societies have in common. The prevalence of gift exchange thus makes it a
+noteworthy occurrence. This seemingly pointless action therefore must have some
+underlying principle or it would not exist universally. As Mauss comments, "In theory
+such gifts are voluntary but in fact they are given and repaid under obligation" (1967:1).
+The key to these types of exchange is that it creates a sense of indebtedness in the
+recipient towards the giver. Essentially, the invisible strings attached to the object give
+the gift its social consequence.
+
+4
+
+Unlike most exchanges, gifts do not have to be reciprocated immediately. For
+example, a friend might give another friend a birthday card. This seemingly altruistic
+gesture, while not pressing, does require an appropriate response: a return card on the
+donor's birthday. Mauss explains, "The other characteristic shows the danger of
+receiving the pledge. For it is not only the person who gives it that is bound, but also the
+one who receives it" (1967:61). In this way, gift exchange is active on both ends in terms
+of social meaning. The beneficiary appears to be the passive one in the deed but by
+accepting the gift, he becomes an active part of the social web. Thus both the giving and
+receiving of gifts work to solidify the relationship between the two participants.
+The relationship formed between the donor and the recipient varies based on the
+nature of the gift. It can show social superiority placing the receiver as the giver's
+subordinate if the gift is greater than the receiver can repay. In addition, it can be an
+exchange among equals (i.e. birthday cards)-or by refusing to accept a gift or failing to
+reciprocate-an insult. These actions live in the intangible; Mauss puts it best when he
+says, "Much of our everyday morality is concerned with the question of obligation and
+spontaneity in the gift ... Things have values which are emotional as well as material;
+indeed in some cases the values are entirely emotional" (1967:63). When examining
+Facebook, it is the emotional meaning behind these exchanges that hold its significance.
+Beyond Mauss: A Modem Look At An Old Theory
+Since Mauss debuted his theory, others have added important insights to the
+concept of gift-giving. While this paper will mainly focus on Mauss' original thoughts,
+an overview of more modem thinking will be provided. Claude Levi-Strauss, the father
+of structuralism, presents a well thought-out commentary on Mauss' theory in his
+
+5
+
+Introduction to the Work ofMarcel Mauss. In explaining the symbolic nature of gift
+
+exchange he writes, "So no society is ever wholly and completely symbolic, that is
+because a society is always a spatial-temporal give, and therefore subject to the impact of
+other societies and earlier states of its own development" (1987:17). Each society builds
+on the next-thus new meanings are tied to previous ones. Its novel form rests on the
+foundation of conventional society.
+Like Mauss, Levi-Strauss focuses on the symbolic nature of gifts. The
+relationship building attribute to exchange fascinated him. He asks, rhetorically, "Does
+this property exist objectively, like a physical property of the exchanged goods?
+Obviously not. That would in any case be impossible, since the goods in question are not
+only physical objects, but also dignities, responsibilities, privileges-whose sociological
+role is nonetheless the same as that of material goods" (1987:46). According to Levi Strauss, the social components of the action as just as real as the transfer of the physical
+goods. Culture not only encompasses the objects created and used by a group but also
+the ideas behind the objects; how its made, its use, its disposal, etc. Therefore gifts
+contain more than their physical dimensions, they carry additional meaning.
+Since Levi-Strauss, others have also looked at gift-giving in social contexts; their
+ideas will be highlighted as this paper unfolds. But like his idea that no society can
+develop independently of others, these later thinkers all built upon the revolutionary ideas
+of Mauss and Levi-Strauss.
+
+What is Facebook?
+Facebook is one of many social networking sites. While originally created for
+college students, is now open to anyone who has an email account. Its purpose is to
+
+6
+
+connect people. According to the site, "Facebook is a social utility that connects people
+with friends and others who work, study and live around them. People use Facebook to
+keep up with friends, upload an unlimited number of photos, share links and videos, and
+learn more about the people they meet." This social utility, as it is stated, is used to
+enhance local relationships and maintain existing ones (especially over long distances).
+To enter Facebook, users go to www forPhonk rnm . Once on the Welcome to
+Facebook page, members log in by typing in their email address and password (Figure 1).
+Users become members by signing up with a specific network (or none at all) and
+creating a password which must be typed in order to access the site. These networks can
+be schools, companies, cities and countries. Once a member, the user can create a profile
+(Figure 2) describing their interests, put up a picture, and "friend" other people (Figure
+3). Users' friends show up on the left-hand side of the profile page. Friending a person
+gives a user access to their profile if the friend is on another network or has restricted his
+or her profile to only friends. It also usually recognizes a friendship that exists outside of
+the website.
+In addition to making friends, Facebook has a multitude of applications that allow
+for users to interact with one another. They have become increasingly complex with
+features including popular games like Oregon Trail and the ability to upload photos and
+"tag" people in them which link the photos to their profiles. Users can also send private
+messages to one another by clicking the "Send [name] a message" button located below
+the person's picture. These messages show up in the user's inbox which can be accessed
+by clicking on the Inbox button at the top of the screen. They can also create or join
+groups. These groups show up on the user's profile and can represent political interests,
+
+7
+
+inside jokes, and physical groups like community service trips. By clicking on the name
+of a user's group, one is taken to the group homepage which can feature links, pictures
+and discussions. In these ways, Facebook allows users to forge their own identities and
+create/display social bonds.
+There are also many public forms of exchange. Members can give gifts to their
+friends. To do that, the user visits the gift shop page where they can chose from hundreds
+of gifts (Figure 4). Availability fluctuates in minutes: one click said 467 gifts options
+were available, a click a moment later only 371 options were. After selecting the icon, the
+recipient's name is typed in and a message can be included. The icon and message then
+shows up on the recipient's profile (Figure 5). Another application is called poking.
+Essentially, when a user views someone's profile, they have the option to click on a
+button that says, "Poke [name]." When that person next logs onto Facebook, on the left
+hand side of their homepage, it will tell them who poked them and give them the option
+of poking back or ignoring it (Figure 6). In addition, wall writing is a popular feature.
+This application allows people to post messages on a user's wall. The wall is located on
+the user's profile page below the rest of his or her information (Figure 7). Along with the
+message, the writer's picture is shown beside it. While there are many other options
+available to users, these three features are the applications that will be examined in this
+study.
+History ofFacebook
+Facebook, for all its social significance, is relatively young. Its brief history
+attests to the power of preexisting social networks and the ease of communication
+brought about by the internet. Understanding the history of the theory of gift-giving only
+
+8
+
+clarifies one half of my contention. By studying the history of Facebook, its impact can
+be better appreciated.
+Founded in February of2004 by Mark Zuckerberg, Dustin Moskovitz and Chris
+Hughes in their Harvard dorm room, Facebook now has over 70 million active users
+according to the site. As it has grown in membership, it has also grown in applications.
+Facebook started off a lot simpler in nature. The wall writing feature was not added until
+September of 2004. By December of that year, Facebook reached one million users. In
+August of 2005, Facebook officially changed its name from www t h Pforph nnk- rnn, to
+Facebook, a term that it was already being referred by. From September 2005 to 2006,
+Facebook continually expanded opening up to high schools, international schools and
+workplaces, eventually becoming accessible to anyone who wants to join. This expansion
+of social networks allowed for Facebook to grow to 70 million active users today and,
+according to comScore, makes it the second most trafficked social networking site in the
+world after MySpace (2007). Its enormous popularity is what makes it such an
+intriguing source of study.
+While wall writing was added soon after Facebook was developed, the gift shop
+feature began in February of 2007. An interesting thing to note is that poking does not
+appear on the development timeline or the application description sections of the site.
+Poking, as it will be discussed later, has a more ambiguous role in the Facebook world.
+These applications are some of the older forms of exchange found on Facebook. Because
+of this, they have had more time to become an ingrained part of the culture and therefore
+were chosen for examination. Since May 2007, Facebook has opened up to other
+applications developed outside of the company("'"'"' forPhnnk- rnm). In October 2007,
+
+9
+
+Microsoft bought a $240 million dollar stake in Facebook which valued the company at
+$15 billion (Vara 2008). This transaction represents the business sector's realization of
+the popularity and power ofFacebook.
+But while newspapers like the Wall Street Journal are concerned with the
+potential profitability ofFacebook, other publications, like Wired Magazine have looked
+at the more social aspects of the site. In this case, Scott Brown (2008) talks about the
+identities that people construct for themselves on Facebook versus one's real self. What
+he points out is through tracking sites such as Beacon, the real "you" is revealed. What he
+fails to note, is that in every society particular roles are played whether online or in the
+classroom. As Geertz explicates, "In a ritual, the world as lived and the world as
+imagined, fused under the agency of a single set of symbolic forms, tum out to be the
+same world, producing thus that idiosyncratic transformation in one's sense ofreality"
+(13). Participation in exchange-driven activities on Facebook mirrors ritual action.
+Similarly, how one interacts with others on Facebook is telling of its social structure. By
+looking at forms of exchange on Facebook, I hope to prove that what is real on Facebook
+is also real in our physical communities.
+
+Research Methods
+All the subjects in the study were students enrolled at the same university. A
+mixture of years was used although most of the participants were in their final year. This
+was done because they had the most exposure to Facebook while being college students.
+In addition, they were the first generation of college students to have Facebook for all
+four years. It was about 50 percent female and 50 percent male from various groups who
+all interact in a general social scene. Although more social diversity could have lent
+
+10
+
+more insight, due to the limited scope of the project, the parameters had to be contained
+so a more cohesive conclusion could be drawn.
+The subjects have all been given pseudonyms to protect their pdvacy. In addition,
+everything posted on Facebook is public information put up by people who expect it to be
+read by others. Thus most of my infmmation came from the public domain. Interviews
+were conducted similarly with all identifying information obscured. As a public forum,
+Facebook has implemented various levels of security to ensure that people can chose how
+public or pdvate they want their information to be. But in all cases, the identities of the
+subjects have been protected.
+
+Gift Application: How the Gift works in the virtual world
+
+'., I
+
+1~.41! z':
+
+[Examples of gifts found on Facebook]
+
+Gift-giving on Facebook is the most obvious example of exchange on the website.
+Created in February of 2007, they are designed by Susan Kare, the original developer of
+the Macintosh icons in 1983 ('"'-""""' f 'lrPhnnlr
+
+rnm ) .
+
+With hundreds of options to choose
+
+from, these pictures vary from hugging teddy bears, to a glass of beer, to pii'iatas. Giving
+a gift to someone else on Facebook involves buying an icon from the Facebook Gift Shop
+and posting it on the recipient's profile page. An optional message can be included along
+with the gift. This message can be made private and also anonymous so only the recipient
+can see that information. The message and giver appears with the icon under the
+recipient's gift section on his of her profile. Each gift costs the giver one dollar. Many
+gifts are limited edition which means once they are sold out; no more can be purchased
+
+11
+
+making them more exclusive. If a gift is a limited edition, the amount left is indicated
+under the icon below the price. For the sake of simplicity, the icons designed by Susan
+Kare and sold by Facebook will be the only gifts studied.
+The cultural behavior of giving gifts precedes Facebook. In fact, it can be found in
+many different cultures. For example, according to Malinowski, the kula ring of the
+Trobriand Islands exhibits the same traits of gift giving that Facebook does (Mauss
+1967:19). The kula ring is a giant inter-tribal trade route. Enveloping all the Trobriand
+isles, it is an aristocratic trade in which vcygu 'a, currency is exchanged. There are two
+types, mwali (armshells) and soulava (necklaces). The armshells travel from west to east
+while the necklaces travel from east to west: thus they continue to circulate (Mauss
+1967:20-22). The only difference between Facebook gifts and the gifts of that people of
+the Trobriand Islands is that one exists in the physical realm while the other exists in the
+world of pixels and urls. Like the Trobtiands, gift giving is done by the generous. Costing
+a dollar a gift, one must be prepared to spend money on something that in reality does not
+exist. Thus it is the symbolic meaning of the gift that must be of value.
+Facebook users are very much aware of gift giving etiquette. "Jenna," a senior girl
+when explaining why she and her friends do not receive gifts comments, "None ofus
+give them, so none ofus get them." "Hannah," a junior would agree, "never given a gift
+nor received one-no one likes me" [laughs]. While they cannot fully articulate it, both
+women are not surprised that they have not received any gifts, since they do not give
+them. Aafke Komter writes that "gift exchange is a self-sustaining system: those who
+refuse to take part in it place themselves outside the community" (2005: 118). Thus
+"Harmab's" joke that "no one likes me" reflects this idea that she is outside a certain
+
+12
+
+community by not participating in gift exchange. They understand, whether they realize it
+or not, the theory of reciprocity. The main trend in gift giving on Facebook can be
+divided into two main categories: gifts from love interests and gifts from friends.
+Romantic gift giving is a way of creating more intimacy between two people.
+When talking about his gifting habits, "Barry" reveals, "With my girlfriend, I gave her a
+gift first and then she gave me one. I responded with a wall post." "Johnny" also has
+received gifts from his "hook-ups." "Stacey" also said that she gives gifts to "my
+boyfriend for inside jokes. He doesn't reciprocate but he'll text me or mentions it on the
+phone." When asked about it, her boyfriend, "Harry" replied that, "I really like it when
+Stacey gives me gifts, I felt loved, appreciated-no that's the wrong word--cared about,
+part of the clan like. I enjoy getting Facebook things." The act of giving the gift made
+"Harry" feel more attached to "Stacey." While he never sent her back a gift, he did
+respond by posting on her wall, or calling her to express his gratitude. Komter writes,
+"things derive their meaning from their place and role within relationships" (2005 :3 3). So
+even though romantic gifts appear very similar to other types of gifts since they usually
+involve inside jokes, it is the context in which they are given that makes them romantic.
+Essentially, the subjects use gifts as a vehicle to mark one's relationship.
+But gifts are also employed in a more casual context between friends. For the
+most part, users will send and receive gifts between close friends. "Barry" amazes, "I
+find it interesting how people need it to establish friendships, especially between the
+Kappa girls. Gifts are like wall posts on steroids." In this particular social circle, gift
+giving is a way to maintain friendships. Komter believes that mixed motives between the
+giver and the receiver typify the exchange. In particular, both the giver and receiver want
+
+13
+
+to be generous but also recognized (Osteen 2002: 17). The public display of gifts on one's
+profile suits this desire of recognition weJI since anyone who views the recipient's profile
+will see the gift. One Kappa girl who has given five gifts explains, "I've received gifts
+from my littles in my sorority, like inviting me to Miami. One did one randomly-it was
+a purse with an animal inside and she had written: "come to Smokes! [a popular bar on
+campus] It's funny and feels good when I see it there." Invitations and inside jokes along
+with the gifts help to solidify their relationships while having many gifts makes one feel
+socially appreciated.
+"Zorro" relates his own experiences, "One girl gave me one first and then I gave
+her one. That's how I heard about giving gifts. The other girl, I gave her a gift first. I
+thought, "this is fun" I laughed, it felt good to be thought about by this person. So I
+responded by giving a gift back." In this situation "Zorro" first reciprocated by sending a
+gift to his original giver, before initiating his own gift exchange. This feeling of pleasure
+brought about by the gift, cemented a social bond between "Zorro" and his friends. Like
+"Zorro," most of"Johnny's" gifts are from female home friends. For most guys, gifts
+come from home friends while for the women the gifts were more mixed between coJJege
+and non-college friends.
+Sometimes gifts can be used in more socially ambiguous situations. "Jenna"
+explains, "I once gave a gift to my lab coworker. I knew him well enough to
+acknowledge his birthday but not well enough to buy him a gift. I got him a mouse
+because we had just done animal training that day." In this situation, giving a gift online
+solved her dilemma: how to handle an acquaintance's birthday. Putnam would agree that
+"the forms of our social capital-the ways in which we connect with friends and
+
+14
+
+neighbors and strangers-are varied" (2000:27). Since "Jenna's" coworker was
+somewhere between stranger and friend, a mtlque solution was needed. Giving an icon
+was just personal enough without being intrusive. The gift provided the perfect
+resolution to a socially sensitive situation.
+Gifts are the most straightforward ofFacebook exchanges in comparison to
+existing human behavior. Gifts-giving varies in popularity among Facebook users; for
+some it helps build relationships while others consider it a waste of money. "Johnny"
+puts it perfectly, "I've only gotten one gift from each person. Maybe because I'm not
+saying "Thank you!" but it's nice to get a gift, even if it's a cyber one, not real but still a
+gift. Respect." He sums it up pe1fectly: if a gift is not reciprocated, then the giver will
+not continue to give gifts. As Jacques Derrida writes, the giving of a gift requires the
+suspension of the expectation of reward. Yet, once the giver recognizes that he or she has
+given a gift, there's a "symbolic recognition" which means that the gift is no longer given
+freely (Osteen 2002:15). Thus despite the giver's generosity, reciprocation becomes
+necessary to continue the relationship.
+
+Poking: Getting attention in the virtual world
+Pokes
+You were poked by:
+,-?
+tp
+
+po'~ oa-.: I 1emu '[Example of what a poke looks like on a user's homepage]
+
+Poking mystifies most Facebook users although the application is quite simple. To
+poke someone, one selects the "poke" icon in someone's profile. When the recipient logs
+onto Facebook the next time, he or she is notified on their homepage that they have been
+poked. He or she then has the option of poking back or ignoring it. If he or she pokes
+
+15
+
+back, the cycle starts all over again. Poking is one of the more ridiculed applications on
+Facebook that nonetheless is extremely popular. Rebecca jokes, "Poking's annoying in
+real life too" although she admits to using the application occasionally. Since it involves
+no messages or gift-like icons, it is the closest thing to body language or physical
+communication on Facebook.
+It reminds me of a skit that was done doing New Student Orientation of my
+freshman year early September of 2004. At this point, Facebook was still something of a
+novelty. The skit involved one student running up to another and poking him. The
+message was something to the effect of don't poke on Facebook, poke out here. Poking is
+a "notice me" type gesture. It is generally done to either get the attention of the opposite
+sex or between good friends as a joke. Either way, it is generally done between those with
+great intimacy or desiring intimacy.
+As the NSO joke reveals, poking on Facebook means placing an intennediary
+between the poker and the poked. Similarly, in Samoa, a boy employs a soa, someone to
+relay his message of interest to his intended lover (Mead 1928:89-90). The soa and
+poking are both examples of indirect means or use of an intermediary to foster intimacy.
+While poking does not necessarily have the same romantic intentions as the use of a soa,
+both are used to create a social relationship. Like with gift-giving, poking is a fonn of
+exchange. Ignoring a poke could be seen as an insult while responding too quickly could
+be considered "creepy".
+Poking, according to one source, is one of the more bizarre applications found on
+Facebook. "I just don't really get it ... Yeah I've used it, but it's weird." When pressed
+as to why she shrugged. It also is the only of the three applications under study that is not
+
+16
+
+mentioned on the Facebook product page. This either suggests its insignificance or
+futility of trying to explain it in a meaningful way to an audience. Maurice Godelier
+explains this confusion, "For a Western observer, this round trip seems senseless since, if
+the thing is given right back, it seems to have been exchanged "for nothing"" (1999:44).
+Since the only way to respond to a poke directly is to send one back to the giver, it seems
+like the original poke was nullified. But while this is the perception of many Facebook
+users, it is not the reality. Once a gift or a poke is given, it cannot be canceled. If the
+original giver is poked back, the poke is actually being given again. Although they may
+not understand the reasons behind poking, this explains why they continue to poke each
+other.
+There are several categories of poking; random flirting, random jokes and
+intimate relationships. When a friend pokes another friend, it can be to get their attention
+or to get into what is called a poking war. It can also be used to flirt, by getting
+someone's attention. "Aaron," a senior, shares that, "Mainly girls poke me. Girls I'm
+hooking up with, girls I've hooked up with, or girls who have indicated that they want
+to." Here the girls express interest in "Aaron" by poking him. Similarly, "Zorro" recalls,
+"I've been poked by random girls-girls I don't even know. It's awkward." For him,
+random poking is strange; it is only acceptable when done by people he already knows.
+Random flirting, for the most part, is deemed creepy. But that was not always the case,
+especially in the user's earlier years of Facebook use. "Barry" tells that, "Freshman year
+ifI met a girl I would poke her out of flirtatious interest, but not really anymore." When
+poking was more novel, it was a more popular form of flirting. "Johnny" recalls that
+Facebook used to define poking as a way of flirting.
+
+17
+
+Since flirting via poking is considered strange, poking can also be done as a prank
+when done between friends. "Johnny" says, "Poking's pseudo.sexual I think. I've poked
+a dude before, no homo. I do it to [male) friends from home, to joke pretend to say to
+them "yo girl!"" "Johnny" mocks the flirting process by perverting it into a joke between
+friends. Similarly, "Zorro" states that, "I've poked more guys than girls, I thought it was
+funny. I go on friends profiles and poke every guy I can find." But that too is a form of
+exchange that reveals a level of comfort between the giver and the recipient.
+The last form of poking is the "poking war" in which people cannot stop poking
+each other. "Amy," a junior, laughs, "I'm in an endless poke with my boyfriend; it
+started when we weren't in a real relationship and now we can't stop. It's always there,
+can't stop because it's rude." "Julie" also feels a sort of obligation to keep on poking
+back. "With poking you can either poke back or ignore, I feel bad ignoring. I wish there
+was a button that said, thanks and then end it." Other people continue the war for fear of
+offending the other person. "Johnny" says that, "We've [him and his best friend "Taryn"
+from home) been poking each other since we've been on Facebook, 5 years. With her, I
+don't want to stop. Don't want to be the one to stop, it's mutual can't stop it's the nature
+of the relationship, we've been best friends-she'd get mad because it's quitting and
+would show a lack of dedication." At this point the poking interaction is a routine,
+showing long.term continuity. To stop reciprocating at this point would be breaking with
+certain obligations that come with "Johnny" and "Taryn's" friendship. The reason that
+all these people feel the need to continue to poke back is that "the object which returns to
+its original owner is not "given back, "but is "given again" ... thus binding two
+individuals or two groups into a twin relationship of reciprocal dependence" (Godelier
+
+18
+
+1999:44). Therefore they cannot stop, or it would destroy this relationship of "reciprocal
+dependence."
+While Western society causes these users to ridicule poking as an ineffective form
+of exchange, it actually has quite a hold on certain individuals. The poking relationship
+can turn into one of mutual dependence, especially in cases where the two users are in
+intimate relationships, either romantically or in a close friendship. Since poking suggests
+a relationship of mutual dependence, pokes by random people is deemed " awkward and
+uncomfortable." These social feelings of awkwardness are exploited when poking is
+done as a joke. The users recognize how strange it is to receive a poke from an
+unfamiliar person and therefore will deliberately poke them for amusement. This is a
+perversion of an exchange that is for more intimate relationships.
+
+Wall Writing: Public Messages in the virtual world
+T The Wall
+Displaying 10 of 321 wall posts
+
+Wall -to-Wall See All
+
+Write something . . .
+
+Attach:
+
+(w: Share Link
+
+f;) Sox Talk
+
+~ HYPERTEXT
+
+l!:J Give a Birthday Gift to
+[Example of how to post on a user's wall]
+
+Wall writing is one of the older applications on Facebook and is used in a variety
+of ways. Added as a feature in September of 2004, the wall, according to Facebook, "is a
+forum for users' friends to post comments or insights about them. Users can always
+remove comments they don't like from their own walls. They can restrict who can see
+their wall, or turn it off entirely, by going to the "Profile" section of the Privacy page
+01ttn-// 1.Vi.vw fo rPh nnk rnm /nrP<:<:/nmrinrt nhn).
+
+19
+
+While Facebook focuses more on the
+
+privacy aspects of the wall, the focus here will remain on the content. To write on
+someone's wall, a user clicks on the text box under the Wall section of the recipient's
+profile. Once the user finishes his or her message, he or she clicks on the post button.
+The message along with the writer's picture then appear on the recipient's wall.
+Since wall writing involves posting messages on another's profile, it is a public
+form of expression, making it visible to anyone who accesses that page. Messages range
+from inside jokes, to birthday wishes to a means of updating people's lives (i.e. travel,
+lunch plans, etc). It is a very open form of communication since anyone who has access
+to the recipient's profile can view the message. Writing on one's wall using invokes the
+necessity of the recipient to respond by posting back on the giver's wall. Depending on
+the type of post, the time period between exchanges varies.
+This public display of exchange of dialogue would be similar to papers written in
+reaction to one another in an academic journal in which one scholar responds to another's
+ideas in a public forum. This can also be seen in the form of rap battles between hip-hop
+stars such as Nas and Jay-Z (Century 2002). Richard Seaford writes in terms of Homeric
+poetry that, "The tendency of oral poetry to express and legitimate the interests and
+aspirations of its audience is well documented" (1994:5). Similarly wall writing is a form
+of communication between the writer and the audience: the recipient and his or her
+friends.
+Wall writing, like the other forms of exchange on Facebook can be divided into
+subgroups. In this case several distinct types of wall writing can be observed:
+jokes/keeping in touch between close friends, and random conversation starters. A third
+and very interesting type to note, is the birthday post. Inside jokes with good friends used
+
+20
+
+to be the most popular type of wall writing. Most of the subjects recalled that they wrote
+on people's walls more often earlier in their college career and noted that their younger
+coeds and high schoolers seem to use it much more. Or as "Jenna" puts it, "My little
+sister and her friends use the wall to ask about plans, it's so retarded." To the older
+generation of Pacebook users like "Jenna," wall writing is for writing witty banter not for
+conversations. Hence, more of a stigma surrounds wall postings that ask mundane
+questions about someone's life. Words are the most basic form of exchange, a place
+where ideas and witty words can be transferred (Godbout and Caille 1998:12-13). In
+general, when this generation of Facebook users is examined, clever wall postings are
+preferred over conversations.
+Not all witty joking is welcomed. In fact, sometimes, the joking can be
+embarrassing. "Sara" once considered erasing one such post. "I didn't delete it because I
+thought it would be more noticeable ifl deleted. I was planning on writing something
+embarrassing on her wall to call her out on something more embarrassing." But in the
+end she did not follow through with her plan. When asked why, she explained that she
+was afraid that her friend would counter with something even more embarrassing. F01ms
+of exchange are not necessarily always for bettering social bonds, it can also be used to
+damage them. "Sara's" situation can be likened to the relationship between the United
+States and Russia during the Cold War: one of mutually assured destruction. In this case,
+reciprocity is contemplated in a more vengeful sort of way.
+Lack of reciprocation can also have negative consequences. In some instances,
+wall posts are rejected because they offend the receiver. "Jenna" tells a story that, "I once
+deleted a post from my cousin that said, "Are you as pissed as I am that we haven't
+
+21
+
+graduated yet?" It pissed me off so I waited until it was the second or third post down so
+he wouldn't notice that I took it off. Although he hasn't posted on my wall since and he
+used to do it a Jot." Since she rejected his initiation, he has not tried to offer a new one at
+all, showing the power of rejection. Ignoring a wall post can be just as offensive. "Barry"
+experienced this. "One girl once wrote on my wall and I didn't respond and then a week
+later her friend came up to me and made a comment about it. That night I wrote back on
+her wall. Like a conversation, people should reply to a post or it's like giving the cold
+shoulder." His non response must have really bothered the girl if she ended up having
+her friend say something to "Barry." While writing on someone's wall is supposed to be
+"free," the expectation for a response is there. As Godbout and Caille say, "Social
+cohesions changes at everyone moment; it becomes stronger or weaker as a function of
+the countless decisions on the part of each member of a society to trust another member
+by taking the risk that a gift will not be reciprocated" (1994:188). This shows how
+important reciprocating on wall posts is in the Facebook community. By ignoring a post,
+one ignores the offer of a social bond and relationships can be damaged.
+The conversation, as termed by the subjects, is another form of wall writing.
+Conversation is defined as writing done by people who post specific questions on
+people's walls like, "What are you doing this summer?" or "I'm coming to LA, want to
+hang out?" Most people interviewed feel that questions such as this are private and
+should not be mentioned on a public venue such as a wall, which shows up on someone's
+profile. As "Meg" vents, "It's a cop-out way of being personal that isn't being
+personal ... Wall posting is supposed to be about inside jokes but the other day I got a
+random person who posted on my wall, asking about New York and seeing if I'll be
+
+22
+
+there. So I guess it's connecting or a more public way of saying that I have friends .... but
+I didn't wall back because it was an actual conversation so I privately messaged her
+back." "Meg" considered this type of posting more suited for private messaging and
+therefore responded by doing just that.
+Birthday messages on users' walls are a more common form of posting mentioned
+by many subjects. When a member signs into Facebook, a list of friend's birthdays
+appears on the right hand side of the homepage. It usually lists whose birthday is on that
+day and also whose birthdays are coming up. Since this information is readily available,
+
+it encourages users to respond, generally by posting on the birthday person's wall.
+"Johnny" explains, "I don't post that often now, I used to do it for people's birthdays but
+now EVERYONE does it, it's not personal. I love that Facebook reminds you of people's
+birthdays." To "Johnny," wall writing is a way to acknowledge someone's birthday, but
+since it became a more common practice, the post has less value. Similarly, rarity of a
+gift adds to its value. "Julie" would concur, "I once deleted a random girl's post on my
+wall because she was the first to wish me a happy birthday-I didn't know her!" "Julie"
+rejected this random girl's post because it held no value to her. Since they are not close,
+"Julie" did not see a reason to initiate such an exchange, let alone respond. Rather than
+create a bond between the two of them by leaving the post of and thereby creating the
+necessity of a response, she preferred to reject the gesture by deleting it. Discovering
+who writes on his wall amuses "Harry." "It's always interesting to see which random
+people post on your birthday that you haven't talked to in a year." Random birthday
+posting does not offend him; instead it intrigues him to see who views his birthday
+worthy of acknowledgement. Likewise, "Harry" writes on people's walls on their
+
+23
+
+birthdays. In describing his behavior he says, "I do birthday posts, but I don't respond to
+mine." Although "Harry" does not believe that he responds to the birthday posts on his
+wall, his statement suggests otherwise. The posts that he receives in fact demand that he
+reciprocate: by posting on other's walls on their birthdays. Essentially, "Harry" follows
+Putnam's rule of generalized reciprocity, that "I'll do this for you now, without expecting
+anything immediately in return and perhaps without even knowing you, confident that
+down the road you or someone else will return the favor" (2000: 134). Birthday posting is
+directly applicable to this rule. "Harry" writes birthday messages on people's walls
+because they have for him in the past, or now will in the future. He does it because
+birthday etiquette demands that if someone acknowledges his birthday, he is obligated to
+acknowledge his or hers in return.
+Wall posting therefore is a valuable part of maintaining social bonds on
+Facebook. Writing jokes and witty banter is preferred over conversations starters.
+"Sara" agrees, "It takes more time to say something clever, it means more." More
+dangerous however, are the consequences of ignoring a wall post. It can result in
+offending the giver, possibly to the point of ending the reciprocal relationship. These
+consequences can carry out beyond Facebook into the physical community. Birthday
+posting epitomizes this form of exchange. Recognition of a post by the recipient is
+delayed; it occurs on the giver's birthday. The popularity of birthday wall messages
+attests to the strength of this reciprocal relationship. Thus wall writing is a powerful form
+of exchange on Facebook, cementing community bonds.
+
+Conclusion
+
+24
+
+The media lauds technology as a surging tide bringing waves of change to our
+lives. They tend to lump Facebook into that category. Facebook does change the face of
+interactions but perhaps not in the way that they envision. Instead, institutions like
+Facebook show that no matter how much technology may enhance our lives, human
+behavior essentially does not change. Although humans create new technologies and
+social forums, our cultural behaviors remain constant; they are just can-ied out over new
+mediums. Facebook is successful not because of its monetary gains but because it
+functions as a community.
+Not only is Facebook a community, it also shares the same characteristics that
+physical communities possess. In particular, the forms ofreciprocity and gift exchange
+exhibited in physical communities manifests itself on Facebook as well. Therefore it
+should come as no surprise that Facebook users demonstrate the same sort of actions as
+the kula ring that Mauss observed. Communities are based on social bonds which in turn
+are maintained through practices of reciprocity. Gift giving, poking and wall writing all
+function as forms of exchange. These interactions show that reciprocity has more to do
+with the underlying meanings and obligations than the actual objects. Thus, pixels and
+words serve just as important of a social purpose on Facebook as the lending of a book to
+a friend.
+Gift giving, as a Facebook application, reveals that the virtual gesture of giving a
+gift is what matters. Those who choose not to participate understand very well why they
+do not receive gifts: because they do not give them. The giving of gifts falls into one of
+two categories on Facebook. Gifts between romantic interests constitute the first type.
+These, while not always reciprocated with another gift, are generally acknowledged
+
+25
+
+through some other form of communication. The second type of gift giving is that
+between friends. These generally are more likely to be reciprocated with a gift in return.
+
+In socially ambiguous situations, gifts are also utilized. By accepting an icon, the
+recipient also becomes obligated to the giver, creating a social bond.
+Bonds form through poking as well. When someone responds to a poke by
+poking the giver back, it means that the gift is given again, rather than nullified. That
+explains why although the subjects failed to articulate it, the reason that they could not
+stop poking someone back was because obligation created by the poke would not allow
+it. In essence, poking back means that the recipient gives the gesture again, continuing a
+relationship of mutual dependence. Because poking serves as a mechanism for getting a
+user's attention, it usually occurs between love interests or good friends. Romantically,
+poking works as a way to flirt; while between good friends it becomes a habitual
+relationship of mutual dependence or a way of joking by mock flirting. In this way,
+poking creates relationships of intimacy.
+Wall writing, the final form of exchange looked at in this study, contains many of
+the same components as gift giving and poking. Like these other mechanisms of
+exchange, reciprocity plays a key role in the posting of messages. Witty comments and
+inside jokes are the preferred type of writing and ones that require a clever comeback.
+Deleting or ignoring a post can offend the giver, damaging their relationship with the
+recipient. Denying an offer, the message, is like refusing a gift which results in the
+severing of bonds between the giver and receiver. Since wall writing is a public form of
+communication, conversation type postings are looked down upon. Yet the perfect
+example of wall exchanges occurs on birthdays. The birthday post demonstrates
+
+26
+
+reciprocity at its finest: people post on the birthday person's wall, and while the recipient
+does not respond right away, they will post on others' walls when their birthdays come.
+Reciprocity does not always mean giving something back right away but instead confers
+an obligation for some sort of comparable response at some point. Hence, the popularity
+of the birthday posts. The exchange of birthday messages constructs a link between the
+two actors, shaping a social relationship.
+Gift-giving, poking, and wall writing are all functions on Facebook with real
+world counterparts. Exchange-whether it occurs through these virtual applications or by
+giving a birthday card-has the same social obligations attached to it. Interestingly
+enough, all three forms of exchange involve components of jokes in them. If this was to
+be studied further, I would suggest looking into the purpose of jokes in social situations.
+While most of the relationships affected by these exchanges already exist, they are
+recognized and strengthened by these actions. While Facebook represents the next wave
+of social interaction, the behaviors and actions of the users stays consistent with
+preexisting behaviors and actions. Therefore, Facebook is a community and also is why
+Facebook, as virtual society, functions just the same as a physical community. Whether
+exchanging shells or pixels on a screen, gift-giving remains a cultural constant.
+
+27
+
+References Cited
+Anderson, Benedict. 1991. Imagined Communities: Reflections on the Origin and Spread
+ofNationalism. London: Verso.
+Barrett, Richard A. 1984. Culture and Conduct: An Excursion in Anthropology. Belmont:
+Wadsworth, Inc.
+Brown, Scott. 2008. How Facebook Exposed Us All as Freaks. Wired Magazine.
+February.16.02.
+Century, Douglas. 2002. Two of Rap's Hottest Return to the Dis.The New York Times. 6
+January. <httn://auerv.nvtimes.com/e-st/ful lnal!e.htm l?res=9C07E7D9 I El0F91 ')A
+1S7S2C0A9649C8R61> [cited 19 March 2008]
+comScore. 2007. Major Social Networking Sites Substantially Expanded Their Global
+Visitor Base during Past Year. comScore, Inc. 31 July.
+<httn://www.comscore.com/nress/release.asn?nress=1 ')SS> [cited 7 May 2008]
+Gee1tz, Clifford. Religion As a Cultural System.
+Godbout, Jacques T. and Alain Caille. 1998. The World ofthe Gift. Trans. Donald
+Winkler. Montreal &
+Kingston, London and Ithaca: McGill-Queen's University Press.
+Godelier, Maurice. 1999. The Enigma ofthe Gift. Trans. Nora Scott. Chicago:
+University of Chicago Press.
+Facebook. 2008. <www farPhook rom>
+Komter, Aafke E. 2005. Social Solidarity and the Gift. Cambridge: Cambridge University
+Press.
+Levi-Strauss, Claude. 1987[1950]. Jntroduction to the Work ofMarcel Mauss. Trans.
+Felicity Baker. London: Routledge & Kegan Paul.
+Mauss, Marcel. 1967(1925]. The Gift: Forms and Functions ofExchange in Archaic
+Societies. New York: W.W. Norton & Company, Inc.
+Mead, Margaret. 1928. Coming ofAge in Samoa: A Psychological Study ofPrimitive
+Youth for Western Civilisation. New York: William Morrow & Company.
+Osteen, Mark. 2002. Introduction to The Question of the Gift: Essays Across Disciplines.
+ed. Mark Osteen. London and New York: Routledge.
+Putnam, Robert D. 2000. Bowling Alone: The Collapse and Revival ofAmerican
+
+28
+
+Community. New York: Simon & Schuster.
+Seaford, Richard. 1994, Reciprocity and Ritual: Home and Tragedy in the Developing
+City-State. Oxford: Clarendon Press.
+Vara, Vau Hini. 2008. Facebook CEO Seeks Help as Site Grows Up. Wall Street Journal.
+5 March. <httn://online.wsi.com/article/SR 120465 1554192 10627.html> [cited 19
+March 2008]
+
+29
+
+Figures
+
+1• Welcome to Facebookl I Facebook - Windows Internet Explorer
+00 • il!J ht1p,/t,,ww,raaboct.<0m/nlex,J7l>7
+
+hnv1C1rd:
+
+[v] ,, "' myspace
+
+Facebook Is a social utility U1at connects you
+
+facebook
+
+,-.ith the people around you.
+
+c:=J
+Use facebook to ..•
+
+S",gn up for facebook
+lfs i Ha.'ld .lft')""Mt O l'\j:li\.
+
+.b:l,
+
+Kup U9 wth fri@llds arid tl!r#(
+
+fi) Sfw t ohotos .ind \'ijt os
+
+([j Cont.ol Pitney onln!.
+
+.8. R!CDMect wth o\l d m rnatt;
+9r1id.J,:
+
+find your f rie:nds on fa c::d>ook
+
+--:g
+
+1,,~m•,·~ ,
+01
+
+~:.~~~.:J~-.
+~:.~-:.;/;;;:~~{i..-..
+••.: flta.•,· '-c' .
+
+U. the ffll!nd ~ •
+
+·-"""
+
+Done
+
+Figure 1: The login page for Facebook (www.facehook.com).
+
+r•
+
+Facebook
+
+I
+
+fv
+
+- Wi_ndows Inte rnet Explorer
+
+.,. t!:__htl)://wWW,f.x:Ebod(.cOl'fVt:)rofll&.,:tp7kf=6103l68tof=nf
+f.118 Edrt 'bsVf
+
+Fa'l'O"i'!Ps Iool3
+
+t:te~
+
+1,'i
+
+vl.. ~
+
+Co 'l!k- C •
+
+vj co .. S-
+
+AOlY
+
+o• •
+
+Top5tories
+
+CI -
+
+* """""""'• ~ 71bkxbd
+
+.. t 1) lf""1IDII ..
+
+...
+
+··-Ft~
+
+(i9 <.m,es •
+
+ol
+
+~
+
+':> OH>•
+
+._,
+
+Edual.Jcnlrofo
+
+j:!l ~ ifl J.L r;; ~
+., »vt..lf-..h
+t ,1~-an ~
+
+Caplur~ eve1y
+
+C•m• r• Phone
+
+:i-t'! U
+
+.....,.,. ....
+
+-0-r;i.!-,,y;t,o' ':"!19
+
+~
+
+nwmenl wllhJ
+FREE
+
+} s et11,g,.
+
+f l ~ltrla
+
+""'
+
+Online Eltchulve
+
+C:.. Aa.R.to
+
+....._
+
+A t /)
+
+;-:h
+
+~
+
+•
+
+(!ul-1
+
+..... .....
+,..,,,,.,
+~
+
+Spo,ts
+
+\IW!d.H<•
+
+,,--c.... ,;-
+
+·-
+
+' '""' " .... ...... ......u
+Offll .... t
+
+...... ~
+
+-
+
+, _ _ _ .._
+
+- #-
+
+Figure 2: Example of a user's profile (www.facehook.com).
+
+30
+
+"'"""'
+
+i"' Facebook
+
+0
+
+•
+
+I Search - Windows Internet Explorer
+
+~ hl\>://www.-.co""'.rq,1q=/n•brlrod!lhitrq
+
+EIB E<fl't y_ow FiY17- Iools t:teP
+
+~.l-· l~ c•1• Tn,5'orb . w ~ . 6.1., Gt.,rio, .
+..;J ao , ..... D .... 0 ew:man:,... ~ 71hkvi:M ~ ~
+
+AOL~ 1, "-'
+c,, ,.sk- ~ -·
+
+~
+
+i!o:, Spol'ts- • "-AOI.Raiio
+
+•
+
+0 ~
+
+..
+
+Q ~.
+"\ Sotti'lgi•
+
+~ Serdkl•
+
+\Altirk...
+
+l} • (J
+
+Faceh::dl:I~
+
+iiii-1 '
+~lion,
+
+~
+
+• · '- e:aga...
+
+TQOh •
+
+1;,m:11 ..........
+
+a...
+
+~-, ~~
+
+.u "' .
+IT!] £ - .,
+
+1,3
+
+..-
+
+Cutl!ll~~l
+LI. .-""'
+
+Sl.rt6e'3.:f~H..lr.f6CO.Ol,9"e.ltde»-1
+
+C
+
+"""'
+
+Figure 3: Example of how to friend someone on Facebook (www.facehook com).
+[-" Facebook
+
+(JO • ~
+
+I Gift Shop - Windows Internet Exf!orer
+
+hlq>://www,f~.con,/glfWlop.rq>lr~
+
+fll9 ~it ~.18W
+
+Fi'oQ"lt&s Ioob
+
+I,~
+Co ,s:, 1c..
+
+l:laP
+
+1.:'.J-l!'lo•I &r"'""'" • ID""°""'
+
+AOI. I--
+
+H eo .. ~ 8 •
+
+•
+
+(ill..,.. • .;; ,,,,,. • t:.l AOt ....
+
+bbded ~- <hrl. "...,.._.,. .
+
+_
+
+0 -
+
+• Q-
+
+•
+
+()setthJs•
+
+~ -.,.
+
+:J7
+~ • t) "l' • c' fage •
+t:_::~;::;~~~~~~~~~:====:~;-;:;:;~~=c,:3 :---::=====--
+
+• ~331• , WtltbWSlh'II
+Norton-
+
+* """'"""'•· ~ n
+
+fCl- ~ I-Faecao..
+
+r.if""""l
+
+Choose your gift:
+
+~.uffl
+
+~--- ~D
+-•
+Appk..UoM
+
+Cl),..,,.
+
+T"'b •
+OpUMs •
+
+The Toiet Seat gift ls FR££. Sponsore.d by wtutH.ippens in VegB-
+
+ech
+
+•'t~·11'..
+~ ~
+
+LL ""-
+
+IEI,.,_
+11:1-
+
+St
+
+Sort I lelbod:
+
+.......
+-..-.
+
+• eut:n:ang
+
+-""'
+
+---_..
+
+lle.m,:-, lten;
+
+"
+
+"
+
+'ti!! , L
+
+0 --..~ 41~
+"
+"
+
+JJI
+
+Al.I.~
+
+,..,...
+
+""°"
+
+'
+
+l?.:..1) 4"
+
+.!.,2 l -4 S Hni lasc
+
+Ch00$C your
+
+recipient:
+
+- - - - - - - - -,...
+~ ,-,- - - - 0 ..!_· ~
+,.. • ....,,oa:
+•, tM'K •
+
+Figure 4: The Facebook Gift Shop where gifts are selected and purchased
+(www.facehook.com ).
+
+31
+
+I~ Facebook I
+• ,fL http:/1",ww.fam::w:d:.comJglb.Pl)7k:t=H09EO
+
+E1b tdit YJtrw F~t!B& I ool-i ~ '3
+M>t.. V
+
+jft
+
+~71-
+
+• 0JGa-res .. ".o Si:iortS • .-: AOLRado
+
+~ . !t"l o ...- 9 r119storiei ... W ~
+
+•!Go .,., C •
+
+C-. 0<1k C •
+
+.. ..... •1r1
+
+0
+
+Booknwks•
+
+Wrdowslh'e
+
+P ·
+
+~ a- • , ........, •
+
+) Settrq,•
+
+f.} .. □
+
+- ·
+
+►e_ac.,, •
+
+TllOb •
+
+!iiJ ,p
+
+Horl o Jf"
+
+0-fJs~:s ~~"-'
+
+tQp,ry H:)!~.fff'I rTl'f k-\"f- (, do,•)t QO ~ I.
+
+iuo-hc:ni,~•.li-:t!O"l
+
+~..-,p 1t.~) d.:t•! Ni':y ,cl W"g we i3 :ic,:a
+
+'"fO'.''tf"fi!)p.!:rt"o.,.
+SC'0.6rQ.K-!SO"lf,
+
+} 1 )'OIJ ••
+
+Omo
+
+Figure 5: Examples of gifts posted on a user's wall (www.facehook.com).
+[@
+
+0
+
+Facebook
+
+•
+
+I Home -
+
+Windows l~ernet Explorer
+
+I!, http ://wWW,,-,CO,t\mrre.ir,,
+
+t:te"
+--
+
+f !E Edit YJaw Fj'terltl>i Ioob
+M)L V
+
+/
+
+1
+
+Co ,il< C ·
+
+-
+
+;i
+
+Y i..
+
+•JGo
+
+JnmtnJ • fi!,i 6-nes • ,T"~ spo,ts • W ACt.Rno <t, ~
+
+P') o• 9 Topst«b
+
+11 0 •
+
+0
+
+Bod<mirls• ~ 71blod<ed
+
+r Faaticd< I tt>rne
+
+4i I~""' .. .. Whdows-Uve
+
+.
+
+~ a- • , ....._.., •
+
+FBI Ratnspcd:dcou-s...
+
+• Q~
+
+•
+
+l,t Smdm•
+
+( ) 5ettrq,•
+
+li MySpacB
+
+'-} • I,)
+
+"!'J ...
+
+,. e_age •
+
+Norton"
+
+IJ
+
+r"'
+
+-·
+TQOI$ •
+
+1.t~ml"'llffl lff'f"r~d inan■llum.
+
+e,u,t
+
+Awfiar,Lion.1
+
+,,,._
+
+_ ,......
+
+!l e,~
+
+·-
+
+t!'l
+8 - ...,,
+
+l loth:,tioM
+
+l OGt:.:in:~tul
+
+(OJ
+
+nrepo,:.e,iby;
+
+~
+
+i:a-ti..:l l - " ' -
+
+Mot~ ~t lk.c.ani
+
+!u1t»t5cn'191h,s
+
+~
+
+t ~,gu:dt.c•
+
+,;,Jd,hd l,....1'
+
+tB.11
+
+,;l-~
+
+-·
+
+l,S. ~
+
+cat<
+
+,:;-=-==,
+
+[-~rJ\t!
+
+,;i-~
+
+-----
+
+_ _ _ _-,,----'
+, . "1'6mot
+
+_ _ , +, 100'9
+
+Figure 6: The Facebook homepage, the screen that opens after logging in. On the left
+hand side is where the user can see who poked (www.facehook .com).
+
+32
+
+~ f acebo_
+~_l~__J
+
+0
+
+~ •
+
+• • Windows Internet Explorer
+
+I' h!l>:/,w,,w.-
+
+.con>\lf•file.it.,?ida6096<7
+
+89 Edit Y..~ FiFCf'"ltes Iooh 1:iaP
+M>C.1,.-
+
+"'J .j~o.,.1 .
+
+!!__
+
+•)<» " ;;", ~ •
+
+Co 111< C •
+...
+
+Norton'
+
+I ~ .. ,
+
+Wnbwslt.-e
+
+.. ~ Gtmes .. ~ ~ l s • IC.:: A«Ro,
+
+TQP~ .. [!J ~
+
+*
+
+Boa<miru• ,\:l,7lblrled
+
+'t Oied< •
+
+0, M.,pQ.Jest;
+
+•
+
+. ,_.
+
+Q Shocph,;i •
+
+t..s,nh>•
+
+\ Auld.Tri< •
+
+1.; · r.J
+
+~, Faceto:t I
+
+""l \fl
+m
+~
+M•lrit
+'-'!irTI 11:lll:lJ;n rC• -i../
+roJiY.Jhfc y,,e,i;• ~pcs,c,, IO«oeot~ n1, ltwo.Jd
+bt y.». ••
+
+AJ1 : , , - . ~1; n c ~ ~
+-..,
+
+rt'
+
+..,..
+
+:-,'ilr.l,'I
+
+"·..._.>
+
+,.,._ u\•,.,< . ,•,...,c,rc..--,-_.,~. · C....
+
+l u s babv • t i s ~tt .-ld i-S'3~
+
+ffb-~
+
+t-.~ :r<Q'
+
+w.estlt,c.tiwu , Ntfwv,i
+
+• rfllllllllllMOllllin~
+J ~,,..,th t.\,t ...... ( ,W..h
+u ,rr, ( 44])
+t , , ,u (~J}
+~ f (113J)
+
+- cs-0
+
+:r-11 ( +½)
+'Jl.ulph.J, " ( .M)
+';l,iYa"f
+(21)
+
+_,..
+,
+.
+a
+
+a: U>4lu ,c:,.,N• t tm.D;t
+
+d),..,.
+
+cl1J.t.= 01>lvd! U"'t,,. l ~
+
+C• -.ob JQ • tOC:W:~
+).#'klr). ~ ;,-. : ; o , ~I
+\,.-.~
+
+(ffi}
+
+-=
+
+1~ ~ :••Mclo: :~ ''.~ «d1
+
+. . r""
+
+h !Oltcnhs.- (t ll t
+
+' • •C.-
+
+. ., . . . . . .Oowwn4\ ... N:,.
+
+Doro
+
+Figure 7: Examples of wall posts on a user's wall (www.facehook.com).
+
+33
+
+Jllt' •
+
+'- eago •
+
+Toots •
+
+

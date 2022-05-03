@@ -1,0 +1,3172 @@
+Anthropology Senior Theses
+
+University of Pennsylvania
+
+ScholarlyCommons
+Department of Anthropology
+
+Spring 2006
+
+Evolution and Attention Deficit Hyperactivity Disorder (ADHD)
+R Erik Malmgren-Samuel
+University of Pennsylvania
+
+Follow this and additional works at: https://repository.upenn.edu/anthro_seniortheses
+
+Q
+
+Part of the Anthropology Commons
+
+Recommended Citation
+Malmgren-Samuel, R Erik, "Evolution and Attention Deficit Hyperactivity Disorder (ADHD)" (2006).
+Anthropology Senior Theses. Paper 74.
+
+This paper is posted at ScholarlyCommons. https://repository.upenn.edu/anthro_seniortheses/74
+For more information, please contact repository@pobox.upenn.edu.
+
+Evolution and Attention Deficit Hyperactivity Disorder (ADHD)
+Disciplines
+Anthropology
+
+This thesis or dissertation is available at ScholarlyCommons: https://repository.upenn.edu/anthro_seniortheses/74
+
+Evolution and ADHD
+HONORS THESIS IN BIOLOGICAL ANTHROPOLOGY
+
+Erik Malmgren-Samuel
+graduating in May, 2006
+
+Running Head: EVOLUTION AND ADHD
+
+Evolution and Attention Deficit
+Hyperactivity Disorder (ADHD)
+R. Erik Malmgren-Samuel
+University of Pennsylvania
+
+Completed for Undergraduate Honors Thesis Credit in the
+Department of Anthropology at the University of
+Pennsylvania.
+(May 2006)
+Tom Schoenemann (Anthropology) & Amishi P. Jha
+(Psychology) - Supervisors
+
+R. Erik Malmgren-Samuel
+University of Pennsylvania
+Undergraduate in Biological Anthropology and Communications (majs), Psychology (min)
+
+Evolution and ADHD
+HONORS THESIS IN BIOLOGICAL ANTHROPOLOGY
+
+Erik Malmgren-Samuel
+graduating in May, 2006
+
+Table of Contents
+1. Introduction
+5. "On the Road to a Diathesis-Stress Model of ADHD"
+5. Introduction
+6. Dopamine and Attention
+8. Evolutionary Theories of ADHD
+9. DRD4 Polymorphism Models
+13. Gene-General Models and Their Relevance to the DRD4
+Polymorphism
+16. Current Environmental Interactions in the Development of DRD4
+-Related ADHD
+19. References
+20. "Attention-Deficit/Hyperactivity Disorder (ADHD) and the Media - An
+Evolutionary Perspective"
+21. Abstract
+22. Introduction
+30. Method
+33. Results
+37. Discussion
+47. Conclusions
+50. Platform for Future Research Directions
+55. References
+57. Appendix
+62. Ongoing Research Efforts
+62. ADHD and the Media Survey
+65. The Attentional Cognition of ADHD Subjects and the DRD4 Gene
+65. Overview and Funding
+65. Experimenters
+66. Method
+68. The Role of ADHD-like Symptoms in Serial Order and Novelty in
+Working Memory and Attention
+68. Overview
+68. Materials and Methods
+72. Results
+74. Table Legend
+74. Figure Legend
+78. General Discussion
+
+Evolution and ADHD
+HONORS THESIS IN BIOLOGICAL ANTHROPOLOGY
+
+Erik Malmgren-Samuel
+graduating in May, 2006
+
+Introduction
+This thesis reports multiple, interdisciplinary research projects that investigate
+Attention Deficit Hyperactivity Disorder (ADHD), attempting to place the etiology and
+the epidemiology of the mental disorder in an evolutionary context. The methods
+employed in the two completed and two ongoing studies reported here are recruited from
+a variety of fields, with an emphasis on an interdisciplinary approach in generating
+research questions, creating experiments, data analysis, and interpreting results. Though
+this thesis is an example how an evolutionary vantage can inform ADHD research
+specifically, the broader goal is illustrate the potential usefulness of using adaptationist
+logic in the investigation of most mental disorders.
+Most mental disorders that are believed to have genetic components are
+associated with genes that exist in the general population at rates are that are above the
+rate of random genetic mutation. This is a strong indication that these genes were
+therefore selected for and maintained in the population through adaptation. This suggests
+that the genes of interest code for behavioral or cognitive phenotypes that were once
+adaptive, to at least a significant portion of the population. Currently, however, these
+genes appear to be predisposing some of the individuals who carry them to developing
+complex mental disorders. This raises the following questions: what cognitive or
+behavioral components of these genes were once adaptive, and what about the modern
+mental environment is different from our past environments, such that it interacts with
+these genes phenotypes to create predispositions to the development of maladaptive
+mental disorders?
+
+l
+
+Evolution and ADHD
+HONORS THESIS IN BIOLOGICAL ANTHROPOLOGY
+
+Erik Malmgren-Samuel
+graduating in May, 2006
+
+These questions assume that mental disorders are genuine phenomenon of
+maladaptive mental functioning, and that the increasing rates of mental disorder are not
+simply due to a greater awareness of mental disorder by the biomedical community
+(though that is a factor), but rather also by novel gene-environment interactions in which
+the mental environment is dramatically changing. Our modem culture has changed the
+mental environment at a rate too fast to allow certain brain-related genes to adapt. For
+example ( a fictitious one), genes that once benefited the young hunter in hunter-gatherer
+societies may now create antisocial behaviors in the cramped and disciplined classroom.
+If it is the case that once adaptive cognitive and behavioral genes are now the underlying
+bases of predispositions to mental disorders, then evolutionary logic - by placing all
+current clinical knowledge and research into an adaptionist framework - is an essential
+approach ifwe are to understand the causes and treatment of mental disorders.
+Hopefully, such logic could also aid in the development of ways to prevent those
+genetically predisposed to disorder from developing that disorder by providing coping
+mechanisms as they grow throughout childhood and perhaps into adulthood.
+
+The Research Projects Reported in This Thesis
+The two articles presented - and the other active, ongoing research that is
+presented after - were completed for undergraduate independent research credit, course
+credit and honors credits at the University of Pennsylvania. When necessary, study
+protocol was approved by the university's Institutional Review Board.
+"On the Road to a Diathesis-Stress Model of ADHD"
+This paper provides draws from psychiatry for its title - in a diathesis-stress
+model of mental illness, the environment and genes must interact to result in disorder.
+
+2
+
+Evolution and ADHD
+HONORS THESIS IN BIOLOGICAL ANTHROPOLOGY
+
+Erik Malmgren-Samuel
+graduating in May, 2006
+
+This paper outlines the considerations and questions that must be addressed if one is to
+inquire about the evolutionary and enviromnental implications in the etiology of ADHD.
+The paper describes the state of the current knowledge regarding ADHD - from such
+diverse fields as population genetics and modern psychiatry - and attempts to provide a
+conceptual framework that might be used in the integration of these approaches using an
+evolutionary vantage.
+"Attention-Deficit/Hyperactivity Disorder (ADHD) and the Media - An
+Evolutionary Perspective"
+This paper reports a meta-analytic cross-cultural investigation of ADHD and the
+media with the hypothesis that one of the important contemporary enviromnental factors
+that is interacting with ADHD-predisposing genes to produce ADHD is the level of
+media-related enviromnental stimuli. The prediction was that countries with higher
+levels of "media saturation" should positively correlate with ADHD prevalence in those
+countries. Correlations, regression and factor analysis were conducted using national
+ADHD prevalence rates from various studies as a proxy for the level of ADHD in a
+country and national telecommunications statistics as proxies for the general level of
+media saturation in the environment. The analysis produced mixed, though interesting
+results.
+Ongoing Research Efforts
+There are currently three areas of research related to ADHD and evolution. For
+more in depth descriptions, please refer to the "Ongoing Research" section.
+
+3
+
+Evolution and ADHD
+HONORS THESIS IN BIOLOGICAL ANTHROPOLOGY
+
+Erik Malmgren-Samuel
+graduating in May, 2006
+
+1) The first of these efforts consists of a questionnaire that is designed to further
+test the hypothesis that media is a predisposing environmental factor to the development
+ofADHD.
+2) The second effort is designed to look at specific features of attentional
+cognition using a working-memory distract task on normal subjects who also complete
+the Conners' Adult ADHD Rating Scale (CAARS), to serve as a proxy for ADHD-like
+cognitions among normal populations. The task is designed to measure two things, the
+ability to remember item in serial order, and the effects of adding novel features that can
+either facilitate or hinder this memory process.
+3) The third project is a large project using actual ADHD subjects, and may take
+up to two more years to complete. The study consists of running the ADHD subjects
+through a battery of attention and working memory tasks and genotyping these subjects
+for the DRD4 dopamine receptor gene. Then the data will be analyzed to investigate
+whether specific attentional-cognitive profiles can be correlated with either the diagnostic
+subgroups, their genotypes or both.
+
+4
+
+Evolution and ADHD
+HONORS THESIS IN BIOLOGICAL ANTHROPOLOGY
+
+Erik Malmgren-Samuel
+graduating in May, 2006
+
+On the Road to a Diathesis-Stress Model of ADHD
+INTRODUCTION
+Attention Deficit Hyperactivity Disorder (ADHD), a common childhood mental
+disorder affecting approximately 5% of American youth, is currently understood
+primarily as a behavioral disorder, characterized by inattention, hyperactivity and
+impulsivity (Wolraich, Hannah et al. 1998). ThoughADHD is a complex developmental
+disorder, there is considerable evidence for the presence of underlying biological
+differences in the brains of people with the disorder (Swanson, Castellanos et al. 1998).
+Specifically, a blunted or irregular response to the neurotransmitter dopamine appears to
+contribute to the disorder. Furthermore, specific genetic contnbutors to dopamine
+regulation have been implicated, though there is no single-gene model. The most widely
+implicated genes are polymorphisms of the DRD4 dopamine receptor gene. This
+heritable biological predisposition implies that DRD4-associated ADHD is best
+characterized by a diathesis-stress model, in which a predisposition for a disorder must
+react to certain environmental stressors (and possibly other genes), in order for pathology
+to occur. Evolutionary theory, by focusing on gene-environment interactions, offers two
+important insights into the mechanics of this diathesis-stress model: first, adaptionist
+logic helps us better understand the nature of the DRD4 biological predisposition as
+being a functional behavioral adaptation to certain environments; second, we can then
+analyze that behavioral adaptation in the context of the contemporary environment to
+identify those stressors that may contribute to the development of the maladaptive
+disorder. The present paper outlines the current understanding of how the 2-repeat (2R)
+and 7-repeat (7R) polymorphisms of the DRD4 gene may have evolved as frequency-
+
+5
+
+Evolution and ADHD
+HONORS THESIS IN BIOLOGICAL ANTHROPOLOGY
+
+Erik Malmgren-Samuel
+graduating in May, 2006
+
+dependent ( defined below) behavioral adaptations and then suggests how those
+adaptations may now serve as predispositions for distinct developmental pathways
+leading to the manifestation of diagnosable ADHD. Specifically, the author suggests that
+hypersensitive reactivity to environmental stimuli in 7R and 2R individuals, though
+previously adaptive, is now the source of a predisposition to ADHD, because the current
+environmental demands on selective attention combined with an excess of environmental
+stimuli appear to stress this evolved attentional type.
+
+DOPAMINE AND ATTENTION
+Dopamine, a central neurotransmitter, has long been associated with attentional
+capacities. Evidence of this association first came from the observation that
+amphetamines improve attention (and indeed most pharmacological treatments for
+ADHD are psychomotor stimulants that operate as dopamine agonists.) Amphetamines
+stimulate the presynaptic dopamine neurons to release more cytoplasmic dopamine into
+the synaptic cleft, thereby increasing the firing rate of the postsynaptic neurons. Other
+psychomotor stimulants that are used to treat attention problems such as methylphenidate
+(Ritalin) operate in a similar manner, increasing the firing rate of dopaminergic neurons
+by altering the levels of dopamine in the synaptic cleft.
+The dopamine system is an evolutionarily ancient neuronal system that serves to
+regulate some of the most fundamental behaviors and cognitions. Some of the same
+genes that regulate our dopaminergic system are found in all mammals, such as
+laboratory rats who have the DRD4 gene, indicating both that the dopaminergic system
+evolved long before homo sapiens, and that it has been consistently adaptive throughout
+
+6
+
+Evolution and ADHD
+HONORS THESIS IN BIOLOGICAL ANTHROPOLOGY
+
+Erik Malmgren-Samuel
+graduating in May, 2006
+
+our evolution, as well as the evolution of all mammals. In laboratory experiments with
+rats, dopamine has proven to regulate a variety of functions that are crucial for motor and
+limbic functions (hyperactivity, arousal, novelty seeking) as well as directed behaviors
+and their associated cognitions, such as learning and reinforcements, decision-making,
+attention, and other cognitive functions that are collectively referred to as Executive
+Functioning (EF) (Nieoullon 2002).
+The cognitive deficits that are associated with attention and EF appear to be the
+result of disordered functioning in those dopaminergic pathways that extend from
+subcortical regions such as the basal ganglia and the caudate nucleus (parts of the brain
+associated with basic regulatory function) to the frontal cortex (the part of the brain
+responsible for higher-level cognition) (Swanson, Castellanos et al. 1998). For the
+purposes of this paper, the exact specifics of the entire complex dopaminergic system
+need not be reviewed because our knowledge of the role the DRD4 polymorphisms plays
+in altering the dopaminergic system's functioning is limited, and our knowledge of how
+these alterations effect attentional behavior is more limited.
+To investigate the evolution of a behavior that predisposes one for a mental
+disorder, knowing the exact chemical substrates of that behavior is not a prerequisite;
+instead, we only need have evidence that a particular predisposing behavior was selected
+for by the environment. At present, we know only that the relatively rare 7R and 2R
+polymorphisms (as opposed to the "common'' 4R allele) of the DRD4 gene are associated
+with an increased prevalence in ADHD individuals (Swanson, Oosterlaan et al. 2000),
+and that these polymorphisms appear to have been selected for by the environment in a
+frequency-dependent manner (Wang, Ding et al. 2004), meaning that these alleles have
+
+7
+
+Evolution and ADHD
+HONORS THESIS IN BIOLOGICAL ANTHROPOLOGY
+
+Erik Malmgren-Samuel
+graduating in May, 2006
+
+been adaptive to certain percentages of the population, but were everyone to have these
+alleles, they would no longer be adaptive. Another example of frequency-dependent
+selection would be sickle cell disease as an adaptation to malaria.
+
+EVOLUTIONARY THOERIES OF ADHD
+There are a various hypotheses regarding the evolutionary history of ADHD. The
+generally fall into one of two groups. First, researchers have begun to focus their
+attention on the evolution of just the DRD4 polymorphisms. Second, many hypotheses
+operate irrespective of specific genes, instead focusing on the potential adaptive purposes
+of those behaviors that clinicians have identified in ADHD individuals. The present
+paper will review both, as they overlap, and both have direct relevance to the
+investigation of the DRD4 gene's role in our evolutionar; history and the development of
+ADHD.
+The DRD4-specific hypotheses are important because they directly target the
+distinct predisposition to the development of ADHD that we are investigating. From this
+back-to-front approach, we can begin to look at ADHD as being a maladaptive behavioral
+state that can be broken into individual predisposing behavioral components (one of
+which is that of the DRD4 gene), giving us a more dynamic understanding of the
+complex etiology of the disorder. Further, these gene-specific models can potentially
+give us direct insight into the neurochemical basis of different attentional behaviors.
+Finally, because of the relatively recent selection operating on the DRD4 polymorphisms
+(Ding, Chi et al. 2002), the DRD4-specific models may offer important clues about
+
+8
+
+Evolution and ADHD
+HONORS THESIS IN BIOLOGICAL ANTHROPOLOGY
+
+Erik Malmgren-Samuel
+graduating in May, 2006
+
+human history in the past 100,000 years, a period during which Homo sapiens underwent
+extraordinary changes such as population migration.
+The gene-general models are important because we cannot know whether the
+behaviors that are currently considered part of the disorder by clinical science are the
+same behaviors that were selected for in our evolutionary past; instead, they may be new
+manifestations of older behaviors that are encountering a novel environment in a
+maladaptive manner. This front-to-back approach allows us to look at the entirety of
+ADHD as a complex developmental disorder, giving us a better idea of the maladaptive
+behaviors involved. Most importantly, because we do not yet know the specific
+behavioral contributions of the DRD4 gene, these gene-general models may hold
+valuable clues as to the selection history and the functional purpose of the DRD4
+polymorphisms.
+
+DRD4 POLYMORHPHISM MODELS
+The DRD4 is a polymorphic gene, meaning that there are multiple forms of the
+alleles. The common variant is the 4-repeat (4R) allele, and in most populations (except
+some American ethnic populations) it is the dominant variant, followed by the 7R and
+then the 2R, with the remaining polymorphisms existing at extremely low rates (Chang,
+Kidd et al. 1996).
+
+In multiple studies, the 7R polymorphism of the DRD4 has been associated with
+increased prevalence in ADHD (Faraone, Doyle et al. 2001) and with the personality trait
+of novelty seeking (Rogers, Joyce et al. 2004); however, the mechanisms that may
+account for these associations are unclear. Worldwide allele frequencies vary
+
+9
+
+Evolution and ADHD
+HONORS THESIS IN BIOLOGICAL ANTHROPOLOGY
+
+Erik Malmgren-Samuel
+graduating in May, 2006
+
+ADHD individuals from other studies (Leung, Lee et al. 2005). These results taken
+together clearly indicate that the 2R is functionally similar enough to the 7R to call into
+question Harpending' s explanation of the frequency data, which ignores the 2R frequency
+data; however, further evidence regarding the relationship between the selection of the
+7R and the 2R is needed.
+The most recent model has been proposed by Wang, Ding et al. (2004), who have
+used complex population genetics methods to model the selection operating on the 4R,
+the 7R and the 2R alleles. The authors accept Harpending' s suggestion that the
+frequencies are most likely explained by a frequency-dependent model; however, they
+acknowledge that the 2R may be functionally equivalent to the 7R, and suggest that a
+variety of selective pressures may have been operating on these alleles.
+According to this model, the 7R allele arose about 40-50, 000 years ago, perhaps
+as a rare mutational event or series of events, prior to the major out-of-Africa migrations.
+Shortly thereafter, the 2R allele arose from recombination of the 7R and the 4R The
+authors explain the unusually high 7R frequencies found in the Americas by citing the
+population bottleneck that occurred with migration to these areas. In general the authors
+remain conservative in their suggestions as to exactly what forces have selected these
+alleles. They suggest that sexual selection, determined by local cultural norms may have
+selected these alleles. However, they also point out the potential benefits of a "response
+ready" behavioral pattern that could have been selected for in the initial population
+migrations that occurred prior to local selection. This suggestion that is supported by two
+studies that found faster reaction times in ADHD individuals with the 7R allele as
+compared to those without (Swanson, Oosterlaan et al. 2000; Langley, Marshall et al.
+
+12
+
+Evolution and ADHD
+HONORS THESIS IN BIOLOGICAL ANTHROPOLOGY
+
+Erik Malmgren-Samuel
+graduating in May, 2006
+
+2004). They also do not exclude the possibility that the 2R and the 7R may be in
+competition for similar, yet distinct niches. In short, this model does not provide an
+answer to the question of the alleles selection; however, it does outline the considerations
+that must be taken into account as research progresses. Namely, that frequencydependent selection is operating at the local level and that the respective behavioral
+contributions of both the 7R and the 2R alleles must be considered.
+
+GENE-GENERAL MODELS AND THEIR RELEVANCE TO THE DRD4
+POLYMORPHISMS
+The gene-general models focus on the behavioral traits found in the clinical
+diagnosis. This is advantageous because there is no single-gene model for the disorder
+and we do not know the exact behavioral adaptations of the DRD4 predisposition. Such a
+method gives us a broader perspective on the behaviors involved in the disorder and thus
+allows us to compare the various possible adaptive functions may have been selected for
+in the DRD4, and that have become maladaptive in today's environment. In effect, this
+approach generates hypothetical adaptive roles that we can then apply to the DRD4
+selection model we have outlined above, determining which if any can fit the frequencydependent model. It should be noted that the following comparisons of the gene-general
+models to the DRD4 selection requirements are speculation at this point.
+One general model is the "hunter" model, originally proposed by Hartmann
+(Shelley-Tremblay and Rosen 1996), in which he proposes that pre-agricultural hunters
+would have benefited from the behavior traits we see in the clinical disorder. "He
+suggested that the traits of distractibility, impulsiveness and even aggression would have
+
+13
+
+Evolution and ADHD
+HONORS THESIS IN BIOLOGICAL ANTHROPOLOGY
+
+Erik Malmgren-Samuel
+graduating in May, 2006
+
+been directly useful to a hunter." (Shelley-Tremblay and Rosen 1996) The problem with
+Hartmann' s model is that he suggests that all hunter societies would have selected these
+behaviors for all members of those societies, and therefore the current ADHD prevalence
+of approximately 5% would be far too low, having needed serious deleterious selection.
+Hartman suggest that agriculture would be this negative selecting force; however this
+does not account for those populations in which agriculture has not been a selective force.
+We can modify his hypothesis to consider a frequency-dependent scenario, in which
+"hunter types" would only be beneficial to a certain low percentage of the population.
+This could have been one of the local selection processes demanded by Wang's mode~ as
+his model does not exclude the possibility of multiple adaptive niches.
+Various authors have suggested that ADHD behaviors would have benefited
+"fighters" (Shelley-Tremblay and Rosen 1996). Some propose that humans were in
+direct competition with Neanderthals, and that aggressive behavior as seen in ADHD
+would have been selected for. Though this particular scenario may be true, it cannot
+explain the selection of the DRD4 because it again operates in a directional manner
+inconsistent with a balanced polymorphism. However, from this hypothesis we can take
+the notion that aggressive behavior may have played a role in local selection. This
+hypothesis, similar to Harpending' s, seems like a feasible hypothesis if we
+reconceptualize the aggression as being within-group fighting. It is aggressive behavior
+that is cited in the famous "hawk and dove" scenario, proposed by Dawkins as an
+archetypal frequency-dependent scenario, in which being aggressive is beneficial to some
+members of a group, but not all because of the cost of constant confrontation. It is
+important to remember that Harpending' s explanation is not necessarily incorrect because
+
+14
+
+Evolution and ADHD
+HONORS THESIS IN BIOLOGICAL ANTHROPOLOGY
+
+Erik Malmgren-Samuel
+graduating in May, 2006
+
+we do not fully understand the interaction between the 7R and the 2R - male-to-male
+competition could well have played a role in local, frequency-dependent selection;
+however, it is unlikely that Harpending' s "cad-society'' model can account for the 2R,
+due to its prevalence in large, agricultural societies such as the Chinese.
+Finally, Jensen et al. (1997) have constructed a dynamic continuum of ADHD
+related behavior dimensions and environtypes, in which he contrasts "problem-solving"
+with "response ready" environments (in which ADHD types would be adaptive.) In
+"response ready" environments: unsafe, rapidly changing or novel conditions would
+select for "hypervigilant, high-scan" behaviors; time-critical conditions would select for
+"impulsive" behaviors; resource-depleted conditions would select for "high motor
+activity" behaviors. Respectively, in "problem-solving" environments: safe, little
+changing conditions would select for "focused attention" behaviors; time-optimal
+conditions would select for "non-impulsive" behaviors; resource-rich conditions would
+select for "low motor activity" behaviors.
+Jensen's "response ready" model is advantageous to the development of a DRD4
+selection model, as Wang et al themselves suggested. First, it might help explain the
+initial population spread of the 7R and 2R alleles. Once local frequency-dependent
+selection took over, "response ready" environments would have discontinued as selecting
+factors; however, the response ready behavioral traits (hypervigilance, impulsivity, and
+high motor activity) would have continued to play a role in local selection. It is possible
+that these "response ready" traits could factor into a frequency-dependent model akin to
+the "hawk and dove" scenario. It is also possible that such behaviors could play a role in
+
+15
+
+Evolution and ADHD
+HONORS THESIS IN BIOLOGICAL ANTHROPOLOGY
+
+Erik Malmgren-Samuel
+graduating in May, 2006
+
+sexual selection, which would support Wang's suggestion; however, more research is
+needed.
+
+CURRENT ENVIRONMENTAL INTERACTIONS IN THE DEVELOPMENT OF
+DRD4-RELATED ADHD
+In order to speculate as to what about the current environment is causing DRD4
+polymorphisms to become a predisposition, we must combine what we know about the
+potential adaptive behaviors in the selection history of the DRD4 with what we know
+about the attentional differences of ADHD individuals with the 7R allele as compared to
+those without the allele to suggest a dynamic description of the DRD4' s behavioral
+profile. Simultaneously, we must assess how ADHD individuals appear to be interacting
+with the environment in maladaptive or unusual ways. In this manner, we can hope to
+suggest a preliminary outline of a diathesis-stress model for DRD4-related ADHD.
+Two studies have been done on the attentional performance of ADHD individuals
+with the 7R allele as compared to those without. Swanson et al. (2000) found that those
+ADHD individuals with the 7R allele did not show the slowed cognitive responses typical
+of non-7R ADHD. Rather, they appeared to be free of many of the common deficits
+assumed to be part of ADHD. Langley et al. (2004), using different tasks, further
+elaborated. Though she did find some deficits in accurate decision-making, she
+confirmed that 7R ADHD individuals are characterized by faster reaction times than non7R ADHD individuals, and in her study, to controls as well. Together these studies are
+consistent with aspects of the "response ready" model. Specifically, it appears that 7R
+individuals give speed priority over accuracy. This could indicate that they have a
+
+16
+
+Evolution and ADHD
+HONORS THESIS IN BIOLOGICAL ANTHROPOLOGY
+
+Erik Malmgren-Samuel
+graduating in May, 2006
+
+"scanning attention" that is designed to quickly process environmental stimuli, perhaps in
+order to integrate as many aspects of their environment as possible in high-pressure
+situations, at the cost of slow, but accurate decision-making. Essentially, this would
+allow the 7R individual to "multitask", paying attention to multiple things at once (as
+mentioned above, this could factor into a frequency-dependent model.)
+There is some evidence to support the notion of multitasking. In one study
+(Landau, Lorch et al. 1992), ADHD children were compared to controls in their attention
+to television. After watching television with distractor toys present, the ADHD children
+showed significant problems compared to controls in recalling the content of the show
+they had watched when asked to simply report the shows content. Interestingly, when
+investigators elicited cued recall (asking specific questions about the shows content),
+ADHD children showed no deficit, indicating that they were paying attention to multiple
+things at once, though at a less conscious level.
+Given this evidence I suggest the following diathesis-stress model. The 7R and
+2R alleles of the DRD4 gene code for an attentional cognition that is characterized by
+quick, uncontrolled shifts of attention that give the individual the ability to pay attention
+to multiple stimuli in their environment. This hypothesis is consistent with the genetic
+evidence outlined above, and though I cannot provide a concrete frequency-dependent
+selection model, I suggest that such a cognition could have been adaptive in a variety of
+situations, and that the current evidence suggests that there may be multiple adaptive
+niches. This hypothesis does not contradict the available data regarding the selection of
+the DRD4, and it is consistent with our current understanding of7R attentional cognition.
+
+17
+
+Evolution and ADHD
+HONORS THESIS IN BIOLOGICAL ANTHROPOLOGY
+
+Erik Malmgren-Samuel
+graduating in May, 2006
+
+This suggested cognition should currently be maladaptive in the form of a
+predisposition to develop ADHD because our current environment demands a high
+degree of selective and sustained attention, while simultaneously presents a degree of
+environmental stimuli that is higher than at any point in our evolutionary history. A child
+with 7R will have a difficult time attempting to sustain his attention in the classroom, or a
+businessman will have a difficult time keeping staying on one task long enough to finish
+it because he is distracted by the many other demands of the office place. Similarly,
+television - presenting a constant stream of stimuli, should act as an environmental
+stressor. And indeed, there is evidence that TV exposure can lead to attentional problems
+(Christakis, Zinnnerman et al. 2004).
+Though there are no concrete answers to the questions investigated in this paper,
+the various lines of evidence are beginning to yield clues as to the evolutionary history
+and current manifestation ofDRD4-related ADHD. With further neurological studies (of
+the neurophysiological and neurochemical substrates of ADHD), genetic studies (of the
+DRD4 as well as other candidate genes), cognitive studies (of the attetional components
+of the various forms of ADHD), and evolutionary studies (of the populations for which
+we have frequency data), we can begin to formulate a comprehensive and dynamic
+picture of ADHD as a product of our evolutionary past, and a representation of our
+current environment - a diathesis-stress model.
+
+18
+
+Evolution and ADHD
+HONORS THESIS IN BIOLOGICAL ANTHROPOLOGY
+
+Erik Malmgren-Samuel
+graduating in May, 2006
+
+REFERENCES
+Chang, F. M., J. R. Kidd, et al. (1996). "The world-wide distribution of allele frequencies
+at the human dopamine D4 receptor locus." Hum Genet 98(1): 91-101.
+Christakis, D. A, F. J. Zimmerman, et al. (2004). "Early television exposure and
+subsequent attentional problems in children." Pediatrics 113(4): 708-13.
+Ding, Y. C., H. C. Chi, et al. (2002). "Evidence of positive selection acting at the human
+dopamine receptor D4 gene locus." Proc Natl Acad Sci US A 99(1): 309-14.
+Faraone, S. V., A E. Doyle, et al. (2001). "Meta-analysis of the association between the
+7-repeat allele of the dopamine D(4) receptor gene and attention deficit
+hyperactivity disorder." Am J Psychiatry 158(7): 1052-7.
+Harpending, H. and G. Cochran (2002). "In our genes." Proc Natl Acad Sci U S A 99(1 ):
+10-2.
+Landau, S., E. P. Lorch, et al. (1992). "Visual attention to and comprehension of
+television in attention-deficit hyperactivity disordered and normal boys." Child
+Dev 63(4): 928-37.
+Langley, K., L. Marshall, et al. (2004). "Association of the dopamine D4 receptor gene 7repeat allele with neuropsychological test performance of children with ADHD."
+Am J Psychiatry 161(1): 133-8.
+Leung, P. W., C. C. Lee, et al. (2005). "Dopamine receptor D4 (DRD4) gene in Han
+Chinese children with attention-deficit/hyperactivity disorder (ADHD): increased
+prevalence of the 2-repeat allele." Am J Med Genet B Neuropsychiatr Genet
+133(1 ): 54-6.
+Nieoullon, A (2002). "Dopamine and the regulation of cognition and attention." Prog
+Neurobiol 67(1): 53-83.
+Rogers, G., P. Joyce, et al. (2004). "Association of a duplicated repeat polymorphism in
+the 5'-untranslated region of the DRD4 gene with novelty seeking." Am J Med
+Genet B Neuropsychiatr Genet 126(1 ): 95-8.
+Shelley-Tremblay, J. F. and L. A Rosen (1996). "Attention deficit hyperactivity disorder:
+an evolutionary perspective." J Genet P~chol 157(4): 443-53.
+Swanson, J., F. X. Castellanos, et al. (1998). "Cognitive neuroscience of attention deficit
+hyperactivity disorder and hyperkinetic disorder." Curr Opin Neurobiol 8(2): 26371.
+Swanson, J., J. Oosterlaan, et al. (2000). "Attention deficit/hyperactivity disorder children
+with a 7-repeat allele of the dopamine receptor D4 gene have extreme behavior
+but normal performance on critical neuropsychological tests of attention." Proc
+Natl Acad Sci US A 97(9): 4754-9.
+Wang, E., Y. C. Ding, et al. (2004). "The genetic architecture of selection at the human
+dopamine receptor D4 (DRD4) gene locus." Am J Hum Genet 74(5): 931-44.
+Wolraich, M. L., J. N. Hannah, et al. (1998). "Examination ofDSM-IV criteria for
+attention deficit/hyperactivity disorder in a county-wide sample." J Dev Behav
+Pediatr 19(3): 162-8.
+
+19
+
+Evolution and ADHD
+HONORS THESIS IN BIOLOGICAL ANTHROPOLOGY
+
+Erik Malmgren-Samuel
+graduating in May, 2006
+
+Abstract
+Objective: In this paper, I report the results of one preliminary, cross-cultural statistical analysis in which I
+examine the effect of media-saturation in society on the development of Attention-Deficit/Hyperactivity
+Disorder (ADHD,) as a pilot study into an evolutionary model of the disorder. ADHD is marked by
+hyperactivity/impulsivity and/or inattentive behavior, and is the most common childhood mental disorder at
+about 5%. Research has poiuted to both genetic and environmental contributions, but there has been little
+research into developing a comprehensive evolutionary model of ADHD. ADHD is associated with genetic
+components maintained at high rates in the population, indicating that agpects of cognition relating to the
+disorder were at one time adaptive, selected by the environment. I propose that many ADHD individuals
+have an evolved form or forms of attention and memory processes that becomes maladaptive when the
+amount of information and stimuli in the environment increases far enough beyond that of the environment
+in which our cognitions evolved. The most obvious societal correlate of information complexity and the
+degree of access to stimuli is the level of media saturation; therefore, media was chosen as a proxy for the
+amount of information and stimuli in the environment. If the degree of information and stimuli available in
+the environment is a significant predictor of ADHD, then in a given society, as the level of media in the
+environment increases the prevalence of ADHD should also increase. One recent stody has shown that
+exposure to television at a youug age is correlated with later attentional problems, indicating the
+importance of television as an environmental factor in the development of ADHD, and supporting my
+prediction. Methods: I directly tested my hypothesis nsing indicators of media saturation, as indexed by
+the International Telecommnnication Union's Telecomm database oftelecommnnications indicators, and
+worldwide prevalence rates from multiple independent studies compiled by Faraone (2003). Simple and
+partial correlations, principle component analysis, and multiple regressions were performed on the
+combined data set. Results: Analysis yielded near significant results, supporting the prediction that
+television is associated with ADHD; however, every other indicator of media, showed weak to moderate
+negative associations with ADHD. Also negatively correlated with ADHD was Gross Domestic Product
+(GDP). Discussion: These results appear to rule out a simple a model of media's effect on ADHD that
+excludes a consideration of different cultures' selection pressures on ADHD-like behavior. I propose three
+explanations that may be valid: 1) There is a distinction between interactive media, such as the internet and
+passive, non-interactive media, such as television, 2) Media and information in the environment do causally
+influence the development of ADHD, as a disorder; however, cultures in which there is less media may also
+happen to be cultures that, independently, do not demand the same level of attentive behavior as those
+cultures in which there is more media. This might occur because in these low-media cultures there has
+been less of a need to adapt to an excess of stimuli, and thus the ADHD-like behavior (which encouraged
+attention to many digparate details) flourishes. Therefore, when American diagnostic criteria are applied to
+these poorer, less media-saturated cultures, the more prevalent, yet benign ADHD-like behavior would
+falsely appear as an increased prevalence of the disorder. This demands a distinction between ADHD as a
+disorder specific to high-stimuli environments, and as an evolved, underlying behavior. We cannot apply
+diagnostic criteria from stimuli rich environments to stimuli poor environments becanse the behavior is not
+as maladaptive in stimuli poor environments; and, thongh the underlying behavior will be more prevalent,
+those with the behavior cannot necessarily be considered as having a disorder on the basis of the DSM
+criteria. 3) Television, as the ouly media variable found in every country, may be the only variable that
+should be considered currently. Conclusion: I propose a theoretical framework in which to illnstrate the
+various gene/environment interactions surrounding ADHD as a dynamic process, and explain the issues
+that must be takeu into consideration when looking at ADHD across cultures. Future directions: Finally,
+a platform for the development of an evolutionary model of ADHD is outlined to conclude the paper,
+taking into consideration the results of this statistical analysis and proposing future directions for research.
+
+21
+
+Evolution and ADHD
+HONORS THESIS IN BIOLOGICAL ANTHROPOLOGY
+
+Erik Malmgren-Samuel
+graduating in May, 2006
+
+Attention-Deficit/Hyperactivity Disorder (ADHD) and the Media - An Evolutionary
+Perspective
+Understanding the evolutionary basis of a mental disorder is a process that yields
+knowledge of what specific cultural and social factors of the environment are responsible
+for the maladaptive behavior. A behavior is considered a disorder if it is both sufficiently
+different from the norm and affects an individual's ability to function in society (DSMIV). Mental disorders that appear to have a genetic basis must have underlying behaviors
+that were at one time both functional and adaptive to a portion of the population, else
+those genes would never have become widespread in population. Attention-Deficit/
+Hyperactivity Disorder (ADHD,) like many mental disorders, is heritable (Swanson et al.,
+2000), and as such must have an evolutionary history. The evolution of a heritable
+disorder must be marked by two phases: 1) one during which the behavior must have
+been adaptive for a long period of time to a certain percentage of the population an the
+environment of evolutionary adaptiveness, and 2) the contemporary phase, in which
+something in the environment has changed such that the evolved behavior has become
+maladaptive in the form of a mental disorder. This paper is concerned with the
+contemporary phase, addressing the issue of what environmental factors are at play in the
+pathogenesis of ADHD, and discussing the possible role of known genetic contributions
+in that pathogenesis.
+One recent study has found that exposure to television at a young age can lead to
+attentional problems (Christakis et al., 2004). I examine the relationship between ADHD
+and media in the current environment, predicting a casual association consistent with
+
+22
+
+Evolution and ADHD
+HONORS THESIS IN BIOLOGICAL ANTHROPOLOGY
+
+Erik Malmgren-Samuel
+graduating in May, 2006
+
+Christakis et al. (2004)' s findings. This statistical investigation is a pilot study, in which
+I try to provide evidence to support a hypothetical evolutionary model of ADHD that
+centers on the individual's ability to attend to and integrate informational stimuli. I
+suggest that it would have been adaptive to have an impulse to integrate as much
+information (or stimuli) as possible in any one moment (a "scanning" attention,) in order
+to integrate and process more information about the environment in certain high-stimuli
+situations in contrast. This is envisioned to be in contrast to the contemporary
+environment in which high levels of stimuli are accompanied by societal demands for
+selective focus (a "screening" attention.) In this paper I delay the question as to what
+specific situations such cognition would have been adaptive in our evolutionary past.
+Though this is an interesting question in its own right, it is enough for the present
+purposes to recognize that current environments must be different such that certain
+evolved genetic influences on cognition are now maladaptive. The focus of this paper
+will be on the potential mechanisms at work in the cotemporary environment that are
+currently placing selective pressures against those genetically predisposed to ADHD, and
+those who display ADHD behavior.
+The adaptive benefit of a "scanning attention'' should disappear if the amount of
+information increases and the demand for selective focus simultaneously increases.
+Today, it is adaptive to screen out as much extraneous information as possible - such as
+in the classroom or the workplace (Jensen et al., 1997) - so an impulse to attend to
+extraneous information should be maladaptive and socially dysfunctional. I specifically
+examine what I believe to be the current selective environments in which available
+informational stimuli is associated with ADHD. Evidence of this association provides a
+
+23
+
+Evolution and ADHD
+HONORS THESIS IN BIOLOGICAL ANTHROPOLOGY
+
+Erik Malmgren-Samuel
+graduating in May, 2006
+
+platform for future research in which the current environmental forces at play in the
+development of ADHD can be better understood, lending in turn to a future investigation
+into the evolutionary history of those environmental interactions.
+Currently, ADHD is clinically understood solely as a behavioral disorder. ADHD
+is the most common mental disorder in the United States among children, and the
+disorder often carries into adulthood. The primary behavioral symptoms used in the
+clinical diagnosis of disorder are inattentiveness, overactivity and impulsiveness
+(Sagvolden, et al., 2004).
+Self report, teacher report and parent report are all methods employed by
+clinicians in their diagnosis. Rating scales are often used - these focus on the behavior of
+the patient in certain situations, such as the classroom or at home. The studies from
+which we acquired the prevalence rates for the present statistical analysis employed any
+or all of these methods. Such methods are designed to evaluate behavior in reference to
+the standardized American criteria.
+The current instrument most employed in the diagnosis of ADHD is the American
+Psychological Association's Diagnostic and Statistical Manual IV (DSM-IV.) The DSMIV specifies three subgroups of ADHD: Inattentive, Hyperactive/Impulsive, and
+Combined types. Attention deficit disorder is multifactorial in both its pathogenesis and
+symptomology; however it is currently a disease defined by behavioral features, and there
+has been little investigation into the underlying cognitive features of the disorder, and
+hence no effort to redefine ADHD subgroups by cognitive or genetic features. To define
+ADHD subgroups, it is necessary to understand how the environment affects the
+pathogenesis of the disorder, and how neurological variation contributes.
+
+24
+
+Evolution and ADHD
+HONORS THESIS IN BIOLOGICAL ANTHROPOLOGY
+
+Erik Malmgren-Samuel
+graduating in May, 2006
+
+The neurological evidence for ADHD centers around the function of the
+neurotransmitter/neuromodulator dopamine. Investigation into dopamine function began
+because of a history of success using psychomotor stimulants to treat ADHD symptoms.
+Psychomotor stimulants are dopamine agonists, increasing the amount of dopamine
+involved in neurotransmission. Functional Magnetic Resonance Imaging and Electro
+Studies support the idea that dopamine systems are hypofunctional in patients with
+ADHD. Dopamine - both through direct regulation or modulation of other
+neurotransmitter systems - is known to regulate important prefrontal activities such as
+attention and memory, as well as motivation and response inhibition (Sagvolden, et al.,
+2004). Though "it is undoubtedly too simplistic to assume that the genetic etiology of
+ADHD is caused by abnormal dopamine transmission alone," (Kirley et al, 2002), it is
+clear that certain dopamine-related genes are associated with ADHD.
+Because of the obvious role of dopamine in the neurobiology of ADHD, the
+studies investigating possible genetic factors have revolved around genes involved in
+dopaminergic functions. Various genes have been studied. The DATl and the DRD4
+genes show the most evidence of an association with ADHD (Swanson et al., 2000). The
+DAT! gene codes for the dopamine transporter (Barr et al., 2001), but there is little
+evidence ofa direct functional significance (Tannock, 1998). The DRD4 is one of the
+genes that code for dopamine receptors.
+The 7-repeat allele of the DRD4 gene has a well documented association with
+ADHD (Faraone et al., 1999), (Kirley et al, 2002), (Swanson et al., 2000). There is an
+increased frequency of the allele in ADHD populations relative to the general population,
+
+25
+
+Evolution and ADHD
+HONORS THESIS IN BIOLOGICAL ANTHROPOLOGY
+
+Erik Malmgren-Samuel
+graduating in May, 2006
+
+and studies have linked the allele to specific cognitive features of the disorder (Swanson
+et al., 2000)(Langley et al., 2004), as well a novelty seeking (Rogers et al., 2003).
+The DRD4 gene may play a specific role in the attention of some of those with
+ADHD, specifying a distinct subgroup (Swanson et al, 2000). llitimately, it will be
+necessary to determine what the exact cognitive contributions of these two genes are (and
+possibly other genes), in order to develop a comprehensive analysis of gene/environment
+interactions that can lead to the clinical manifestation of the disorder. As will be
+discussed, the gene that most likely contributes to a scanning attention ( as opposed to a
+screening attention) is the DRD4, though this requires more research.
+Besides a well-documented general association with ADHD, the 7-repeat allele of
+the DRD4gene has been associated with certain specific behaviors and cognitive features.
+The primary behavioral association, other than with ADHD, is with the personality trait
+of novelty seeking. A few studies (Swanson et al., 2000)(Langley et al., 2004) have
+attempted to examine the cognitive performance of those ADHD individuals with the
+allele compared those without the allele. Swanson took a sample of combined-type
+ADHD children with identical clinical symptomology, genotyped the sample, and
+subjected the children to a suite ofneuropsychological tests of attention. Interestingly,
+though the 7-repeat children displayed the exact same symptoms of those without the
+allele, they performed equally well as controls on these attention tests. Langley, using a
+different set of tests, indicated that those ADHD children with the allele showed
+abnormally inaccurate and impulsive response that exceeded the non-7-repeat children.
+Though this test showed inaccuracy, it is important to note that the 7-repeat children had
+very rapid response times, which is consistent with Swanson's study, in which speed was
+
+26
+
+Evolution and ADHD
+HONORS THESIS IN BIOLOGICAL ANTHROPOLOGY
+
+Erik Malmgren-Samuel
+graduating in May, 2006
+
+the primary cognitive feature assessed. In Swanson's study, those ADHD children
+without the allele showed the slowed cognition that was expected from ADHD children,
+based on current theory that attributes slowed executive functioning to ADHD. The 7repeat ADHD children did not display these response time deficits.
+These findings are preliminary support for my hypothesis. In this model,
+individuals with the 7-repeat allele represent those who have a hyperactive, scanning
+attention that compels them to attend to multiple stimuli and react quickly. If this is true,
+it would imply that those with the allele both have a measurably different manner of
+attending to stimuli as well as integrating information. I suggest that the 7-repeat allele
+may code for a cognition that allows individuals to have 1) better attention to multiple
+stimuli at once, 2) worse to one stimuli in the presence of distractors, 3) and similar
+attention to controls when attending to one stimuli without distractors present. If these
+suggestions are true, it would explain why the 7-repeat allele of the DRD4 gene confers
+risk for ADHD because it implies that those with the allele will have trouble focusing on
+one thing in the presence of environmental distractors. This would be consistent of the
+model I have set forth and attempted to test in this paper.
+Thus, it appears that part of ADHD's onset stems from differences in evolved
+attentional cognition, though the specific genetic contributions may vary between
+individuals. I suggest that it is also possible for an individual to display ADHD-like
+behavior without a distinct genetic contribution; however, the prevalence of such
+individuals should quickly diminish as the demand for selective attention in a given
+society increases. What these types of individuals share is reactivity to a common
+environmental pressure ~ here hypothesized to be available stimuli. Regardless of
+
+27
+
+Evolution and ADHD
+HONORS THESIS IN BIOLOGICAL ANTHROPOLOGY
+
+Erik Malmgren-Samuel
+graduating in May, 2006
+
+genotype, if the cognitive ability to selectively attend is poor enough while the demand
+for selective attention is great, an individual could be clinically diagnosed as ADHD.
+Research has shown that the developmental path of children is affected by stimuli
+in the environment (Christakis at al., 2004), and that ADHD children attend to stimuli in
+a different manner than normal children. Specifically, Christakis et al. show that preschool exposure to television is associated with later attention problems. In addition,
+Landau et al. (1992) showed that ADHD children appear may attend to television less
+well when distractor toys are present if gauged on a free-recall criteria, in which children
+are requested to simply recount what happened. However, when asked specific questions
+regarding the television show's content (cued-recall,) ADHD children performed equally
+well as controls. Thus, it is not that ADHD children do not pay attention to details in
+their environment; by contrast, some appear to pay close attention, though in a manner
+distinct from normal children. Swanson et al. (2000) showed that ADHD children with
+the 7-repeat allele of the DRD4 gene performed equally well as controls on certain tests
+of attention, despite showing all outward clinical symptoms.
+Evidence, therefore, shows that all individuals with ADHD have trouble
+processing stimuli (the focus of this paper,) yet there may be discrete underlying
+cognitive predispositions to the development of the disorder that have an evolutionary
+basis. This could eventually lead to ADHD subgroups defined by genotype associated
+with specific cognitions. Regardless of genotype and the underlying cognition of ADHD
+individuals, I argue that all ADHD individuals are affected by the same environmental
+pressure of excess stimuli, resulting in similar problems with selective attention, even
+though clinical symptomology may not show differences between these hypothetical
+
+28
+
+Evolution and ADHD
+HONORS THESIS IN BIOLOGICAL ANTHROPOLOGY
+
+Erik Malmgren-Samuel
+graduating in May, 2006
+
+subgroups. I will argue below that an evolutionary perspective could lead to a better
+understanding of the various manifestations of ADHD and help resolve the debate over
+diagnosis.
+The prevalence of ADHD is disputed (Faraone et al., 2003). In this investigation,
+the prevalence data for each nation is often hard to determine conclusively, because two
+studies may report very divergent rates, though they use the same DSM criteria (such as
+the DSM-N prevalence data for Brazil, in which Guardiola et al. (2000) reported 18%
+and Rhode et al. (1999) reported 5.8%.) Furthermore, prevalence rates in countries other
+than the US employ the American DSM criteria, which is not necessarily cross-culturally
+sensitive. This raises the most important issue pertinent to this statistical analysis - not
+only is the prevalence disputed within the countries, but the application of the DSM
+across cultures demands reevaluation because national studies, such as those analyzed
+here, have used American diagnostic criteria in nations with distinctly different cultures.
+I hope to use an evolutionary perspective to explain the fallibility of these cross-cultural
+DSM studies, and in doing so, shed new light on our concept of ADHD as a behavior and
+
+a disorder.
+This paper will first report my statistical investigation pertinent to the proposal
+that the most important current selective force on ADHD is the amount of available
+information in the environment - in which I correlate levels of media saturation with
+prevalence of ADHD. Prevalence rate studies were representative of individual nations
+and were grouped into three categories, each based on one of the three relevant versions
+of the Diagnostic and Statistical Manual, designed in the United States. These three sets
+were combined to maximize statistical power. It is unlikely that differences between
+
+29
+
+Evolution and ADHD
+HONORS THESIS IN BIOLOGICAL ANTHROPOLOGY
+
+Erik Malmgren-Samuel
+graduating in May, 2006
+
+ADHD criteria in different DSM versions had a significant impact on prevalence rates. If
+the effect of media is large, we should see some positive associations.
+Issues that must be raised include cultural factors such as attitudes toward ADHD
+behavior, the cross-cultural applicability of the DSM criteria, the manner in which other
+forms of media may differ from television in their effect on ADHD and their degree of
+presence in individual cultures, and the difficult question as to what distinguishes a
+behavior from a disorder and how this distinction holds across cultures. A discussion of
+culture and the genetic contributions to ADHD will help clarify the state of these issues
+and direct future research efforts into ADHD as a behavior and a disorder across cultures.
+In the conclusion I will summarize my findings and suggest the implications of
+the present research. Following the conclusion, I will suggest a platform from which an
+evolutionary model of ADHD should be investigated, discussing the current state of
+knowledge, and the implications of the present analysis. I will outline the directions that
+future research should take, emphasizing the importance of evolutionary thinking in the
+development of genetic subgroups of ADHD.
+Method
+The data on prevalence rates were taken from a variety of ADHD international
+population studies - compiled by Fareone (2003) - covering a twenty year period from
+1981 to 2002. These studies are representative of the three versions of diagnostic criteria
+that have been used by the American Psychological Association's "Diagnostic and
+Statistical Manual" (DSM) since ADHD was added as a disorder. In chronological order,
+these three sets of diagnostic criteria are found in the following editions of the DSM:
+DSM-Ill, DSM-ill-R, and DSM-IV. For each DSM set, there was multiple prevalence
+
+30
+
+Evolution and ADHD
+HONORS THESIS IN BIOLOGICAL ANTHROPOLOGY
+
+Erik Malmgren-Samuel
+graduating in May, 2006
+
+rates reported, both within and between studies. Some studies reported one prevalence
+rate whereas others reported multiple. Those that reported multiple rates, did so
+according to either the instrument or the method of diagnosis used (i.e. "teacher",
+"parent", "functional impairment").
+A discussion regarding the controversy over prevalence rates is not addressed in
+this article, and in the absence of an existing resolution to this debate, I felt that it was
+appropriate to average prevalence rates both within and among studies to attain a single
+datum point for as many nations as possible. For the studies with multiple reported rates,
+
+I averaged the prevalence rates using weighted means to generate a single prevalence rate
+for each study. When multiple studies were available for a single country, I attained a
+weighted mean in a similar manner. Thus I generated a single national statistic for each
+nation for each DSM set.
+For each DSM set, population studies from a variety of nations were available and
+analyses were performed for each DSM set. The weighted-mean prevalence rates for
+each set of studies were not consistent, nor were the ranges of prevalence: the DSM-III
+reported a mean ofS.51% with a range of5.2% to 16.6%, the DSM-lll-R reported a mean
+rate of 5.49% with a range of3% to 14.4%, the DSM-IV reported a rate of 10.67% with a
+range of3.7% to 16.43%. This suggests that the set of diagnostic criteria used does not
+have a significant affect on the prevalence reported, and that combining the sets is a the
+most appropriate technique given the paucity of datum points within each DSM set.
+Though interesting results were found individually for each set, the number of
+nations was too few to make firm assertions. Thus I combined these sets. When a
+
+31
+
+Evolution and ADHD
+HONORS THESIS IN BIOLOGICAL ANTHROPOLOGY
+
+Erik Malmgren-Samuel
+graduating in May, 2006
+
+particular nation appeared in more than one set, I again generated a weighted average.
+This combined set was used for the final analysis. ( see table 1)
+
+Country
+Australia*
+
+Brazil*
+Columbia*
+Iceland
+Ukraine
+Finland
+Israel
+Italy
+Japan
+New Zealand
+
+Spain*
+China
+Hong Kong
+United Kingdom
+SWEDEN**
+CANADA**
+GERMANY**
+NETHERLANDS**
+US**
+
+ADHD prevalence (% pop)
+7.1
+9.7
+16.4
+5.2
+19.8
+3.6
+3.9
+3.9
+7.7
+2.9
+7.1
+5.8
+6.1
+16.6
+4.0
+5.8
+10.8
+2.6
+7.7
+
+(Mean: 7.831 95% Cl: 5.56-10.10)
+*weighted average from multiple studies within a DSM set
+"'"weighted average from multiple studies across DSM sets
+
+TABLE 1: Summary - ADHD prevalence by Country
+
+Media and relevant population statistics were taken from ITU. These statistics
+cover a variety of national media indicators, such as numbers of TVs and personal
+computers in a nation. Important demographic indicators, such a gross national product
+and population, were also compiled from ITU in order to assess any confounding
+variables. Media and demographic data were compiled for each country for which
+ADHD prevalence rates were available, for the year prior to an individual ADHD study
+(to address publication lag time.) The same weighting system described earlier was
+applied to media data, first creating weighted averages for single studies, then for each
+
+32
+
+Evolution and ADHD
+HONORS THESIS IN BIOLOGICAL ANTHROPOLOGY
+
+Erik Malmgren-Samuel
+graduating in May, 2006
+
+nation both within and among DSM sets. For each DSM set and for the compiled set,
+per capita data were generated for each media variable.
+All data were logarithmically transformationed.
+There was a significant degree of variation in both ADHD prevalence data and
+media data. We performed a battery of statistical tests to determine whether the variation
+of any one or more media variables explained any of the variation in ADHD prevalence
+across countries.
+Correlations between log-transformed media variables with ADHD prevalence
+were calculated. Principle component analysis was also performed to determine whether
+the media variables could be reduced to a smaller number of dimensions. In addition,
+similar analyses were performed after controlling for Gross Domestic Product (GDP),
+allowing inference without the influence of monetary capital.
+To control for GDP, I used the residuals from linear regressions of each variable n
+log GDP. By correlating these residuals, partial correlations were thereby generated for
+both media and ADHD prevalence data for which the effects of GDP were removed.
+Pairwise correlations were first performed to assess any single variable effects.
+Principle component analysis was then performed with and without prevalence, in order
+to identify multiple variable dimensional effects. Finally, multiple regressions were
+performed to assess any multiple variable effects.
+
+Results
+Simple Pearson correlations between log-transformed prevalence, media, and
+GDP variables, before controlling for GDP, showed a negative correlation between Gross
+Domestic Product and ADHD prevalence, r = -.4166, p<.0676 N=l9. When an outlier,
+
+33
+
+Evolution and ADHD
+HONORS THESIS IN BIOLOGICAL ANTHROPOLOGY
+
+Erik Malmgren-Samuel
+graduating in May, 2006
+
+China, was removed because of the country's relatively extremely low GDP, the strength
+of this correlation increased significantly, r = -.5804, p<.01 N=18. (see figure. 1)
+
+1.3--------------1.2
+1.1
+1
+
+>
+
+[o.9
+
+~
+
+0)0.8
+0
+-0.7
+0.6
+0.5
+
+..
+
+0.4-+--....---.-----.----.----.--......-•"---....---1
+4.5
+3.5
+4
+3
+log GDP per cap
+
+FIGURE 1: Prevalence by Gross Domestic Product.
+
+Except for TVs per capita and TV equipped households per capita, which showed no
+correlation, all media variables showed negative correlations with ADHD prevalence.
+Many showed weak significance, except cable TV subscribers per capita, which had a
+negative correlation, r = -.5381, p<.05 N= 13. Moderate negative correlations were found
+with telecommunications equipment per capita, r = -.46198, p< .1 N=15, and personal
+computers per capita, r = -.4158, p<.1 N=18. (see table 2)
+Variable
+
+by Variable
+
+Correlation Count
+
+-o.4166
+-0.5381
+
+20
+14 0.0676
+0.0471 c;;;;~~;;;~;;;;;;;;;~
+. . . ._ _ ..___ _.._____
+
+-0.3083
+-0.3718
+-0.2872
+-0.4684
+-0.4158
+-0.4618
+-0.0569
+-0.0461
+
+11 o.3563 ::::======I==J:==========:i
+
+Log GDP per cap
+log cable tv subscribers
+percap
+log home satellite
+log sdprev
+antennas per cap
+Log internet hosts per cap
+log sdprev
+-0.2348
+Log internet users per cap
+log sdprev
+log mobile comm. rev. per
+log sdprev
+cap
+log ISDN subscribers per
+log sdprev
+cap
+log personal computers
+log sdprev
+per cap
+log telecom. equip. export
+log sdprev
+percap
+log TV equipped
+log sdprev
+households per cap
+log sdprev
+Log tvs per cap
+TABLE 2: Pairwise Correlations - Media Variables to ADHD Prevalence.
+
+log sdprev
+log sdprev
+
+Signif Plot Corr
+Prob
+
+34
+
+12 0.1245 c====-:::=.==='.J.==========i
+19 0.0766 c=========::::i:==========:i
+16 0.0718 ::::==========:::;:=========::::::i
+19 0.8169 c::::=:=:==:EJc::::========i
+20 0.8471 ::::::=========E=========::J
+
+Evolution and ADHD
+HONORS THESIS IN BIOLOGICAL ANTHROPOLOGY
+
+Erik Malmgren-Samuel
+graduating in May, 2006
+
+Factor analysis of the media variables and GDP showed that the first principle
+component explained 67.31 % of the total variance. There were relatively similar
+loadings across all variables, indicating that this third component represents a general
+media and GDP dimension. This component showed a moderate negative correlation
+with ADHD, r = -.589, p<. l N=S. (see table 3)
+Eigenvalue
+Percent
+Cum Percent
+Eigenvectors
+log GDP per cap
+log cable tv subscribers per
+cap
+log home satellite antennas
+percap
+log internet hosts per cap
+log internet users per cap
+
+log ISDN channels per cap
+log mobile comm. rev. per
+cap
+log ISDN subscribers per cap
+log personal computers per
+cap
+log telecom. equip. export per
+cap
+log TV equipped households
+percap
+log tvs per cap
+
+1st Principle t
+7.8812
+65.6766
+65.6766
+
+0.22774
+0.34404
+0.19957
+0.29889
+0.32544
+0.33727
+0.33727
+0.32242
+0.29542
+0.23473
+0.29819
+0.17870
+
+TABLE 3: First Principle Component summary statistics and components, showing a general "media/ GDP"
+dimension.
+
+Partial correlations between ADHD prevalence and media after controlling for
+GDP are shown in table 4. These Pearson correlations indicated once again that media
+variables are negatively correlated with ADHD prevalence, except TVs per capita, r=
+.4239, p<.07 N=l9, and TV equipped households per capita, r = .3658, p<.13 N=l8, both
+of which are correlated positively with ADHD, consistent with the general hypothesis.
+All other media variables were weakly correlated except cable TV subscribers per capita,
+which showed a moderate negative correlation, r = -.3865, p<0.18 N=l3.
+Regarding the TVs per capita correlation, two outliers at the extremes ends of prevalence
+and TVs per capita (China and the Ukraine) heavily affect the correlation; however, these
+
+35
+
+Evolution and ADHD
+HONORS THESIS IN BIOLOGICAL ANTHROPOLOGY
+
+Erik Malmgren-Samuel
+graduating in May, 2006
+
+two outliers are not validly excluded because they confirm the positive trend that weakly
+exists without them. Without them the correlation is less significant, but does not
+disappear. (see figure. 2, 3)
+
+Variable
+
+by Variable
+
+Residuals log
+sdprev
+Residuals log
+sdprev
+Residuals log
+sdprev
+Residuals log
+sdprev
+Residuals log
+sdprev
+Residuals log
+sdprev
+Residuals log
+sdprev
+Residuals log
+sdprev
+Residuals log
+sdprev
+Residuals log
+sdprev
+
+Residuals log cable tv
+subscribers per cap
+Residuals log home satellite
+antennas per cap
+Residuals log internet hosts per
+cap
+Residuals log internet users per
+cap
+Residuals log mobile comm. rev.
+per cap
+Residuals log ISDN subscribers
+per cap
+Residuals log personal
+computers per cap
+Residuals log telecom. equip.
+export per cap
+Residuals log TV equipped
+households per cap
+Residuals log tvs per cap
+
+Correlation Count
+
+Signif Plot Corr
+Prob
+
+-0.3865
+
+14
+
+0.1722
+
+0.0393
+
+11
+
+0.9088
+
+-0.2112
+
+19
+
+0.3853
+
+-0.0652
+
+19
+
+0.7910
+
+-0.1780
+
+12
+
+0 .5800
+
+-0.3207
+
+12
+
+0.3095
+
+-0.0453
+
+19
+
+0.8539
+
+-0.1668
+
+16
+
+0.5369
+
+0.3658
+
+19
+
+0.1235
+
+0.4239
+
+20
+
+0.0625
+
+TABLE 4: Pairwise Correlations: Media Variables to ADHD Prevalence after controlling for GDP.
+
+0.4
+
+-0.44---~-~--~-~-------l
+.6
+.4
+0
+.2
+-0.6
+-0.4
+-0.2
+Residuals log tvs per cap
+
+FIGURE 2: TVs per capita to ADHD prevalence with outliers
+
+36
+
+Evolution and ADHD
+HONORS THESIS IN BIOLOGICAL ANTHROPOLOGY
+
+Erik Malmgren-Samuel
+graduating in May, 2006
+
+0.5-.----------------,
+0.4> 0.3!!!
+0.2-
+
+f
+
+~
+
+~
+
+0.1-
+
+0-~ - ~
+
+- - - - _ : . . - --:-- - -
+
+~ -0.1 Q)
+
+a:: -0.2- .
+-0.3-0.4
+J
+I
+I
+-0.2 -0.15 -0.1 -0.05
+
+I
+
+I
+
+0
+
+.05
+
+I
+
+.1
+Residuals log tvs per cap
+
+7
+
+.15
+
+.2
+
+FIGURE 3: TVs per capita to ADHD prevalence without outliers
+
+Factor analysis of the media variables showed no principle components with
+significant correlation with ADHD prevalence, however including ADHD prevalence
+into the factor analysis with the media variables did produce a sixth principle component
+for which ADHD prevalence loaded highly, along with internet hosts per capita and,
+negatively, mobile communications revenue per capita. While not conclusive, this
+suggested that there might be an important association between these three variables. A
+multiple regression was therefore performed correlating internet hosts per capita and
+mobile communications revenue per capita with ADHD prevalence, producing a near
+significant prediction, r2=.47, F(2,11) = 3.94, p<.06, adjusted r2=_349_ Individually,
+internet hosts per capita in a stepwise regression contributed. t=-2.71, p<.03, and
+contributed 36% in shared variability with the ADHD prevalence.
+
+Discussion
+Though the results of this analysis indicate a negative correlation of ADHD
+prevalence with media indicators, I will argue that the results support the hypothesis that
+media should affect the prevalence of ADHD, though my predictions were based on too
+
+37
+
+Evolution and ADHD
+HONORS THESIS IN BIOLOGICAL ANTHROPOLOGY
+
+Erik Malmgren-Samuel
+graduating in May, 2006
+
+simple a model. I will propose three possible explanations of the data. The first is based
+on the idea that there are two categories of media - interactive and non-interactive - that
+have opposite effects on the prevalence of ADHD. The second is based on a critical
+distinction that must be made between ADHD-like behavior and ADHD as a disorder,
+and that prevalence rates generated by the DSM criteria may falsely diagnose ADHD as a
+disorder in nations where ADHD-like behavior is not maladaptive due to a paucity of
+media and stimuli. In these nations, ADHD-like behavior is allowed to flourish and
+should be more prevalent, though classification as a disorder may be inappropriate. The
+third assumes that television (being the only variable that is found in every country) is the
+only media variable that might be viable for the present analysis. I will then propose
+possible explanations that reject the hypothesis.
+This study represents a cross-cultural correlation of the amount of available
+information and stimuli in the environment with prevalence of ADHD. I proposed that if
+media served as a good proxy for the amount of available stimuli and information in the
+environment, then rates of ADHD prevalence should vary with rates of media exposure
+regionally in a positive direction. An increased relative level of media exposure should
+correlate with an increased relative prevalence of ADHD in a specific region. The
+analysis that did not control for GDP showed a relationship between media exposure and
+the prevalence of ADHD, though it was mostly negative, rejecting my prediction except
+with regard to television, which showed no correlation. After controlling for GDP, most
+media variables still showed negative association except for two TV variables (TVs per
+capita and television households per capita), which were positively associated. Two
+outliers affected the strength of the association between TVs per capita and ADHD
+
+38
+
+Evolution and ADHD
+HONORS THESIS IN BIOLOGICAL ANTHROPOLOGY
+
+Erik Malmgren-Samuel
+graduating in May, 2006
+
+prevalence; however, these outliers confirm the trend and there is no justification for
+excluding them.
+These results suggest that the initial predictions were based on a model of ADHD
+across cultures that may have been too simple. The results reveal important potential
+factors at play in the cross-cultural study of ADHD.
+Explanations supporting the hypothesis
+l) Though most media variables were negatively correlated with ADHD
+prevalence, televisions per capita and television equipped households per capita were
+positively correlated when controlling for GDP. There could thus be an important
+distinction between different forms of media - that of interactive versus that of passive,
+non-interactive. Christakis et al.'s (2004) study directly points to the potential of
+television to affect attention problems. Other evidence shows that environmental stimuli
+is important in the development of ADHD in individuals (Jensen et al., 1997). But there
+is some evidence that interactive media, -specifically per-sonal computers, can have the
+opposite effect, effectively relieving the symptoms of those with ADHD (Jen-sen et al.,
+1997). Some have even suggested using computers as an educational technique or as
+form of therapy for ADHD children (Rizzo et al., 2000). If this distinction exists, then
+the original hypothesis might still apply, but with a caveat: a greater degree of stimuli in
+the environment with which the individual does not interact should correlate with an
+increased prevalence of ADHD. Therefore, ADHD prevalence should positively
+correlate with television (which is not particularly interactive), but other media indicators
+(that are interactive) should correlate negatively. This hypothesis is in fact supported in
+
+39
+
+Evolution and ADHD
+HONORS THESIS IN BIOLOGICAL ANTHROPOLOGY
+
+Erik Malmgren-Samuel
+graduating in May, 2006
+
+the present analysis by the strong negative correlation found with internet hosts, when
+multiple regression was applied.
+2) A second explanation that is conditionally mutually-exclusive (see below)
+with the first lies in the distinction between ADHD as a disorder and as a behavior, and
+how this distinction holds across cultures. Important to this argument is the observation
+that ADHD prevalence is negatively correlated with Gross Domestic Product.
+Furthermore, every media indicator except TV's per capita and TV equipped households
+per capita are also negatively correlated with ADHD prevalence, even after controlling
+for GDP. This raises the question: why do countries that are poorer and have fewer
+media appear to have a greater prevalence of ADHD? Clearly, this goes against the
+simple hypothesis that increasing media saturation causes increasing ADHD. The answer
+probably lies in assessing the cross-cultural applicability of the DSM in the context of
+selection pressures on attention. One must consider how the level of stimuli effects both
+the prevalence of ADHD-like behavior and whether such behavior will be considered a
+disorder in a given culture, given the specific demands that environmental stimuli places
+on the individual.
+The national studies from which ADHD prevalence data were drawn using the
+DSM criteria do not give a appropriate assessment of the prevalence of ADHD as a
+disorder, especially for less media-saturated societies. Rather, what appears to be an
+increased ADHD prevalence in poorer, less media-saturated societies, is actually a
+indication of an increased level of ADHD-like behavior. The DSM criteria are applied
+even to cultures in which there is less stimuli in the environment, and therefore, less
+societal demands on the attention of the individual. This raises the question of whether or
+
+40
+
+Evolution and ADHD
+HONORS THESIS IN BIOLOGICAL ANTHROPOLOGY
+
+Erik Malmgren-Samuel
+graduating in May, 2006
+
+not these less-mediated cultures have allowed the ADHD-like behavior to flourish, as it
+might not be maladaptive to have less selective attention in an environment with less
+available stimuli. American diagnostic criteria are designed to assess whether ADHDlike behavior is maladaptive, but simply assume that this behavior occurs in a stimuli rich
+environment, where the demand for an ability to selectively attend in the presence of
+stimuli is great. The DSM criteria fails to make the critical culturally-contingent
+distinction between ADHD as a behavior and as a disorder. The DSM simply assumes
+that if the behaviors are displayed, the patient has ADHD; however, certain cultures may
+have different social requirements for selective attention, and a patient who is considered
+to have a disorder in America may be well adapted to another culture with less demand
+for selective attention. ADHD-like behavior - whether it is directly related to genetics or
+not - is more prevalent in less-mediated environments, but prevalence data generated
+with the DSM criteria gives false positives, as many individuals with the behavior may
+not be considered as having a disorder in a particular cultural environment.
+This is an important concept in the development of an evolutionary model of
+ADHD, because it suggests that although the evolved behavior exists everywhere, it is
+less prevalent in those high-stimuli societies where individuals have been forced to adapt
+to stimuli rich environments via selective attention. I suggest that when thinking about
+ADHD-like behavior and genetics, we must make a distinction between those who are
+genetically predisposed toward "inattentive behavior'', and those who display the
+behavior without a genetic predisposition. In high-stimuli societies (such as the US),
+those individuals who are the most genetically predisposed to inattentive behavior are
+maladaptive, and are labeled with the disorder ADHD. Other individuals who are not as
+
+41
+
+Evolution and ADHD
+HONORS THESIS IN BIOLOGICAL ANTHROPOLOGY
+
+Erik Malmgren-Samuel
+graduating in May, 2006
+
+genetically predisposed toward attentional problems should display ADHD-like behavior
+in stimuli-poor environments because the behavior is not maladaptive; however,
+inattentive behavior found in those not genetically predisposed should vanish in stimulirich environments because there is not a genetic predisposition hindering their ability to
+adapt.
+Thus, the prevalence of inattentive behavior should diminish as the level of
+stimuli increases, but those who still display the behavior are more likely genetically
+predisposed. It is in stimuli-rich environments, where the selection pressures for
+selective attention are great, that those with the strongest evolved genetic predisposition
+for scanning (vs. selective) attention become maladaptive. Hence, this second
+explanation predicts that the true disorder (as opposed to the benign behavior) is not only
+more likely to occur in high-stimuli environments where the behavior is maladaptive, but
+it is also more likely to be the result of a maladaptive phenotype of an evolved attentional
+genotype because those not genetically predisposed have adapted. The behavior (as
+opposed to the maladaptive disorder) should be more likely to occur in stimuli-poor
+environments, and will be falsely deemed a disorder if diagnosed with criteria from a
+high-stimuli culture, yielding an increased prevalence rate as compared with high-stimuli
+environments. Furthermore, it is in these stimuli-poor environments in which we may be
+able to better understand why the behavior may be adaptive.
+It is important to note that, after controlling for GDP, televisions per capita and
+
+TV equipped households per capita are positively correlated with ADHD prevalence,
+supporting the original prediction and Christakis' finding. Television, of all forms of
+media, is found in the most number of countries of any media variable, and is quite
+
+42
+
+Evolution and ADHD
+HONORS THESIS IN BIOLOGICAL ANTHROPOLOGY
+
+Erik Malmgren-Samuel
+graduating in May, 2006
+
+ubiquitous (see figure 4) except for China. The positive correlations weaken when
+outliers are removed, it is true, yet they remain positive. This supports the first
+explanation - that interactive and non-interactive media have divergent effects on ADHD
+prevalence~ however, it is in contradiction with the second explanation - that a distinction
+must exist between ADHD as a behavior and a disorder, because television should also
+negatively correlate with the ADHD prevalence along with the other media data.
+Thus, these two explanations are conditionally mutually exclusive, with GDP as
+the condition. GDP is negatively correlated with ADHD prevalence. Both explanations
+can only be true if controlling for GDP removes a degree of the cultural effects on the
+prevalence of the behavior. Then we can explain why the most universal form of media
+correlates positively with prevalence when those effects are diminished. The relatively
+strong negative correlation with GDP makes this a viable possibility.
+
+3
+
+2
+
+15
+
+a:
+~
+
+'El1I
+
+::,
+
+0
+
+1
+
+ni
+
+0
+
+z
+
+E
+0
+
+-1
+
+-2
+-3
+--0.6
+
+--0.5
+
+--0.4
+
+--0.3
+
+--0.2
+
+--0.1
+
+FIGURE 4 : Quartile plot showing distribution of televisions per capita without the outlier (China).
+
+3) Finally, a third simple explanation exists. Many of the media variables are not
+found in every country, and the correlations are rather weak, though negative. Only
+
+43
+
+Evolution and ADHD
+HONORS THESIS IN BIOLOGICAL ANTHROPOLOGY
+
+Erik Malmgren-Samuel
+graduating in May, 2006
+
+television is found in every country. It could also be argued that because of its
+universality, television is the only media factor that can be considered for the original
+prediction, because it affects all societies. In this case, the original hypothesis is
+confirmed. This explanation is mutually exclusive with the first explanation and
+conditionally mutually exclusive with the second, just as the first, with GDP as the
+condition.
+Alternative interpretations and considerations
+Another issue regarding the cross-cultural applicability of the DSM concerns
+cultural attitudes toward ADHD-like behavior. This is in contrast to stimuli-determined
+cultural demands discussed in the second explanation above. The same concept of false
+positives as described above in the second explanation may apply, but with a different
+underlying reason. (For this interpretation, we need to again remember the distinction
+between those who are genetically predisposed toward "inattentive behavior'', and those
+who display the behavior without a genetic predisposition.) American culture may
+simply value selective attention more than poorer countries independently of the fact that
+it is also a stimuli rich environment. It could be that poorer, low stimuli countries value
+selective attention less for cultural reasons other than that they have excess stimuli.
+Whereas earlier I suggested that high-stimuli societies value selective attention because
+of the adaptive need to ignore greater amounts of extraneous information, here I suggest
+that that value system may operate independently of a cultures level of stimuli and may
+be more of a reflection of GDP or other factors that may correlate with media data giving the appearance that media is the cause when it may be a "side effect". A variety
+of possible explanations exist. Perhaps, because poorer countries (which have less media
+
+44
+
+Evolution and ADHD
+HONORS THESIS IN BIOLOGICAL ANTHROPOLOGY
+
+Erik Malmgren-Samuel
+graduating in May, 2006
+
+investment) have less money for education and less corporate professional vocations two activities that demand a high level of selective attention - this may lead their cultures
+to value attention less. In these countries, ADHD-like behavior might flourish regardless
+of genotype, leading in tum to a higher prevalence when the DSM is applied, just as in
+the second explanation from the previous section.
+Different cultures may simply value ADHD behavior differently, and therefore
+the DSM would have to be discounted as an instrument to diagnose a disorder since it
+merely measures levels of behavior without regard to the possibility that the culture
+might value it. The results could be considered weak (as applied to the original
+hypothesis) and the high variability in prevalence data could be seen as representing the
+idea that ADHD is simply not cross-culturally applicable as a disorder or a behavior.
+Problems with the data
+There are potential problems with the validity of the data - particularly ADHD
+prevalence data. The present study suggests that a reappraisal of the data is necessary,
+and identifies important issues concerning how this type of data should be investigated in
+the future. In addition, the following concerns must be considered.
+As mentioned previously, the data were drawn from studies that employed three
+
+sets of diagnostic criteria. It is not clear which version of the DSM gives the most
+accurate assessment. The DSM criteria are very consistent across versions, with the
+biggest difference being that the DSM-N includes a few new subtypes of the disorder.
+The extent to which combining the sets may be inappropriate simply cannot be properly
+assessed at present. As more data are collected with the newest criteria in a wider array
+of countries, the patterns suggested here might become clarified.
+
+45
+
+Evolution and ADHD
+HONORS THESIS IN BIOLOGICAL ANTHROPOLOGY
+
+Erik Malmgren-Samuel
+graduating in May, 2006
+
+The prevalence rate of ADHD is highly contested. Even within the US, the
+country for which the DSM was designed, there is a wide disparity of reported rates from
+national studies, indicating that the disorder itselfis difficult to define, and even more
+difficult to observe. For example, within single studies, teacher reported rates are
+consistently higher than parent or doctor reports.
+These problems with prevalence data are compounded by the use of multiple
+studies by different researchers. Each study employs it own protocol, and is performed
+by a different group of researchers; however, the DSM is designed to limit this problem.
+The present study generated weighted averages for each country taking sample size into
+account, which gives a best estimate for each country for which multiple studies were
+available. However, it is clear that some variation in incidence of ADHD is due to these
+sampling factors.
+Optimally, one would prefer data collected in a single cross-cultural, comparative
+study that employs a standardized protocol to multiple nations. No such study exists.
+The present study calls into question the extent to which DSM criteria have cross-cultural
+validity, and more research on this question is needed.
+The two main areas of potential inaccuracy among diagnoses are: 1) The vector of
+implementation (i.e. teacher v. parent v. doctor,) affects the probability of a diagnosis.
+For example, teacher-report rates are consistently higher than parent-report rates. 2)
+There are cultural differences in the subjective implementation of the diagnostic criteria.
+In addition to the above explanations, there are a variety of ways - other than media that cultural differences may affect the cross- cultural applicability of the DSM, such as
+
+46
+
+Evolution and ADHD
+HONORS THESIS IN BIOLOGICAL ANTHROPOLOGY
+
+Erik Malmgren-Samuel
+graduating in May, 2006
+
+differences in the value a particular culture places on education, differences in threshold
+of accepted behavior regarding aggressiveness, hyperactivity, etc ...
+Lastly, because the ADHD studies span nearly 20 years, the media data is also
+compiled from a broad timescale. This impacts the validity of the data because media,
+especially internet, has grown rapidly during the past twenty years, making the combined
+data set a poor technique of comparing media indicators. For many countries, media data
+were not available for certain indicators, reducing the power of many of our statistical
+analyses.
+
+Conclusions
+ADHD, regardless of genotype, is a disorder related to one's cognitive ability to
+process environmental stimuli, defined by a dynamic threshold - the amount of stimuli
+that can be processed is directly proportional to the corresponding social demands for a
+high level of selective attention.
+An increase in the amount of available stimuli is what I propose to be the
+environmental factor that has begun to affect variants of the DRD4 gene in a maladaptive
+manner, predisposing an individual to ADHD. ADHD is a mental disorder that may have
+many genetic components and is also largely dependent on an individual's developmental
+progression. Though our model specifically addresses the cognitive features of the
+DRD4 gene, I suggest that available stimuli is the environmental factor that is causing
+ADHD in general, regardless of an individual's genotype. The forms of ADHD that are
+not associated with the DRD4 gene are also failing to functionally process too much
+available stimuli, though in different manner, which has not yet been thoroughly
+investigated. Thus, regardless of genotype, I suggest that certain individuals have a
+
+47
+
+Evolution and ADHD
+HONORS THESIS IN BIOLOGICAL ANTHROPOLOGY
+
+Erik Malmgren-Samuel
+graduating in May, 2006
+
+threshold that limits the amount of available stimuli they can process effectively. The
+same environmental pressure has different effects on different genotypes but results in
+similar maladaptive behaviors, all of which we describe as ADHD.
+There are more available stimuli in the current environment than in the
+environment in which these behaviors evolved, and the current social environment often
+demands sustained, selective and focused attention, i.e. in a classroom. The reason the
+current environment demands selective attention may be a direct result of the increasing
+amount of stimuli available, creating a selection pressure against those who have a
+scanning hyperactive attention. A scanning attention in the presence of so many
+distracters, given the social requirement of selective attention, should be maladaptive, and
+lead to the clinical symptoms of ADHD.
+The statistical analysis reported in this paper attempts to test this hypothesis by
+assessing the strength of the associations between ADHD prevalence and environmental
+stimuli, using measures of media saturation as a proxy. The results of this analysis are
+not conclusive, yet they do not reject the hypothesis. These results also suggest that there
+are currently weaknesses in the data that may be due to theoretical flaws in the crosscultural application of the DSM criteria.
+There are three alternative explanations for the data that support my model. The
+positive association between ADHD prevalence and television (controlling for GDP)
+directly confirms my prediction, and the negative association with all other forms of
+media may be due to a distinction between interactive and non-interactive stimuli. There
+is evidence to support the validity of this distinction and it is potentially consistent with
+my model, as those with the 7-repeat allele of the DRD4 gene should excel in situations
+
+48
+
+Evolution and ADHD
+HONORS THESIS IN BIOLOGICAL ANTHROPOLOGY
+
+Erik Malmgren-Samuel
+graduating in May, 2006
+
+that require interaction with multiple stimuli simultaneously. More research is needed to
+classify this distinction between forms of stimuli.
+A second explanation for the results, conditionally mutually exclusive with the
+first, suggests the importance of another distinction that must be made when looking at
+the environmental interaction with ADHD-like cognition - that between ADHD-like
+behavior and ADHD as a disorder. If this explanation is valid, then care must be taken
+when looking at the presence of ADHD in other cultures because though the basic
+behaviors may be more prevalent, they might not be maladaptive or a problem, and will
+be falsely identified as such if diagnostic criteria from a stimuli-rich environment is used.
+Such criteria then, by definition, cannot be cross-culturally applied. This explanation
+emphasizes the selection forces against ADHD-like behavior in stimuli-rich
+environments, which in tum implies that stimuli-rich environments are those in which
+genetically predisposed individuals are more likely to develop a maladaptive disorder,
+though the behavior itself should be less prevalent. If this explanation is correct, it
+reinforces the idea that genetically influenced ADHD is contingent upon a high-stimuli
+environment in which there is a correspondingly high demand on the individual for
+selective focus.
+A third explanation assumes no distinction between forms of media and no
+cultural influences on diagnosis rates. This explanation assumes that television, being the
+only media indicator found in every country analyzed, is the only viable indicator of
+media's effect. Here, television data would provide a direct support for the original
+prediction.
+
+49
+
+Evolution and ADHD
+HONORS THESIS IN BIOLOGICAL ANTHROPOLOGY
+
+Erik Malmgren-Samuel
+graduating in May, 2006
+
+I hope to emphasize the importance of an evolutionary perspective when
+investigating mental disorder in general. Such a viewpoint directly addresses tbe
+importance of our changing environment for mental health, as our evolved
+cognitions are increasingly encountering novel environmental pressures for which
+we were not designed.
+Platform for future research directions
+Thought there are many areas available for investigation into ADHD and the
+environment, I will outline the directions that I plan to take regarding the development of
+an evolutionary model of ADHD. There are a variety of research directions that will help
+clarify both the genetic contribution of the DRD4 gene to ADHD and the environmental
+factors at play in the etiology of the disorder, regardless of genotype.
+I will discuss the issues and questions surrounding future research of two issues:
+1) the DRD4's evolutionary history and its contribution to a predisposition for ADHD,
+and 2) the current environmental factors at play with the pathogenesis of ADHD,
+proposing various cognitive subgroups of ADHD, one of which is that of the DRD4. I
+hope to place the results of this statistical analysis, in the context of this research, into the
+development of a dynamic evolutionary model, and outline the implications of this model
+for a better understanding of ADHD as a disorder.
+Background: past selection of the DRD4 gene
+Worldwide frequency studies of the DRD4 alleles have shown great variation
+between populations in the frequency of the alleles. In every population, the 4-repeat
+allele is the most common, and can be considered the normal variant of the gene. Though
+most of the other alleles are relatively rare, two variants show clear signs of positive
+
+50
+
+Evolution and ADHD
+HONORS THESIS IN BIOLOGICAL ANTHROPOLOGY
+
+Erik Malmgren-Samuel
+graduating in May, 2006
+
+selection: the 7-repeat (7R) allele and the 2-repeat (2R) allele (Ding et al., 2002). Both
+these variants are found to be maintained at rates above the mutation rate, indicating that
+there must have been an adaptive benefit to these genes. Because dopaminergic functions
+clearly affect behavior and cognition, we can assume that these low-frequency alleles are
+coding for an adaptive phenotype that is behavioral because of doparnine's cognitive
+effects. This evidence poses the question: For what adaptive behavior or behaviors are
+these alleles responsible?
+To answer this question we must piece together the evidence regarding the
+selection of these alleles with knowledge of the alleles' contribution to behavior.
+Worldwide frequencies of the various DRD4 alleles in ethnic populations have been
+documented. Most focus has been on the 7-repeat allele because it is both the second
+most prevalent allele (after the common 4-repeat allele), and it is known to have certain
+behavioral associations, such as with ADHD and novelty seeking. The 7R frequencies
+range from 0% to over 50% of the population (Chang et al, 1996). This is clear evidence
+of positive selection. Two hypotheses have been suggested to explain the variation.
+Chen et al. (1999) have proposed that the 7R behavior helped those in migratory
+enviromnents. This hypothesis attributes the frequency variation to worldwide
+population spread. This hypothesis seems to fit with a model in which the gene codes for
+an attentional cognition defined by a scanning, "multitasking" quality because such a
+cognition could easily be seen as adaptive in an environment that consistently presents
+high-pressure, high-stimuli situations (without the cultural demand for selective focus.)
+However, this hypothesis does not seem to account for frequency-dependent selection.
+Though the 7-repeat allele was not necessarily selected in a frequency-dependent fashion,
+
+51
+
+Evolution and ADHD
+HONORS THESIS IN BIOLOGICAL ANTHROPOLOGY
+
+Erik Malmgren-Samuel
+graduating in May, 2006
+
+the consistently low frequencies imply that there should be some enviromnental or social
+factor restricting the highest frequency that can be maintained in a population
+Harpending et al. (2002) suggest an alternative hypothesis that attributes the
+variation in 7R frequencies to the adaptive benefit of 7R behavior in Cad societies. In
+these societies, which Harpending refers to as "local anarchy societies," there is a high
+degree of male-to-male competition, loose familial ties and competition among siblings
+due to a level of uncertainty as to paternity. Though this hypothesis is appealing because
+it accounts for a frequency-dependent selection model, it more speculative than
+theoretically sound. First, there is no clear connection to ADHD symptomology and
+clinical or cognitive evidence; rather there is just intuition regarding ADHD personality
+traits. Second, though he supports his speculation with evidence regarding the frequency
+distribution among ethnic populations, his theory falls apart if the 2-repeat allele is
+considered to have a similar contribution to ADHD.
+I suggest that both hypotheses are incomplete, and that neither explanation is
+specific enough to account for the attentional cognitive features that the 7R allele
+contributes to behavior, and that now contributes to the development of ADHD. Both
+hypotheses may give a clue to the greater picture, but a full explanation requires a greater
+understanding of the exact cognitive contributions of the gene. Furthermore, there is
+evidence that the 2-repeat allele may contribute to attentional cognition in a similar
+manner (Leung et al., 2004). Not only does this undermine previous frequency analyses
+among populations, such as Harpending' s, but because these two alleles may occupy the
+same selective niche, future research may need to take 2-repeat frequencies into account.
+The most important consideration in the development of a model for past selection is the
+
+52
+
+Evolution and ADHD
+HONORS THESIS IN BIOLOGICAL ANTHROPOLOGY
+
+Erik Malmgren-Samuel
+graduating in May, 2006
+
+broad range of behaviors that are affected by dopamine function. It is very possible that a
+single model of selection cannot be applied to all populations, as the cognitive
+contributions of the gene should manifest as modifications to a range of behaviors.
+Thus, despite clear evidence of positive selection, there may be a large variety of
+behavioral niches that define this selection history, and only a better understanding of
+attention and genetics will allow fruitful investigation into this area.
+Data mining analysis
+To address the question of what pressures selected for the 7-repeat and 2-repeat
+alleles of the DRD4 gene, I will perform data mining in an attempt to identify cultural
+patterns consistent with the available frequency data in ethnic populations. I will employ
+cultural anthropological databases. This method is valid because the allele frequencies
+appear to be the result of relatively recent selection. If possible, I would also like to
+correlate frequency data with media or other proxies for stimuli across regions. This is
+difficult because the available genetic frequency data is specific to ethnic populations,
+whereas the media data are for countries/regions without respect to ethnic divisions.
+Another proxy for stimuli may be necessary.
+Media survey
+Addressing the initial question of whether media can illustrate an environmental
+interaction with genes that results in ADHD, I have designed a survey on media usage to
+test whether there is any difference at all between ADHD and controls. Though this
+survey does not adequately address a causal relationship, it does help answer the question
+as to whether ADHD individuals interact with media differently. It will also help clarify
+whether there a distinction should be made between interactive and non-interactive
+
+53
+
+Evolution and ADHD
+HONORS THESIS IN BIOLOGICAL ANTHROPOLOGY
+
+Erik Malmgren-Samuel
+graduating in May, 2006
+
+media. It is important to better research the types of stimuli that effect different types
+
+ADHD individuals.
+Attention experiments with genotyping
+I am also planning a series of attention experiments with genotyping to investigate
+the specific contributions of the 7-repeat allele to cognition. This information is essential
+to an understanding of the genes interaction with the environment, and thus crucial in the
+development of a comprehensive evolutionary model. Specifically, I will perform
+experiments designed to gauge the number of stimuli that an individual can attend to
+simultaneously. I will also introduce a temporal component with distractors to determine
+whether how this cognition holds or is disintegrated by intrusive stimuli. I believe that
+those with the allele will attend to more stimuli better than controls, but that they may be
+affected by any introduced distractors because their attention will quickly shift away from
+the initial load of multiple stimuli. This too will help better our understanding of the
+specific stimuli/cognition interactions effecting different types of ADHD individuals.
+
+54
+
+Evolution and ADHD
+HONORS THESIS IN BIOLOGICAL ANTHROPOLOGY
+
+Erik Malmgren-Samuel
+graduating in May, 2006
+
+Rogers, G. et al. (2003) Association of a duplicated repeat polymorphism in the 5 ' untranslated region of the DRD4 gene with novelty seeking. American Journal of
+Medical Genetics, 126(B), 95-98.
+Rizzo, A et al. (2000) The virtual classroom: a virtual reality environment for the
+assessment and rehabilitation of Attention Deficits. Cyber Psychology & Behavior, 3,
+483-499.
+Sagvolden, T., Johansen, E., Aese, H. and Russell, V. (2004) A dynamic developmental
+theory of Attention-Deficit/ Hyperactivity Disorder (ADHD) predominantly
+hyperactive/impulsive and combined subtypes. Behavioral and Brain Sciences (in press).
+Swanson, J. et al. (2000) Attention-deficit/hyperactivity disorder children with a 7-repeat
+allele of the dopamine receptor D4 gene have extreme behavior but normal performance
+on critical neuropsychological tests of attention. Proc. Natl. Acad. Sci., 97, 4754-4759.
+Swanson, J. et al. (2000) Dopamine genes and ADHD. Neuroscience and Behavioral
+Reviews, 24, 21-25.
+Tannock, R. (1998) Attention deficit hyperactivity disorder: Advances in cognitive,
+neurobiological, and genetic research. J. Child Psycho!. Psychiat., 39(1), 65-99.
+
+56
+
+Evolution and ADHD
+HONORS THESIS IN BIOLOGICAL ANTHROPOLOGY
+
+Erik Malmgren-Samuel
+graduating in May, 2006
+
+APPENDIX: STATISTICS
+(FOR ORIGINAL RAW DATA SET, CONSULT FILE "ADHDstat")
+Descriptives Of Log-transformed Media Variables per capita and GDP per capita
+Gross Domestic Product
+Mean
+Std Dev
+Std Err Mean
+upper 95% Mean
+lower 95% Mean
+N
+
+4.0554341
+0.5519265
+0.1234145
+4.3137437
+3.7971246
+20
+
+Cable TV Subscribers
+Mean
+Std Dev
+Std Err Mean
+upper 95% Mean
+lower 95% Mean
+
+N
+
+-1.371744
+0.7713262
+0.2061456
+-0.926393
+-1.817094
+14
+
+Home Satellite Antennas
+Mean
+Std Dev
+Std Err Mean
+upper 95% Mean
+
+lower 95% Mean
+N
+
+-2.021599
+0.6844153
+0.2666612
+-1.42744
+-2.615757
+11
+
+Internet Hosts
+Mean
+Std Dev
+
+Std Err Mean
+upper 95% Mean
+lower 95% Mean
+N
+
+-2.615096
+1.0920208
+0.2505268
+-2.066759
+-3.141434
+19
+
+Internet Users
+Mean
+Std Dev
+Std Err Mean
+upper 95% Mean
+lower 95% Mean
+N
+
+-1.801523
+0.9004105
+0.2065683
+-1.367539
+-2.235507
+19
+
+ISDN Channels
+Mean
+Std Dev
+Std Err Mean
+upper 95% Mean
+
+lower 95% Mean
+N
+
+-2.355533
+1.0906735
+0.3636245
+-1.517014
+-3.194053
+9
+
+57
+
+Evolution and ADHD
+HONORS THESIS IN BIOLOGICAL ANTHROPOLOGY
+
+Erik Malmgren-Samuel
+graduating in May, 2006
+
+Mobile Communications Revenue
+Mean
+Std Dev
+Std Err Mean
+upper 95% Mean
+lower 95% Mean
+N
+
+-2.140084
+1.0359207
+0.2990445
+-1.481891
+-2.798276
+12
+
+ISDN Subscribers
+Mean
+Std Dev
+Std Err Mean
+upper 95% Mean
+lower 95% Mean
+N
+
+-1.818252
+1.904577
+0.549804
+-0.608142
+-3.028363
+12
+
+Personal Computers
+Mean
+Std Dev
+Std Err Mean
+upper 95% Mean
+lower 95% Mean
+N
+
+-0.727734
+0.6913947
+0.1586168
+-0.394492
+-1.060975
+19
+
+Telecommunications Equipment Export
+Mean
+Std Dev
+Std Err Mean
+upper 95% Mean
+lower 95% Mean
+N
+
+1.4201799
+0.9492915
+0.2373229
+1.9260217
+0.9143382
+16
+
+TV Equipped Households
+Mean
+Std Dev
+Std Err Mean
+upper 95% Mean
+lower 95% Mean
+N
+
+-0.57615
+0.27 40791
+0.0628781
+-0.444048
+-0.708252
+19
+
+Televisions
+Mean
+
+Std Dev
+Std Err Mean
+upper 95% Mean
+lower 95% Mean
+N
+
+58
+
+-0.394972
+0.3000784
+0.0670996
+-0.254531
+-0.535413
+20
+
+Evolution and ADHD
+HONORS THESIS IN BIOLOGICAL ANTHROPOLOGY
+
+Erik Malmgren-Samuel
+graduating in May, 2006
+
+means within and between studies
+Pprev Tprev SBprev PSprev SMprev Flprev
+
+2.4
+
+9.9
+
+8.8
+7.5
+
+15.8
+4.7
+
+5.7
+
+16.1
+
+59
+
+Erik Malmgren-Samuel
+graduating in May, 2006
+
+Evolution and ADHD
+HONORS THESIS IN BIOLOGICAL ANTHROPOLOGY
+
+DSM-ID-R: ADHD Prevalence data and sources, including weighted means within
+and between studies
+Pprev Tprev SBprev PSprev SMprev Flpr
+5
+8.9
+3.3
+0.6
+6.6
+10.9
+3.9
+3.9
+7.7
+1.3
+1.8
+2.8
+3
+
+14.4
+5.3
+3
+
+7.08332
+4
+
+9.9
+
+1992
+1993
+
+.
+
+1995.
+1995
+1995 ·
+
+11
+
+26
+
+. . . ...... .
+4.5
+
+Shaffer
+
+V\/otra,cti ···
+
+*original studies reported by Faraone et al. (2003)
+
+60
+
+2.2
+
+Evolution and ADHD
+HONORS THESIS IN BIOLOGICAL ANTHROPOLOGY
+
+Erik Malmgren-Samuel
+graduating in May, 2006
+
+DSM-ID: ADHD Prevalence data and sources, including weighted means within and
+between studies
+PTprev Pprev Tprev SBprev PSprev SMprev Flprev
+
+·... 4982. ... King
+.
+1994
+Newborn
+
+8
+12
+
+*original studies reported by Faraone et al (2003)
+
+61
+
+18
+4
+
+2
+
+Evolution and ADHD
+HONORS THESIS IN BIOLOGICAL ANTHROPOLOGY
+
+Erik Malmgren-Samuel
+graduating in May, 2006
+
+Ongoing Research Efforts
+ADHD and the Media Survey
+This study is an extension of the research that began with the second article in this
+thesis, "Attention-Deficit/Hyperactivity Disorder (ADHD) and the Media - An
+Evolutionary Perspective," and is driven by the hypothesis that exposure to media may be
+an important aspect of the mental environment that predisposes one to the development
+of ADHD. Despite the mixed results of the previous article, this questionnaire task
+would be a more direct way to correlate media use and ADHD prevalence, a finding that
+is supported by other research. This questionnaire task has been approved by the
+Institutional Review Board of the University of Pennsylvania for the next two years, and
+will be implemented in an online format within that duration. The content of the survey
+is as follows:
+
+Questionnaire for ADHD AND THE MEDIA STIJDY
+1) How many hours of TV do you watch a day
+
+2) How often do you switch channels?
+Never < I 2 3 4 5 6 7 > always
+3) Do you usually watch a show from beginning to end?
+Never< I 2 3 4 5 6 ?>always
+4) How much time do you usually spend watching TV in one sitting?
+
+5) How many channels do you have available?
+7) Please list the top three channels you watch most regolarly and indicate the percentage
+of time that you estimate you watch to each one.
+1-
+
+23-
+
+8) Do you usually watch TV while you do schoolwork?
+Never< l 2 3 4 5 6 7 > Frequently
+
+62
+
+Evolution and ADHD
+HONORS THESIS IN BIOLOGICAL ANTHROPOLOGY
+
+Erik Malmgren-Samuel
+graduating in May, 2006
+
+How much do you feel you have trouble doing multiple activities at once?
+How much do you like doing multiple activities at once.
+26) Do you have Attention-Deficit Hyperactivity Disorder (ADHD)?
+YIN
+•
+•
+•
+•
+
+Please list the top three careers that appeal to you
+What is your sex
+What is your race
+How old are you
+
+64
+
+Evolution and ADHD
+HONORS THESIS IN BIOLOGICAL ANTHROPOLOGY
+
+Erik Malmgren-Samuel
+graduating in May, 2006
+
+The Attentional Cognition of ADHD Subjects and the DRD4 Gene
+Overview and Fnnding
+This is a very large project that involves multiple experimenters and facilities, and
+is expected to be complete within 2 years. Part of the project is funded by the prestigious
+undergraduate Nassau research grant, part of it is funded by the ADHD Research and
+Treatment Program in the Department of Psychiatry at the University of Pennsylvania,
+and part of it is funded by the Laboratory of Molecular Anthropology in the Department
+of Biology at the University of Pennsylvania. The goal is twofold: 1) To administer a
+battery of working memory and attention tasks to ADHD subjects from all three accepted
+diagnostic subgroups and one subgroup that is currently being defined. In addition to
+across-group analysis for all ADHD subjects, between group analysis will reveal whether
+specific attentional profiles correlate to distinct subgroups. 2) To then genotype all
+subjects who give consent to reveal whether specific attentional profiles correlate with
+diagnostic subgroups and/or genotypes (specifically the 2-repeat and the 7-repeat alleles
+of the DRD4 dopamine receptor gene).
+
+Experimenters
+Two IRB approved protocols - one for the behavioral testing of an ADHD
+clinical population and a separate one for the genotyping of those subjects - are guiding
+this study. The Principal Investigator for the administration of the behavioral tasks to
+ADHD subjects is Dr. Anthony Rostain, Director of the ADHD Treatment and Research
+Program (ADHD-TRP) at the University of Pennsylvania. The Principal Investigator of
+the genotyping is Dr. Theodore Schurr of the Department of Anthropology at the
+University of Pennsylvania. Supporting investigators are Dr. Russell Ramsay of the
+
+65
+
+Evolution and ADHD
+HONORS THESIS IN BIOLOGICAL ANTHROPOLOGY
+
+Erik Malmgren-Samuel
+graduating in May, 2006
+
+ADHD Research and Treatment Program, Amishi P. Jha of the Center for Cognitive
+Neuroscience in the Department of Psychology at the University of Pennsylvania, and
+myself, Erik Malmgren-Samuel, undergraduate in Biological Anthropology,
+Communications and Psychology at the University of Pennsylvania.
+
+Method
+The study will consist of two phases, corresponding to the two protocol:
+behavioral testing and genotyping.
+Phase 1:
+The ADHD-TRP will recruit ADHD subjects through their clinic, and run them
+through a battery of diagnostic tasks, designed to rule out false positives, and to assign
+each subjects to one of four behavioral subgroups (the three DSM-IV-TR subgroups:
+Hyperactive, Inattentive, and Combined; and an experimental subgroup specific to the
+ADHD-TRP, called "disorganized"). Once informed consent is approved, subjects will
+be run through a battery of various working-memory and attention behavioral tasks,
+administered with a computer. Exhaustive statistical analyses will be performed to reveal
+any correlations between indices of working memory/attention and the diagnostic
+subgroups.
+Phase 2:
+Over the course of the behavioral testing, self-administered cheek swabs will be
+obtained from all subjects who give their informed consent. These samples will be
+preserved until all samples are collect. The samples will then be genotyped by Dr. Schurr
+of the Laboratory of Molecular Anthropology for the presence of either the 2-repeat
+and/or the 7-repeat alleles of the DRD4 dopamine receptor gene. Statistical analysis will
+
+66
+
+Evolution and ADHD
+HONORS THESIS IN BIOLOGICAL ANTHROPOLOGY
+
+Erik Malmgren-Samuel
+graduating in May, 2006
+
+then be performed to reveal any significant relationships with the analysis from Phase 1,
+correlating genotypes with diagnostic subgroups and their performance profiles from the
+attention and working memory tasks.
+
+67
+
+Evolution and ADHD
+HONORS THESIS IN BIOLOGICAL ANTHROPOLOGY
+
+Erik Malmgren-Samuel
+graduating in May, 2006
+
+The Role of ADHD-like Symptoms in Serial Order and Novelty in
+Working Memory and Attention (working paper- still in analysis stage)
+Overview
+This experiment, conducted over the course of the 2005-2006 academic year, was
+performed on normal subjects, and consisted of a simple delayed-recognition working
+memory task that was designed to probe the intersection between two theoretical
+concepts: 1) that of serial order recognition, and 2) that of attentional capture. To serve
+as a proxy for ADHD, subjects took the Conners' Adult ADHD Rating Scale (CAARS),
+which was then correlated with various indices of task performance, to see if - in the
+general population - the continuum of ADHD-like cognition can show distinct
+directionality with these specific attentional tasks. Preliminary results indicate that there
+are significant correlations between task measures and CAARS scores for both serial
+order effects and capture effects. As the paper is a working manuscript, below is
+presented only the raw Methods and Results with appropriate figures and tables. The
+manuscript will be completed and submitted for publication within the end of the year
+(2006).
+MATERIALS AND METHODS
+Subjects
+45 University of Pennsylvania undergraduates were recruited as participants,
+using the Experimetrix online scheduling system. Students participated for partial
+fulfillment of credit in introductory psychology courses. Informed consent was obtained
+from all participants, in accordance with the protocol, which was approved by the
+University of Pennsylvania's Institutional Review Board. One participant's data was
+
+68
+
+Evolution and ADHD
+HONORS THESIS IN BIOLOGICAL ANTHROPOLOGY
+
+Erik Malmgren-Samuel
+graduating in May, 2006
+
+excluded from analysis due to significantly slower response times from the rest of the
+subjects, leaving 44 participants. (n=44). 25 participants were female and 19 were male.
+Participants ranged in age from 17 to 22 years, with a mean age of 18.77. The only
+exclusion criterion was that the participants could not have a diagnosis of Attention
+Deficit Hyperactivity Disorder (ADHD).
+Experimental Task
+
+This experiment consists of a novel working memory task design, created with E-Prime
+software, using a delayed-response design in which all stimuli were visual, all responses
+were either left or right index finger button presses, and in which stimulus duration and
+timing were identical. Subjects had to remember a sequence ofletters. Subjects were
+presented with a cue image (hereafter referred to as CUE), followed by three memory
+items (pairs ofletters) in sequence (hereafter referred to as Sla, Slb, Slc), and finally a
+test image of three letters (hereafter referred to as S2), in which the subjects had to
+indicate whether the three letters of the test image matched the cued sequence ofletters
+from the memory items by pressing either a button for match or another for non-match.
+Two manipulations were introduced: 1) the absence or presence of information in the
+CUE image - "Sequence" or "No Sequence", and 2) the absence or presence of novel
+colors in selected letters from each S 1 letter pair - "Neutral", "Target Novelty", or
+"Distractor Novelty".
+The S 1 items consisted of three images presented in sequence, with delays after
+each in which no stimulus was presented except for a central fixation cross (a cross in the
+center of the screen to which the subject was instructed to maintain his attention.) Each
+SI image was either a pair ofletters in the "Sequence" conditions, or a pair of one letter
+
+69
+
+Evolution and ADHD
+HONORS THESIS IN BIOLOGICAL ANTHROPOLOGY
+
+Erik Malmgren-Samuel
+graduating in May, 2006
+
+and one ampersand in the "No Sequence" conditions. These pairs were arranged to the
+left and the right of another central fixation cross.
+The CUE image consisted of three pairs of circles, each surrounding a cross ( one
+to the left and one to the right of the cross.) These pairs were stacked, and corresponded
+(from top to bottom) to each of the three following Sl images in sequence (from the first
+to the third). There were two types of cue images. In the "No Sequence" trials, the cue
+circles were empty. In "No Sequence" trials, subjects had to remember the "Target"
+letters presented, ignoring the ampersands, and respond as to whether the S2 test image
+contained the three "Target" letters in the appropriate order. In the "Sequence"
+conditions, one circle in each pair of the CUE was filled in with an asterisk. Depending
+on which side an asterisk appeared, it indicated to the subject which letter (either the left
+or the right) of each S 1 letter pair is the "Target" letter that he should attend to and
+remember. The subject must therefore ignore the other "Distractor" letter. Just as in the
+"No Sequence" conditions, the subject then had to respond as to whether the three letters
+in the S2 image were the "Target'' letters in the correct order (left to right).
+The novelty manipulation consisted of introducing randomized novel colors into
+either the "Target'' letters or the "Distractor" letters or ampersands. When no color was
+introduced, the trial was considered a "Neutral" trial, and all S 1 letters were black. To
+amplify the effect of color novelty, task-irrelevant black crosses appeared above and
+below all S 1 images.
+In each trial, the CUE was presented for 1500 ms, followed by a delay (D 1)
+consisting of a fixation cross located centrally in the screen for a randomized variable
+duration of 500 to 1000 ms. S la was then presented for 1000 ms, followed by another
+
+70
+
+Evolution and ADHD
+HONORS THESIS IN BIOLOGICAL ANTHROPOLOGY
+
+Erik Malmgren-Samuel
+graduating in May, 2006
+
+variable-duration delay (D2) of500-1000 ms. Sib and Sic were also 1000 ms, and the
+following delays (D3 and D4) were also variable between 500 and 1000 ms. S2 was
+presented for 1500 ms (see Figure IA and Figure lB). An inter-trial interval (ITI) of
+variable duration (2000-3000ms) was presented at the end of each trial and consisted only
+of the same centrally located cross as in the earlier delays.
+- - - - - - - - - - i n s e r t Figures IA and lB about h e r e - - - - - - - - The experiment consisted of 5 runs, each with 48 trials. The sequence and the
+novelty manipulations comprised a 2X3 design with 6 trial types that were equally
+represented and randomly presented across the 5 runs.
+Subjects were seated in a closed room, with dim lights, positioned 57.3 cm from
+the monitor. They were instructed to keep one finger on each of the two buttons
+indicated for "match" and "non-match".
+Accuracy and response time (RT) were recorded.
+
+The Conners' Adult ADHD Rating Scale (CAARS)
+The CAARS questionnaire was administered to all subjects following the
+behavioral task. The thirty-item instrument used was the self-report screening version of
+the CAARS. The CAAARS measures indices of ADHD-like behavioral measures. Two
+of the CAARS subscales (subscales A and B) measure the degree to which an individual
+possesses ADHD-like behaviors for both of the two major symptom clusters of ADHD
+(inattention and hyperactivity, respectively) used by the Diagnostic and Statistical
+Manual IV-TR (DSM-IV-TR). The third subscale (C) measures the combination of
+subscales A and B. The fourth subscale (D) measures the "ADHD Index", an index used
+to by clinicians to help determine whether an individual warrants a diagnosis of ADHD.
+
+71
+
+Evolution and ADHD
+HONORS THESIS IN BIOLOGICAL ANTHROPOLOGY
+
+Erik Malmgren-Samuel
+graduating in May, 2006
+
+Data analysis
+Mean accuracy (percent correct) was computed, though no further accuracy
+analyses were computed due to near perfect accuracy. Response times (RTs) measures
+from all subjects were entered into repeated measures analysis of variance (ANO VA)
+tests to determine the influence of experimental condition. Paired sample T-tests were
+calculated to compare means between Sequence conditions, both within each Novelty
+condition and when Novelty conditions were collapsed. Paired sample T-tests were
+calculated to compare means between Novelty conditions, both within each Sequence
+condition and when Sequence conditions were collapsed. Difference scores were
+calculated to compare conditions within both manipulations, both when conditions of
+either manipulation were collapsed, and within each condition.
+CAARS scores were transformed into Profile Scores to normalize for age and sex.
+These profile scores were then correlated with RT difference scores.
+
+RESULTS
+Behavioral Results
+One subject was excluded due to significantly slower response times, leaving N
+
+=
+
+44 subjects. Response times (RTs) and accuracy were recorded; however, because
+accuracy was near perfect (mean= .98), all analyses were performed for RTs only. To
+investigate main effects of our two independent variables, a two-way ANOVA was run
+with 2 factors: Sequence (2 levels: Sequence and No Sequence) and Novelty (3 levels:
+Distractor, Neutral and Target). The results of this ANOVA revealed a significant main
+effect of Sequence [F(l,43) = 12.645, p < .001], no main effect ofNovelty [F(2,42) =
+
+72
+
+Evolution and ADHD
+HONORS THESIS IN BIOLOGICAL ANTHROPOLOGY
+
+Erik Malmgren-Samuel
+graduating in May, 2006
+
+.014, p < .99], and a significant interaction effect between Sequence and Novelty [F(2,42)
+= 7.774, p < .001].
+Paired sample T-tests of raw RTs revealed a significant difference between
+Sequence (mean= 676ms) and No Sequence (mean= 69lms) [T(l,43) = -.3556, p <
+.001], when Novelty was collapsed (see Figure 2). This trend continued when Sequence
+means were compared within the Distractor Novelty and the Neutral Novelty conditions,
+but not for the Target Novelty condition. There was no significant difference between
+Distractor Novelty and Target Novelty when the Sequence condition was collapsed;
+however, in the No Sequence condition, there was a significant difference between
+Distractor Novelty (mean= 698ms) and Target Novelty (mean= 682ms), [T(l,43) =
+2. 71, p < .01] (see Figure 3). In the Sequence condition, there was a significant
+difference between Distractor Novelty (mean= 668ms) and Target Novelty (mean=
+685ms), [T(l,43) = -2.264, p < .05] (see Figure 3-altemate).
+- - - - - - - - - - i n s e r t Figure 2 about h e r · e - - - - - - - - - - - - - - - - - - - - - i n s e r t Figure 3 AND 4 about h e r e - - - - - -
+
+CAARS Correlations
+When Novelty was collapsed, the Sequence difference score correlated with
+CAARS profile scores for subscales A, B and C. Within Distractor Novelty, the
+Sequence difference score correlated with subscales A and C. Within Neutral Novelty,
+the Sequence difference did not correlate with the CAARS. Within Target Novelty, the
+Sequence difference score correlated with subscales B and C.
+When Sequence was collapsed, the Novelty difference score correlated with
+CAARS profile scores for subscale B. Within the Sequence condition, the Novelty
+
+73
+
+Evolution and ADHD
+HONORS THESIS IN BIOLOGICAL ANTHROPOLOGY
+
+Erik Malmgren-Samuel
+graduating in May, 2006
+
+difference score correlated with CAARS profile scores for subscale B. Within the No
+Sequence condition, the Novelty difference score was not correlated with any CAARS
+profile scores. (see Table 1)
+-----------1insert Table 1 about h e r e - - - - - - - - - - - - - -
+
+TABLE LEGENDS
+Table 1. Correlation (r-values) between difference scores and CAARS subscale profile
+scores. CAARS A and B profile scores were correlated with the Sequence difference
+scores when Novelty was collapsed. CAARS C profile scores were significantly
+correlated with Sequence difference scores when Novelty was collapsed, as well as in the
+Distractor Novelty and Target Novelty conditions, but not in the Neutral Novelty
+condition. CAARS A profile score was correlated with Distractor Novelty, and CAARS
+B profile score was correlated with Target Novelty.
+
+FIGURE LEGENDS
+Figure 1. (A) Depicts design of a No Sequence trial, including the trial timing for all
+stimuli. (B) Depicts design of a Sequence trial, including the trial timing for all stimuli.
+
+Figure 2. Depicts mean RTs for No Sequence and Sequence trials when Novelty was
+collapsed.
+
+Figure 3. Depicts mean RTs for Distractor Novelty and Target Novelty trials in the No
+Sequence condition.
+
+Figure 4. Depicts mean RTs for Distractor Novelty and Target Novelty trials in the
+Sequence condition.
+[FIGURES AND TABLES PRESENTED IN THE FOLLOWING PAGES]
+
+74
+
+Erik Malmgren-Samuel
+graduating in May, 2006
+
+Evolution and ADHD
+HONORS THESIS IN BIOLOGICAL ANTHROPOLOGY
+
+Figure 1 A
+
+No Sequence
+
+l
+
+O+·O
+
+\
+
+z o+o
+
+CUE(1500 ms)
+
+\
+
+a o+o
+
+llstractor
+
+-
+
++
+
+D2 (500-1000ms)
+
+\
++ ---'-__._____ \
+
+++++
+&+ p-
+
+Target Letier
+
+S1b{1000ms)
+
++
+
+D3{500-1000ms}
+
++ +++
+
+~c{1000ms)
+
+L ,:t....0<__1._.,
++
+
+'\
+
+-
+
+D4 (500-100Dms)
+
+.-'---'-~
+
+\
+
+u~,_,1,_-()-K~l-52 Test Image
+(1500 ms)
+
+No Sequence Trial
+
+~
+
+FIGURE la
+Figure 1 B
+
+Sequence
+
+1 \ «>+O \ '\
+
+I2: j -0 +-@
+
+j- CUE{1500 ms)
+
+L~T
+
+1
+
+\
+-
+
+D1 (500-1000ms)
+
+\
+-
+
+Target Letter
+llistractor Letter
+
+D2{500-1000ms)
+
+: ++ +
+P+K
+
+~b{1000ms)
+
+\
+
++
+
+-
+
+03 {500-1000ms)
+
+++++
+M +J
++
+
+\
+
+-S1c(1000ms)
+
+'\
+
+-
+
++
+
+D4 {500-1000ms)
+
+\
+
+LJ~--~J-S2 Test Image
+M Q
+
+K
+
+{1500 ms)
+
+~
+
+Sequence Trial
+FIGURE lb
+
+75
+
+Evolution and ADHD
+HONORS THESIS IN BIOLOGICAL ANTHROPOLOGY
+
+Erik Malmgren-Samuel
+graduating in May, 2006
+Figure 2
+
+P<.001
+
+705
+700
+., 695
+.,s 690
+
+Mean =691
+
+Mean =676
+
+" 685
+E
+i= 680
+
+m 675
+.,&. 670
+
+l
+
+665
+660
+655
+650
+
+===-------~~<-----L_-~
+
+_j___ _ _ _
+
+No Sequence Cue
+
+Sequence Cue
+
+Malmgren-Samuel & Jha
+
+FIGURE2
+Figure 3
+
+P<.01
+
+730
+'ji,
+
+E
+
+Mean =698
+
+720
+
+Mean =682
+
+.,
+
+E 710
+
+i=
+
+.,"
+.,8.
+C
+
+&!
+
+700
+690
+680
+670
+Distractor Novelty
+
+Target Novelty
+
+Malmgren-Samuel & Jha
+
+FIGURE3
+
+76
+
+Erik Malmgren-Samuel
+graduating in May, 2006
+
+Evolution and ADHD
+HONORS THESIS IN BIOLOGICAL ANTHROPOLOGY
+
+Figure 4
+
+P<.05
+
+700
+
+Me111=685
+
+T
+
+690
+Mean =668
+
+680
+670
+660
+650
+640
+
+Target Novelty
+
+Distractor Novelty
+Malmgren-Sanuel & Jha
+
+FIGURE4
+
+Table 1
+
+A
+
+Difference Score
+
+Condition
+
+Sequence - No Sequence
+
+Collapsed Novelty
+Distract Novelty
+
+-.386"
+__ 354•
+
+Neutral Novelty
+
+-.136
+-.230
+
+Target Novelty
+
+Distract - Target
+
+Collapsed Sequence
+Sequence
+No Sequence
+
+.047
+.089
+-.028
+
+CAARS Profile Scores
+C
+8
+-.304*
+
+-.404-
+
+-.157
+-.112
+
+-.326*
+
+-.325*
+
+-.336*
+-.306"
+
+-.165
+
+-.161
+-.303..
+
+-.018
+.049
+-.013
+-.069
+
+-.106
+-.063
+-.091
+
+.017
+-.043
+.074
+
+* indicates a significance of p < .05
+"'* indicates a significance of p < .01
+
+Malmgren-Samuel & Jha
+
+TABLE 1
+
+77
+
+D
+
+Evolution and ADHD
+HONORS THESIS IN BIOLOGICAL ANTHROPOLOGY
+
+Erik Malmgren-Samuel
+graduating in May, 2006
+
+General Discussion
+In the present thesis I have attempted to demonstrate that an evolutionary vantage
+can be used to better understand the etiology mental disorders by guiding the
+development of research questions, regardless of what methodologies are used and
+regardless of under what discipline the research is operating. Methods that have been
+used and/or are being used currently are meta-analysis, review discussion,
+attention/working memory attention behavioral tasks and genotyping. Disciplines in
+which these investigations have been or are being conducted are Psychology, Biological
+and Molecular Anthropology, Neuropsychology and Psychiatry.
+The sum of the research presented in this thesis provides a genuine example of
+interdisciplinary research, using scientists and methods from different fields. However,
+an overarching emphasis on generating research questions via an evolutionary vantage is
+maintained throughout. Interdisciplinary research is increasingly being employed in the
+sciences, and as the lines between the academic disciplines begin to blur, models of how
+to integrate and how to develop better communication between different fields of thought
+is of critical importance.
+Perhaps the research in the present paper can contribute to the development of
+such a model, specifically for mental disorders with genetic components, such as ADHD.
+Until now, most research into the genetic bases of mental disorders has been restricted to
+identifying candidate genes for disorders. There has been little research into how these
+candidate genes express phenotypes of clinical relevance. Much of this is due to the fact
+that - in most cases - there is no single gene cause for mental disorders. I hope that I
+have demonstrated that a valuable approach for the future of investigations into the
+
+78
+
+Evolution and ADHD
+HONORS THESIS IN BIOLOGICAL ANTHROPOLOGY
+
+Erik Malmgren-Samuel
+graduating in May, 2006
+
+genetic components of mental disorders is to use both an evolutionary approach
+theoretically, and to employ a variety of methods and disciplines to investigate those
+questions.
+
+An evolutionary approach can generate research questions about specific genetic
+contributions to mental disorders by asking placing candidate genes in the context of
+predispositions that arise because once adaptive mental processes are now encountering a
+novel mental environment in which the phenotype has become maladaptive. From this
+vantage, we can not only hope to better understand the etiology of disorders, but to also
+develop clinical treatments based on the concept that those who are genetically
+predisposed to developing a complex mental disorder can avoid such an outcome if
+proper mechanisms are employed to cope with the mental environment during
+development. Similarly, those with the disorders already can develop behavioral and
+cognitive coping mechanisms to deal with mental disorder in everyday life.
+
+79
+
+
